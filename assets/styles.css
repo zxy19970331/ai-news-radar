@@ -629,9 +629,25 @@ summary:focus-visible {
   color: var(--warn);
 }
 
+.category.kind-ai_vertical {
+  border-color: rgba(18, 106, 115, 0.32);
+  color: var(--accent);
+}
+
 .category.kind-builders {
   border-color: rgba(181, 82, 49, 0.36);
   color: var(--accent-warm);
+}
+
+.category.kind-user_opml,
+.category.kind-advanced {
+  border-color: rgba(154, 103, 0, 0.34);
+  color: var(--warn);
+}
+
+.category.kind-discussion {
+  color: var(--muted);
+  background: #f2f0e9;
 }
 
 .category.kind-aggregate,

@@ -45,19 +45,21 @@ const waytoagi7dBtnEl = document.getElementById("waytoagi7dBtn");
 const coverageStripEl = document.getElementById("coverageStrip");
 
 const SOURCE_KINDS = {
-  official_ai: { label: "官方", tone: "official" },
-  aibreakfast: { label: "日报", tone: "newsletter" },
-  followbuilders: { label: "Builders/X", tone: "builders" },
-  xapi: { label: "X API", tone: "builders" },
-  techurls: { label: "聚合", tone: "aggregate" },
-  buzzing: { label: "聚合", tone: "aggregate" },
-  iris: { label: "聚合", tone: "aggregate" },
-  bestblogs: { label: "博客", tone: "blogs" },
-  tophub: { label: "聚合", tone: "aggregate" },
-  zeli: { label: "聚合", tone: "aggregate" },
-  aihubtoday: { label: "AI站点", tone: "aihub" },
-  aibase: { label: "AI站点", tone: "aihub" },
-  newsnow: { label: "聚合", tone: "aggregate" },
+  official_ai: { label: "官方一手源", tone: "official", rank: 0 },
+  aibreakfast: { label: "AI垂直源", tone: "ai_vertical", rank: 1 },
+  aihubtoday: { label: "AI垂直源", tone: "ai_vertical", rank: 1 },
+  aibase: { label: "AI垂直源", tone: "ai_vertical", rank: 1 },
+  aihot: { label: "AI垂直源", tone: "ai_vertical", rank: 1 },
+  bestblogs: { label: "AI垂直源", tone: "ai_vertical", rank: 1 },
+  followbuilders: { label: "Builders/X源", tone: "builders", rank: 2 },
+  opmlrss: { label: "RSS/OPML", tone: "user_opml", rank: 3 },
+  xapi: { label: "高级源", tone: "advanced", rank: 4 },
+  techurls: { label: "热议参考", tone: "discussion", rank: 5 },
+  buzzing: { label: "热议参考", tone: "discussion", rank: 5 },
+  iris: { label: "热议参考", tone: "discussion", rank: 5 },
+  tophub: { label: "热议参考", tone: "discussion", rank: 5 },
+  zeli: { label: "热议参考", tone: "discussion", rank: 5 },
+  newsnow: { label: "热议参考", tone: "discussion", rank: 5 },
 };
 
 function fmtNumber(n) {
@@ -103,8 +105,18 @@ function setStats(payload) {
   });
 }
 
-function sourceKind(siteId) {
-  return SOURCE_KINDS[siteId] || { label: "来源", tone: "default" };
+function sourceKind(siteId, item = null) {
+  const fallback = SOURCE_KINDS[siteId] || { label: "来源", tone: "default", rank: 9 };
+  if (!item || !item.source_tier_label) return fallback;
+  return {
+    label: item.source_tier_label,
+    tone: item.source_tier || fallback.tone,
+    rank: Number.isFinite(Number(item.source_tier_rank)) ? Number(item.source_tier_rank) : fallback.rank,
+  };
+}
+
+function sourceRank(siteId, item = null) {
+  return sourceKind(siteId, item).rank ?? 9;
 }
 
 function siteRows() {
@@ -142,8 +154,11 @@ function renderCoverageStrip(errorMessage = "") {
   const allCount = Number(state.sourceStatus?.items_before_topic_filter || state.totalAllMode || state.itemsAll.length || 0);
   const coverageCount = Number(state.sourceStatus?.fetched_raw_items || state.totalRaw || allCount || 0);
   const officialCount = Number(siteRow("official_ai")?.item_count || 0);
-  const newsletterCount = Number(siteRow("aibreakfast")?.item_count || 0);
+  const aiVerticalCount = ["aibreakfast", "aihubtoday", "aibase", "aihot", "bestblogs"]
+    .reduce((sum, siteId) => sum + Number(siteRow(siteId)?.item_count || 0), 0);
   const buildersCount = Number(siteRow("followbuilders")?.item_count || 0);
+  const discussionCount = ["techurls", "buzzing", "iris", "tophub", "zeli", "newsnow"]
+    .reduce((sum, siteId) => sum + Number(siteRow(siteId)?.item_count || 0), 0);
   const totalSites = rows.length;
   const okSites = Number(state.sourceStatus?.successful_sites || 0);
   const opmlValue = rss.enabled ? `${fmtNumber(rss.ok_feeds || 0)}/${fmtNumber(rss.effective_feed_total || 0)}` : "OPML";
@@ -158,8 +173,10 @@ function renderCoverageStrip(errorMessage = "") {
     ["源健康", totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)}` : "加载中", failedSites.length ? `${fmtNumber(failedSites.length)} 个失败源` : (errorMessage || "内置源正常"), failedSites.length ? "warn" : "ok"],
     ["今日覆盖池", `${fmtNumber(coverageCount)} 条`, allCount ? `全网抓取原始信号 · ${fmtNumber(allCount)} 条入池` : "全网抓取原始信号", "signal"],
     ["AI精选", `${fmtNumber(state.totalAi)} 条`, "24小时强相关信号", "signal"],
-    ["官方/日报源池", `${fmtNumber(officialCount + newsletterCount)} 条`, "官方节点 + AI Breakfast", "official"],
-    ["Builders/X源池", `${fmtNumber(buildersCount)} 条`, "Follow Builders公开feed", "builders"],
+    ["官方一手源", `${fmtNumber(officialCount)} 条`, "模型公司/平台官方更新优先", "official"],
+    ["AI垂直源", `${fmtNumber(aiVerticalCount)} 条`, "AI日报、垂直媒体与精选博客", "signal"],
+    ["Builders/X源", `${fmtNumber(buildersCount)} 条`, "Follow Builders公开feed", "builders"],
+    ["热议参考", `${fmtNumber(discussionCount)} 条`, "HN/热榜只作为辅助信号", "aggregate"],
     ["RSS/OPML扩展", opmlValue, opmlMeta, "private"],
     ["高级源", "X / Mail", advancedMeta, "private"],
   ];
@@ -189,13 +206,14 @@ function computeSiteStats(items) {
   const m = new Map();
   items.forEach((item) => {
     if (!m.has(item.site_id)) {
-      m.set(item.site_id, { site_id: item.site_id, site_name: item.site_name, count: 0, raw_count: 0 });
+      m.set(item.site_id, { site_id: item.site_id, site_name: item.site_name, count: 0, raw_count: 0, source_tier_rank: sourceRank(item.site_id, item) });
     }
     const row = m.get(item.site_id);
     row.count += 1;
     row.raw_count += 1;
+    row.source_tier_rank = Math.min(row.source_tier_rank ?? 9, sourceRank(item.site_id, item));
   });
-  return Array.from(m.values()).sort((a, b) => b.count - a.count || a.site_name.localeCompare(b.site_name, "zh-CN"));
+  return Array.from(m.values()).sort((a, b) => (a.source_tier_rank ?? 9) - (b.source_tier_rank ?? 9) || b.count - a.count || a.site_name.localeCompare(b.site_name, "zh-CN"));
 }
 
 function currentSiteStats() {
@@ -281,7 +299,7 @@ function getFilteredItems() {
 function renderItemNode(item) {
   const node = itemTpl.content.firstElementChild.cloneNode(true);
   node.querySelector(".site").textContent = item.site_name;
-  const kind = sourceKind(item.site_id);
+  const kind = sourceKind(item.site_id, item);
   const categoryEl = node.querySelector(".category");
   categoryEl.textContent = kind.label;
   categoryEl.classList.add(`kind-${kind.tone}`);
@@ -361,6 +379,9 @@ function renderGroupedBySiteAndSource(items) {
   });
 
   const sites = Array.from(siteMap.entries()).sort((a, b) => {
+    const aRank = Math.min(...a[1].items.map((item) => sourceRank(item.site_id, item)));
+    const bRank = Math.min(...b[1].items.map((item) => sourceRank(item.site_id, item)));
+    if (aRank !== bRank) return aRank - bRank;
     const byCount = b[1].items.length - a[1].items.length;
     if (byCount !== 0) return byCount;
     return a[1].siteName.localeCompare(b[1].siteName, "zh-CN");

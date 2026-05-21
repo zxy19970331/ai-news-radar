@@ -51,6 +51,8 @@ private forks because they need credentials, bridges, or ongoing maintenance.
 
 ## Source Selection Rules
 
+Default UI source layers are intentionally weighted: **official first-party sources** and **AI vertical sources** should appear before broad hot-list/discussion signals. HN, NewsNow, TopHub, Buzzing, TechURLs, and similar broad feeds are useful for discussion heat, but they are labeled as **热议参考 / Discussion Signals** and should not dominate the reader-facing first screen.
+
 Add a source only when it passes most of these checks:
 
 - Publishes AI, model, developer tool, or tech industry updates with low noise.

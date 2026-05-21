@@ -2298,6 +2298,45 @@ def event_time(record: dict[str, Any]) -> datetime | None:
     return parse_iso(record.get("published_at")) or parse_iso(record.get("first_seen_at"))
 
 
+SOURCE_TIER_BY_SITE: dict[str, tuple[str, str, int]] = {
+    "official_ai": ("official", "官方一手源", 0),
+    "aibreakfast": ("ai_vertical", "AI垂直源", 1),
+    "aihubtoday": ("ai_vertical", "AI垂直源", 1),
+    "aibase": ("ai_vertical", "AI垂直源", 1),
+    "aihot": ("ai_vertical", "AI垂直源", 1),
+    "bestblogs": ("ai_vertical", "AI垂直源", 1),
+    "followbuilders": ("builders", "Builders/X源", 2),
+    "opmlrss": ("user_opml", "RSS/OPML", 3),
+    "xapi": ("advanced", "高级源", 4),
+    "techurls": ("discussion", "热议参考", 5),
+    "buzzing": ("discussion", "热议参考", 5),
+    "iris": ("discussion", "热议参考", 5),
+    "tophub": ("discussion", "热议参考", 5),
+    "zeli": ("discussion", "热议参考", 5),
+    "newsnow": ("discussion", "热议参考", 5),
+}
+
+
+def source_tier_for_site(site_id: str) -> dict[str, Any]:
+    sid = str(site_id or "").strip().lower()
+    if sid.startswith("opmlrss"):
+        sid = "opmlrss"
+    tier, label, rank = SOURCE_TIER_BY_SITE.get(sid, ("other", "其他来源", 9))
+    return {"source_tier": tier, "source_tier_label": label, "source_tier_rank": rank}
+
+
+def add_source_tier_fields(record: dict[str, Any]) -> dict[str, Any]:
+    out = dict(record)
+    out.update(source_tier_for_site(str(out.get("site_id") or "")))
+    return out
+
+
+def source_tier_sort_key(record: dict[str, Any]) -> tuple[int, float, str]:
+    tier = source_tier_for_site(str(record.get("site_id") or ""))
+    ts = event_time(record)
+    return (int(tier["source_tier_rank"]), -(ts.timestamp() if ts else 0), str(record.get("title") or ""))
+
+
 AI_KEYWORDS = [
     "aigc",
     "llm",
@@ -2931,16 +2970,10 @@ def dedupe_items_by_title_url(items: list[dict[str, Any]], random_pick: bool = T
         if random_pick:
             out.append(random.choice(values))
         else:
-            chosen = max(
-                values,
-                key=lambda x: (
-                    event_time(x) or datetime.min.replace(tzinfo=UTC),
-                    str(x.get("id") or ""),
-                ),
-            )
+            chosen = min(values, key=source_tier_sort_key)
             out.append(chosen)
 
-    out.sort(key=lambda x: event_time(x) or datetime.min.replace(tzinfo=UTC), reverse=True)
+    out.sort(key=source_tier_sort_key)
     return out
 
 
@@ -3109,11 +3142,12 @@ def main() -> int:
             ):
                 continue
             normalized = add_ai_relevance_fields(normalized)
+            normalized = add_source_tier_fields(normalized)
             latest_items_all.append(normalized)
 
     latest_items_all = normalize_aihubtoday_records(latest_items_all)
 
-    latest_items_all.sort(key=lambda x: event_time(x) or datetime.min.replace(tzinfo=UTC), reverse=True)
+    latest_items_all.sort(key=source_tier_sort_key)
     latest_items = [record for record in latest_items_all if record.get("ai_is_related", is_ai_related_record(record))]
     title_cache = load_title_zh_cache(title_cache_path)
     latest_items, latest_items_all, title_cache = add_bilingual_fields(
@@ -3125,6 +3159,8 @@ def main() -> int:
     )
     latest_items_ai_dedup = dedupe_items_by_title_url(latest_items, random_pick=False)
     latest_items_all_dedup = dedupe_items_by_title_url(latest_items_all, random_pick=True)
+    latest_items_ai_dedup.sort(key=source_tier_sort_key)
+    latest_items_all_dedup.sort(key=source_tier_sort_key)
 
     # site stats
     site_stat: dict[str, dict[str, Any]] = {}
