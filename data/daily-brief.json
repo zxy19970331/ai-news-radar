@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-26T15:38:40.006875Z",
+  "generated_at": "2026-06-26T17:47:59.460001Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0139-2613-afdf-b54c38a1578c&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-0139-2613-afdf-b54c38a1578c&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0348-243e-aa5d-a09143238288&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-0348-243e-aa5d-a09143238288&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "d10ba7986da26890936ed22db2de964970e772d3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0348-243e-aa5d-a09143238288&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "b6e331228b69c3cba60f4a739a0a2de7f43970f5",
           "title": "点击这里进入 / Click here to enter",
@@ -87,15 +96,6 @@
           "id": "f3527ce64a5adb2c70331c3bb679c4a971605b4e",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0433-149b-a1ec-54ed3311d0a3&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "88cac558c898a7c5e0ba1b15dbf1d751d1488f29",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0224-322f-81d1-08fae4f33114&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,6 +108,15 @@
       ],
       "items": [
         {
+          "id": "d10ba7986da26890936ed22db2de964970e772d3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0348-243e-aa5d-a09143238288&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "b6e331228b69c3cba60f4a739a0a2de7f43970f5",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0139-2613-afdf-b54c38a1578c&fp=-3",
@@ -183,15 +192,6 @@
           "id": "f3527ce64a5adb2c70331c3bb679c4a971605b4e",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0433-149b-a1ec-54ed3311d0a3&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "88cac558c898a7c5e0ba1b15dbf1d751d1488f29",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0224-322f-81d1-08fae4f33114&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -216,32 +216,132 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-25T16:24:04.227663Z",
-      "latest_at": "2026-06-26T15:38:40.006875Z",
+      "earliest_at": "2026-06-25T18:32:49.461634Z",
+      "latest_at": "2026-06-26T17:47:59.460001Z",
       "primary_item": {
-        "id": "b6e331228b69c3cba60f4a739a0a2de7f43970f5",
+        "id": "d10ba7986da26890936ed22db2de964970e772d3",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0139-2613-afdf-b54c38a1578c&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0348-243e-aa5d-a09143238288&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_eaa14c52b6e0",
-      "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
-      "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
-      "primary_url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+      "story_id": "story_adbd50c1b1db",
+      "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "primary_url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
+          "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T10:00:00Z"
+        },
+        {
+          "id": "50b846d11b890d19e5f2173adc6d2954f7217666",
+          "title": "GPT‑5.6 Sol 预览：新一代模型",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T17:31:54.233000Z"
+        },
+        {
+          "id": "f50b30bc2cc13996cce1036a6e197cd36063b221",
+          "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT‑5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-26T17:06:55Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
+          "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T10:00:00Z"
+        },
+        {
+          "id": "50b846d11b890d19e5f2173adc6d2954f7217666",
+          "title": "GPT‑5.6 Sol 预览：新一代模型",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T17:31:54.233000Z"
+        },
+        {
+          "id": "f50b30bc2cc13996cce1036a6e197cd36063b221",
+          "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT‑5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-26T17:06:55Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.87,
+      "importance": 0.87,
+      "importance_score": 0.87,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.675,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T10:00:00Z",
+      "latest_at": "2026-06-26T17:31:54.233000Z",
+      "primary_item": {
+        "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
+        "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8d74ffd51987",
+      "title": "适用于 Copilot Business 和 Copilot Enterprise 的 MAI-Code-1-Flash / MAI-Code-1-Flash for Copilot Business and Copilot Enterprise",
+      "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
+      "primary_url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d0bdbb32d3273eeba43fbee056df49ad15963f4e",
-          "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
-          "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+          "id": "0559ae8717a848bacaaa30857be886e768639787",
+          "title": "适用于 Copilot Business 和 Copilot Enterprise 的 MAI-Code-1-Flash / MAI-Code-1-Flash for Copilot Business and Copilot Enterprise",
+          "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-26T10:32:58Z"
+          "published_at": "2026-06-26T16:35:06Z"
         }
       ],
       "source_count": 1,
@@ -250,25 +350,25 @@
       ],
       "items": [
         {
-          "id": "d0bdbb32d3273eeba43fbee056df49ad15963f4e",
-          "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
-          "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+          "id": "0559ae8717a848bacaaa30857be886e768639787",
+          "title": "适用于 Copilot Business 和 Copilot Enterprise 的 MAI-Code-1-Flash / MAI-Code-1-Flash for Copilot Business and Copilot Enterprise",
+          "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-26T10:32:58Z"
+          "published_at": "2026-06-26T16:35:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8305,
-      "importance": 0.8305,
-      "importance_score": 0.8305,
+      "score": 0.8629,
+      "importance": 0.8629,
+      "importance_score": 0.8629,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7877,
+        "recency": 0.9494,
         "story_heat": 0.0
       },
       "category": "official",
@@ -277,14 +377,134 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-26T10:32:58Z",
-      "latest_at": "2026-06-26T10:32:58Z",
+      "earliest_at": "2026-06-26T16:35:06Z",
+      "latest_at": "2026-06-26T16:35:06Z",
       "primary_item": {
-        "id": "d0bdbb32d3273eeba43fbee056df49ad15963f4e",
-        "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
-        "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+        "id": "0559ae8717a848bacaaa30857be886e768639787",
+        "title": "适用于 Copilot Business 和 Copilot Enterprise 的 MAI-Code-1-Flash / MAI-Code-1-Flash for Copilot Business and Copilot Enterprise",
+        "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d6501d7af258",
+      "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
+      "url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
+      "primary_url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e59df5c947df9dfc4d8281a9db633bc034fdb2f9",
+          "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
+          "url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T16:51:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "e59df5c947df9dfc4d8281a9db633bc034fdb2f9",
+          "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
+          "url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T16:51:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8041,
+      "importance": 0.8041,
+      "importance_score": 0.8041,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9606,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T16:51:17Z",
+      "latest_at": "2026-06-26T16:51:17Z",
+      "primary_item": {
+        "id": "e59df5c947df9dfc4d8281a9db633bc034fdb2f9",
+        "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
+        "url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_85a7e86ef122",
+      "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
+      "url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
+      "primary_url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "75f80c4f643bb0829d4aae02817330f957d3a809",
+          "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
+          "url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T15:37:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "75f80c4f643bb0829d4aae02817330f957d3a809",
+          "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
+          "url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T15:37:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7939,
+      "importance": 0.7939,
+      "importance_score": 0.7939,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9095,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T15:37:43Z",
+      "latest_at": "2026-06-26T15:37:43Z",
+      "primary_item": {
+        "id": "75f80c4f643bb0829d4aae02817330f957d3a809",
+        "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
+        "url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -322,14 +542,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9863,
+        "recency": 0.8965,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -345,6 +565,67 @@
         "url": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe",
         "source": "Anthropic：Research（发表成果 · 网页）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_eaa14c52b6e0",
+      "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+      "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+      "primary_url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d0bdbb32d3273eeba43fbee056df49ad15963f4e",
+          "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+          "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T10:32:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d0bdbb32d3273eeba43fbee056df49ad15963f4e",
+          "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+          "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T10:32:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8126,
+      "importance": 0.8126,
+      "importance_score": 0.8126,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.6979,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T10:32:58Z",
+      "latest_at": "2026-06-26T10:32:58Z",
+      "primary_item": {
+        "id": "d0bdbb32d3273eeba43fbee056df49ad15963f4e",
+        "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+        "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -401,14 +682,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7723,
-      "importance": 0.7723,
-      "importance_score": 0.7723,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6765,
+        "recency": 0.5867,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -425,6 +706,65 @@
         "url": "https://www.aibase.com/news/29198",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6da74133e3ec",
+      "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
+      "url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
+      "primary_url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0ab63ad5e42f5dcd9df3f9a658dbe19da83ae070",
+          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
+          "url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "0ab63ad5e42f5dcd9df3f9a658dbe19da83ae070",
+          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
+          "url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.675,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-26T10:00:00Z",
+      "latest_at": "2026-06-26T10:00:00Z",
+      "primary_item": {
+        "id": "0ab63ad5e42f5dcd9df3f9a658dbe19da83ae070",
+        "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
+        "url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -462,14 +802,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8005,
+        "recency": 0.7107,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -485,125 +825,6 @@
         "url": "https://www.aibase.com/news/29200",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b6ca7e75baf6",
-      "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
-      "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3eeda0e5a1767c3afa60d81325deae82928f1c10",
-          "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
-          "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T22:59:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "3eeda0e5a1767c3afa60d81325deae82928f1c10",
-          "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
-          "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T22:59:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.3063,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-25T22:59:45Z",
-      "latest_at": "2026-06-25T22:59:45Z",
-      "primary_item": {
-        "id": "3eeda0e5a1767c3afa60d81325deae82928f1c10",
-        "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
-        "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f1c0696003cb",
-      "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
-      "url": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
-      "primary_url": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bfdc7ded1a59b19eb320853586e46e8a8c465b36",
-          "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
-          "url": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T05:40:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "bfdc7ded1a59b19eb320853586e46e8a8c465b36",
-          "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
-          "url": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T05:40:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.729,
-      "importance": 0.729,
-      "importance_score": 0.729,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5849,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-26T05:40:52Z",
-      "latest_at": "2026-06-26T05:40:52Z",
-      "primary_item": {
-        "id": "bfdc7ded1a59b19eb320853586e46e8a8c465b36",
-        "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
-        "url": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -641,14 +862,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8005,
+        "recency": 0.7107,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -664,125 +885,6 @@
         "url": "https://www.aibase.com/news/29203",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cc97c2cd299c",
-      "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
-      "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-      "primary_url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "21911b12003d8f4100254e885cc65209d21983f8",
-          "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
-          "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T21:41:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "21911b12003d8f4100254e885cc65209d21983f8",
-          "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
-          "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T21:41:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7234,
-      "importance": 0.7234,
-      "importance_score": 0.7234,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2518,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-25T21:41:18Z",
-      "latest_at": "2026-06-25T21:41:18Z",
-      "primary_item": {
-        "id": "21911b12003d8f4100254e885cc65209d21983f8",
-        "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
-        "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_24be2fa5cbd6",
-      "title": "近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI",
-      "url": "https://aihot.virxact.com/items/cmqugodz30481sl80as72hqx1",
-      "primary_url": "https://aihot.virxact.com/items/cmqugodz30481sl80as72hqx1",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6b5fb9f59c971c8595f74700401f97f3e735130b",
-          "title": "近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI",
-          "url": "https://aihot.virxact.com/items/cmqugodz30481sl80as72hqx1",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T04:37:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6b5fb9f59c971c8595f74700401f97f3e735130b",
-          "title": "近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI",
-          "url": "https://aihot.virxact.com/items/cmqugodz30481sl80as72hqx1",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T04:37:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7202,
-      "importance": 0.7202,
-      "importance_score": 0.7202,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5412,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-26T04:37:58Z",
-      "latest_at": "2026-06-26T04:37:58Z",
-      "primary_item": {
-        "id": "6b5fb9f59c971c8595f74700401f97f3e735130b",
-        "title": "近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI",
-        "url": "https://aihot.virxact.com/items/cmqugodz30481sl80as72hqx1",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -820,14 +922,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8005,
+        "recency": 0.7107,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -843,66 +945,6 @@
         "url": "https://www.aibase.com/news/29199",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0dfa7e4bd23b",
-      "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
-      "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
-      "primary_url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7033636f928ed08bd94d362116c72d6dd8154517",
-          "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
-          "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T21:30:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "7033636f928ed08bd94d362116c72d6dd8154517",
-          "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
-          "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T21:30:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2445,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-25T21:30:42Z",
-      "latest_at": "2026-06-25T21:30:42Z",
-      "primary_item": {
-        "id": "7033636f928ed08bd94d362116c72d6dd8154517",
-        "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
-        "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -940,14 +982,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8005,
+        "recency": 0.7107,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1000,14 +1042,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8005,
+        "recency": 0.7107,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1060,14 +1102,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8005,
+        "recency": 0.7107,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1083,6 +1125,240 @@
         "url": "https://www.aibase.com/news/29204",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_615d03de7f4c",
+      "title": "Liva AI (YC S25) 正在招聘 / Liva AI (YC S25) Is Hiring",
+      "url": "https://news.ycombinator.com/item?id=48688961",
+      "primary_url": "https://news.ycombinator.com/item?id=48688961",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "c98db5a1831ad35ec9eed52127720e311a70f951",
+          "title": "Liva AI (YC S25) 正在招聘 / Liva AI (YC S25) Is Hiring",
+          "url": "https://news.ycombinator.com/item?id=48688961",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T17:32:25.106000Z"
+        },
+        {
+          "id": "f72dc84e86279114b20f9269c3f7adfd32045ff8",
+          "title": "Liva AI (YC S25) 正在招聘 / Liva AI (YC S25) Is Hiring",
+          "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T17:00:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c98db5a1831ad35ec9eed52127720e311a70f951",
+          "title": "Liva AI (YC S25) 正在招聘 / Liva AI (YC S25) Is Hiring",
+          "url": "https://news.ycombinator.com/item?id=48688961",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T17:32:25.106000Z"
+        },
+        {
+          "id": "f72dc84e86279114b20f9269c3f7adfd32045ff8",
+          "title": "Liva AI (YC S25) 正在招聘 / Liva AI (YC S25) Is Hiring",
+          "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T17:00:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9892,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T17:00:43Z",
+      "latest_at": "2026-06-26T17:32:25.106000Z",
+      "primary_item": {
+        "id": "c98db5a1831ad35ec9eed52127720e311a70f951",
+        "title": "Liva AI (YC S25) 正在招聘 / Liva AI (YC S25) Is Hiring",
+        "url": "https://news.ycombinator.com/item?id=48688961",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_cef5fdea064c",
+      "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择",
+      "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
+      "primary_url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
+      "source": "iankduncan.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9c31cf0b5536001c1bd6f0e0a4af9ec0e33c25b0",
+          "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择",
+          "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
+          "source": "iankduncan.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T17:16:00.813000Z"
+        },
+        {
+          "id": "d6cfacf92fafea582caaf0fc2089ecfd8bf0fe89",
+          "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择 / The New Blub Paradox, or: Why TypeScript Is a Poor Choice for the AI Era",
+          "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T16:48:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "iankduncan.com"
+      ],
+      "items": [
+        {
+          "id": "9c31cf0b5536001c1bd6f0e0a4af9ec0e33c25b0",
+          "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择",
+          "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
+          "source": "iankduncan.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T17:16:00.813000Z"
+        },
+        {
+          "id": "d6cfacf92fafea582caaf0fc2089ecfd8bf0fe89",
+          "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择 / The New Blub Paradox, or: Why TypeScript Is a Poor Choice for the AI Era",
+          "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T16:48:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5436,
+      "importance": 0.5436,
+      "importance_score": 0.5436,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9778,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T16:48:35Z",
+      "latest_at": "2026-06-26T17:16:00.813000Z",
+      "primary_item": {
+        "id": "9c31cf0b5536001c1bd6f0e0a4af9ec0e33c25b0",
+        "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择",
+        "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
+        "source": "iankduncan.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e1a4d99451c2",
+      "title": "别管苹果了。亚马逊刚刚让人工智能的成本大幅增加。",
+      "url": "https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6",
+      "primary_url": "https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "040df401742d6a3a2d334257a27fa1d4700a8de8",
+          "title": "别管苹果了。亚马逊刚刚让人工智能的成本大幅增加。",
+          "url": "https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T17:16:01.804000Z"
+        },
+        {
+          "id": "ff36c7aed0fa9592aa4faa6a390eb365f23df9ed",
+          "title": "别管苹果了。亚马逊刚刚让人工智能的成本大幅增加。 / Forget Apple. Amazon just made AI a lot more expensive.",
+          "url": "https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T17:12:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "040df401742d6a3a2d334257a27fa1d4700a8de8",
+          "title": "别管苹果了。亚马逊刚刚让人工智能的成本大幅增加。",
+          "url": "https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T17:16:01.804000Z"
+        },
+        {
+          "id": "ff36c7aed0fa9592aa4faa6a390eb365f23df9ed",
+          "title": "别管苹果了。亚马逊刚刚让人工智能的成本大幅增加。 / Forget Apple. Amazon just made AI a lot more expensive.",
+          "url": "https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T17:12:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5436,
+      "importance": 0.5436,
+      "importance_score": 0.5436,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9778,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T17:12:04Z",
+      "latest_at": "2026-06-26T17:16:01.804000Z",
+      "primary_item": {
+        "id": "040df401742d6a3a2d334257a27fa1d4700a8de8",
+        "title": "别管苹果了。亚马逊刚刚让人工智能的成本大幅增加。",
+        "url": "https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1139,14 +1415,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.53,
+      "importance": 0.53,
+      "importance_score": 0.53,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9102,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1161,84 +1437,6 @@
         "url": "https://www.huxiu.com/article/4870775.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_47c56e9adbe9",
-      "title": "人工智能行业正在向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
-      "url": "https://news.ycombinator.com/item?id=48687483",
-      "primary_url": "https://news.ycombinator.com/item?id=48687483",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "72b490f39d560e4ec870e6aad9cbe467a1dce229",
-          "title": "人工智能行业正在向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
-          "url": "https://news.ycombinator.com/item?id=48687483",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-26T15:39:36.041000Z"
-        },
-        {
-          "id": "8d7180c5e1d968d6a61917a29a49da5afcc9fb16",
-          "title": "人工智能行业正在向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
-          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T15:02:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "72b490f39d560e4ec870e6aad9cbe467a1dce229",
-          "title": "人工智能行业正在向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
-          "url": "https://news.ycombinator.com/item?id=48687483",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-26T15:39:36.041000Z"
-        },
-        {
-          "id": "8d7180c5e1d968d6a61917a29a49da5afcc9fb16",
-          "title": "人工智能行业正在向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
-          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T15:02:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T15:02:43Z",
-      "latest_at": "2026-06-26T15:39:36.041000Z",
-      "primary_item": {
-        "id": "72b490f39d560e4ec870e6aad9cbe467a1dce229",
-        "title": "人工智能行业正在向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
-        "url": "https://news.ycombinator.com/item?id=48687483",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1314,14 +1512,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5465,
-      "importance": 0.5465,
-      "importance_score": 0.5465,
+      "score": 0.5285,
+      "importance": 0.5285,
+      "importance_score": 0.5285,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8675,
+        "recency": 0.7777,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1335,143 +1533,6 @@
         "title": "美国政府将逐一审批谁能获得GPT 5.6",
         "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
         "source": "old.reddit.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f50c009bf1f4",
-      "title": "Mistral AI发布OCR4 模型：支持 170 种语言，输出质量超越GPT与Gemini",
-      "url": "https://www.aibase.com/news/29192",
-      "primary_url": "https://www.aibase.com/news/29192",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3822ce37c4ab530ccdd8af806d6618d6370961f3",
-          "title": "Mistral AI发布OCR4 模型：支持 170 种语言，输出质量超越GPT与Gemini",
-          "url": "https://www.aibase.com/news/29192",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T07:52:52.355645Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3822ce37c4ab530ccdd8af806d6618d6370961f3",
-          "title": "Mistral AI发布OCR4 模型：支持 170 种语言，输出质量超越GPT与Gemini",
-          "url": "https://www.aibase.com/news/29192",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T07:52:52.355645Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7473,
-      "importance": 0.7473,
-      "importance_score": 0.7473,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6765,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-26T07:52:52.355645Z",
-      "latest_at": "2026-06-26T07:52:52.355645Z",
-      "primary_item": {
-        "id": "3822ce37c4ab530ccdd8af806d6618d6370961f3",
-        "title": "Mistral AI发布OCR4 模型：支持 170 种语言，输出质量超越GPT与Gemini",
-        "url": "https://www.aibase.com/news/29192",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_49daf822efec",
-      "title": "为什么当前的大型语言模型（LLM）成本不可持续",
-      "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
-      "primary_url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
-      "source": "aditya.patadia.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b266dd9cf47d5332213dcb9bddee28ab35a120c6",
-          "title": "为什么当前的大型语言模型（LLM）成本不可持续",
-          "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
-          "source": "aditya.patadia.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T14:03:56.675000Z"
-        },
-        {
-          "id": "9317daa09d6258604df396fb9430fb6e60a6458c",
-          "title": "为什么当前的大型语言模型（LLM）成本不可持续 / Why current LLM costs are not sustainable",
-          "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-26T07:44:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "aditya.patadia.org"
-      ],
-      "items": [
-        {
-          "id": "b266dd9cf47d5332213dcb9bddee28ab35a120c6",
-          "title": "为什么当前的大型语言模型（LLM）成本不可持续",
-          "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
-          "source": "aditya.patadia.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T14:03:56.675000Z"
-        },
-        {
-          "id": "9317daa09d6258604df396fb9430fb6e60a6458c",
-          "title": "为什么当前的大型语言模型（LLM）成本不可持续 / Why current LLM costs are not sustainable",
-          "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-26T07:44:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9342,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T07:44:11Z",
-      "latest_at": "2026-06-26T14:03:56.675000Z",
-      "primary_item": {
-        "id": "b266dd9cf47d5332213dcb9bddee28ab35a120c6",
-        "title": "为什么当前的大型语言模型（LLM）成本不可持续",
-        "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
-        "source": "aditya.patadia.org",
         "source_name": "Buzzing"
       }
     }
