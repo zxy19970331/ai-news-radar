@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T19:39:28.046474Z",
+  "generated_at": "2026-07-03T21:15:06.737575Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8309,
-      "importance": 0.8309,
-      "importance_score": 0.8309,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9273,
+        "recency": 0.9062,
         "story_heat": 0.0
       },
       "category": "official",
@@ -63,6 +63,87 @@
         "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
         "source": "Google DeepMind",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_00231a9b6301",
+      "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
+      "url": "https://github.com/teamchong/pxpipe",
+      "primary_url": "https://github.com/teamchong/pxpipe",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "11edb9790de076ca000c9866976f227f4603ec39",
+          "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
+          "url": "https://github.com/teamchong/pxpipe",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T19:19:45.726000Z"
+        },
+        {
+          "id": "1b58cc270dda04a8a6c2fe3fa4a389193d5f9266",
+          "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本 / 60% Fable cost cut by converting code to images and having the model OCR it",
+          "url": "https://github.com/teamchong/pxpipe",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T15:50:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "11edb9790de076ca000c9866976f227f4603ec39",
+          "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
+          "url": "https://github.com/teamchong/pxpipe",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T19:19:45.726000Z"
+        },
+        {
+          "id": "1b58cc270dda04a8a6c2fe3fa4a389193d5f9266",
+          "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本 / 60% Fable cost cut by converting code to images and having the model OCR it",
+          "url": "https://github.com/teamchong/pxpipe",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T15:50:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9726,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T15:50:49Z",
+      "latest_at": "2026-07-03T19:19:45.726000Z",
+      "primary_item": {
+        "id": "11edb9790de076ca000c9866976f227f4603ec39",
+        "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
+        "url": "https://github.com/teamchong/pxpipe",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -100,15 +181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7455,
+        "recency": 0.7285,
         "story_heat": 0.0
       },
       "category": "official",
@@ -125,6 +206,291 @@
         "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b0737e4d391d",
+      "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
+      "url": "https://www.ithome.com/0/972/341.htm",
+      "primary_url": "https://www.ithome.com/0/972/341.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c38c6afa12cdea3d0ce8f7a8e5c9409dd288db31",
+          "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
+          "url": "https://www.ithome.com/0/972/341.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T09:15:08Z"
+        },
+        {
+          "id": "d9e68f314dbb9109330ac351eaaf2a313301d1ab",
+          "title": "AI 服务首设专门规范：国家网信办就《互联网信息服务管理办法》再次公开征求意见，拟强化算法监管与账号管理",
+          "url": "https://www.ithome.com/0/972/341.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T09:15:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c38c6afa12cdea3d0ce8f7a8e5c9409dd288db31",
+          "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
+          "url": "https://www.ithome.com/0/972/341.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T09:15:08Z"
+        },
+        {
+          "id": "d9e68f314dbb9109330ac351eaaf2a313301d1ab",
+          "title": "AI 服务首设专门规范：国家网信办就《互联网信息服务管理办法》再次公开征求意见，拟强化算法监管与账号管理",
+          "url": "https://www.ithome.com/0/972/341.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T09:15:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8409,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T09:15:08Z",
+      "latest_at": "2026-07-03T09:15:08Z",
+      "primary_item": {
+        "id": "c38c6afa12cdea3d0ce8f7a8e5c9409dd288db31",
+        "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
+        "url": "https://www.ithome.com/0/972/341.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_95944acec510",
+      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
+      "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+      "primary_url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
+          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
+          "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T23:07:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
+          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
+          "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T23:07:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8028,
+      "importance": 0.8028,
+      "importance_score": 0.8028,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7264,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T23:07:06Z",
+      "latest_at": "2026-07-02T23:07:06Z",
+      "primary_item": {
+        "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
+        "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
+        "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d4df2d66480c",
+      "title": "让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场",
+      "url": "https://www.aibase.com/news/29379",
+      "primary_url": "https://www.aibase.com/news/29379",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3d51ef61f5d2f1cc92bae7295e7c3a7a7eb89d65",
+          "title": "让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场",
+          "url": "https://www.aibase.com/news/29379",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T10:45:10.433163Z"
+        },
+        {
+          "id": "70a1c6306917f9eba803d5eded5b3b9193e72a41",
+          "title": "让机器人学会番茄炒蛋的「幕后推手」：Genesis AI 开源全栈训练场",
+          "url": "https://www.aibase.com/zh/news/29379",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3d51ef61f5d2f1cc92bae7295e7c3a7a7eb89d65",
+          "title": "让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场",
+          "url": "https://www.aibase.com/news/29379",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T10:45:10.433163Z"
+        },
+        {
+          "id": "70a1c6306917f9eba803d5eded5b3b9193e72a41",
+          "title": "让机器人学会番茄炒蛋的「幕后推手」：Genesis AI 开源全栈训练场",
+          "url": "https://www.aibase.com/zh/news/29379",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7673,
+      "importance": 0.7673,
+      "importance_score": 0.7673,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8593,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T10:45:10.433163Z",
+      "latest_at": "2026-07-03T10:45:10.433163Z",
+      "primary_item": {
+        "id": "3d51ef61f5d2f1cc92bae7295e7c3a7a7eb89d65",
+        "title": "让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场",
+        "url": "https://www.aibase.com/news/29379",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d40e693ededc",
+      "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
+      "url": "https://simonwillison.net/2026/Jul/3/judgement",
+      "primary_url": "https://simonwillison.net/2026/Jul/3/judgement",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ed848986e585947c1feec14d1c7f627308f4b9f9",
+          "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
+          "url": "https://simonwillison.net/2026/Jul/3/judgement",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T18:51:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Simon Willison 博客"
+      ],
+      "items": [
+        {
+          "id": "ed848986e585947c1feec14d1c7f627308f4b9f9",
+          "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
+          "url": "https://simonwillison.net/2026/Jul/3/judgement",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T18:51:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9659,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T18:51:06Z",
+      "latest_at": "2026-07-03T18:51:06Z",
+      "primary_item": {
+        "id": "ed848986e585947c1feec14d1c7f627308f4b9f9",
+        "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
+        "url": "https://simonwillison.net/2026/Jul/3/judgement",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -200,15 +566,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
+      "score": 0.7906,
+      "importance": 0.7906,
+      "importance_score": 0.7906,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8698,
+        "recency": 0.85,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -224,291 +590,6 @@
         "title": "面向 Web 开发者的 Safari MCP 服务器",
         "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b0737e4d391d",
-      "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
-      "url": "https://www.ithome.com/0/972/341.htm",
-      "primary_url": "https://www.ithome.com/0/972/341.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c38c6afa12cdea3d0ce8f7a8e5c9409dd288db31",
-          "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
-          "url": "https://www.ithome.com/0/972/341.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T09:15:08Z"
-        },
-        {
-          "id": "d9e68f314dbb9109330ac351eaaf2a313301d1ab",
-          "title": "AI 服务首设专门规范：国家网信办就《互联网信息服务管理办法》再次公开征求意见，拟强化算法监管与账号管理",
-          "url": "https://www.ithome.com/0/972/341.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T09:15:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c38c6afa12cdea3d0ce8f7a8e5c9409dd288db31",
-          "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
-          "url": "https://www.ithome.com/0/972/341.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T09:15:08Z"
-        },
-        {
-          "id": "d9e68f314dbb9109330ac351eaaf2a313301d1ab",
-          "title": "AI 服务首设专门规范：国家网信办就《互联网信息服务管理办法》再次公开征求意见，拟强化算法监管与账号管理",
-          "url": "https://www.ithome.com/0/972/341.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T09:15:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8605,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T09:15:08Z",
-      "latest_at": "2026-07-03T09:15:08Z",
-      "primary_item": {
-        "id": "c38c6afa12cdea3d0ce8f7a8e5c9409dd288db31",
-        "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
-        "url": "https://www.ithome.com/0/972/341.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_95944acec510",
-      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
-      "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-      "primary_url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
-          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
-          "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T23:07:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
-          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
-          "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T23:07:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7433,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T23:07:06Z",
-      "latest_at": "2026-07-02T23:07:06Z",
-      "primary_item": {
-        "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
-        "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
-        "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d4df2d66480c",
-      "title": "让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场",
-      "url": "https://www.aibase.com/news/29379",
-      "primary_url": "https://www.aibase.com/news/29379",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3d51ef61f5d2f1cc92bae7295e7c3a7a7eb89d65",
-          "title": "让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场",
-          "url": "https://www.aibase.com/news/29379",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T10:45:10.433163Z"
-        },
-        {
-          "id": "70a1c6306917f9eba803d5eded5b3b9193e72a41",
-          "title": "让机器人学会番茄炒蛋的「幕后推手」：Genesis AI 开源全栈训练场",
-          "url": "https://www.aibase.com/zh/news/29379",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "3d51ef61f5d2f1cc92bae7295e7c3a7a7eb89d65",
-          "title": "让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场",
-          "url": "https://www.aibase.com/news/29379",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T10:45:10.433163Z"
-        },
-        {
-          "id": "70a1c6306917f9eba803d5eded5b3b9193e72a41",
-          "title": "让机器人学会番茄炒蛋的「幕后推手」：Genesis AI 开源全栈训练场",
-          "url": "https://www.aibase.com/zh/news/29379",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8793,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T10:45:10.433163Z",
-      "latest_at": "2026-07-03T10:45:10.433163Z",
-      "primary_item": {
-        "id": "3d51ef61f5d2f1cc92bae7295e7c3a7a7eb89d65",
-        "title": "让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场",
-        "url": "https://www.aibase.com/news/29379",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d40e693ededc",
-      "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
-      "url": "https://simonwillison.net/2026/Jul/3/judgement",
-      "primary_url": "https://simonwillison.net/2026/Jul/3/judgement",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ed848986e585947c1feec14d1c7f627308f4b9f9",
-          "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
-          "url": "https://simonwillison.net/2026/Jul/3/judgement",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T18:51:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "ed848986e585947c1feec14d1c7f627308f4b9f9",
-          "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
-          "url": "https://simonwillison.net/2026/Jul/3/judgement",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T18:51:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9884,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T18:51:06Z",
-      "latest_at": "2026-07-03T18:51:06Z",
-      "primary_item": {
-        "id": "ed848986e585947c1feec14d1c7f627308f4b9f9",
-        "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
-        "url": "https://simonwillison.net/2026/Jul/3/judgement",
-        "source": "Simon Willison 博客",
         "source_name": "AI HOT"
       }
     },
@@ -547,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9008,
+        "recency": 0.8803,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -608,15 +689,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8565,
+        "recency": 0.837,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -631,87 +712,6 @@
         "title": "Wan Video 推出\"音乐伴舞\"新功能",
         "url": "https://x.com/alibaba_cloud/status/2072967570441834771",
         "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9e5663cb740f",
-      "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "primary_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
-          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T04:56:06.814000Z"
-        },
-        {
-          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
-          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T04:56:06.814000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
-          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T04:56:06.814000Z"
-        },
-        {
-          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
-          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T04:56:06.814000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7851,
-      "importance": 0.7851,
-      "importance_score": 0.7851,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8085,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T04:56:06.814000Z",
-      "latest_at": "2026-07-03T04:56:06.814000Z",
-      "primary_item": {
-        "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
-        "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-        "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -769,15 +769,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7914,
+        "recency": 0.7734,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -850,15 +850,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7489,
+        "recency": 0.7319,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -911,15 +911,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
+      "score": 0.7375,
+      "importance": 0.7375,
+      "importance_score": 0.7375,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8863,
+        "recency": 0.8661,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -934,68 +934,6 @@
         "url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
         "source": "公众号：生数科技（Vidu·视频）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_841cfa5430ed",
-      "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
-      "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
-      "primary_url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
-          "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
-          "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T20:25:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
-          "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
-          "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T20:25:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8007,
-      "importance": 0.8007,
-      "importance_score": 0.8007,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.715,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T20:25:32Z",
-      "latest_at": "2026-07-02T20:25:32Z",
-      "primary_item": {
-        "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
-        "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
-        "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1033,15 +971,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7387,
-      "importance": 0.7387,
-      "importance_score": 0.7387,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9394,
+        "recency": 0.9181,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1055,86 +993,6 @@
         "title": "Leanstral 1.5：人人可用的证明丰富性",
         "url": "https://mistral.ai/news/leanstral-1-5",
         "source": "Mistral AI：News（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_457e95cf2cb4",
-      "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
-      "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
-      "primary_url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b80857d53267900d5ed0eaa9cf634268d8c4d7be",
-          "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
-          "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T20:51:39Z"
-        },
-        {
-          "id": "d268415982924c19f5449a3ba0c5c886147116dd",
-          "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控 / Meet Alibaba’s Page Agent: A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM",
-          "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-02T20:51:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b80857d53267900d5ed0eaa9cf634268d8c4d7be",
-          "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
-          "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T20:51:39Z"
-        },
-        {
-          "id": "d268415982924c19f5449a3ba0c5c886147116dd",
-          "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控 / Meet Alibaba’s Page Agent: A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM",
-          "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-02T20:51:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7195,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T20:51:39Z",
-      "latest_at": "2026-07-02T20:51:39Z",
-      "primary_item": {
-        "id": "b80857d53267900d5ed0eaa9cf634268d8c4d7be",
-        "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
-        "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
-        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1192,15 +1050,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7639,
-      "importance": 0.7639,
-      "importance_score": 0.7639,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8404,
+        "recency": 0.8212,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1254,15 +1112,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
+      "score": 0.7287,
+      "importance": 0.7287,
+      "importance_score": 0.7287,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8705,
+        "recency": 0.8507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1280,123 +1138,307 @@
       }
     },
     {
-      "story_id": "story_34e272d19172",
-      "title": "关于Mythos和网络安全的讨论并非炒作",
-      "url": "https://x.com/emollick/status/2072778376494895139",
-      "primary_url": "https://x.com/emollick/status/2072778376494895139",
-      "source": "X：Ethan Mollick (@emollick)",
+      "story_id": "story_9e5663cb740f",
+      "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "primary_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "28ed1fffa1bb27ed053f53909f71d58dd58d2c84",
-          "title": "关于Mythos和网络安全的讨论并非炒作",
-          "url": "https://x.com/emollick/status/2072778376494895139",
-          "source": "X：Ethan Mollick (@emollick)",
+          "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
+          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-02T20:24:09Z"
+          "published_at": "2026-07-03T04:56:06.814000Z"
+        },
+        {
+          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
+          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
+          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T04:56:06.814000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Ethan Mollick (@emollick)"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
       ],
       "items": [
         {
-          "id": "28ed1fffa1bb27ed053f53909f71d58dd58d2c84",
-          "title": "关于Mythos和网络安全的讨论并非炒作",
-          "url": "https://x.com/emollick/status/2072778376494895139",
-          "source": "X：Ethan Mollick (@emollick)",
+          "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
+          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-02T20:24:09Z"
+          "published_at": "2026-07-03T04:56:06.814000Z"
+        },
+        {
+          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
+          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
+          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T04:56:06.814000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7313,
-      "importance": 0.7313,
-      "importance_score": 0.7313,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7818,
+      "importance": 0.7818,
+      "importance_score": 0.7818,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7148,
-        "story_heat": 0.0
+        "recency": 0.7901,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-02T20:24:09Z",
-      "latest_at": "2026-07-02T20:24:09Z",
+      "earliest_at": "2026-07-03T04:56:06.814000Z",
+      "latest_at": "2026-07-03T04:56:06.814000Z",
       "primary_item": {
-        "id": "28ed1fffa1bb27ed053f53909f71d58dd58d2c84",
-        "title": "关于Mythos和网络安全的讨论并非炒作",
-        "url": "https://x.com/emollick/status/2072778376494895139",
-        "source": "X：Ethan Mollick (@emollick)",
+        "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
+        "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+        "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_8e627959d057",
-      "title": "面壁智能发布AI全自动预训练框架ForgeTrain，8小时追平Megatron-LM",
-      "url": "https://mp.weixin.qq.com/s/JVBbqU1O967ktzfEPuDERQ",
-      "primary_url": "https://mp.weixin.qq.com/s/JVBbqU1O967ktzfEPuDERQ",
-      "source": "公众号：面壁智能（MiniCPM）",
+      "story_id": "story_26d9f7bf3d9c",
+      "title": "地球的“数字名片”：中国发布全球首个地层学 AI 大模型",
+      "url": "https://www.aibase.com/news/29367",
+      "primary_url": "https://www.aibase.com/news/29367",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "aa470d6ad84b16fbd40cbd04f0d993f11c71b067",
+          "title": "地球的“数字名片”：中国发布全球首个地层学 AI 大模型",
+          "url": "https://www.aibase.com/news/29367",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T06:46:30.823322Z"
+        },
+        {
+          "id": "310b586bcbe86d6c0a240f58c1a55f9a4c09dd49",
+          "title": "地球的「数字名片」：中国发布全球首个地层学 AI 大模型",
+          "url": "https://www.aibase.com/zh/news/29367",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "aa470d6ad84b16fbd40cbd04f0d993f11c71b067",
+          "title": "地球的“数字名片”：中国发布全球首个地层学 AI 大模型",
+          "url": "https://www.aibase.com/news/29367",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T06:46:30.823322Z"
+        },
+        {
+          "id": "310b586bcbe86d6c0a240f58c1a55f9a4c09dd49",
+          "title": "地球的「数字名片」：中国发布全球首个地层学 AI 大模型",
+          "url": "https://www.aibase.com/zh/news/29367",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8114,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T06:46:30.823322Z",
+      "latest_at": "2026-07-03T06:46:30.823322Z",
+      "primary_item": {
+        "id": "aa470d6ad84b16fbd40cbd04f0d993f11c71b067",
+        "title": "地球的“数字名片”：中国发布全球首个地层学 AI 大模型",
+        "url": "https://www.aibase.com/news/29367",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_065c0c83539d",
+      "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
+      "url": "https://www.ithome.com/0/972/424.htm",
+      "primary_url": "https://www.ithome.com/0/972/424.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2fa289e10c53e8db34a834d3d2a7a8322e0e4c53",
-          "title": "面壁智能发布AI全自动预训练框架ForgeTrain，8小时追平Megatron-LM",
-          "url": "https://mp.weixin.qq.com/s/JVBbqU1O967ktzfEPuDERQ",
-          "source": "公众号：面壁智能（MiniCPM）",
+          "id": "d84e8e89198d578068fefa2f458bf27f1faf738e",
+          "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
+          "url": "https://www.ithome.com/0/972/424.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-03T09:12:17Z"
+          "published_at": "2026-07-03T11:57:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：面壁智能（MiniCPM）"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "2fa289e10c53e8db34a834d3d2a7a8322e0e4c53",
-          "title": "面壁智能发布AI全自动预训练框架ForgeTrain，8小时追平Megatron-LM",
-          "url": "https://mp.weixin.qq.com/s/JVBbqU1O967ktzfEPuDERQ",
-          "source": "公众号：面壁智能（MiniCPM）",
+          "id": "d84e8e89198d578068fefa2f458bf27f1faf738e",
+          "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
+          "url": "https://www.ithome.com/0/972/424.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-03T09:12:17Z"
+          "published_at": "2026-07-03T11:57:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7214,
-      "importance": 0.7214,
-      "importance_score": 0.7214,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.65,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8599,
+        "recency": 0.8743,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-03T09:12:17Z",
-      "latest_at": "2026-07-03T09:12:17Z",
+      "earliest_at": "2026-07-03T11:57:00Z",
+      "latest_at": "2026-07-03T11:57:00Z",
       "primary_item": {
-        "id": "2fa289e10c53e8db34a834d3d2a7a8322e0e4c53",
-        "title": "面壁智能发布AI全自动预训练框架ForgeTrain，8小时追平Megatron-LM",
-        "url": "https://mp.weixin.qq.com/s/JVBbqU1O967ktzfEPuDERQ",
-        "source": "公众号：面壁智能（MiniCPM）",
+        "id": "d84e8e89198d578068fefa2f458bf27f1faf738e",
+        "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
+        "url": "https://www.ithome.com/0/972/424.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_06c3d6eb6f58",
+      "title": "自由职业者危机？最新AI模型攻克16%远程项目，设计圈变天了",
+      "url": "https://www.aibase.com/news/29365",
+      "primary_url": "https://www.aibase.com/news/29365",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "34cbff3009eec9012ec5a731c8a4a5ecf2f18ebb",
+          "title": "自由职业者危机？最新AI模型攻克16%远程项目，设计圈变天了",
+          "url": "https://www.aibase.com/news/29365",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T06:46:30.823322Z"
+        },
+        {
+          "id": "cf5ae702e5ca39e50e09a4c5df4a27c914fb4d36",
+          "title": "自由职业者危机？最新 AI 模型攻克 16% 远程项目，设计圈变天了",
+          "url": "https://www.aibase.com/zh/news/29365",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "34cbff3009eec9012ec5a731c8a4a5ecf2f18ebb",
+          "title": "自由职业者危机？最新AI模型攻克16%远程项目，设计圈变天了",
+          "url": "https://www.aibase.com/news/29365",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T06:46:30.823322Z"
+        },
+        {
+          "id": "cf5ae702e5ca39e50e09a4c5df4a27c914fb4d36",
+          "title": "自由职业者危机？最新 AI 模型攻克 16% 远程项目，设计圈变天了",
+          "url": "https://www.aibase.com/zh/news/29365",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8114,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T06:46:30.823322Z",
+      "latest_at": "2026-07-03T06:46:30.823322Z",
+      "primary_item": {
+        "id": "34cbff3009eec9012ec5a731c8a4a5ecf2f18ebb",
+        "title": "自由职业者危机？最新AI模型攻克16%远程项目，设计圈变天了",
+        "url": "https://www.aibase.com/news/29365",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
