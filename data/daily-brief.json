@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T07:36:49.909523Z",
+  "generated_at": "2026-07-03T08:04:30.317617Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8628,
-      "importance": 0.8628,
-      "importance_score": 0.8628,
+      "score": 0.8616,
+      "importance": 0.8616,
+      "importance_score": 0.8616,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9621,
+        "recency": 0.9557,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8317,
-      "importance": 0.8317,
-      "importance_score": 0.8317,
+      "score": 0.8306,
+      "importance": 0.8306,
+      "importance_score": 0.8306,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8871,
+        "recency": 0.8812,
         "story_heat": 0.0
       },
       "category": "official",
@@ -238,15 +238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8061,
-      "importance": 0.8061,
-      "importance_score": 0.8061,
+      "score": 0.805,
+      "importance": 0.805,
+      "importance_score": 0.805,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9417,
+        "recency": 0.9354,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -300,15 +300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8312,
-      "importance": 0.8312,
-      "importance_score": 0.8312,
+      "score": 0.8302,
+      "importance": 0.8302,
+      "importance_score": 0.8302,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8845,
+        "recency": 0.8787,
         "story_heat": 0.0
       },
       "category": "official",
@@ -328,26 +328,26 @@
       }
     },
     {
-      "story_id": "story_26d9f7bf3d9c",
-      "title": "地球的“数字名片”：中国发布全球首个地层学 AI 大模型",
-      "url": "https://www.aibase.com/news/29367",
-      "primary_url": "https://www.aibase.com/news/29367",
+      "story_id": "story_de5294d3d649",
+      "title": "微软 AI PC 专属系统 Project Aion 曝光，彻底取消传统开始菜单",
+      "url": "https://www.aibase.com/news/29370",
+      "primary_url": "https://www.aibase.com/news/29370",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "aa470d6ad84b16fbd40cbd04f0d993f11c71b067",
-          "title": "地球的“数字名片”：中国发布全球首个地层学 AI 大模型",
-          "url": "https://www.aibase.com/news/29367",
+          "id": "34ae436a2aa422cb3e67e19c3d6bf9a5cc169d08",
+          "title": "微软 AI PC 专属系统 Project Aion 曝光，彻底取消传统开始菜单",
+          "url": "https://www.aibase.com/news/29370",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-03T06:46:30.823322Z"
+          "published_at": "2026-07-03T07:36:49.909523Z"
         },
         {
-          "id": "310b586bcbe86d6c0a240f58c1a55f9a4c09dd49",
-          "title": "地球的「数字名片」：中国发布全球首个地层学 AI 大模型",
-          "url": "https://www.aibase.com/zh/news/29367",
+          "id": "29d4556aa78a5b5333bc1fec0d20d3eed7b71579",
+          "title": "微软 AI PC 专属系统 Project Aion 曝光，彻底取消传统开始菜单",
+          "url": "https://www.aibase.com/zh/news/29370",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -361,18 +361,18 @@
       ],
       "items": [
         {
-          "id": "aa470d6ad84b16fbd40cbd04f0d993f11c71b067",
-          "title": "地球的“数字名片”：中国发布全球首个地层学 AI 大模型",
-          "url": "https://www.aibase.com/news/29367",
+          "id": "34ae436a2aa422cb3e67e19c3d6bf9a5cc169d08",
+          "title": "微软 AI PC 专属系统 Project Aion 曝光，彻底取消传统开始菜单",
+          "url": "https://www.aibase.com/news/29370",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-03T06:46:30.823322Z"
+          "published_at": "2026-07-03T07:36:49.909523Z"
         },
         {
-          "id": "310b586bcbe86d6c0a240f58c1a55f9a4c09dd49",
-          "title": "地球的「数字名片」：中国发布全球首个地层学 AI 大模型",
-          "url": "https://www.aibase.com/zh/news/29367",
+          "id": "29d4556aa78a5b5333bc1fec0d20d3eed7b71579",
+          "title": "微软 AI PC 专属系统 Project Aion 曝光，彻底取消传统开始菜单",
+          "url": "https://www.aibase.com/zh/news/29370",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -381,15 +381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7904,
-      "importance": 0.7904,
-      "importance_score": 0.7904,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.988,
+        "recency": 0.9934,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -398,12 +398,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-03T06:46:30.823322Z",
-      "latest_at": "2026-07-03T06:46:30.823322Z",
+      "earliest_at": "2026-07-03T07:36:49.909523Z",
+      "latest_at": "2026-07-03T08:04:30.317617Z",
       "primary_item": {
-        "id": "aa470d6ad84b16fbd40cbd04f0d993f11c71b067",
-        "title": "地球的“数字名片”：中国发布全球首个地层学 AI 大模型",
-        "url": "https://www.aibase.com/news/29367",
+        "id": "34ae436a2aa422cb3e67e19c3d6bf9a5cc169d08",
+        "title": "微软 AI PC 专属系统 Project Aion 曝光，彻底取消传统开始菜单",
+        "url": "https://www.aibase.com/news/29370",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -462,15 +462,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7813,
-      "importance": 0.7813,
-      "importance_score": 0.7813,
+      "score": 0.7803,
+      "importance": 0.7803,
+      "importance_score": 0.7803,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8372,
+        "recency": 0.8316,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -562,15 +562,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
+      "score": 0.807,
+      "importance": 0.807,
+      "importance_score": 0.807,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9808,
+        "recency": 0.9743,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -643,15 +643,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.767,
-      "importance": 0.767,
-      "importance_score": 0.767,
+      "score": 0.7659,
+      "importance": 0.7659,
+      "importance_score": 0.7659,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8912,
+        "recency": 0.8853,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -743,15 +743,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7658,
-      "importance": 0.7658,
-      "importance_score": 0.7658,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7454,
+        "recency": 0.7404,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -805,15 +805,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8251,
-      "importance": 0.8251,
-      "importance_score": 0.8251,
+      "score": 0.8241,
+      "importance": 0.8241,
+      "importance_score": 0.8241,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8508,
+        "recency": 0.8452,
         "story_heat": 0.0
       },
       "category": "official",
@@ -886,15 +886,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8562,
+        "recency": 0.8505,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -910,6 +910,268 @@
         "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
         "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
         "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_26d9f7bf3d9c",
+      "title": "地球的“数字名片”：中国发布全球首个地层学 AI 大模型",
+      "url": "https://www.aibase.com/news/29367",
+      "primary_url": "https://www.aibase.com/news/29367",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "aa470d6ad84b16fbd40cbd04f0d993f11c71b067",
+          "title": "地球的“数字名片”：中国发布全球首个地层学 AI 大模型",
+          "url": "https://www.aibase.com/news/29367",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T06:46:30.823322Z"
+        },
+        {
+          "id": "310b586bcbe86d6c0a240f58c1a55f9a4c09dd49",
+          "title": "地球的「数字名片」：中国发布全球首个地层学 AI 大模型",
+          "url": "https://www.aibase.com/zh/news/29367",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "aa470d6ad84b16fbd40cbd04f0d993f11c71b067",
+          "title": "地球的“数字名片”：中国发布全球首个地层学 AI 大模型",
+          "url": "https://www.aibase.com/news/29367",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T06:46:30.823322Z"
+        },
+        {
+          "id": "310b586bcbe86d6c0a240f58c1a55f9a4c09dd49",
+          "title": "地球的「数字名片」：中国发布全球首个地层学 AI 大模型",
+          "url": "https://www.aibase.com/zh/news/29367",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7893,
+      "importance": 0.7893,
+      "importance_score": 0.7893,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9814,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T06:46:30.823322Z",
+      "latest_at": "2026-07-03T06:46:30.823322Z",
+      "primary_item": {
+        "id": "aa470d6ad84b16fbd40cbd04f0d993f11c71b067",
+        "title": "地球的“数字名片”：中国发布全球首个地层学 AI 大模型",
+        "url": "https://www.aibase.com/news/29367",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_34e272d19172",
+      "title": "关于Mythos和网络安全的讨论并非炒作",
+      "url": "https://x.com/emollick/status/2072778376494895139",
+      "primary_url": "https://x.com/emollick/status/2072778376494895139",
+      "source": "X：Ethan Mollick (@emollick)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "28ed1fffa1bb27ed053f53909f71d58dd58d2c84",
+          "title": "关于Mythos和网络安全的讨论并非炒作",
+          "url": "https://x.com/emollick/status/2072778376494895139",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T20:24:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Ethan Mollick (@emollick)"
+      ],
+      "items": [
+        {
+          "id": "28ed1fffa1bb27ed053f53909f71d58dd58d2c84",
+          "title": "关于Mythos和网络安全的讨论并非炒作",
+          "url": "https://x.com/emollick/status/2072778376494895139",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T20:24:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8449,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T20:24:09Z",
+      "latest_at": "2026-07-02T20:24:09Z",
+      "primary_item": {
+        "id": "28ed1fffa1bb27ed053f53909f71d58dd58d2c84",
+        "title": "关于Mythos和网络安全的讨论并非炒作",
+        "url": "https://x.com/emollick/status/2072778376494895139",
+        "source": "X：Ethan Mollick (@emollick)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b1ace1e3f9bf",
+      "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+      "url": "https://x.com/shao__meng/status/2072644710523691110",
+      "primary_url": "https://x.com/shao__meng/status/2072644710523691110",
+      "source": "X：邵猛 (@shao__meng)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
+          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+          "url": "https://x.com/shao__meng/status/2072644710523691110",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:33:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：邵猛 (@shao__meng)"
+      ],
+      "items": [
+        {
+          "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
+          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+          "url": "https://x.com/shao__meng/status/2072644710523691110",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:33:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7435,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-02T11:33:01Z",
+      "latest_at": "2026-07-02T11:33:01Z",
+      "primary_item": {
+        "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
+        "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+        "url": "https://x.com/shao__meng/status/2072644710523691110",
+        "source": "X：邵猛 (@shao__meng)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5f6848e30c5a",
+      "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
+      "url": "https://x.com/kimmonismus/status/2072718147279335507",
+      "primary_url": "https://x.com/kimmonismus/status/2072718147279335507",
+      "source": "X：Kim (@kimmonismus)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b3203a7ff649fb38df52f6bb5422f9cf0f5c37e6",
+          "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
+          "url": "https://x.com/kimmonismus/status/2072718147279335507",
+          "source": "X：Kim (@kimmonismus)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T16:24:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kim (@kimmonismus)"
+      ],
+      "items": [
+        {
+          "id": "b3203a7ff649fb38df52f6bb5422f9cf0f5c37e6",
+          "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
+          "url": "https://x.com/kimmonismus/status/2072718147279335507",
+          "source": "X：Kim (@kimmonismus)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T16:24:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7976,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-02T16:24:50Z",
+      "latest_at": "2026-07-02T16:24:50Z",
+      "primary_item": {
+        "id": "b3203a7ff649fb38df52f6bb5422f9cf0f5c37e6",
+        "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
+        "url": "https://x.com/kimmonismus/status/2072718147279335507",
+        "source": "X：Kim (@kimmonismus)",
         "source_name": "AI HOT"
       }
     },
@@ -967,15 +1229,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7904,
-      "importance": 0.7904,
-      "importance_score": 0.7904,
+      "score": 0.7893,
+      "importance": 0.7893,
+      "importance_score": 0.7893,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.988,
+        "recency": 0.9814,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -990,268 +1252,6 @@
         "id": "34cbff3009eec9012ec5a731c8a4a5ecf2f18ebb",
         "title": "自由职业者危机？最新AI模型攻克16%远程项目，设计圈变天了",
         "url": "https://www.aibase.com/news/29365",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_34e272d19172",
-      "title": "关于Mythos和网络安全的讨论并非炒作",
-      "url": "https://x.com/emollick/status/2072778376494895139",
-      "primary_url": "https://x.com/emollick/status/2072778376494895139",
-      "source": "X：Ethan Mollick (@emollick)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "28ed1fffa1bb27ed053f53909f71d58dd58d2c84",
-          "title": "关于Mythos和网络安全的讨论并非炒作",
-          "url": "https://x.com/emollick/status/2072778376494895139",
-          "source": "X：Ethan Mollick (@emollick)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T20:24:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Ethan Mollick (@emollick)"
-      ],
-      "items": [
-        {
-          "id": "28ed1fffa1bb27ed053f53909f71d58dd58d2c84",
-          "title": "关于Mythos和网络安全的讨论并非炒作",
-          "url": "https://x.com/emollick/status/2072778376494895139",
-          "source": "X：Ethan Mollick (@emollick)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T20:24:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7557,
-      "importance": 0.7557,
-      "importance_score": 0.7557,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8505,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T20:24:09Z",
-      "latest_at": "2026-07-02T20:24:09Z",
-      "primary_item": {
-        "id": "28ed1fffa1bb27ed053f53909f71d58dd58d2c84",
-        "title": "关于Mythos和网络安全的讨论并非炒作",
-        "url": "https://x.com/emollick/status/2072778376494895139",
-        "source": "X：Ethan Mollick (@emollick)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b1ace1e3f9bf",
-      "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-      "url": "https://x.com/shao__meng/status/2072644710523691110",
-      "primary_url": "https://x.com/shao__meng/status/2072644710523691110",
-      "source": "X：邵猛 (@shao__meng)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
-          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-          "url": "https://x.com/shao__meng/status/2072644710523691110",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T11:33:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：邵猛 (@shao__meng)"
-      ],
-      "items": [
-        {
-          "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
-          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-          "url": "https://x.com/shao__meng/status/2072644710523691110",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T11:33:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7485,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T11:33:01Z",
-      "latest_at": "2026-07-02T11:33:01Z",
-      "primary_item": {
-        "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
-        "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-        "url": "https://x.com/shao__meng/status/2072644710523691110",
-        "source": "X：邵猛 (@shao__meng)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5f6848e30c5a",
-      "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
-      "url": "https://x.com/kimmonismus/status/2072718147279335507",
-      "primary_url": "https://x.com/kimmonismus/status/2072718147279335507",
-      "source": "X：Kim (@kimmonismus)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b3203a7ff649fb38df52f6bb5422f9cf0f5c37e6",
-          "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
-          "url": "https://x.com/kimmonismus/status/2072718147279335507",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T16:24:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kim (@kimmonismus)"
-      ],
-      "items": [
-        {
-          "id": "b3203a7ff649fb38df52f6bb5422f9cf0f5c37e6",
-          "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
-          "url": "https://x.com/kimmonismus/status/2072718147279335507",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T16:24:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8029,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T16:24:50Z",
-      "latest_at": "2026-07-02T16:24:50Z",
-      "primary_item": {
-        "id": "b3203a7ff649fb38df52f6bb5422f9cf0f5c37e6",
-        "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
-        "url": "https://x.com/kimmonismus/status/2072718147279335507",
-        "source": "X：Kim (@kimmonismus)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_17acad24df5f",
-      "title": "订阅制红利终结？Anthropic收紧最强AI模型，Claude Fable5 将按量计费",
-      "url": "https://www.aibase.com/news/29368",
-      "primary_url": "https://www.aibase.com/news/29368",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3c0fe854cf8a6629c659301760ba8f0aded94858",
-          "title": "订阅制红利终结？Anthropic收紧最强AI模型，Claude Fable5 将按量计费",
-          "url": "https://www.aibase.com/news/29368",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T06:46:30.823322Z"
-        },
-        {
-          "id": "29d52b83cd36e29ec040456b63fbd169abd4818e",
-          "title": "订阅制红利终结？Anthropic 收紧最强 AI 模型，Claude Fable5 将按量计费",
-          "url": "https://www.aibase.com/zh/news/29368",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "3c0fe854cf8a6629c659301760ba8f0aded94858",
-          "title": "订阅制红利终结？Anthropic收紧最强AI模型，Claude Fable5 将按量计费",
-          "url": "https://www.aibase.com/news/29368",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T06:46:30.823322Z"
-        },
-        {
-          "id": "29d52b83cd36e29ec040456b63fbd169abd4818e",
-          "title": "订阅制红利终结？Anthropic 收紧最强 AI 模型，Claude Fable5 将按量计费",
-          "url": "https://www.aibase.com/zh/news/29368",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7904,
-      "importance": 0.7904,
-      "importance_score": 0.7904,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.988,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T06:46:30.823322Z",
-      "latest_at": "2026-07-03T07:36:49.909523Z",
-      "primary_item": {
-        "id": "3c0fe854cf8a6629c659301760ba8f0aded94858",
-        "title": "订阅制红利终结？Anthropic收紧最强AI模型，Claude Fable5 将按量计费",
-        "url": "https://www.aibase.com/news/29368",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1291,15 +1291,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
+      "score": 0.8191,
+      "importance": 0.8191,
+      "importance_score": 0.8191,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8225,
+        "recency": 0.8171,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1372,15 +1372,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7589,
-      "importance": 0.7589,
-      "importance_score": 0.7589,
+      "score": 0.758,
+      "importance": 0.758,
+      "importance_score": 0.758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7797,
+        "recency": 0.7745,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1396,66 +1396,6 @@
         "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
         "url": "https://www.ithome.com/0/971/937.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8d75d1916b30",
-      "title": "OpenAI提议美国政府持股5%估值426亿美元",
-      "url": "https://x.com/testingcatalog/status/2072585845542969583",
-      "primary_url": "https://x.com/testingcatalog/status/2072585845542969583",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "338f15597c804ed8693a8a85a9fc1c54164fb9c2",
-          "title": "OpenAI提议美国政府持股5%估值426亿美元",
-          "url": "https://x.com/testingcatalog/status/2072585845542969583",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T07:39:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Testing Catalog (@testingcatalog)"
-      ],
-      "items": [
-        {
-          "id": "338f15597c804ed8693a8a85a9fc1c54164fb9c2",
-          "title": "OpenAI提议美国政府持股5%估值426亿美元",
-          "url": "https://x.com/testingcatalog/status/2072585845542969583",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T07:39:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7239,
-      "importance": 0.7239,
-      "importance_score": 0.7239,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7075,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T07:39:07Z",
-      "latest_at": "2026-07-02T07:39:07Z",
-      "primary_item": {
-        "id": "338f15597c804ed8693a8a85a9fc1c54164fb9c2",
-        "title": "OpenAI提议美国政府持股5%估值426亿美元",
-        "url": "https://x.com/testingcatalog/status/2072585845542969583",
-        "source": "X：Testing Catalog (@testingcatalog)",
         "source_name": "AI HOT"
       }
     },
@@ -1494,15 +1434,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.723,
-      "importance": 0.723,
-      "importance_score": 0.723,
+      "score": 0.722,
+      "importance": 0.722,
+      "importance_score": 0.722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8189,
+        "recency": 0.8134,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1516,6 +1456,86 @@
         "title": "Fable 5 仅 4.44 美元搭建 Rube Goldberg 机器",
         "url": "https://x.com/OpenRouter/status/2072738704922439689",
         "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f1d85e98cefe",
+      "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+      "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+      "primary_url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "956ddad026f9f13f6d9598266fd1c7acbba9650d",
+          "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+          "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T12:37:49Z"
+        },
+        {
+          "id": "d36af898783e57a7259812a1fe033f73ee9817f7",
+          "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍 / AI agents can now complete 16 percent of freelance jobs at pro quality, up from 2.5 percent eight months ago",
+          "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-02T12:37:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "956ddad026f9f13f6d9598266fd1c7acbba9650d",
+          "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+          "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T12:37:49Z"
+        },
+        {
+          "id": "d36af898783e57a7259812a1fe033f73ee9817f7",
+          "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍 / AI agents can now complete 16 percent of freelance jobs at pro quality, up from 2.5 percent eight months ago",
+          "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-02T12:37:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7552,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-02T12:37:49Z",
+      "latest_at": "2026-07-02T12:37:49Z",
+      "primary_item": {
+        "id": "956ddad026f9f13f6d9598266fd1c7acbba9650d",
+        "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+        "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     }
