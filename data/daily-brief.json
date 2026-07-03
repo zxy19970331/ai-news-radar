@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T06:46:30.823322Z",
+  "generated_at": "2026-07-03T07:36:49.909523Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8649,
-      "importance": 0.8649,
-      "importance_score": 0.8649,
+      "score": 0.8628,
+      "importance": 0.8628,
+      "importance_score": 0.8628,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9738,
+        "recency": 0.9621,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8979,
+        "recency": 0.8871,
         "story_heat": 0.0
       },
       "category": "official",
@@ -238,15 +238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
+      "score": 0.8061,
+      "importance": 0.8061,
+      "importance_score": 0.8061,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9532,
+        "recency": 0.9417,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -300,15 +300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8332,
-      "importance": 0.8332,
-      "importance_score": 0.8332,
+      "score": 0.8312,
+      "importance": 0.8312,
+      "importance_score": 0.8312,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8953,
+        "recency": 0.8845,
         "story_heat": 0.0
       },
       "category": "official",
@@ -381,15 +381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7904,
+      "importance": 0.7904,
+      "importance_score": 0.7904,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.988,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -462,15 +462,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7831,
-      "importance": 0.7831,
-      "importance_score": 0.7831,
+      "score": 0.7813,
+      "importance": 0.7813,
+      "importance_score": 0.7813,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8474,
+        "recency": 0.8372,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -562,15 +562,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8103,
-      "importance": 0.8103,
-      "importance_score": 0.8103,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9927,
+        "recency": 0.9808,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -643,15 +643,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.902,
+        "recency": 0.8912,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -743,15 +743,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7674,
-      "importance": 0.7674,
-      "importance_score": 0.7674,
+      "score": 0.7658,
+      "importance": 0.7658,
+      "importance_score": 0.7658,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7545,
+        "recency": 0.7454,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -805,15 +805,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8251,
+      "importance": 0.8251,
+      "importance_score": 0.8251,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8612,
+        "recency": 0.8508,
         "story_heat": 0.0
       },
       "category": "official",
@@ -830,87 +830,6 @@
         "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_06c3d6eb6f58",
-      "title": "自由职业者危机？最新AI模型攻克16%远程项目，设计圈变天了",
-      "url": "https://www.aibase.com/news/29365",
-      "primary_url": "https://www.aibase.com/news/29365",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "34cbff3009eec9012ec5a731c8a4a5ecf2f18ebb",
-          "title": "自由职业者危机？最新AI模型攻克16%远程项目，设计圈变天了",
-          "url": "https://www.aibase.com/news/29365",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T06:46:30.823322Z"
-        },
-        {
-          "id": "cf5ae702e5ca39e50e09a4c5df4a27c914fb4d36",
-          "title": "自由职业者危机？最新 AI 模型攻克 16% 远程项目，设计圈变天了",
-          "url": "https://www.aibase.com/zh/news/29365",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "34cbff3009eec9012ec5a731c8a4a5ecf2f18ebb",
-          "title": "自由职业者危机？最新AI模型攻克16%远程项目，设计圈变天了",
-          "url": "https://www.aibase.com/news/29365",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T06:46:30.823322Z"
-        },
-        {
-          "id": "cf5ae702e5ca39e50e09a4c5df4a27c914fb4d36",
-          "title": "自由职业者危机？最新 AI 模型攻克 16% 远程项目，设计圈变天了",
-          "url": "https://www.aibase.com/zh/news/29365",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T06:46:30.823322Z",
-      "latest_at": "2026-07-03T06:46:30.823322Z",
-      "primary_item": {
-        "id": "34cbff3009eec9012ec5a731c8a4a5ecf2f18ebb",
-        "title": "自由职业者危机？最新AI模型攻克16%远程项目，设计圈变天了",
-        "url": "https://www.aibase.com/news/29365",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -967,15 +886,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8666,
+        "recency": 0.8562,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -992,6 +911,87 @@
         "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
         "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_06c3d6eb6f58",
+      "title": "自由职业者危机？最新AI模型攻克16%远程项目，设计圈变天了",
+      "url": "https://www.aibase.com/news/29365",
+      "primary_url": "https://www.aibase.com/news/29365",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "34cbff3009eec9012ec5a731c8a4a5ecf2f18ebb",
+          "title": "自由职业者危机？最新AI模型攻克16%远程项目，设计圈变天了",
+          "url": "https://www.aibase.com/news/29365",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T06:46:30.823322Z"
+        },
+        {
+          "id": "cf5ae702e5ca39e50e09a4c5df4a27c914fb4d36",
+          "title": "自由职业者危机？最新 AI 模型攻克 16% 远程项目，设计圈变天了",
+          "url": "https://www.aibase.com/zh/news/29365",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "34cbff3009eec9012ec5a731c8a4a5ecf2f18ebb",
+          "title": "自由职业者危机？最新AI模型攻克16%远程项目，设计圈变天了",
+          "url": "https://www.aibase.com/news/29365",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T06:46:30.823322Z"
+        },
+        {
+          "id": "cf5ae702e5ca39e50e09a4c5df4a27c914fb4d36",
+          "title": "自由职业者危机？最新 AI 模型攻克 16% 远程项目，设计圈变天了",
+          "url": "https://www.aibase.com/zh/news/29365",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7904,
+      "importance": 0.7904,
+      "importance_score": 0.7904,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.988,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T06:46:30.823322Z",
+      "latest_at": "2026-07-03T06:46:30.823322Z",
+      "primary_item": {
+        "id": "34cbff3009eec9012ec5a731c8a4a5ecf2f18ebb",
+        "title": "自由职业者危机？最新AI模型攻克16%远程项目，设计圈变天了",
+        "url": "https://www.aibase.com/news/29365",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1029,15 +1029,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7576,
-      "importance": 0.7576,
-      "importance_score": 0.7576,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8609,
+        "recency": 0.8505,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1090,15 +1090,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7576,
+        "recency": 0.7485,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1150,15 +1150,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8127,
+        "recency": 0.8029,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1173,6 +1173,87 @@
         "url": "https://x.com/kimmonismus/status/2072718147279335507",
         "source": "X：Kim (@kimmonismus)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_17acad24df5f",
+      "title": "订阅制红利终结？Anthropic收紧最强AI模型，Claude Fable5 将按量计费",
+      "url": "https://www.aibase.com/news/29368",
+      "primary_url": "https://www.aibase.com/news/29368",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3c0fe854cf8a6629c659301760ba8f0aded94858",
+          "title": "订阅制红利终结？Anthropic收紧最强AI模型，Claude Fable5 将按量计费",
+          "url": "https://www.aibase.com/news/29368",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T06:46:30.823322Z"
+        },
+        {
+          "id": "29d52b83cd36e29ec040456b63fbd169abd4818e",
+          "title": "订阅制红利终结？Anthropic 收紧最强 AI 模型，Claude Fable5 将按量计费",
+          "url": "https://www.aibase.com/zh/news/29368",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3c0fe854cf8a6629c659301760ba8f0aded94858",
+          "title": "订阅制红利终结？Anthropic收紧最强AI模型，Claude Fable5 将按量计费",
+          "url": "https://www.aibase.com/news/29368",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T06:46:30.823322Z"
+        },
+        {
+          "id": "29d52b83cd36e29ec040456b63fbd169abd4818e",
+          "title": "订阅制红利终结？Anthropic 收紧最强 AI 模型，Claude Fable5 将按量计费",
+          "url": "https://www.aibase.com/zh/news/29368",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7904,
+      "importance": 0.7904,
+      "importance_score": 0.7904,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.988,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T06:46:30.823322Z",
+      "latest_at": "2026-07-03T07:36:49.909523Z",
+      "primary_item": {
+        "id": "3c0fe854cf8a6629c659301760ba8f0aded94858",
+        "title": "订阅制红利终结？Anthropic收紧最强AI模型，Claude Fable5 将按量计费",
+        "url": "https://www.aibase.com/news/29368",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1210,15 +1291,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
+      "score": 0.8201,
+      "importance": 0.8201,
+      "importance_score": 0.8201,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8326,
+        "recency": 0.8225,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1291,15 +1372,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7589,
+      "importance": 0.7589,
+      "importance_score": 0.7589,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7892,
+        "recency": 0.7797,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1353,15 +1434,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7255,
-      "importance": 0.7255,
-      "importance_score": 0.7255,
+      "score": 0.7239,
+      "importance": 0.7239,
+      "importance_score": 0.7239,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7161,
+        "recency": 0.7075,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1413,15 +1494,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7248,
-      "importance": 0.7248,
-      "importance_score": 0.7248,
+      "score": 0.723,
+      "importance": 0.723,
+      "importance_score": 0.723,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8288,
+        "recency": 0.8189,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1435,66 +1516,6 @@
         "title": "Fable 5 仅 4.44 美元搭建 Rube Goldberg 机器",
         "url": "https://x.com/OpenRouter/status/2072738704922439689",
         "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_976f7a63ecae",
-      "title": "Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录",
-      "url": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg",
-      "primary_url": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9781e7316d748d05214d7c8e78be0e9857de1178",
-          "title": "Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录",
-          "url": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T00:16:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "9781e7316d748d05214d7c8e78be0e9857de1178",
-          "title": "Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录",
-          "url": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T00:16:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7215,
-      "importance": 0.7215,
-      "importance_score": 0.7215,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9103,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T00:16:00Z",
-      "latest_at": "2026-07-03T00:16:00Z",
-      "primary_item": {
-        "id": "9781e7316d748d05214d7c8e78be0e9857de1178",
-        "title": "Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录",
-        "url": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg",
-        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     }
