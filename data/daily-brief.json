@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T07:24:33.524181Z",
+  "generated_at": "2026-07-04T09:38:36.214988Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8049,
-      "importance": 0.8049,
-      "importance_score": 0.8049,
+      "score": 0.8004,
+      "importance": 0.8004,
+      "importance_score": 0.8004,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7825,
+        "recency": 0.7577,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7968,
-      "importance": 0.7968,
-      "importance_score": 0.7968,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8399,
+        "recency": 0.8133,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -143,87 +143,6 @@
         "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
         "url": "https://github.com/teamchong/pxpipe",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b0737e4d391d",
-      "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
-      "url": "https://www.ithome.com/0/972/341.htm",
-      "primary_url": "https://www.ithome.com/0/972/341.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c38c6afa12cdea3d0ce8f7a8e5c9409dd288db31",
-          "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
-          "url": "https://www.ithome.com/0/972/341.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T09:15:08Z"
-        },
-        {
-          "id": "d9e68f314dbb9109330ac351eaaf2a313301d1ab",
-          "title": "AI 服务首设专门规范：国家网信办就《互联网信息服务管理办法》再次公开征求意见，拟强化算法监管与账号管理",
-          "url": "https://www.ithome.com/0/972/341.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T09:15:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c38c6afa12cdea3d0ce8f7a8e5c9409dd288db31",
-          "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
-          "url": "https://www.ithome.com/0/972/341.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T09:15:08Z"
-        },
-        {
-          "id": "d9e68f314dbb9109330ac351eaaf2a313301d1ab",
-          "title": "AI 服务首设专门规范：国家网信办就《互联网信息服务管理办法》再次公开征求意见，拟强化算法监管与账号管理",
-          "url": "https://www.ithome.com/0/972/341.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T09:15:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7262,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T09:15:08Z",
-      "latest_at": "2026-07-03T09:15:08Z",
-      "primary_item": {
-        "id": "c38c6afa12cdea3d0ce8f7a8e5c9409dd288db31",
-        "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
-        "url": "https://www.ithome.com/0/972/341.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -300,15 +219,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7928,
+        "recency": 0.7676,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -381,15 +300,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7421,
+        "recency": 0.7185,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -442,15 +361,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.736,
+      "importance": 0.736,
+      "importance_score": 0.736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8342,
+        "recency": 0.8077,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -464,6 +383,66 @@
         "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
         "url": "https://simonwillison.net/2026/Jul/3/judgement",
         "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_065c0c83539d",
+      "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
+      "url": "https://www.ithome.com/0/972/424.htm",
+      "primary_url": "https://www.ithome.com/0/972/424.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d84e8e89198d578068fefa2f458bf27f1faf738e",
+          "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
+          "url": "https://www.ithome.com/0/972/424.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T11:57:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d84e8e89198d578068fefa2f458bf27f1faf738e",
+          "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
+          "url": "https://www.ithome.com/0/972/424.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T11:57:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7311,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T11:57:00Z",
+      "latest_at": "2026-07-03T11:57:00Z",
+      "primary_item": {
+        "id": "d84e8e89198d578068fefa2f458bf27f1faf738e",
+        "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
+        "url": "https://www.ithome.com/0/972/424.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -502,15 +481,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
+      "score": 0.7291,
+      "importance": 0.7291,
+      "importance_score": 0.7291,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7602,
+        "recency": 0.7361,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -525,326 +504,6 @@
         "url": "https://x.com/op7418/status/2073020264083050811",
         "source": "X：歸藏 (@op7418)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2f3259c510e3",
-      "title": "Wan Video 推出\"音乐伴舞\"新功能",
-      "url": "https://x.com/alibaba_cloud/status/2072967570441834771",
-      "primary_url": "https://x.com/alibaba_cloud/status/2072967570441834771",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cea08410338b9e562902d07b4b0a9f41897c215a",
-          "title": "Wan Video 推出\"音乐伴舞\"新功能",
-          "url": "https://x.com/alibaba_cloud/status/2072967570441834771",
-          "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T08:55:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿里云 / Alibaba Cloud (@alibaba_cloud)"
-      ],
-      "items": [
-        {
-          "id": "cea08410338b9e562902d07b4b0a9f41897c215a",
-          "title": "Wan Video 推出\"音乐伴舞\"新功能",
-          "url": "https://x.com/alibaba_cloud/status/2072967570441834771",
-          "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T08:55:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7228,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T08:55:57Z",
-      "latest_at": "2026-07-03T08:55:57Z",
-      "primary_item": {
-        "id": "cea08410338b9e562902d07b4b0a9f41897c215a",
-        "title": "Wan Video 推出\"音乐伴舞\"新功能",
-        "url": "https://x.com/alibaba_cloud/status/2072967570441834771",
-        "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_de5294d3d649",
-      "title": "微软 AI PC 专属系统 Project Aion 曝光，彻底取消传统开始菜单",
-      "url": "https://www.aibase.com/news/29370",
-      "primary_url": "https://www.aibase.com/news/29370",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "34ae436a2aa422cb3e67e19c3d6bf9a5cc169d08",
-          "title": "微软 AI PC 专属系统 Project Aion 曝光，彻底取消传统开始菜单",
-          "url": "https://www.aibase.com/news/29370",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T07:36:49.909523Z"
-        },
-        {
-          "id": "29d4556aa78a5b5333bc1fec0d20d3eed7b71579",
-          "title": "微软 AI PC 专属系统 Project Aion 曝光，彻底取消传统开始菜单",
-          "url": "https://www.aibase.com/zh/news/29370",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "34ae436a2aa422cb3e67e19c3d6bf9a5cc169d08",
-          "title": "微软 AI PC 专属系统 Project Aion 曝光，彻底取消传统开始菜单",
-          "url": "https://www.aibase.com/news/29370",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T07:36:49.909523Z"
-        },
-        {
-          "id": "29d4556aa78a5b5333bc1fec0d20d3eed7b71579",
-          "title": "微软 AI PC 专属系统 Project Aion 曝光，彻底取消传统开始菜单",
-          "url": "https://www.aibase.com/zh/news/29370",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7403,
-      "importance": 0.7403,
-      "importance_score": 0.7403,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7092,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T07:36:49.909523Z",
-      "latest_at": "2026-07-03T08:04:30.317617Z",
-      "primary_item": {
-        "id": "34ae436a2aa422cb3e67e19c3d6bf9a5cc169d08",
-        "title": "微软 AI PC 专属系统 Project Aion 曝光，彻底取消传统开始菜单",
-        "url": "https://www.aibase.com/news/29370",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_065c0c83539d",
-      "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
-      "url": "https://www.ithome.com/0/972/424.htm",
-      "primary_url": "https://www.ithome.com/0/972/424.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d84e8e89198d578068fefa2f458bf27f1faf738e",
-          "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
-          "url": "https://www.ithome.com/0/972/424.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T11:57:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d84e8e89198d578068fefa2f458bf27f1faf738e",
-          "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
-          "url": "https://www.ithome.com/0/972/424.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T11:57:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.755,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T11:57:00Z",
-      "latest_at": "2026-07-03T11:57:00Z",
-      "primary_item": {
-        "id": "d84e8e89198d578068fefa2f458bf27f1faf738e",
-        "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
-        "url": "https://www.ithome.com/0/972/424.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_45743761a27c",
-      "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-      "url": "https://www.aibase.com/news/29378",
-      "primary_url": "https://www.aibase.com/news/29378",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-          "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-          "url": "https://www.aibase.com/news/29378",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T10:45:10.433163Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-          "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-          "url": "https://www.aibase.com/news/29378",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T10:45:10.433163Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7421,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T10:45:10.433163Z",
-      "latest_at": "2026-07-03T10:45:10.433163Z",
-      "primary_item": {
-        "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-        "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-        "url": "https://www.aibase.com/news/29378",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0738428c0f84",
-      "title": "字节豆包 AI 手机项目生变：硬件负责人离职，项目进入“调整期”",
-      "url": "https://www.aibase.com/news/29376",
-      "primary_url": "https://www.aibase.com/news/29376",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ddfac41a22768f607730ed2715b2c7de54f9ea8b",
-          "title": "字节豆包 AI 手机项目生变：硬件负责人离职，项目进入“调整期”",
-          "url": "https://www.aibase.com/news/29376",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T10:45:10.433163Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ddfac41a22768f607730ed2715b2c7de54f9ea8b",
-          "title": "字节豆包 AI 手机项目生变：硬件负责人离职，项目进入“调整期”",
-          "url": "https://www.aibase.com/news/29376",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T10:45:10.433163Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7421,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T10:45:10.433163Z",
-      "latest_at": "2026-07-03T10:45:10.433163Z",
-      "primary_item": {
-        "id": "ddfac41a22768f607730ed2715b2c7de54f9ea8b",
-        "title": "字节豆包 AI 手机项目生变：硬件负责人离职，项目进入“调整期”",
-        "url": "https://www.aibase.com/news/29376",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -936,15 +595,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.616,
-      "importance": 0.616,
-      "importance_score": 0.616,
+      "score": 0.6113,
+      "importance": 0.6113,
+      "importance_score": 0.6113,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 0.82,
+        "recency": 0.794,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -959,66 +618,6 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-03",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_8d1469e1e213",
-      "title": "高盛研判下半年市场：资金撤离七大科技巨头，半导体等 AI 上游板块更受青睐",
-      "url": "https://www.aibase.com/news/29377",
-      "primary_url": "https://www.aibase.com/news/29377",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b78c38ec3853c6551e5121d2089aaf57e4eae952",
-          "title": "高盛研判下半年市场：资金撤离七大科技巨头，半导体等 AI 上游板块更受青睐",
-          "url": "https://www.aibase.com/news/29377",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T10:45:10.433163Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b78c38ec3853c6551e5121d2089aaf57e4eae952",
-          "title": "高盛研判下半年市场：资金撤离七大科技巨头，半导体等 AI 上游板块更受青睐",
-          "url": "https://www.aibase.com/news/29377",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T10:45:10.433163Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7421,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T10:45:10.433163Z",
-      "latest_at": "2026-07-03T10:45:10.433163Z",
-      "primary_item": {
-        "id": "b78c38ec3853c6551e5121d2089aaf57e4eae952",
-        "title": "高盛研判下半年市场：资金撤离七大科技巨头，半导体等 AI 上游板块更受青睐",
-        "url": "https://www.aibase.com/news/29377",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1075,15 +674,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5946,
-      "importance": 0.5946,
-      "importance_score": 0.5946,
+      "score": 0.5894,
+      "importance": 0.5894,
+      "importance_score": 0.5894,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9124,
+        "recency": 0.8835,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1098,6 +697,104 @@
         "url": "https://36kr.com/p/3880629882679301?f=rss",
         "source": "36Kr",
         "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_616f8e70b9f8",
+      "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
+      "url": "https://epoch.ai/data-insights/cve-severity-spike",
+      "primary_url": "https://epoch.ai/data-insights/cve-severity-spike",
+      "source": "epoch.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
+          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
+          "url": "https://epoch.ai/data-insights/cve-severity-spike",
+          "source": "epoch.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T09:11:45.212000Z"
+        },
+        {
+          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
+          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://news.ycombinator.com/item?id=48780056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T22:26:53.079000Z"
+        },
+        {
+          "id": "a69b5d2a2742a9b181059bdaea6d413489b551e8",
+          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://epoch.ai/data-insights/cve-severity-spike",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T21:16:16Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "epoch.ai",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
+          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
+          "url": "https://epoch.ai/data-insights/cve-severity-spike",
+          "source": "epoch.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T09:11:45.212000Z"
+        },
+        {
+          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
+          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://news.ycombinator.com/item?id=48780056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T22:26:53.079000Z"
+        },
+        {
+          "id": "a69b5d2a2742a9b181059bdaea6d413489b551e8",
+          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://epoch.ai/data-insights/cve-severity-spike",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T21:16:16Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5696,
+      "importance": 0.5696,
+      "importance_score": 0.5696,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9936,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T21:16:16Z",
+      "latest_at": "2026-07-04T09:11:45.212000Z",
+      "primary_item": {
+        "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
+        "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
+        "url": "https://epoch.ai/data-insights/cve-severity-spike",
+        "source": "epoch.ai",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1154,15 +851,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5935,
-      "importance": 0.5935,
-      "importance_score": 0.5935,
+      "score": 0.5878,
+      "importance": 0.5878,
+      "importance_score": 0.5878,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.999,
+        "recency": 0.9673,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1251,15 +948,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5585,
-      "importance": 0.5585,
-      "importance_score": 0.5585,
+      "score": 0.5532,
+      "importance": 0.5532,
+      "importance_score": 0.5532,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9319,
+        "recency": 0.9023,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1330,15 +1027,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5401,
+      "importance": 0.5401,
+      "importance_score": 0.5401,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9684,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1409,15 +1106,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5401,
+      "importance": 0.5401,
+      "importance_score": 0.5401,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9683,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1507,15 +1204,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5443,
-      "importance": 0.5443,
-      "importance_score": 0.5443,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.853,
+        "recency": 0.8259,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1530,6 +1227,438 @@
         "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
         "source": "inpreparation.substack.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_24e2bdc66332",
+      "title": "Jamesob 的本地运行 SOTA 大型语言模型指南",
+      "url": "https://github.com/jamesob/local-llm",
+      "primary_url": "https://github.com/jamesob/local-llm",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ddeec80a72889603ce582120ea75344d6c2c3521",
+          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南",
+          "url": "https://github.com/jamesob/local-llm",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T18:47:44.003000Z"
+        },
+        {
+          "id": "f6a87333ddd5376ea98fcb9458119952fbac94b0",
+          "title": "Jamesob 在本地运行 SOTA LLM 的指南 / Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://news.ycombinator.com/item?id=48775921",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T17:26:40.085000Z"
+        },
+        {
+          "id": "0acf9fda114bb3bb8e3d2a066c42b4900f646008",
+          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南 / Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://github.com/jamesob/local-llm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T15:03:43Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ddeec80a72889603ce582120ea75344d6c2c3521",
+          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南",
+          "url": "https://github.com/jamesob/local-llm",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T18:47:44.003000Z"
+        },
+        {
+          "id": "f6a87333ddd5376ea98fcb9458119952fbac94b0",
+          "title": "Jamesob 在本地运行 SOTA LLM 的指南 / Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://news.ycombinator.com/item?id=48775921",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T17:26:40.085000Z"
+        },
+        {
+          "id": "0acf9fda114bb3bb8e3d2a066c42b4900f646008",
+          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南 / Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://github.com/jamesob/local-llm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T15:03:43Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.807,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T15:03:43Z",
+      "latest_at": "2026-07-03T18:47:44.003000Z",
+      "primary_item": {
+        "id": "ddeec80a72889603ce582120ea75344d6c2c3521",
+        "title": "Jamesob 的本地运行 SOTA 大型语言模型指南",
+        "url": "https://github.com/jamesob/local-llm",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c6444be85c41",
+      "title": "来自加拉帕戈斯群岛的代理编码笔记 / Agentic coding notes from Galapagos Island",
+      "url": "https://danluu.com/ai-coding",
+      "primary_url": "https://danluu.com/ai-coding",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "87af066a3c168f120d99f40d94e83edb0f7ae2b0",
+          "title": "来自加拉帕戈斯群岛的代理编码笔记 / Agentic coding notes from Galapagos Island",
+          "url": "https://danluu.com/ai-coding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T04:37:15Z"
+        },
+        {
+          "id": "81f944eefb311f798f75869464b64b9d4e69f4d8",
+          "title": "来自加拉帕戈斯群岛的代理编码笔记 / Agentic coding notes from Galapogos Island",
+          "url": "https://danluu.com/ai-coding",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T03:54:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)"
+      ],
+      "items": [
+        {
+          "id": "87af066a3c168f120d99f40d94e83edb0f7ae2b0",
+          "title": "来自加拉帕戈斯群岛的代理编码笔记 / Agentic coding notes from Galapagos Island",
+          "url": "https://danluu.com/ai-coding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T04:37:15Z"
+        },
+        {
+          "id": "81f944eefb311f798f75869464b64b9d4e69f4d8",
+          "title": "来自加拉帕戈斯群岛的代理编码笔记 / Agentic coding notes from Galapogos Island",
+          "url": "https://danluu.com/ai-coding",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T03:54:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5332,
+      "importance": 0.5332,
+      "importance_score": 0.5332,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.93,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T03:54:01Z",
+      "latest_at": "2026-07-04T04:37:15Z",
+      "primary_item": {
+        "id": "87af066a3c168f120d99f40d94e83edb0f7ae2b0",
+        "title": "来自加拉帕戈斯群岛的代理编码笔记 / Agentic coding notes from Galapagos Island",
+        "url": "https://danluu.com/ai-coding",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_17fc9c6b8121",
+      "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
+      "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "69ce6334123f06d08a596817abda7f041e1fd040",
+          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
+          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T22:47:55.026000Z"
+        },
+        {
+          "id": "22f7ac03a76289d8eb4d728fcc6d2322bbfd1bd5",
+          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作 / Companies are hiring for something AI can't do, a review of millions of job listings found",
+          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T20:27:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "69ce6334123f06d08a596817abda7f041e1fd040",
+          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
+          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T22:47:55.026000Z"
+        },
+        {
+          "id": "22f7ac03a76289d8eb4d728fcc6d2322bbfd1bd5",
+          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作 / Companies are hiring for something AI can't do, a review of millions of job listings found",
+          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T20:27:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5197,
+      "importance": 0.5197,
+      "importance_score": 0.5197,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.855,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T20:27:34Z",
+      "latest_at": "2026-07-03T22:47:55.026000Z",
+      "primary_item": {
+        "id": "69ce6334123f06d08a596817abda7f041e1fd040",
+        "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
+        "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6dd39e80e7d5",
+      "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+      "url": "https://news.ycombinator.com/item?id=48777144",
+      "primary_url": "https://news.ycombinator.com/item?id=48777144",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f2879e84446177edbb2b1cadb62d80d74996c37a",
+          "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+          "url": "https://news.ycombinator.com/item?id=48777144",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T19:26:45.199000Z"
+        },
+        {
+          "id": "0106277eaab5730a881a5309eabed31f1085d700",
+          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI）",
+          "url": "https://github.com/kerlenton/mcpsnoop",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T16:55:50.504000Z"
+        },
+        {
+          "id": "de8087956e18e6c29ccf80f53bd8e4f2a1e3761d",
+          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+          "url": "https://github.com/kerlenton/mcpsnoop",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T16:53:50Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f2879e84446177edbb2b1cadb62d80d74996c37a",
+          "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+          "url": "https://news.ycombinator.com/item?id=48777144",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T19:26:45.199000Z"
+        },
+        {
+          "id": "0106277eaab5730a881a5309eabed31f1085d700",
+          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI）",
+          "url": "https://github.com/kerlenton/mcpsnoop",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T16:55:50.504000Z"
+        },
+        {
+          "id": "de8087956e18e6c29ccf80f53bd8e4f2a1e3761d",
+          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+          "url": "https://github.com/kerlenton/mcpsnoop",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T16:53:50Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5374,
+      "importance": 0.5374,
+      "importance_score": 0.5374,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8146,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T16:53:50Z",
+      "latest_at": "2026-07-03T19:26:45.199000Z",
+      "primary_item": {
+        "id": "f2879e84446177edbb2b1cadb62d80d74996c37a",
+        "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+        "url": "https://news.ycombinator.com/item?id=48777144",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_ddfb0d3e9261",
+      "title": "[OpenAI] 盲猜 2 小时后发布 GPT-5.6!",
+      "url": "https://www.v2ex.com/t/1224864",
+      "primary_url": "https://www.v2ex.com/t/1224864",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "a7d832f009cd8bbad74d4845eedfeb28a885f744",
+          "title": "[OpenAI] 盲猜 2 小时后发布 GPT-5.6!",
+          "url": "https://www.v2ex.com/t/1224864",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T16:39:57Z"
+        },
+        {
+          "id": "881b5b2732d49545988e99e8d6bc666ad4dc02dd",
+          "title": "[程序员] 盲猜 2 小时后发布 GPT-5.6!",
+          "url": "https://www.v2ex.com/t/1224864",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T16:39:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "a7d832f009cd8bbad74d4845eedfeb28a885f744",
+          "title": "[OpenAI] 盲猜 2 小时后发布 GPT-5.6!",
+          "url": "https://www.v2ex.com/t/1224864",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T16:39:57Z"
+        },
+        {
+          "id": "881b5b2732d49545988e99e8d6bc666ad4dc02dd",
+          "title": "[程序员] 盲猜 2 小时后发布 GPT-5.6!",
+          "url": "https://www.v2ex.com/t/1224864",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T16:39:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5067,
+      "importance": 0.5067,
+      "importance_score": 0.5067,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7826,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T16:39:57Z",
+      "latest_at": "2026-07-03T16:39:57Z",
+      "primary_item": {
+        "id": "a7d832f009cd8bbad74d4845eedfeb28a885f744",
+        "title": "[OpenAI] 盲猜 2 小时后发布 GPT-5.6!",
+        "url": "https://www.v2ex.com/t/1224864",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     }
   ]
