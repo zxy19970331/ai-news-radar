@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T17:48:20.638310Z",
+  "generated_at": "2026-07-06T20:07:19.328764Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8541,
-      "importance": 0.8541,
-      "importance_score": 0.8541,
+      "score": 0.8484,
+      "importance": 0.8484,
+      "importance_score": 0.8484,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9675,
+        "recency": 0.9356,
         "story_heat": 0.0
       },
       "category": "official",
@@ -125,6 +125,87 @@
         "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_506f3c6ff46a",
+      "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
+      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
+      "primary_url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c510dd78fec55b982109ae9f1fd9e8a1fac8a294",
+          "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
+          "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T18:35:00Z"
+        },
+        {
+          "id": "ad58da57f730ee5c13d5cf316f003be3441908ee",
+          "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位 / Every major tech layoff in 2026 that has name-checked AI",
+          "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-06T18:35:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c510dd78fec55b982109ae9f1fd9e8a1fac8a294",
+          "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
+          "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T18:35:00Z"
+        },
+        {
+          "id": "ad58da57f730ee5c13d5cf316f003be3441908ee",
+          "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位 / Every major tech layoff in 2026 that has name-checked AI",
+          "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-06T18:35:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.978,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T18:35:00Z",
+      "latest_at": "2026-07-06T18:35:00Z",
+      "primary_item": {
+        "id": "c510dd78fec55b982109ae9f1fd9e8a1fac8a294",
+        "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
+        "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -181,15 +262,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9912,
+        "recency": 0.9586,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -262,15 +343,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
+      "score": 0.7939,
+      "importance": 0.7939,
+      "importance_score": 0.7939,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9896,
+        "recency": 0.9571,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -324,15 +405,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7669,
-      "importance": 0.7669,
-      "importance_score": 0.7669,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.946,
+        "recency": 0.9149,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -347,6 +428,67 @@
         "title": "免费开源API中转站监测网站tokhub.me上线",
         "url": "https://x.com/vista8/status/2074130700421456089",
         "source": "X：Vista (@vista8)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cb93fdb7a13f",
+      "title": "Claude Code 团队详解四种智能体循环类型",
+      "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
+      "primary_url": "https://x.com/ClaudeDevs/status/2074208949205881033",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "83f34b28467b2172c9f2655e4c5e0904bf54636f",
+          "title": "Claude Code 团队详解四种智能体循环类型",
+          "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T19:08:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)"
+      ],
+      "items": [
+        {
+          "id": "83f34b28467b2172c9f2655e4c5e0904bf54636f",
+          "title": "Claude Code 团队详解四种智能体循环类型",
+          "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T19:08:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.986,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T19:08:45Z",
+      "latest_at": "2026-07-06T19:08:45Z",
+      "primary_item": {
+        "id": "83f34b28467b2172c9f2655e4c5e0904bf54636f",
+        "title": "Claude Code 团队详解四种智能体循环类型",
+        "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
+        "source": "X：Claude Devs (@ClaudeDevs)",
         "source_name": "AI HOT"
       }
     },
@@ -404,15 +546,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7928,
-      "importance": 0.7928,
-      "importance_score": 0.7928,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9177,
+        "recency": 0.8876,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -429,6 +571,129 @@
         "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b25a47366a60",
+      "title": "Claude Fable实地指南：发现你的未知",
+      "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+      "primary_url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "50fb66c456ff8c0d2528f0733783fe9511449e58",
+          "title": "Claude Fable实地指南：发现你的未知",
+          "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T18:20:11.364000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "50fb66c456ff8c0d2528f0733783fe9511449e58",
+          "title": "Claude Fable实地指南：发现你的未知",
+          "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T18:20:11.364000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9745,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T18:20:11.364000Z",
+      "latest_at": "2026-07-06T18:20:11.364000Z",
+      "primary_item": {
+        "id": "50fb66c456ff8c0d2528f0733783fe9511449e58",
+        "title": "Claude Fable实地指南：发现你的未知",
+        "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c57690ad336e",
+      "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "primary_url": "https://huggingface.co/blog/revamped-kernels",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
+          "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+          "url": "https://huggingface.co/blog/revamped-kernels",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-06T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
+          "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+          "url": "https://huggingface.co/blog/revamped-kernels",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-06T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8146,
+      "importance": 0.8146,
+      "importance_score": 0.8146,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7478,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T00:00:00Z",
+      "latest_at": "2026-07-06T00:00:00Z",
+      "primary_item": {
+        "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
+        "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+        "url": "https://huggingface.co/blog/revamped-kernels",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -485,15 +750,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7545,
+      "importance": 0.7545,
+      "importance_score": 0.7545,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8326,
+        "recency": 0.8052,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -510,68 +775,6 @@
         "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
         "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c57690ad336e",
-      "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
-      "url": "https://huggingface.co/blog/revamped-kernels",
-      "primary_url": "https://huggingface.co/blog/revamped-kernels",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
-          "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
-          "url": "https://huggingface.co/blog/revamped-kernels",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-06T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
-          "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
-          "url": "https://huggingface.co/blog/revamped-kernels",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-06T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7733,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T00:00:00Z",
-      "latest_at": "2026-07-06T00:00:00Z",
-      "primary_item": {
-        "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
-        "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
-        "url": "https://huggingface.co/blog/revamped-kernels",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -628,22 +831,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7497,
+      "importance": 0.7497,
+      "importance_score": 0.7497,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7877,
+        "recency": 0.7618,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-06T01:17:00.352152Z",
       "latest_at": "2026-07-06T01:17:00.352152Z",
@@ -653,67 +855,6 @@
         "url": "https://www.aibase.com/news/29381",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7922f10f113d",
-      "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
-      "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "53258a420fcd5e82ddf65c72dbfc5a4e39d64f3b",
-          "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
-          "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T18:19:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "53258a420fcd5e82ddf65c72dbfc5a4e39d64f3b",
-          "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
-          "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T18:19:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7125,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-05T18:19:42Z",
-      "latest_at": "2026-07-05T18:19:42Z",
-      "primary_item": {
-        "id": "53258a420fcd5e82ddf65c72dbfc5a4e39d64f3b",
-        "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
-        "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -751,21 +892,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8856,
+        "recency": 0.8564,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-06T09:23:28Z",
       "latest_at": "2026-07-06T09:23:28Z",
@@ -774,6 +914,66 @@
         "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
         "url": "https://www.ithome.com/0/973/207.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_de6778c5c1da",
+      "title": "OpenClaw 登陆 HuggingFace 本地应用",
+      "url": "https://x.com/openclaw/status/2074187998602871212",
+      "primary_url": "https://x.com/openclaw/status/2074187998602871212",
+      "source": "X：OpenClaw (@openclaw)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5ebe89bc4bc8977fba9d98f97d9ad09e46a73dd1",
+          "title": "OpenClaw 登陆 HuggingFace 本地应用",
+          "url": "https://x.com/openclaw/status/2074187998602871212",
+          "source": "X：OpenClaw (@openclaw)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T17:45:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenClaw (@openclaw)"
+      ],
+      "items": [
+        {
+          "id": "5ebe89bc4bc8977fba9d98f97d9ad09e46a73dd1",
+          "title": "OpenClaw 登陆 HuggingFace 本地应用",
+          "url": "https://x.com/openclaw/status/2074187998602871212",
+          "source": "X：OpenClaw (@openclaw)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T17:45:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9664,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T17:45:30Z",
+      "latest_at": "2026-07-06T17:45:30Z",
+      "primary_item": {
+        "id": "5ebe89bc4bc8977fba9d98f97d9ad09e46a73dd1",
+        "title": "OpenClaw 登陆 HuggingFace 本地应用",
+        "url": "https://x.com/openclaw/status/2074187998602871212",
+        "source": "X：OpenClaw (@openclaw)",
         "source_name": "AI HOT"
       }
     },
@@ -812,15 +1012,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8452,
+        "recency": 0.8174,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -872,15 +1072,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9912,
+        "recency": 0.9586,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -932,15 +1132,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7329,
-      "importance": 0.7329,
-      "importance_score": 0.7329,
+      "score": 0.7285,
+      "importance": 0.7285,
+      "importance_score": 0.7285,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7406,
+        "recency": 0.7162,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -992,15 +1192,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7278,
+      "importance": 0.7278,
+      "importance_score": 0.7278,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7881,
+        "recency": 0.7622,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1071,22 +1271,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7497,
+      "importance": 0.7497,
+      "importance_score": 0.7497,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7877,
+        "recency": 0.7618,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-06T01:17:00.352152Z",
       "latest_at": "2026-07-06T01:17:00.352152Z",
@@ -1096,66 +1295,6 @@
         "url": "https://www.aibase.com/news/29380",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_60bdc3118a12",
-      "title": "Runway 宣布设立巴黎办公室",
-      "url": "https://runwayml.com/news/announcing-our-paris-office",
-      "primary_url": "https://runwayml.com/news/announcing-our-paris-office",
-      "source": "Runway：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8fdee97c9c4caa844f4811fc26dccc86696228f1",
-          "title": "Runway 宣布设立巴黎办公室",
-          "url": "https://runwayml.com/news/announcing-our-paris-office",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T08:33:02.716000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Runway：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "8fdee97c9c4caa844f4811fc26dccc86696228f1",
-          "title": "Runway 宣布设立巴黎办公室",
-          "url": "https://runwayml.com/news/announcing-our-paris-office",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T08:33:02.716000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7241,
-      "importance": 0.7241,
-      "importance_score": 0.7241,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8749,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T08:33:02.716000Z",
-      "latest_at": "2026-07-06T08:33:02.716000Z",
-      "primary_item": {
-        "id": "8fdee97c9c4caa844f4811fc26dccc86696228f1",
-        "title": "Runway 宣布设立巴黎办公室",
-        "url": "https://runwayml.com/news/announcing-our-paris-office",
-        "source": "Runway：News（网页）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1212,15 +1351,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7799,
-      "importance": 0.7799,
-      "importance_score": 0.7799,
+      "score": 0.7747,
+      "importance": 0.7747,
+      "importance_score": 0.7747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8797,
+        "recency": 0.8507,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1237,127 +1376,6 @@
         "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3bc87a70e847",
-      "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
-      "url": "https://www.ithome.com/0/972/896.htm",
-      "primary_url": "https://www.ithome.com/0/972/896.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
-          "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
-          "url": "https://www.ithome.com/0/972/896.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T01:09:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
-          "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
-          "url": "https://www.ithome.com/0/972/896.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T01:09:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7863,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T01:09:29Z",
-      "latest_at": "2026-07-06T01:09:29Z",
-      "primary_item": {
-        "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
-        "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
-        "url": "https://www.ithome.com/0/972/896.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_083716f16ea9",
-      "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
-      "url": "https://www.aibase.com/news/29405",
-      "primary_url": "https://www.aibase.com/news/29405",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cb6dc8988f87449a0c5b953346aad3d7ebcc4f38",
-          "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
-          "url": "https://www.aibase.com/news/29405",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T11:13:43.606223Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cb6dc8988f87449a0c5b953346aad3d7ebcc4f38",
-          "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
-          "url": "https://www.aibase.com/news/29405",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T11:13:43.606223Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9094,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T11:13:43.606223Z",
-      "latest_at": "2026-07-06T11:13:43.606223Z",
-      "primary_item": {
-        "id": "cb6dc8988f87449a0c5b953346aad3d7ebcc4f38",
-        "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
-        "url": "https://www.aibase.com/news/29405",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
