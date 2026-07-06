@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T20:07:19.328764Z",
+  "generated_at": "2026-07-06T23:16:33.062681Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -66,6 +66,106 @@
       }
     },
     {
+      "story_id": "story_f99d93502f25",
+      "title": "OfficeCLI：为AI智能体设计的开源Office套件",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "primary_url": "https://github.com/iOfficeAI/OfficeCLI",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "af35e8324ec11e66e4c2d925008120b4681737e8",
+          "title": "OfficeCLI：为AI智能体设计的开源Office套件",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T23:03:34.910000Z"
+        },
+        {
+          "id": "ba19c049fc47525250db293a0bf3a01cb738f6e5",
+          "title": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-06T23:03:34.910000Z"
+        },
+        {
+          "id": "1daa69c01a65c4d5eae24e6e51f5d6b3942efbd4",
+          "title": "OfficeCLI：为AI智能体设计的开源Office套件 / OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-06T16:47:44Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "af35e8324ec11e66e4c2d925008120b4681737e8",
+          "title": "OfficeCLI：为AI智能体设计的开源Office套件",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T23:03:34.910000Z"
+        },
+        {
+          "id": "ba19c049fc47525250db293a0bf3a01cb738f6e5",
+          "title": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-06T23:03:34.910000Z"
+        },
+        {
+          "id": "1daa69c01a65c4d5eae24e6e51f5d6b3942efbd4",
+          "title": "OfficeCLI：为AI智能体设计的开源Office套件 / OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-06T16:47:44Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.826,
+      "importance": 0.826,
+      "importance_score": 0.826,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9969,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T16:47:44Z",
+      "latest_at": "2026-07-06T23:03:34.910000Z",
+      "primary_item": {
+        "id": "af35e8324ec11e66e4c2d925008120b4681737e8",
+        "title": "OfficeCLI：为AI智能体设计的开源Office套件",
+        "url": "https://github.com/iOfficeAI/OfficeCLI",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
       "story_id": "story_088a18b234ed",
       "title": "PRX 第 4 部分：我们的数据策略 / PRX Part 4: Our Data Strategy",
       "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
@@ -100,15 +200,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8484,
-      "importance": 0.8484,
-      "importance_score": 0.8484,
+      "score": 0.8409,
+      "importance": 0.8409,
+      "importance_score": 0.8409,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9356,
+        "recency": 0.894,
         "story_heat": 0.0
       },
       "category": "official",
@@ -181,15 +281,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8066,
-      "importance": 0.8066,
-      "importance_score": 0.8066,
+      "score": 0.7988,
+      "importance": 0.7988,
+      "importance_score": 0.7988,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.978,
+        "recency": 0.9345,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -205,6 +305,87 @@
         "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
         "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_94d69a90ce66",
+      "title": "Claude Code v2.1.202 发布",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
+      "primary_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9c1515f292cb1af9a7890347fece79d9ca8a9706",
+          "title": "Claude Code v2.1.202 发布",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T22:51:16Z"
+        },
+        {
+          "id": "0a2a4fd89c02c4615a2b4fad656e1e590b7c04b2",
+          "title": "v2.1.202",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
+          "source": "Claude Code Releases",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-06T22:51:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Claude Code Releases",
+        "Claude Code：GitHub Releases（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9c1515f292cb1af9a7890347fece79d9ca8a9706",
+          "title": "Claude Code v2.1.202 发布",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T22:51:16Z"
+        },
+        {
+          "id": "0a2a4fd89c02c4615a2b4fad656e1e590b7c04b2",
+          "title": "v2.1.202",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
+          "source": "Claude Code Releases",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-06T22:51:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7765,
+      "importance": 0.7765,
+      "importance_score": 0.7765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9939,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T22:51:16Z",
+      "latest_at": "2026-07-06T22:51:16Z",
+      "primary_item": {
+        "id": "9c1515f292cb1af9a7890347fece79d9ca8a9706",
+        "title": "Claude Code v2.1.202 发布",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
+        "source": "Claude Code：GitHub Releases（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -262,15 +443,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9586,
+        "recency": 0.9159,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -343,15 +524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7939,
-      "importance": 0.7939,
-      "importance_score": 0.7939,
+      "score": 0.7862,
+      "importance": 0.7862,
+      "importance_score": 0.7862,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9571,
+        "recency": 0.9145,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -405,15 +586,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7613,
-      "importance": 0.7613,
-      "importance_score": 0.7613,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9149,
+        "recency": 0.8742,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -466,15 +647,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.986,
+        "recency": 0.9421,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -489,87 +670,6 @@
         "title": "Claude Code 团队详解四种智能体循环类型",
         "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
         "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_944998d16f3d",
-      "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
-      "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
-      "primary_url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "234c3a7286511e967d1c6a34704ee17e05352bb0",
-          "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
-          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T11:51:40.808000Z"
-        },
-        {
-          "id": "3b70c3267e06134915113a248c810f481242a2ed",
-          "title": "人工智能彻底颠覆了初级程序员的就业市场",
-          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
-          "source": "seldo.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-06T11:51:40.808000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "seldo.com"
-      ],
-      "items": [
-        {
-          "id": "234c3a7286511e967d1c6a34704ee17e05352bb0",
-          "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
-          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T11:51:40.808000Z"
-        },
-        {
-          "id": "3b70c3267e06134915113a248c810f481242a2ed",
-          "title": "人工智能彻底颠覆了初级程序员的就业市场",
-          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
-          "source": "seldo.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-06T11:51:40.808000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7874,
-      "importance": 0.7874,
-      "importance_score": 0.7874,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8876,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T11:51:40.808000Z",
-      "latest_at": "2026-07-06T11:51:40.808000Z",
-      "primary_item": {
-        "id": "234c3a7286511e967d1c6a34704ee17e05352bb0",
-        "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
-        "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -608,21 +708,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9745,
+        "recency": 0.9312,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-06T18:20:11.364000Z",
       "latest_at": "2026-07-06T18:20:11.364000Z",
@@ -669,15 +768,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7478,
+        "recency": 0.7145,
         "story_heat": 0.0
       },
       "category": "official",
@@ -750,22 +849,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8052,
+        "recency": 0.7694,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-06T05:07:12Z",
       "latest_at": "2026-07-06T05:07:12Z",
@@ -831,15 +929,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7618,
+        "recency": 0.7279,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -892,15 +990,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7448,
-      "importance": 0.7448,
-      "importance_score": 0.7448,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8564,
+        "recency": 0.8183,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -952,15 +1050,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9664,
+        "recency": 0.9234,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1012,15 +1110,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7377,
-      "importance": 0.7377,
-      "importance_score": 0.7377,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8174,
+        "recency": 0.781,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1072,15 +1170,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.7255,
+      "importance": 0.7255,
+      "importance_score": 0.7255,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9586,
+        "recency": 0.916,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1094,66 +1192,6 @@
         "title": "SGLang 集成 DSpark 推测解码：置信度驱动的可变长度验证",
         "url": "https://www.lmsys.org/blog/2026-07-06-dspark-sglang",
         "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d28fc2c68cfb",
-      "title": "NVIDIA Kyber NVL144 延迟超 12 个月至 2028",
-      "url": "https://x.com/SemiAnalysis_/status/2073874671498387899",
-      "primary_url": "https://x.com/SemiAnalysis_/status/2073874671498387899",
-      "source": "X：SemiAnalysis (@SemiAnalysis_)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "972b177f1f6a6cc07513c17a43ed8f745cc3e267",
-          "title": "NVIDIA Kyber NVL144 延迟超 12 个月至 2028",
-          "url": "https://x.com/SemiAnalysis_/status/2073874671498387899",
-          "source": "X：SemiAnalysis (@SemiAnalysis_)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T21:00:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：SemiAnalysis (@SemiAnalysis_)"
-      ],
-      "items": [
-        {
-          "id": "972b177f1f6a6cc07513c17a43ed8f745cc3e267",
-          "title": "NVIDIA Kyber NVL144 延迟超 12 个月至 2028",
-          "url": "https://x.com/SemiAnalysis_/status/2073874671498387899",
-          "source": "X：SemiAnalysis (@SemiAnalysis_)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T21:00:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7285,
-      "importance": 0.7285,
-      "importance_score": 0.7285,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7162,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-05T21:00:27Z",
-      "latest_at": "2026-07-05T21:00:27Z",
-      "primary_item": {
-        "id": "972b177f1f6a6cc07513c17a43ed8f745cc3e267",
-        "title": "NVIDIA Kyber NVL144 延迟超 12 个月至 2028",
-        "url": "https://x.com/SemiAnalysis_/status/2073874671498387899",
-        "source": "X：SemiAnalysis (@SemiAnalysis_)",
         "source_name": "AI HOT"
       }
     },
@@ -1192,15 +1230,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7278,
-      "importance": 0.7278,
-      "importance_score": 0.7278,
+      "score": 0.7217,
+      "importance": 0.7217,
+      "importance_score": 0.7217,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7622,
+        "recency": 0.7283,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1214,6 +1252,87 @@
         "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
         "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
         "source": "公众号：卡尔的AI沃茨",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_944998d16f3d",
+      "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
+      "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+      "primary_url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "234c3a7286511e967d1c6a34704ee17e05352bb0",
+          "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T11:51:40.808000Z"
+        },
+        {
+          "id": "3b70c3267e06134915113a248c810f481242a2ed",
+          "title": "人工智能彻底颠覆了初级程序员的就业市场",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+          "source": "seldo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-06T11:51:40.808000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "seldo.com"
+      ],
+      "items": [
+        {
+          "id": "234c3a7286511e967d1c6a34704ee17e05352bb0",
+          "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T11:51:40.808000Z"
+        },
+        {
+          "id": "3b70c3267e06134915113a248c810f481242a2ed",
+          "title": "人工智能彻底颠覆了初级程序员的就业市场",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+          "source": "seldo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-06T11:51:40.808000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7802,
+      "importance": 0.7802,
+      "importance_score": 0.7802,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.848,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T11:51:40.808000Z",
+      "latest_at": "2026-07-06T11:51:40.808000Z",
+      "primary_item": {
+        "id": "234c3a7286511e967d1c6a34704ee17e05352bb0",
+        "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
+        "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1271,15 +1390,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7618,
+        "recency": 0.7279,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1295,87 +1414,6 @@
         "url": "https://www.aibase.com/news/29380",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b463ef360b99",
-      "title": "AT&T 1956年专利法令：公共天才的私有化",
-      "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-      "primary_url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cee25004ef8603d93aaeb8d5643bd7bb5b88c57e",
-          "title": "AT&T 1956年专利法令：公共天才的私有化",
-          "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T08:55:43.404000Z"
-        },
-        {
-          "id": "4c230bd9d4596488aa09867088346e4fd2b92de7",
-          "title": "AT&T 1956年专利法令：公共天才的私有化 / The Private Capture of Public Genius",
-          "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T23:52:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "cee25004ef8603d93aaeb8d5643bd7bb5b88c57e",
-          "title": "AT&T 1956年专利法令：公共天才的私有化",
-          "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T08:55:43.404000Z"
-        },
-        {
-          "id": "4c230bd9d4596488aa09867088346e4fd2b92de7",
-          "title": "AT&T 1956年专利法令：公共天才的私有化 / The Private Capture of Public Genius",
-          "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T23:52:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8507,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-05T23:52:20Z",
-      "latest_at": "2026-07-06T08:55:43.404000Z",
-      "primary_item": {
-        "id": "cee25004ef8603d93aaeb8d5643bd7bb5b88c57e",
-        "title": "AT&T 1956年专利法令：公共天才的私有化",
-        "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     }
   ]
