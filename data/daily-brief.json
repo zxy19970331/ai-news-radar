@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T11:13:43.606223Z",
+  "generated_at": "2026-07-06T14:43:34.886918Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -66,6 +66,87 @@
       }
     },
     {
+      "story_id": "story_944998d16f3d",
+      "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
+      "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+      "primary_url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "234c3a7286511e967d1c6a34704ee17e05352bb0",
+          "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T11:51:40.808000Z"
+        },
+        {
+          "id": "3b70c3267e06134915113a248c810f481242a2ed",
+          "title": "人工智能彻底颠覆了初级程序员的就业市场",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+          "source": "seldo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-06T11:51:40.808000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "seldo.com"
+      ],
+      "items": [
+        {
+          "id": "234c3a7286511e967d1c6a34704ee17e05352bb0",
+          "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T11:51:40.808000Z"
+        },
+        {
+          "id": "3b70c3267e06134915113a248c810f481242a2ed",
+          "title": "人工智能彻底颠覆了初级程序员的就业市场",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+          "source": "seldo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-06T11:51:40.808000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8003,
+      "importance": 0.8003,
+      "importance_score": 0.8003,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9595,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T11:51:40.808000Z",
+      "latest_at": "2026-07-06T11:51:40.808000Z",
+      "primary_item": {
+        "id": "234c3a7286511e967d1c6a34704ee17e05352bb0",
+        "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
+        "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
       "story_id": "story_c57690ad336e",
       "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
       "url": "https://huggingface.co/blog/revamped-kernels",
@@ -100,15 +181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8331,
-      "importance": 0.8331,
-      "importance_score": 0.8331,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8503,
+        "recency": 0.8084,
         "story_heat": 0.0
       },
       "category": "official",
@@ -128,83 +209,63 @@
       }
     },
     {
-      "story_id": "story_b463ef360b99",
-      "title": "AT&T 1956年专利法令：公共天才的私有化",
-      "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-      "primary_url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_f8c6e8e93c27",
+      "title": "免费开源API中转站监测网站tokhub.me上线",
+      "url": "https://x.com/vista8/status/2074130700421456089",
+      "primary_url": "https://x.com/vista8/status/2074130700421456089",
+      "source": "X：Vista (@vista8)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "cee25004ef8603d93aaeb8d5643bd7bb5b88c57e",
-          "title": "AT&T 1956年专利法令：公共天才的私有化",
-          "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "b231ca1c9137617bfb7c5fff872baca598ffb5cc",
+          "title": "免费开源API中转站监测网站tokhub.me上线",
+          "url": "https://x.com/vista8/status/2074130700421456089",
+          "source": "X：Vista (@vista8)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-06T08:55:43.404000Z"
-        },
-        {
-          "id": "4c230bd9d4596488aa09867088346e4fd2b92de7",
-          "title": "AT&T 1956年专利法令：公共天才的私有化 / The Private Capture of Public Genius",
-          "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T23:52:20Z"
+          "published_at": "2026-07-06T13:57:49Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "X：Vista (@vista8)"
       ],
       "items": [
         {
-          "id": "cee25004ef8603d93aaeb8d5643bd7bb5b88c57e",
-          "title": "AT&T 1956年专利法令：公共天才的私有化",
-          "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "b231ca1c9137617bfb7c5fff872baca598ffb5cc",
+          "title": "免费开源API中转站监测网站tokhub.me上线",
+          "url": "https://x.com/vista8/status/2074130700421456089",
+          "source": "X：Vista (@vista8)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-06T08:55:43.404000Z"
-        },
-        {
-          "id": "4c230bd9d4596488aa09867088346e4fd2b92de7",
-          "title": "AT&T 1956年专利法令：公共天才的私有化 / The Private Capture of Public Genius",
-          "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T23:52:20Z"
+          "published_at": "2026-07-06T13:57:49Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7957,
-      "importance": 0.7957,
-      "importance_score": 0.7957,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7746,
+      "importance": 0.7746,
+      "importance_score": 0.7746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9673,
-        "story_heat": 0.25
+        "recency": 0.989,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-05T23:52:20Z",
-      "latest_at": "2026-07-06T08:55:43.404000Z",
+      "earliest_at": "2026-07-06T13:57:49Z",
+      "latest_at": "2026-07-06T13:57:49Z",
       "primary_item": {
-        "id": "cee25004ef8603d93aaeb8d5643bd7bb5b88c57e",
-        "title": "AT&T 1956年专利法令：公共天才的私有化",
-        "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "b231ca1c9137617bfb7c5fff872baca598ffb5cc",
+        "title": "免费开源API中转站监测网站tokhub.me上线",
+        "url": "https://x.com/vista8/status/2074130700421456089",
+        "source": "X：Vista (@vista8)",
         "source_name": "AI HOT"
       }
     },
@@ -262,15 +323,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9156,
+        "recency": 0.8705,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -343,15 +404,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8662,
+        "recency": 0.8236,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -368,67 +429,6 @@
         "url": "https://www.aibase.com/news/29381",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9074fbe55dba",
-      "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-      "url": "https://www.ithome.com/0/973/207.htm",
-      "primary_url": "https://www.ithome.com/0/973/207.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b971e664e08458d1ac031b373405c8139ef6c669",
-          "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-          "url": "https://www.ithome.com/0/973/207.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T09:23:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b971e664e08458d1ac031b373405c8139ef6c669",
-          "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-          "url": "https://www.ithome.com/0/973/207.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T09:23:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9738,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T09:23:28Z",
-      "latest_at": "2026-07-06T09:23:28Z",
-      "primary_item": {
-        "id": "b971e664e08458d1ac031b373405c8139ef6c669",
-        "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-        "url": "https://www.ithome.com/0/973/207.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -466,15 +466,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7646,
-      "importance": 0.7646,
-      "importance_score": 0.7646,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7834,
+        "recency": 0.7449,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -489,6 +489,148 @@
         "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
         "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9074fbe55dba",
+      "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
+      "url": "https://www.ithome.com/0/973/207.htm",
+      "primary_url": "https://www.ithome.com/0/973/207.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b971e664e08458d1ac031b373405c8139ef6c669",
+          "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
+          "url": "https://www.ithome.com/0/973/207.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T09:23:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b971e664e08458d1ac031b373405c8139ef6c669",
+          "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
+          "url": "https://www.ithome.com/0/973/207.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T09:23:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9258,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T09:23:28Z",
+      "latest_at": "2026-07-06T09:23:28Z",
+      "primary_item": {
+        "id": "b971e664e08458d1ac031b373405c8139ef6c669",
+        "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
+        "url": "https://www.ithome.com/0/973/207.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b463ef360b99",
+      "title": "AT&T 1956年专利法令：公共天才的私有化",
+      "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
+      "primary_url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cee25004ef8603d93aaeb8d5643bd7bb5b88c57e",
+          "title": "AT&T 1956年专利法令：公共天才的私有化",
+          "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T08:55:43.404000Z"
+        },
+        {
+          "id": "4c230bd9d4596488aa09867088346e4fd2b92de7",
+          "title": "AT&T 1956年专利法令：公共天才的私有化 / The Private Capture of Public Genius",
+          "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T23:52:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "cee25004ef8603d93aaeb8d5643bd7bb5b88c57e",
+          "title": "AT&T 1956年专利法令：公共天才的私有化",
+          "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T08:55:43.404000Z"
+        },
+        {
+          "id": "4c230bd9d4596488aa09867088346e4fd2b92de7",
+          "title": "AT&T 1956年专利法令：公共天才的私有化 / The Private Capture of Public Genius",
+          "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T23:52:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9197,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-05T23:52:20Z",
+      "latest_at": "2026-07-06T08:55:43.404000Z",
+      "primary_item": {
+        "id": "cee25004ef8603d93aaeb8d5643bd7bb5b88c57e",
+        "title": "AT&T 1956年专利法令：公共天才的私有化",
+        "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -527,21 +669,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
+      "score": 0.7497,
+      "importance": 0.7497,
+      "importance_score": 0.7497,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9294,
+        "recency": 0.8836,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-06T06:09:29Z",
       "latest_at": "2026-07-06T06:09:29Z",
@@ -550,126 +691,6 @@
         "title": "Fun-ASR-Realtime 发布：单模型支持30种语言与16种方言，识别准确率领先",
         "url": "https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA",
         "source": "公众号：通义实验室（千问）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6819bbcdbee9",
-      "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
-      "url": "https://x.com/Meituan_LongCat/status/2073768940078317713",
-      "primary_url": "https://x.com/Meituan_LongCat/status/2073768940078317713",
-      "source": "X：美团 LongCat (@Meituan_LongCat)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e34acdb4b27e366222318e7f8c949ce5df701eec",
-          "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
-          "url": "https://x.com/Meituan_LongCat/status/2073768940078317713",
-          "source": "X：美团 LongCat (@Meituan_LongCat)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T14:00:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：美团 LongCat (@Meituan_LongCat)"
-      ],
-      "items": [
-        {
-          "id": "e34acdb4b27e366222318e7f8c949ce5df701eec",
-          "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
-          "url": "https://x.com/Meituan_LongCat/status/2073768940078317713",
-          "source": "X：美团 LongCat (@Meituan_LongCat)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T14:00:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.736,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-05T14:00:18Z",
-      "latest_at": "2026-07-05T14:00:18Z",
-      "primary_item": {
-        "id": "e34acdb4b27e366222318e7f8c949ce5df701eec",
-        "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
-        "url": "https://x.com/Meituan_LongCat/status/2073768940078317713",
-        "source": "X：美团 LongCat (@Meituan_LongCat)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1cdb1783355f",
-      "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
-      "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
-      "primary_url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
-      "source": "公众号：卡尔的AI沃茨",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
-          "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
-          "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T01:19:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：卡尔的AI沃茨"
-      ],
-      "items": [
-        {
-          "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
-          "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
-          "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T01:19:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8667,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T01:19:09Z",
-      "latest_at": "2026-07-06T01:19:09Z",
-      "primary_item": {
-        "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
-        "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
-        "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
-        "source": "公众号：卡尔的AI沃茨",
         "source_name": "AI HOT"
       }
     },
@@ -708,15 +729,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8144,
+        "recency": 0.7742,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -730,6 +751,66 @@
         "title": "NVIDIA Kyber NVL144 延迟超 12 个月至 2028",
         "url": "https://x.com/SemiAnalysis_/status/2073874671498387899",
         "source": "X：SemiAnalysis (@SemiAnalysis_)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1cdb1783355f",
+      "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
+      "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+      "primary_url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+      "source": "公众号：卡尔的AI沃茨",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
+          "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
+          "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T01:19:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：卡尔的AI沃茨"
+      ],
+      "items": [
+        {
+          "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
+          "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
+          "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T01:19:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.824,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T01:19:09Z",
+      "latest_at": "2026-07-06T01:19:09Z",
+      "primary_item": {
+        "id": "2cdffe4d05f15619422990d5270843b21d85a0a5",
+        "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
+        "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+        "source": "公众号：卡尔的AI沃茨",
         "source_name": "AI HOT"
       }
     },
@@ -768,15 +849,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7398,
-      "importance": 0.7398,
-      "importance_score": 0.7398,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9621,
+        "recency": 0.9147,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -847,15 +928,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8662,
+        "recency": 0.8236,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -870,6 +951,127 @@
         "id": "81fa202686cea5a4d9e61bdf6d6d67df21ef336d",
         "title": "年费 51 万送孩子上\"AI私塾\"：美国富人正在用真金白银押注教育革命",
         "url": "https://www.aibase.com/news/29380",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3bc87a70e847",
+      "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+      "url": "https://www.ithome.com/0/972/896.htm",
+      "primary_url": "https://www.ithome.com/0/972/896.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
+          "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+          "url": "https://www.ithome.com/0/972/896.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T01:09:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
+          "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+          "url": "https://www.ithome.com/0/972/896.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T01:09:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8221,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T01:09:29Z",
+      "latest_at": "2026-07-06T01:09:29Z",
+      "primary_item": {
+        "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
+        "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+        "url": "https://www.ithome.com/0/972/896.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_083716f16ea9",
+      "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
+      "url": "https://www.aibase.com/news/29405",
+      "primary_url": "https://www.aibase.com/news/29405",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cb6dc8988f87449a0c5b953346aad3d7ebcc4f38",
+          "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
+          "url": "https://www.aibase.com/news/29405",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T11:13:43.606223Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "cb6dc8988f87449a0c5b953346aad3d7ebcc4f38",
+          "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
+          "url": "https://www.aibase.com/news/29405",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-06T11:13:43.606223Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9507,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T11:13:43.606223Z",
+      "latest_at": "2026-07-06T11:13:43.606223Z",
+      "primary_item": {
+        "id": "cb6dc8988f87449a0c5b953346aad3d7ebcc4f38",
+        "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
+        "url": "https://www.aibase.com/news/29405",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -928,22 +1130,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
+      "score": 0.7445,
+      "importance": 0.7445,
+      "importance_score": 0.7445,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7531,
+        "recency": 0.716,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-05T15:35:42.919000Z",
       "latest_at": "2026-07-05T15:35:42.919000Z",
@@ -951,207 +1152,6 @@
         "id": "16ee3dc27a79867bef6d7de9d096f0cc1e418de5",
         "title": "Anthropic Claude Design 反向工程提示词开源更新",
         "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3bc87a70e847",
-      "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
-      "url": "https://www.ithome.com/0/972/896.htm",
-      "primary_url": "https://www.ithome.com/0/972/896.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
-          "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
-          "url": "https://www.ithome.com/0/972/896.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T01:09:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
-          "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
-          "url": "https://www.ithome.com/0/972/896.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T01:09:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7402,
-      "importance": 0.7402,
-      "importance_score": 0.7402,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8647,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T01:09:29Z",
-      "latest_at": "2026-07-06T01:09:29Z",
-      "primary_item": {
-        "id": "46863cda0a5c67ebe10ca8b4c75ae8db47a3d84c",
-        "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
-        "url": "https://www.ithome.com/0/972/896.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_083716f16ea9",
-      "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
-      "url": "https://www.aibase.com/news/29405",
-      "primary_url": "https://www.aibase.com/news/29405",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cb6dc8988f87449a0c5b953346aad3d7ebcc4f38",
-          "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
-          "url": "https://www.aibase.com/news/29405",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T11:13:43.606223Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cb6dc8988f87449a0c5b953346aad3d7ebcc4f38",
-          "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
-          "url": "https://www.aibase.com/news/29405",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T11:13:43.606223Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T11:13:43.606223Z",
-      "latest_at": "2026-07-06T11:13:43.606223Z",
-      "primary_item": {
-        "id": "cb6dc8988f87449a0c5b953346aad3d7ebcc4f38",
-        "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
-        "url": "https://www.aibase.com/news/29405",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bbaeaf520e1a",
-      "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0）",
-      "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-      "primary_url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bdeb16b67320ff95237b97bfe6036b442fdada3d",
-          "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0）",
-          "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T16:23:44.440000Z"
-        },
-        {
-          "id": "407215f20f095c81e1dda84f067decc1ca8ffb7a",
-          "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0） / EU Council forces Chat Control via fast-track",
-          "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T11:44:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "bdeb16b67320ff95237b97bfe6036b442fdada3d",
-          "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0）",
-          "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T16:23:44.440000Z"
-        },
-        {
-          "id": "407215f20f095c81e1dda84f067decc1ca8ffb7a",
-          "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0） / EU Council forces Chat Control via fast-track",
-          "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T11:44:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7619,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-05T11:44:04Z",
-      "latest_at": "2026-07-05T16:23:44.440000Z",
-      "primary_item": {
-        "id": "bdeb16b67320ff95237b97bfe6036b442fdada3d",
-        "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0）",
-        "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
@@ -1191,15 +1191,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1252,15 +1252,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1279,63 +1279,82 @@
       }
     },
     {
-      "story_id": "story_0a49822c4024",
-      "title": "三周前，我不小心创办了一家小公司",
-      "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-      "primary_url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_51bc5c621baa",
+      "title": "氪星晚报｜佑驾创新正式发布四轮足机器人；千问大模型升级实时语音识别大模型Fun-ASR-Realtime",
+      "url": "https://36kr.com/p/3884024701874183?f=rss",
+      "primary_url": "https://36kr.com/p/3884024701874183?f=rss",
+      "source": "36Kr",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "5a6aea02d46b8f0c44960de602a866e339c8d511",
-          "title": "三周前，我不小心创办了一家小公司",
-          "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T17:43:57.442000Z"
+          "id": "0beb87f2e2bb3f2a3fb8e53ea4cbccdc93858cad",
+          "title": "氪星晚报｜佑驾创新正式发布四轮足机器人；千问大模型升级实时语音识别大模型Fun-ASR-Realtime",
+          "url": "https://36kr.com/p/3884024701874183?f=rss",
+          "source": "36Kr",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-06T10:39:24Z"
+        },
+        {
+          "id": "c92460f3dcdce19dcb7c4b36cc9ac5dd28e46fb5",
+          "title": "氪星晚报｜佑驾创新正式发布四轮足机器人；千问大模型升级实时语音识别大模型 Fun-ASR-Realtime",
+          "url": "https://36kr.com/p/3884024701874183?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "36Kr",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "5a6aea02d46b8f0c44960de602a866e339c8d511",
-          "title": "三周前，我不小心创办了一家小公司",
-          "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-05T17:43:57.442000Z"
+          "id": "0beb87f2e2bb3f2a3fb8e53ea4cbccdc93858cad",
+          "title": "氪星晚报｜佑驾创新正式发布四轮足机器人；千问大模型升级实时语音识别大模型Fun-ASR-Realtime",
+          "url": "https://36kr.com/p/3884024701874183?f=rss",
+          "source": "36Kr",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-06T10:39:24Z"
+        },
+        {
+          "id": "c92460f3dcdce19dcb7c4b36cc9ac5dd28e46fb5",
+          "title": "氪星晚报｜佑驾创新正式发布四轮足机器人；千问大模型升级实时语音识别大模型 Fun-ASR-Realtime",
+          "url": "https://36kr.com/p/3884024701874183?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7214,
-      "importance": 0.7214,
-      "importance_score": 0.7214,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6126,
+      "importance": 0.6126,
+      "importance_score": 0.6126,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7767,
-        "story_heat": 0.0
+        "editorial": 0.5328,
+        "source_tier": 0.5,
+        "ai_relevance": 0.74,
+        "recency": 0.9429,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-05T17:43:57.442000Z",
-      "latest_at": "2026-07-05T17:43:57.442000Z",
+      "earliest_at": "2026-07-06T10:39:24Z",
+      "latest_at": "2026-07-06T11:13:43.606223Z",
       "primary_item": {
-        "id": "5a6aea02d46b8f0c44960de602a866e339c8d511",
-        "title": "三周前，我不小心创办了一家小公司",
-        "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "0beb87f2e2bb3f2a3fb8e53ea4cbccdc93858cad",
+        "title": "氪星晚报｜佑驾创新正式发布四轮足机器人；千问大模型升级实时语音识别大模型Fun-ASR-Realtime",
+        "url": "https://36kr.com/p/3884024701874183?f=rss",
+        "source": "36Kr",
+        "source_name": "OPML RSS"
       }
     }
   ]
