@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T01:10:59.832938Z",
+  "generated_at": "2026-07-09T09:51:42.543373Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_eaad4cbcfa7f",
-      "title": "在编码评估中将信号与噪声分离 / Separating signal from noise in coding evaluations",
+      "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / Separating signal from noise in coding evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "primary_url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "source": "OpenAI News",
@@ -13,7 +13,7 @@
       "sources": [
         {
           "id": "5237c2d47f7e1265bb14c03a806f22d9d78e9b1e",
-          "title": "在编码评估中将信号与噪声分离 / Separating signal from noise in coding evaluations",
+          "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / Separating signal from noise in coding evaluations",
           "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -21,8 +21,17 @@
           "published_at": "2026-07-08T13:00:00Z"
         },
         {
+          "id": "3952d15a35a38f3fd6065379cb0a0cf517084d5e",
+          "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷",
+          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T13:00:00Z"
+        },
+        {
           "id": "888663806c2cbc353d34c6020c85a0ae760bc7f5",
-          "title": "OpenAI 不再推荐 SWE-Bench Pro / OpenAI no longer recommends SWE-Bench Pro",
+          "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / OpenAI no longer recommends SWE-Bench Pro",
           "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -30,15 +39,16 @@
           "published_at": "2026-07-08T21:03:51Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News",
-        "OpenAI News"
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "items": [
         {
           "id": "5237c2d47f7e1265bb14c03a806f22d9d78e9b1e",
-          "title": "在编码评估中将信号与噪声分离 / Separating signal from noise in coding evaluations",
+          "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / Separating signal from noise in coding evaluations",
           "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -46,8 +56,17 @@
           "published_at": "2026-07-08T13:00:00Z"
         },
         {
+          "id": "3952d15a35a38f3fd6065379cb0a0cf517084d5e",
+          "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷",
+          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T13:00:00Z"
+        },
+        {
           "id": "888663806c2cbc353d34c6020c85a0ae760bc7f5",
-          "title": "OpenAI 不再推荐 SWE-Bench Pro / OpenAI no longer recommends SWE-Bench Pro",
+          "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / OpenAI no longer recommends SWE-Bench Pro",
           "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -55,18 +74,18 @@
           "published_at": "2026-07-08T21:03:51Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.86,
-      "importance_score": 0.86,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8672,
+      "importance": 0.8672,
+      "importance_score": 0.8672,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.8387,
-        "story_heat": 0.25
+        "recency": 0.7399,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
@@ -79,166 +98,10 @@
       "latest_at": "2026-07-08T21:03:51Z",
       "primary_item": {
         "id": "5237c2d47f7e1265bb14c03a806f22d9d78e9b1e",
-        "title": "在编码评估中将信号与噪声分离 / Separating signal from noise in coding evaluations",
+        "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / Separating signal from noise in coding evaluations",
         "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_779e86c533da",
-      "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
-      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-      "primary_url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T08:29:47.091000Z"
-        },
-        {
-          "id": "60e1b51a5641a0374de0f40bc74439db76111cf2",
-          "title": "GitLost：我们是如何诱使 GitHub 的 AI 代理泄露私有仓库的",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "noma.security",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T14:37:37.637000Z"
-        },
-        {
-          "id": "e33fc48e0f87019718a645844610f5ff1864458f",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T14:04:11Z"
-        },
-        {
-          "id": "e56e5f1faa1f893f7df5991d3edd97b70095f68c",
-          "title": "GitLost：我们诱使 GitHub 的 AI 代理泄露了私有仓库",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "noma.security",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T08:29:47.091000Z"
-        },
-        {
-          "id": "b303fd6e5895d48ee052cf4d99de651f402e0949",
-          "title": "GitLost：我们欺骗 GitHub 的 AI 代理泄露私人存储库 / GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-          "url": "https://news.ycombinator.com/item?id=48827858",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-08T07:11:26.587000Z"
-        },
-        {
-          "id": "149b395bda8209106bf9356f6cd604ca32b0e32f",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-08T05:25:35Z"
-        }
-      ],
-      "source_count": 6,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Lobsters (技术社区)",
-        "hackernews",
-        "noma.security"
-      ],
-      "items": [
-        {
-          "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T08:29:47.091000Z"
-        },
-        {
-          "id": "60e1b51a5641a0374de0f40bc74439db76111cf2",
-          "title": "GitLost：我们是如何诱使 GitHub 的 AI 代理泄露私有仓库的",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "noma.security",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T14:37:37.637000Z"
-        },
-        {
-          "id": "e33fc48e0f87019718a645844610f5ff1864458f",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T14:04:11Z"
-        },
-        {
-          "id": "e56e5f1faa1f893f7df5991d3edd97b70095f68c",
-          "title": "GitLost：我们诱使 GitHub 的 AI 代理泄露了私有仓库",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "noma.security",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T08:29:47.091000Z"
-        },
-        {
-          "id": "b303fd6e5895d48ee052cf4d99de651f402e0949",
-          "title": "GitLost：我们欺骗 GitHub 的 AI 代理泄露私人存储库 / GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-          "url": "https://news.ycombinator.com/item?id=48827858",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-08T07:11:26.587000Z"
-        },
-        {
-          "id": "149b395bda8209106bf9356f6cd604ca32b0e32f",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-08T05:25:35Z"
-        }
-      ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.8561,
-      "importance": 0.8561,
-      "importance_score": 0.8561,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7859,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T05:25:35Z",
-      "latest_at": "2026-07-08T14:37:37.637000Z",
-      "primary_item": {
-        "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
-        "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
-        "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -276,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8486,
-      "importance": 0.8486,
-      "importance_score": 0.8486,
+      "score": 0.8296,
+      "importance": 0.8296,
+      "importance_score": 0.8296,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.892,
+        "recency": 0.7869,
         "story_heat": 0.0
       },
       "category": "official",
@@ -338,15 +201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8406,
-      "importance": 0.8406,
-      "importance_score": 0.8406,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9366,
+        "recency": 0.8263,
         "story_heat": 0.0
       },
       "category": "official",
@@ -400,15 +263,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8339,
-      "importance": 0.8339,
-      "importance_score": 0.8339,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9441,
+        "recency": 0.8329,
         "story_heat": 0.0
       },
       "category": "official",
@@ -519,15 +382,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.811,
-      "importance": 0.811,
-      "importance_score": 0.811,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8577,
+        "recency": 0.7567,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -543,6 +406,87 @@
         "title": "Robostral Navigate：Mistral AI 首个具身导航模型",
         "url": "https://mistral.ai/news/robostral-navigate",
         "source": "Mistral AI：News（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9c73846f1249",
+      "title": "蚂蚁灵波开源实时交互世界模型 LingBot-World 2.0",
+      "url": "https://www.ithome.com/0/974/508.htm",
+      "primary_url": "https://www.ithome.com/0/974/508.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a2f501cf21cb01f411ad10144d46d76a09ca70e1",
+          "title": "蚂蚁灵波开源实时交互世界模型 LingBot-World 2.0",
+          "url": "https://www.ithome.com/0/974/508.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T06:53:40Z"
+        },
+        {
+          "id": "564709296f1eb6f1ac908fd769b43f3b9d1c9815",
+          "title": "无限世界、实时交互，蚂蚁灵波开源 LingBot-World 2.0 世界模型",
+          "url": "https://www.ithome.com/0/974/508.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-09T06:53:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "a2f501cf21cb01f411ad10144d46d76a09ca70e1",
+          "title": "蚂蚁灵波开源实时交互世界模型 LingBot-World 2.0",
+          "url": "https://www.ithome.com/0/974/508.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T06:53:40Z"
+        },
+        {
+          "id": "564709296f1eb6f1ac908fd769b43f3b9d1c9815",
+          "title": "无限世界、实时交互，蚂蚁灵波开源 LingBot-World 2.0 世界模型",
+          "url": "https://www.ithome.com/0/974/508.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-09T06:53:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.788,
+      "importance": 0.788,
+      "importance_score": 0.788,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9581,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T06:53:40Z",
+      "latest_at": "2026-07-09T06:53:40Z",
+      "primary_item": {
+        "id": "a2f501cf21cb01f411ad10144d46d76a09ca70e1",
+        "title": "蚂蚁灵波开源实时交互世界模型 LingBot-World 2.0",
+        "url": "https://www.ithome.com/0/974/508.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -581,15 +525,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8352,
-      "importance": 0.8352,
-      "importance_score": 0.8352,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9069,
+        "recency": 0.8001,
         "story_heat": 0.0
       },
       "category": "official",
@@ -643,15 +587,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
+      "score": 0.8111,
+      "importance": 0.8111,
+      "importance_score": 0.8111,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8758,
+        "recency": 0.7726,
         "story_heat": 0.0
       },
       "category": "official",
@@ -705,15 +649,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "score": 0.8061,
+      "importance": 0.8061,
+      "importance_score": 0.8061,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8448,
+        "recency": 0.7452,
         "story_heat": 0.0
       },
       "category": "official",
@@ -733,102 +677,205 @@
       }
     },
     {
-      "story_id": "story_85e90d55efed",
-      "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络",
-      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
-      "primary_url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_244239f648c4",
+      "title": "AI\"按量计费\"吓退企业高管：近三分之一承认不懂经济账，算力账单成了黑箱",
+      "url": "https://www.aibase.com/news/29500",
+      "primary_url": "https://www.aibase.com/news/29500",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "eb5a5231597292933b2f6d273d45680e417563bb",
-          "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络",
-          "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T07:00:51Z"
-        },
-        {
-          "id": "4bc5394a134e8ce567c270b1a65cb50a508f93c3",
-          "title": "黑客可以利用9种最流行的AI工具来组建庞大的僵尸网络",
-          "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T07:41:47.077000Z"
-        },
-        {
-          "id": "f221d9ecc617472f965b828635bedd1120d8afb1",
-          "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络 / Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-          "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-08T07:00:51Z"
+          "id": "fbd3e3000c5121b8fbe73fff617850d88d44aeae",
+          "title": "AI\"按量计费\"吓退企业高管：近三分之一承认不懂经济账，算力账单成了黑箱",
+          "url": "https://www.aibase.com/news/29500",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-09T09:51:42.543373Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Ars Technica",
-        "Ars Technica：AI（RSS）",
-        "arstechnica.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "eb5a5231597292933b2f6d273d45680e417563bb",
-          "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络",
-          "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T07:00:51Z"
-        },
-        {
-          "id": "4bc5394a134e8ce567c270b1a65cb50a508f93c3",
-          "title": "黑客可以利用9种最流行的AI工具来组建庞大的僵尸网络",
-          "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T07:41:47.077000Z"
-        },
-        {
-          "id": "f221d9ecc617472f965b828635bedd1120d8afb1",
-          "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络 / Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-          "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-08T07:00:51Z"
+          "id": "fbd3e3000c5121b8fbe73fff617850d88d44aeae",
+          "title": "AI\"按量计费\"吓退企业高管：近三分之一承认不懂经济账，算力账单成了黑箱",
+          "url": "https://www.aibase.com/news/29500",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-09T09:51:42.543373Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7941,
-      "importance": 0.7941,
-      "importance_score": 0.7941,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7692,
-        "story_heat": 0.5
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T09:51:42.543373Z",
+      "latest_at": "2026-07-09T09:51:42.543373Z",
+      "primary_item": {
+        "id": "fbd3e3000c5121b8fbe73fff617850d88d44aeae",
+        "title": "AI\"按量计费\"吓退企业高管：近三分之一承认不懂经济账，算力账单成了黑箱",
+        "url": "https://www.aibase.com/news/29500",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b1da07b1e47d",
+      "title": "NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍",
+      "url": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput",
+      "primary_url": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ae5727862d8df5235b90365ad06ee86f9f9b86c1",
+          "title": "NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍",
+          "url": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T08:47:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ae5727862d8df5235b90365ad06ee86f9f9b86c1",
+          "title": "NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍",
+          "url": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T08:47:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9847,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T08:47:37Z",
+      "latest_at": "2026-07-09T08:47:37Z",
+      "primary_item": {
+        "id": "ae5727862d8df5235b90365ad06ee86f9f9b86c1",
+        "title": "NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍",
+        "url": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_766f1264711d",
+      "title": "蚂蚁灵波开源全球首个面向具身智能的MoE视频基模LingBot-Video",
+      "url": "https://www.ithome.com/0/974/517.htm",
+      "primary_url": "https://www.ithome.com/0/974/517.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4c3b3076a63496f74b08ab3d12f9b348751c5ff1",
+          "title": "蚂蚁灵波开源全球首个面向具身智能的MoE视频基模LingBot-Video",
+          "url": "https://www.ithome.com/0/974/517.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T07:06:00Z"
+        },
+        {
+          "id": "fc61deb727faab04353cf695367c03d72eb304e6",
+          "title": "全球首个面向具身智能的视频基模，蚂蚁灵波 LingBot-Video 开源",
+          "url": "https://www.ithome.com/0/974/517.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-09T07:06:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4c3b3076a63496f74b08ab3d12f9b348751c5ff1",
+          "title": "蚂蚁灵波开源全球首个面向具身智能的MoE视频基模LingBot-Video",
+          "url": "https://www.ithome.com/0/974/517.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T07:06:00Z"
+        },
+        {
+          "id": "fc61deb727faab04353cf695367c03d72eb304e6",
+          "title": "全球首个面向具身智能的视频基模，蚂蚁灵波 LingBot-Video 开源",
+          "url": "https://www.ithome.com/0/974/517.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-09T07:06:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7856,
+      "importance": 0.7856,
+      "importance_score": 0.7856,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9609,
+        "story_heat": 0.25
+      },
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T07:00:51Z",
-      "latest_at": "2026-07-08T07:41:47.077000Z",
+      "earliest_at": "2026-07-09T07:06:00Z",
+      "latest_at": "2026-07-09T07:06:00Z",
       "primary_item": {
-        "id": "eb5a5231597292933b2f6d273d45680e417563bb",
-        "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络",
-        "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
-        "source": "Ars Technica：AI（RSS）",
+        "id": "4c3b3076a63496f74b08ab3d12f9b348751c5ff1",
+        "title": "蚂蚁灵波开源全球首个面向具身智能的MoE视频基模LingBot-Video",
+        "url": "https://www.ithome.com/0/974/517.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -867,15 +914,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8347,
-      "importance": 0.8347,
-      "importance_score": 0.8347,
+      "score": 0.8146,
+      "importance": 0.8146,
+      "importance_score": 0.8146,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9483,
+        "recency": 0.8366,
         "story_heat": 0.0
       },
       "category": "official",
@@ -892,148 +939,6 @@
         "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8b657dc98587",
-      "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
-      "url": "https://www.ithome.com/0/973/922.htm",
-      "primary_url": "https://www.ithome.com/0/973/922.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "95d7be903f3d2e9855c72b6588c7a151fc40e646",
-          "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
-          "url": "https://www.ithome.com/0/973/922.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T03:30:52Z"
-        },
-        {
-          "id": "1f220f572ff59a3c9d1a58cf1670a0951bf9fa02",
-          "title": "结束管制：美国政府批准 OpenAI 大规模推广 GPT-5.6，Sol 明日亮相",
-          "url": "https://www.ithome.com/0/973/922.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T03:30:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "95d7be903f3d2e9855c72b6588c7a151fc40e646",
-          "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
-          "url": "https://www.ithome.com/0/973/922.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T03:30:52Z"
-        },
-        {
-          "id": "1f220f572ff59a3c9d1a58cf1670a0951bf9fa02",
-          "title": "结束管制：美国政府批准 OpenAI 大规模推广 GPT-5.6，Sol 明日亮相",
-          "url": "https://www.ithome.com/0/973/922.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T03:30:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7313,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T03:30:52Z",
-      "latest_at": "2026-07-08T03:30:52Z",
-      "primary_item": {
-        "id": "95d7be903f3d2e9855c72b6588c7a151fc40e646",
-        "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
-        "url": "https://www.ithome.com/0/973/922.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ace290e598a1",
-      "title": "全双工实时语音上线，ChatGPT彻底告别“对讲机”时代",
-      "url": "https://www.aibase.com/news/29474",
-      "primary_url": "https://www.aibase.com/news/29474",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "de84d7e4b5a47a450011fe319d984172258dd63a",
-          "title": "全双工实时语音上线，ChatGPT彻底告别“对讲机”时代",
-          "url": "https://www.aibase.com/news/29474",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-09T01:10:59.832938Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "de84d7e4b5a47a450011fe319d984172258dd63a",
-          "title": "全双工实时语音上线，ChatGPT彻底告别“对讲机”时代",
-          "url": "https://www.aibase.com/news/29474",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-09T01:10:59.832938Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T01:10:59.832938Z",
-      "latest_at": "2026-07-09T01:10:59.832938Z",
-      "primary_item": {
-        "id": "de84d7e4b5a47a450011fe319d984172258dd63a",
-        "title": "全双工实时语音上线，ChatGPT彻底告别“对讲机”时代",
-        "url": "https://www.aibase.com/news/29474",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1071,15 +976,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8166,
-      "importance": 0.8166,
-      "importance_score": 0.8166,
+      "score": 0.7995,
+      "importance": 0.7995,
+      "importance_score": 0.7995,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8031,
+        "recency": 0.7085,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1096,6 +1001,187 @@
         "url": "https://openai.com/index/k-12-educators-practical-skills",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8975b8eaee74",
+      "title": "AI创作新高度：字节跳动发布Seedream 5.0 Pro，开启交互式精准编辑时代",
+      "url": "https://www.aibase.com/news/29483",
+      "primary_url": "https://www.aibase.com/news/29483",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9a915130a90bcdda27facb34d42f255e75a74f03",
+          "title": "AI创作新高度：字节跳动发布Seedream 5.0 Pro，开启交互式精准编辑时代",
+          "url": "https://www.aibase.com/news/29483",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-09T09:51:42.543373Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9a915130a90bcdda27facb34d42f255e75a74f03",
+          "title": "AI创作新高度：字节跳动发布Seedream 5.0 Pro，开启交互式精准编辑时代",
+          "url": "https://www.aibase.com/news/29483",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-09T09:51:42.543373Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T09:51:42.543373Z",
+      "latest_at": "2026-07-09T09:51:42.543373Z",
+      "primary_item": {
+        "id": "9a915130a90bcdda27facb34d42f255e75a74f03",
+        "title": "AI创作新高度：字节跳动发布Seedream 5.0 Pro，开启交互式精准编辑时代",
+        "url": "https://www.aibase.com/news/29483",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dec72a4f204c",
+      "title": "诉讼：男子使用Grok制作7000张继女色情图像后自杀",
+      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "19262ee768e7fcba8f7cd263e34bd3bdc2f187e8",
+          "title": "诉讼：男子使用Grok制作7000张继女色情图像后自杀",
+          "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T19:56:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "19262ee768e7fcba8f7cd263e34bd3bdc2f187e8",
+          "title": "诉讼：男子使用Grok制作7000张继女色情图像后自杀",
+          "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T19:56:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8179,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-08T19:56:37Z",
+      "latest_at": "2026-07-08T19:56:37Z",
+      "primary_item": {
+        "id": "19262ee768e7fcba8f7cd263e34bd3bdc2f187e8",
+        "title": "诉讼：男子使用Grok制作7000张继女色情图像后自杀",
+        "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5d670371f68d",
+      "title": "Seedream 5.0 Pro 登陆 Runway，支持14种语言",
+      "url": "https://x.com/runwayml/status/2074982268175630814",
+      "primary_url": "https://x.com/runwayml/status/2074982268175630814",
+      "source": "X：Runway (@runwayml)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "32865bd97cf74f27440efce695f063620648524a",
+          "title": "Seedream 5.0 Pro 登陆 Runway，支持14种语言",
+          "url": "https://x.com/runwayml/status/2074982268175630814",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T22:21:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Runway (@runwayml)"
+      ],
+      "items": [
+        {
+          "id": "32865bd97cf74f27440efce695f063620648524a",
+          "title": "Seedream 5.0 Pro 登陆 Runway，支持14种语言",
+          "url": "https://x.com/runwayml/status/2074982268175630814",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T22:21:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.847,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-08T22:21:38Z",
+      "latest_at": "2026-07-08T22:21:38Z",
+      "primary_item": {
+        "id": "32865bd97cf74f27440efce695f063620648524a",
+        "title": "Seedream 5.0 Pro 登陆 Runway，支持14种语言",
+        "url": "https://x.com/runwayml/status/2074982268175630814",
+        "source": "X：Runway (@runwayml)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1133,15 +1219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8283,
+        "recency": 0.7307,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1159,62 +1245,62 @@
       }
     },
     {
-      "story_id": "story_8f63cacb1008",
-      "title": "工信部发布Claude Code后门安全风险提示",
-      "url": "https://x.com/xiaohu/status/2074736623284256881",
-      "primary_url": "https://x.com/xiaohu/status/2074736623284256881",
-      "source": "X：小互 (@xiaohu)",
+      "story_id": "story_7695175fa495",
+      "title": "面向AI模型双重用途知识的\"开关\"：Anthropic与AE Studio提出GRAM方法",
+      "url": "https://www.anthropic.com/research/off-switch-dual-use",
+      "primary_url": "https://www.anthropic.com/research/off-switch-dual-use",
+      "source": "Anthropic：Research（发表成果 · 网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0dfd1615a1b6dfde0d3ca442cdf89d95394f1992",
-          "title": "工信部发布Claude Code后门安全风险提示",
-          "url": "https://x.com/xiaohu/status/2074736623284256881",
-          "source": "X：小互 (@xiaohu)",
+          "id": "5f1161aae05285ff66deedadf26060d8716b302a",
+          "title": "面向AI模型双重用途知识的\"开关\"：Anthropic与AE Studio提出GRAM方法",
+          "url": "https://www.anthropic.com/research/off-switch-dual-use",
+          "source": "Anthropic：Research（发表成果 · 网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T06:05:32Z"
+          "published_at": "2026-07-08T23:27:02.554000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：小互 (@xiaohu)"
+        "Anthropic：Research（发表成果 · 网页）"
       ],
       "items": [
         {
-          "id": "0dfd1615a1b6dfde0d3ca442cdf89d95394f1992",
-          "title": "工信部发布Claude Code后门安全风险提示",
-          "url": "https://x.com/xiaohu/status/2074736623284256881",
-          "source": "X：小互 (@xiaohu)",
+          "id": "5f1161aae05285ff66deedadf26060d8716b302a",
+          "title": "面向AI模型双重用途知识的\"开关\"：Anthropic与AE Studio提出GRAM方法",
+          "url": "https://www.anthropic.com/research/off-switch-dual-use",
+          "source": "Anthropic：Research（发表成果 · 网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T06:05:32Z"
+          "published_at": "2026-07-08T23:27:02.554000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7591,
+        "recency": 0.8604,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-08T06:05:32Z",
-      "latest_at": "2026-07-08T06:05:32Z",
+      "earliest_at": "2026-07-08T23:27:02.554000Z",
+      "latest_at": "2026-07-08T23:27:02.554000Z",
       "primary_item": {
-        "id": "0dfd1615a1b6dfde0d3ca442cdf89d95394f1992",
-        "title": "工信部发布Claude Code后门安全风险提示",
-        "url": "https://x.com/xiaohu/status/2074736623284256881",
-        "source": "X：小互 (@xiaohu)",
+        "id": "5f1161aae05285ff66deedadf26060d8716b302a",
+        "title": "面向AI模型双重用途知识的\"开关\"：Anthropic与AE Studio提出GRAM方法",
+        "url": "https://www.anthropic.com/research/off-switch-dual-use",
+        "source": "Anthropic：Research（发表成果 · 网页）",
         "source_name": "AI HOT"
       }
     },
@@ -1253,15 +1339,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
+      "score": 0.8131,
+      "importance": 0.8131,
+      "importance_score": 0.8131,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9391,
+        "recency": 0.8285,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1278,228 +1364,6 @@
         "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_0a4741a19553",
-      "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知",
-      "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
-      "primary_url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9b1813c273f4075a9c61d682c1734d981a0eeeba",
-          "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知",
-          "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T03:03:22Z"
-        },
-        {
-          "id": "403013bddf9cfb52db46563ec398efd7f3319ad2",
-          "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知 / Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Centric Vision Foundation Model for Dense Spatial Perception",
-          "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-08T03:03:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9b1813c273f4075a9c61d682c1734d981a0eeeba",
-          "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知",
-          "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T03:03:22Z"
-        },
-        {
-          "id": "403013bddf9cfb52db46563ec398efd7f3319ad2",
-          "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知 / Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Centric Vision Foundation Model for Dense Spatial Perception",
-          "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-08T03:03:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7265,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-08T03:03:22Z",
-      "latest_at": "2026-07-08T03:03:22Z",
-      "primary_item": {
-        "id": "9b1813c273f4075a9c61d682c1734d981a0eeeba",
-        "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知",
-        "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d7f0fb7233da",
-      "title": "挑战OpenAI，SpaceXAI推出“Opus级”大模型Grok 4.5",
-      "url": "https://www.aibase.com/news/29473",
-      "primary_url": "https://www.aibase.com/news/29473",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9a8a963fd679de61ebaa3f3a9c52600893368932",
-          "title": "挑战OpenAI，SpaceXAI推出“Opus级”大模型Grok 4.5",
-          "url": "https://www.aibase.com/news/29473",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-09T01:10:59.832938Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9a8a963fd679de61ebaa3f3a9c52600893368932",
-          "title": "挑战OpenAI，SpaceXAI推出“Opus级”大模型Grok 4.5",
-          "url": "https://www.aibase.com/news/29473",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-09T01:10:59.832938Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T01:10:59.832938Z",
-      "latest_at": "2026-07-09T01:10:59.832938Z",
-      "primary_item": {
-        "id": "9a8a963fd679de61ebaa3f3a9c52600893368932",
-        "title": "挑战OpenAI，SpaceXAI推出“Opus级”大模型Grok 4.5",
-        "url": "https://www.aibase.com/news/29473",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a21a2c62d75d",
-      "title": "加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案",
-      "url": "https://www.ithome.com/0/974/169.htm",
-      "primary_url": "https://www.ithome.com/0/974/169.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "97f7d0ca3409897250466842e3968e118c32f8e1",
-          "title": "加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案",
-          "url": "https://www.ithome.com/0/974/169.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T09:55:17Z"
-        },
-        {
-          "id": "45f07a6667890e78181627288634074faec0ef9b",
-          "title": "未上报凶手暴力 ChatGPT 对话，加拿大一省拟就校园枪击案起诉 OpenAI",
-          "url": "https://www.ithome.com/0/974/169.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T09:55:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "97f7d0ca3409897250466842e3968e118c32f8e1",
-          "title": "加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案",
-          "url": "https://www.ithome.com/0/974/169.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T09:55:17Z"
-        },
-        {
-          "id": "45f07a6667890e78181627288634074faec0ef9b",
-          "title": "未上报凶手暴力 ChatGPT 对话，加拿大一省拟就校园枪击案起诉 OpenAI",
-          "url": "https://www.ithome.com/0/974/169.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T09:55:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8022,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T09:55:17Z",
-      "latest_at": "2026-07-08T09:55:17Z",
-      "primary_item": {
-        "id": "97f7d0ca3409897250466842e3968e118c32f8e1",
-        "title": "加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案",
-        "url": "https://www.ithome.com/0/974/169.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     }
   ]
