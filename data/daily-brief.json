@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T11:12:15.212761Z",
+  "generated_at": "2026-07-10T13:29:14.856951Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8483,
-      "importance": 0.8483,
-      "importance_score": 0.8483,
+      "score": 0.8426,
+      "importance": 0.8426,
+      "importance_score": 0.8426,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9793,
+        "recency": 0.9476,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8414,
-      "importance": 0.8414,
-      "importance_score": 0.8414,
+      "score": 0.8359,
+      "importance": 0.8359,
+      "importance_score": 0.8359,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9411,
+        "recency": 0.9106,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8331,
-      "importance": 0.8331,
-      "importance_score": 0.8331,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8506,
+        "recency": 0.823,
         "story_heat": 0.0
       },
       "category": "official",
@@ -281,15 +281,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8109,
-      "importance": 0.8109,
-      "importance_score": 0.8109,
+      "score": 0.8061,
+      "importance": 0.8061,
+      "importance_score": 0.8061,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8237,
+        "recency": 0.797,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -343,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8258,
-      "importance": 0.8258,
-      "importance_score": 0.8258,
+      "score": 0.8213,
+      "importance": 0.8213,
+      "importance_score": 0.8213,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7654,
+        "recency": 0.7406,
         "story_heat": 0.0
       },
       "category": "official",
@@ -424,15 +424,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7921,
-      "importance": 0.7921,
-      "importance_score": 0.7921,
+      "score": 0.7865,
+      "importance": 0.7865,
+      "importance_score": 0.7865,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.947,
+        "recency": 0.9163,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -449,68 +449,6 @@
         "url": "https://www.ithome.com/0/975/078.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e799563c0958",
-      "title": "GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "primary_url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1bc0a9412f7f84df0833d4589590442445fcda5c",
-          "title": "GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-          "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "1bc0a9412f7f84df0833d4589590442445fcda5c",
-          "title": "GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-          "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8186,
-      "importance": 0.8186,
-      "importance_score": 0.8186,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7257,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T13:00:00Z",
-      "latest_at": "2026-07-09T13:00:00Z",
-      "primary_item": {
-        "id": "1bc0a9412f7f84df0833d4589590442445fcda5c",
-        "title": "GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-        "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -567,15 +505,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7839,
-      "importance": 0.7839,
-      "importance_score": 0.7839,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9515,
+        "recency": 0.9206,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -667,15 +605,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7328,
+        "recency": 0.709,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -729,15 +667,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9458,
+        "recency": 0.9151,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -809,15 +747,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8259,
+        "recency": 0.7992,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -871,15 +809,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9825,
+        "recency": 0.9507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -951,15 +889,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7839,
-      "importance": 0.7839,
-      "importance_score": 0.7839,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9515,
+        "recency": 0.9206,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1013,15 +951,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8198,
+        "recency": 0.7932,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1036,6 +974,68 @@
         "url": "https://x.com/testingcatalog/status/2075330856499990830",
         "source": "X：Testing Catalog (@testingcatalog)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3f5c6212602a",
+      "title": "向 Copilot 询问存储库概述 / Ask Copilot for a repository overview",
+      "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
+      "primary_url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "602db55ea0f01347e40139da035e5d4e57b78000",
+          "title": "向 Copilot 询问存储库概述 / Ask Copilot for a repository overview",
+          "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T14:25:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "602db55ea0f01347e40139da035e5d4e57b78000",
+          "title": "向 Copilot 询问存储库概述 / Ask Copilot for a repository overview",
+          "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T14:25:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7168,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T14:25:33Z",
+      "latest_at": "2026-07-09T14:25:33Z",
+      "primary_item": {
+        "id": "602db55ea0f01347e40139da035e5d4e57b78000",
+        "title": "向 Copilot 询问存储库概述 / Ask Copilot for a repository overview",
+        "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1073,15 +1073,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8285,
+        "recency": 0.8016,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1133,15 +1133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9444,
+        "recency": 0.9138,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1156,68 +1156,6 @@
         "url": "https://x.com/elonmusk/status/2075478792273842370",
         "source": "X：Elon Musk (@elonmusk, xAI)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3f5c6212602a",
-      "title": "向 Copilot 询问存储库概述 / Ask Copilot for a repository overview",
-      "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
-      "primary_url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "602db55ea0f01347e40139da035e5d4e57b78000",
-          "title": "向 Copilot 询问存储库概述 / Ask Copilot for a repository overview",
-          "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T14:25:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "602db55ea0f01347e40139da035e5d4e57b78000",
-          "title": "向 Copilot 询问存储库概述 / Ask Copilot for a repository overview",
-          "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T14:25:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7408,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T14:25:33Z",
-      "latest_at": "2026-07-09T14:25:33Z",
-      "primary_item": {
-        "id": "602db55ea0f01347e40139da035e5d4e57b78000",
-        "title": "向 Copilot 询问存储库概述 / Ask Copilot for a repository overview",
-        "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1274,15 +1212,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7346,
+      "importance": 0.7346,
+      "importance_score": 0.7346,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8725,
+        "recency": 0.8442,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1335,15 +1273,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8548,
+        "recency": 0.8271,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1414,15 +1352,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7639,
-      "importance": 0.7639,
-      "importance_score": 0.7639,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.824,
+        "recency": 0.7973,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1438,6 +1376,86 @@
         "title": "AI 能否回答 3 万亿美元的问题？",
         "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1c2e0b9ec777",
+      "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
+      "url": "https://cognition.com/blog/swe-1-7",
+      "primary_url": "https://cognition.com/blog/swe-1-7",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "60521aa071bdc891ec43640ed49f03791c17803a",
+          "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
+          "url": "https://cognition.com/blog/swe-1-7",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T21:46:17.901000Z"
+        },
+        {
+          "id": "29675c47433ebe96c44d819c56cf2e1043cbe5a2",
+          "title": "SWE-1.7 的覆盖范围接近 GPT 5.5 和 Opus Intelligence",
+          "url": "https://cognition.com/blog/swe-1-7",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T21:46:17.901000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "60521aa071bdc891ec43640ed49f03791c17803a",
+          "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
+          "url": "https://cognition.com/blog/swe-1-7",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T21:46:17.901000Z"
+        },
+        {
+          "id": "29675c47433ebe96c44d819c56cf2e1043cbe5a2",
+          "title": "SWE-1.7 的覆盖范围接近 GPT 5.5 和 Opus Intelligence",
+          "url": "https://cognition.com/blog/swe-1-7",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T21:46:17.901000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.797,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T21:46:17.901000Z",
+      "latest_at": "2026-07-09T21:46:17.901000Z",
+      "primary_item": {
+        "id": "60521aa071bdc891ec43640ed49f03791c17803a",
+        "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
+        "url": "https://cognition.com/blog/swe-1-7",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     }
