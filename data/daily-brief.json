@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T08:21:47.117079Z",
+  "generated_at": "2026-07-11T10:01:17.613819Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8625,
+        "recency": 0.8421,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8448,
+        "recency": 0.8248,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7891,
+        "recency": 0.7705,
         "story_heat": 0.0
       },
       "category": "official",
@@ -300,15 +300,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7975,
-      "importance": 0.7975,
-      "importance_score": 0.7975,
+      "score": 0.7933,
+      "importance": 0.7933,
+      "importance_score": 0.7933,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9939,
+        "recency": 0.9703,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -381,15 +381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7883,
-      "importance": 0.7883,
-      "importance_score": 0.7883,
+      "score": 0.7847,
+      "importance": 0.7847,
+      "importance_score": 0.7847,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.843,
+        "recency": 0.823,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -443,15 +443,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
+      "score": 0.8112,
+      "importance": 0.8112,
+      "importance_score": 0.8112,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8377,
+        "recency": 0.8179,
         "story_heat": 0.0
       },
       "category": "official",
@@ -505,15 +505,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9115,
+        "recency": 0.89,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -566,15 +566,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8119,
+        "recency": 0.7927,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -627,15 +627,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7796,
+        "recency": 0.7612,
         "story_heat": 0.0
       },
       "category": "official",
@@ -689,15 +689,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7271,
-      "importance": 0.7271,
-      "importance_score": 0.7271,
+      "score": 0.7236,
+      "importance": 0.7236,
+      "importance_score": 0.7236,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8081,
+        "recency": 0.789,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -712,368 +712,6 @@
         "url": "https://x.com/ClaudeDevs/status/2075635283211772279",
         "source": "X：Claude Devs (@ClaudeDevs)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_dc837ddc581e",
-      "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
-      "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
-      "primary_url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
-      "source": "公众号：百度智能云（文心）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e334fec610fe6e0031747a464c20ee81d8a825df",
-          "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
-          "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
-          "source": "公众号：百度智能云（文心）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T13:58:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：百度智能云（文心）"
-      ],
-      "items": [
-        {
-          "id": "e334fec610fe6e0031747a464c20ee81d8a825df",
-          "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
-          "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
-          "source": "公众号：百度智能云（文心）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T13:58:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7226,
-      "importance": 0.7226,
-      "importance_score": 0.7226,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7667,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T13:58:07Z",
-      "latest_at": "2026-07-10T13:58:07Z",
-      "primary_item": {
-        "id": "e334fec610fe6e0031747a464c20ee81d8a825df",
-        "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
-        "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
-        "source": "公众号：百度智能云（文心）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9169c1ad9868",
-      "title": "AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI",
-      "url": "https://www.aibase.com/news/29529",
-      "primary_url": "https://www.aibase.com/news/29529",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e2ddb5d6730b79cfcabde0a9a37e084654e7d1b0",
-          "title": "AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI",
-          "url": "https://www.aibase.com/news/29529",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T11:12:15.212761Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e2ddb5d6730b79cfcabde0a9a37e084654e7d1b0",
-          "title": "AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI",
-          "url": "https://www.aibase.com/news/29529",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T11:12:15.212761Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7202,
-      "importance": 0.7202,
-      "importance_score": 0.7202,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7367,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T11:12:15.212761Z",
-      "latest_at": "2026-07-10T11:12:15.212761Z",
-      "primary_item": {
-        "id": "e2ddb5d6730b79cfcabde0a9a37e084654e7d1b0",
-        "title": "AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI",
-        "url": "https://www.aibase.com/news/29529",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_fd60211f7949",
-      "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
-      "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
-      "primary_url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "34c48a4ad2e50ee457f65cc325d95bd6e7c0b929",
-          "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
-          "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T09:45:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "34c48a4ad2e50ee457f65cc325d95bd6e7c0b929",
-          "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
-          "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T09:45:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7215,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T09:45:30Z",
-      "latest_at": "2026-07-10T09:45:30Z",
-      "primary_item": {
-        "id": "34c48a4ad2e50ee457f65cc325d95bd6e7c0b929",
-        "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
-        "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b63b27686ba0",
-      "title": "​Meta 发布新旗舰模型 Muse Spark 1.1，升级多代理自动化功能",
-      "url": "https://www.aibase.com/news/29528",
-      "primary_url": "https://www.aibase.com/news/29528",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ad24c680df28cc2d6008647c44a937d24babe2df",
-          "title": "​Meta 发布新旗舰模型 Muse Spark 1.1，升级多代理自动化功能",
-          "url": "https://www.aibase.com/news/29528",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T11:12:15.212761Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ad24c680df28cc2d6008647c44a937d24babe2df",
-          "title": "​Meta 发布新旗舰模型 Muse Spark 1.1，升级多代理自动化功能",
-          "url": "https://www.aibase.com/news/29528",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T11:12:15.212761Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7202,
-      "importance": 0.7202,
-      "importance_score": 0.7202,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7367,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T11:12:15.212761Z",
-      "latest_at": "2026-07-10T11:12:15.212761Z",
-      "primary_item": {
-        "id": "ad24c680df28cc2d6008647c44a937d24babe2df",
-        "title": "​Meta 发布新旗舰模型 Muse Spark 1.1，升级多代理自动化功能",
-        "url": "https://www.aibase.com/news/29528",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_24a7b68fc45a",
-      "title": "三星杀回PC芯片战场：自研AI专用芯片GAIA已送测联想惠普， 2027 年量产",
-      "url": "https://www.aibase.com/news/29527",
-      "primary_url": "https://www.aibase.com/news/29527",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a9f0d291e7254d97528883c7e309e230f61deebd",
-          "title": "三星杀回PC芯片战场：自研AI专用芯片GAIA已送测联想惠普， 2027 年量产",
-          "url": "https://www.aibase.com/news/29527",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T11:12:15.212761Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a9f0d291e7254d97528883c7e309e230f61deebd",
-          "title": "三星杀回PC芯片战场：自研AI专用芯片GAIA已送测联想惠普， 2027 年量产",
-          "url": "https://www.aibase.com/news/29527",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T11:12:15.212761Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7202,
-      "importance": 0.7202,
-      "importance_score": 0.7202,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7367,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T11:12:15.212761Z",
-      "latest_at": "2026-07-10T11:12:15.212761Z",
-      "primary_item": {
-        "id": "a9f0d291e7254d97528883c7e309e230f61deebd",
-        "title": "三星杀回PC芯片战场：自研AI专用芯片GAIA已送测联想惠普， 2027 年量产",
-        "url": "https://www.aibase.com/news/29527",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8de6289bbaf9",
-      "title": "快手 KwaiKAT 发布 KAT-Coder-Pro V2.5:告别\"补代码\"，首个能端到端跑通完整工程的国产 Agentic 编程模型",
-      "url": "https://www.aibase.com/news/29530",
-      "primary_url": "https://www.aibase.com/news/29530",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e41476d0e305dd9dc4a261390540a8b7076df250",
-          "title": "快手 KwaiKAT 发布 KAT-Coder-Pro V2.5:告别\"补代码\"，首个能端到端跑通完整工程的国产 Agentic 编程模型",
-          "url": "https://www.aibase.com/news/29530",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T11:12:15.212761Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e41476d0e305dd9dc4a261390540a8b7076df250",
-          "title": "快手 KwaiKAT 发布 KAT-Coder-Pro V2.5:告别\"补代码\"，首个能端到端跑通完整工程的国产 Agentic 编程模型",
-          "url": "https://www.aibase.com/news/29530",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T11:12:15.212761Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7202,
-      "importance": 0.7202,
-      "importance_score": 0.7202,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7367,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T11:12:15.212761Z",
-      "latest_at": "2026-07-10T11:12:15.212761Z",
-      "primary_item": {
-        "id": "e41476d0e305dd9dc4a261390540a8b7076df250",
-        "title": "快手 KwaiKAT 发布 KAT-Coder-Pro V2.5:告别\"补代码\"，首个能端到端跑通完整工程的国产 Agentic 编程模型",
-        "url": "https://www.aibase.com/news/29530",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1130,15 +768,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6264,
-      "importance": 0.6264,
-      "importance_score": 0.6264,
+      "score": 0.6226,
+      "importance": 0.6226,
+      "importance_score": 0.6226,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.5,
         "ai_relevance": 0.79,
-        "recency": 0.9044,
+        "recency": 0.883,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1244,15 +882,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6108,
-      "importance": 0.6108,
-      "importance_score": 0.6108,
+      "score": 0.6073,
+      "importance": 0.6073,
+      "importance_score": 0.6073,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8144,
+        "recency": 0.7951,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1323,15 +961,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6021,
-      "importance": 0.6021,
-      "importance_score": 0.6021,
+      "score": 0.5984,
+      "importance": 0.5984,
+      "importance_score": 0.5984,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.8562,
+        "recency": 0.836,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1440,15 +1078,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5747,
-      "importance": 0.5747,
-      "importance_score": 0.5747,
+      "score": 0.5709,
+      "importance": 0.5709,
+      "importance_score": 0.5709,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8827,
+        "recency": 0.8618,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1462,6 +1100,518 @@
         "title": "请不要停产 Gemini 2.5 Flash",
         "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
         "source": "discuss.ai.google.dev",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_695ba7ea9f58",
+      "title": "全球首个潮玩创作者AI设计平台“妙呀”全量公测",
+      "url": "https://36kr.com/newsflashes/3890814999870213?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3890814999870213?f=rss",
+      "source": "36Kr",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "cffe51f0a3490f5da985e9f3a8a199b23db24fc0",
+          "title": "全球首个潮玩创作者AI设计平台“妙呀”全量公测",
+          "url": "https://36kr.com/newsflashes/3890814999870213?f=rss",
+          "source": "36Kr",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-11T05:41:41Z"
+        },
+        {
+          "id": "22fc1868b52d4a81167c9ba01de65be35d1ce98a",
+          "title": "全球首个潮玩创作者 AI 设计平台「妙呀」全量公测",
+          "url": "https://36kr.com/newsflashes/3890814999870213?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36Kr",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "cffe51f0a3490f5da985e9f3a8a199b23db24fc0",
+          "title": "全球首个潮玩创作者AI设计平台“妙呀”全量公测",
+          "url": "https://36kr.com/newsflashes/3890814999870213?f=rss",
+          "source": "36Kr",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-11T05:41:41Z"
+        },
+        {
+          "id": "22fc1868b52d4a81167c9ba01de65be35d1ce98a",
+          "title": "全球首个潮玩创作者 AI 设计平台「妙呀」全量公测",
+          "url": "https://36kr.com/newsflashes/3890814999870213?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5828,
+      "importance": 0.5828,
+      "importance_score": 0.5828,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4824,
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9394,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T05:41:41Z",
+      "latest_at": "2026-07-11T06:20:23.797146Z",
+      "primary_item": {
+        "id": "cffe51f0a3490f5da985e9f3a8a199b23db24fc0",
+        "title": "全球首个潮玩创作者AI设计平台“妙呀”全量公测",
+        "url": "https://36kr.com/newsflashes/3890814999870213?f=rss",
+        "source": "36Kr",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_be1720d248f4",
+      "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://news.ycombinator.com/item?id=48865019",
+      "primary_url": "https://news.ycombinator.com/item?id=48865019",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "6f0abfaa01d6de5c38b4b10e8770e9838c11ff43",
+          "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+          "url": "https://news.ycombinator.com/item?id=48865019",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T23:47:34.756000Z"
+        },
+        {
+          "id": "2e4fae73d6e65a31d6b11518881ef7406520ddeb",
+          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
+          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
+          "source": "9to5mac.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T23:11:12.310000Z"
+        },
+        {
+          "id": "e01e7f5e5d50b2f6f0194ad2d9b33f5f021af3b6",
+          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-10T20:47:09Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "9to5mac.com",
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6f0abfaa01d6de5c38b4b10e8770e9838c11ff43",
+          "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+          "url": "https://news.ycombinator.com/item?id=48865019",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T23:47:34.756000Z"
+        },
+        {
+          "id": "2e4fae73d6e65a31d6b11518881ef7406520ddeb",
+          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
+          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
+          "source": "9to5mac.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T23:11:12.310000Z"
+        },
+        {
+          "id": "e01e7f5e5d50b2f6f0194ad2d9b33f5f021af3b6",
+          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-10T20:47:09Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5461,
+      "importance": 0.5461,
+      "importance_score": 0.5461,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8627,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-10T20:47:09Z",
+      "latest_at": "2026-07-10T23:47:34.756000Z",
+      "primary_item": {
+        "id": "6f0abfaa01d6de5c38b4b10e8770e9838c11ff43",
+        "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+        "url": "https://news.ycombinator.com/item?id=48865019",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_0a7e85008191",
+      "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
+      "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4874519.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "4a160e187edde4df54204d98b5d103546dbdac2f",
+          "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
+          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "53bd41ce08b667aee69742d6c135f7803d7da97c",
+          "title": "OpenAI48小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
+          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T09:23:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "4a160e187edde4df54204d98b5d103546dbdac2f",
+          "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
+          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "53bd41ce08b667aee69742d6c135f7803d7da97c",
+          "title": "OpenAI48小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
+          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T09:23:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T09:23:45Z",
+      "latest_at": "2026-07-11T10:01:17.613819Z",
+      "primary_item": {
+        "id": "4a160e187edde4df54204d98b5d103546dbdac2f",
+        "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
+        "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_fcf1a756fad9",
+      "title": "人工智能监控与社会进步",
+      "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+      "primary_url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+      "source": "www.schneier.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a16d914d2e02c7b2611e63195e3a2a4bfe6bcd2b",
+          "title": "人工智能监控与社会进步",
+          "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+          "source": "www.schneier.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T09:51:09.924000Z"
+        },
+        {
+          "id": "13040820bc1a09759c52883be28b7224ffb3d5f3",
+          "title": "人工智能监控与社会进步 / AI Surveillance and Social Progress",
+          "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T09:40:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "www.schneier.com"
+      ],
+      "items": [
+        {
+          "id": "a16d914d2e02c7b2611e63195e3a2a4bfe6bcd2b",
+          "title": "人工智能监控与社会进步",
+          "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+          "source": "www.schneier.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T09:51:09.924000Z"
+        },
+        {
+          "id": "13040820bc1a09759c52883be28b7224ffb3d5f3",
+          "title": "人工智能监控与社会进步 / AI Surveillance and Social Progress",
+          "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T09:40:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9976,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T09:40:40Z",
+      "latest_at": "2026-07-11T09:51:09.924000Z",
+      "primary_item": {
+        "id": "a16d914d2e02c7b2611e63195e3a2a4bfe6bcd2b",
+        "title": "人工智能监控与社会进步",
+        "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+        "source": "www.schneier.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_31136afe5d04",
+      "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
+      "url": "https://juejin.cn/post/7660697431320690723",
+      "primary_url": "https://juejin.cn/post/7660697431320690723",
+      "source": "juejin",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
+          "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
+          "url": "https://juejin.cn/post/7660697431320690723",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T09:43:22.406000Z"
+        },
+        {
+          "id": "ba8969538a1b8c40f719a7bc5e2d3f26de20986a",
+          "title": "图解 120 个大语言模型（LLM）核心概念（1-30）",
+          "url": "https://juejin.cn/post/7660708287620808739",
+          "source": "掘金 · 人工智能本周最热",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "juejin",
+        "掘金 · 人工智能本周最热"
+      ],
+      "items": [
+        {
+          "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
+          "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
+          "url": "https://juejin.cn/post/7660697431320690723",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T09:43:22.406000Z"
+        },
+        {
+          "id": "ba8969538a1b8c40f719a7bc5e2d3f26de20986a",
+          "title": "图解 120 个大语言模型（LLM）核心概念（1-30）",
+          "url": "https://juejin.cn/post/7660708287620808739",
+          "source": "掘金 · 人工智能本周最热",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9957,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T03:54:10.645643Z",
+      "latest_at": "2026-07-11T09:43:22.406000Z",
+      "primary_item": {
+        "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
+        "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
+        "url": "https://juejin.cn/post/7660697431320690723",
+        "source": "juejin",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_ab00d130ea51",
+      "title": "苹果起诉OpenAI，指控其窃取公司机密",
+      "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
+      "primary_url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
+      "source": "www.nytimes.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b75f547ed568285a2f5f8e7b5519a411d45f14d9",
+          "title": "苹果起诉OpenAI，指控其窃取公司机密",
+          "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T22:39:09.137000Z"
+        },
+        {
+          "id": "2f1c45300213f61cf6f3b5ee41f8e835afe808f0",
+          "title": "苹果起诉 OpenAI，指控其窃取公司机密 / Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
+          "url": "https://news.ycombinator.com/item?id=48865431",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T22:17:18.539000Z"
+        },
+        {
+          "id": "825eeeaeeb5539f7a48baa0a2e2d2c51f4784ced",
+          "title": "苹果起诉OpenAI，指控其窃取公司机密 / Apple sues OpenAI, accusing it of stealing company secrets",
+          "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-10T21:20:29Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.nytimes.com"
+      ],
+      "items": [
+        {
+          "id": "b75f547ed568285a2f5f8e7b5519a411d45f14d9",
+          "title": "苹果起诉OpenAI，指控其窃取公司机密",
+          "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T22:39:09.137000Z"
+        },
+        {
+          "id": "2f1c45300213f61cf6f3b5ee41f8e835afe808f0",
+          "title": "苹果起诉 OpenAI，指控其窃取公司机密 / Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
+          "url": "https://news.ycombinator.com/item?id=48865431",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T22:17:18.539000Z"
+        },
+        {
+          "id": "825eeeaeeb5539f7a48baa0a2e2d2c51f4784ced",
+          "title": "苹果起诉OpenAI，指控其窃取公司机密 / Apple sues OpenAI, accusing it of stealing company secrets",
+          "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-10T21:20:29Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8486,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-10T21:20:29Z",
+      "latest_at": "2026-07-10T22:39:09.137000Z",
+      "primary_item": {
+        "id": "b75f547ed568285a2f5f8e7b5519a411d45f14d9",
+        "title": "苹果起诉OpenAI，指控其窃取公司机密",
+        "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
+        "source": "www.nytimes.com",
         "source_name": "Buzzing"
       }
     }
