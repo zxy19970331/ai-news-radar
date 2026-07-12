@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T19:44:20.760939Z",
+  "generated_at": "2026-07-12T20:58:33.642955Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -30,18 +30,18 @@
           "published_at": "2026-07-12T00:41:44.375000Z"
         },
         {
-          "id": "8e05c5de6932301ae68f8674d66b4ca481bad391",
+          "id": "3ab4fda50ecc05d339cce26d5d65671d36ea5896",
           "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算 / Mesh LLM: distributed AI computing on iroh",
           "url": "https://www.iroh.computer/blog/mesh-llm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-11T22:38:57Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "hackernews"
       ],
@@ -65,26 +65,26 @@
           "published_at": "2026-07-12T00:41:44.375000Z"
         },
         {
-          "id": "8e05c5de6932301ae68f8674d66b4ca481bad391",
+          "id": "3ab4fda50ecc05d339cce26d5d65671d36ea5896",
           "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算 / Mesh LLM: distributed AI computing on iroh",
           "url": "https://www.iroh.computer/blog/mesh-llm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-11T22:38:57Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7927,
-      "importance": 0.7927,
-      "importance_score": 0.7927,
+      "score": 0.7902,
+      "importance": 0.7902,
+      "importance_score": 0.7902,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7783,
+        "recency": 0.7646,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -138,15 +138,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7793,
-      "importance": 0.7793,
-      "importance_score": 0.7793,
+      "score": 0.7761,
+      "importance": 0.7761,
+      "importance_score": 0.7761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9815,
+        "recency": 0.9641,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -199,15 +199,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.953,
+        "recency": 0.9362,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -260,15 +260,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9361,
+        "recency": 0.9195,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -340,15 +340,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8596,
+        "recency": 0.8444,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -421,15 +421,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7703,
+        "recency": 0.7567,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -502,15 +502,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7601,
+        "recency": 0.7467,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -601,15 +601,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.787,
-      "importance": 0.787,
-      "importance_score": 0.787,
+      "score": 0.7844,
+      "importance": 0.7844,
+      "importance_score": 0.7844,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7965,
+        "recency": 0.7824,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -663,15 +663,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7293,
-      "importance": 0.7293,
-      "importance_score": 0.7293,
+      "score": 0.7268,
+      "importance": 0.7268,
+      "importance_score": 0.7268,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7871,
+        "recency": 0.7732,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -742,15 +742,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7839,
-      "importance": 0.7839,
-      "importance_score": 0.7839,
+      "score": 0.781,
+      "importance": 0.781,
+      "importance_score": 0.781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9185,
+        "recency": 0.9022,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -823,15 +823,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.781,
+        "recency": 0.7672,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -974,15 +974,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6826,
-      "importance": 0.6826,
-      "importance_score": 0.6826,
+      "score": 0.6795,
+      "importance": 0.6795,
+      "importance_score": 0.6795,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4968,
         "source_tier": 0.54,
         "ai_relevance": 0.69,
-        "recency": 0.9821,
+        "recency": 0.9648,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1053,15 +1053,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7451,
+        "recency": 0.7319,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1189,15 +1189,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6199,
-      "importance": 0.6199,
-      "importance_score": 0.6199,
+      "score": 0.6168,
+      "importance": 0.6168,
+      "importance_score": 0.6168,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9952,
+        "recency": 0.9775,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1268,15 +1268,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5916,
+      "importance": 0.5916,
+      "importance_score": 0.5916,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.8176,
+        "recency": 0.8031,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1291,6 +1291,104 @@
         "url": "https://36kr.com/p/3892222176574211?f=rss",
         "source": "36Kr",
         "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_dd2c6d143ed1",
+      "title": "我喜欢大型语言模型，讨厌炒作",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "primary_url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "source": "geohot.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "12c5acbb94f5d123f7127e1ed16664da4dd64936",
+          "title": "我喜欢大型语言模型，讨厌炒作",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+          "source": "geohot.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T20:14:25.500000Z"
+        },
+        {
+          "id": "2ee91c796f92d5801172d6838d9d616e13364c1b",
+          "title": "我喜欢法学硕士，我讨厌炒作 / I love LLMs, I hate hype",
+          "url": "https://news.ycombinator.com/item?id=48883343",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T19:24:10.159000Z"
+        },
+        {
+          "id": "d597d6bf91186b8bfb46c986d2a055a015631a5c",
+          "title": "我喜欢大型语言模型，讨厌炒作 / I love LLMs, I hate hype",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T18:31:56Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "geohot.github.io",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "12c5acbb94f5d123f7127e1ed16664da4dd64936",
+          "title": "我喜欢大型语言模型，讨厌炒作",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+          "source": "geohot.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T20:14:25.500000Z"
+        },
+        {
+          "id": "2ee91c796f92d5801172d6838d9d616e13364c1b",
+          "title": "我喜欢法学硕士，我讨厌炒作 / I love LLMs, I hate hype",
+          "url": "https://news.ycombinator.com/item?id=48883343",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T19:24:10.159000Z"
+        },
+        {
+          "id": "d597d6bf91186b8bfb46c986d2a055a015631a5c",
+          "title": "我喜欢大型语言模型，讨厌炒作 / I love LLMs, I hate hype",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T18:31:56Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5689,
+      "importance": 0.5689,
+      "importance_score": 0.5689,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9894,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T18:31:56Z",
+      "latest_at": "2026-07-12T20:14:25.500000Z",
+      "primary_item": {
+        "id": "12c5acbb94f5d123f7127e1ed16664da4dd64936",
+        "title": "我喜欢大型语言模型，讨厌炒作",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+        "source": "geohot.github.io",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1366,15 +1464,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5701,
-      "importance": 0.5701,
-      "importance_score": 0.5701,
+      "score": 0.5669,
+      "importance": 0.5669,
+      "importance_score": 0.5669,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9959,
+        "recency": 0.9782,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1388,6 +1486,85 @@
         "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
         "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
         "source": "systima.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_0f42f1a43c3e",
+      "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
+      "url": "https://xandergos.github.io/terrain-diffusion",
+      "primary_url": "https://xandergos.github.io/terrain-diffusion",
+      "source": "xandergos.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fb76fd848b5928f438ed4a1424c8ea2ed4bb1145",
+          "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
+          "url": "https://xandergos.github.io/terrain-diffusion",
+          "source": "xandergos.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T20:14:25.984000Z"
+        },
+        {
+          "id": "27f9226e8a6f4ce4e081bf0b322bee26f0ccdba3",
+          "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合 / InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation",
+          "url": "https://xandergos.github.io/terrain-diffusion",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T19:56:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "xandergos.github.io"
+      ],
+      "items": [
+        {
+          "id": "fb76fd848b5928f438ed4a1424c8ea2ed4bb1145",
+          "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
+          "url": "https://xandergos.github.io/terrain-diffusion",
+          "source": "xandergos.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T20:14:25.984000Z"
+        },
+        {
+          "id": "27f9226e8a6f4ce4e081bf0b322bee26f0ccdba3",
+          "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合 / InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation",
+          "url": "https://xandergos.github.io/terrain-diffusion",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T19:56:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5439,
+      "importance": 0.5439,
+      "importance_score": 0.5439,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9894,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T19:56:07Z",
+      "latest_at": "2026-07-12T20:14:25.984000Z",
+      "primary_item": {
+        "id": "fb76fd848b5928f438ed4a1424c8ea2ed4bb1145",
+        "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
+        "url": "https://xandergos.github.io/terrain-diffusion",
+        "source": "xandergos.github.io",
         "source_name": "Buzzing"
       }
     },
@@ -1445,15 +1622,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5738,
-      "importance": 0.5738,
-      "importance_score": 0.5738,
+      "score": 0.571,
+      "importance": 0.571,
+      "importance_score": 0.571,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8894,
+        "recency": 0.8737,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1523,164 +1700,6 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9393,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T15:23:59Z",
-      "latest_at": "2026-07-12T15:23:59Z",
-      "primary_item": {
-        "id": "fd2c4cd155f371f55ae586a402244d3d90079fd1",
-        "title": "带状疱疹疫苗可能降低患痴呆症的风险 / A no-brainer for protecting your brain",
-        "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_12c458e9f6b4",
-      "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-      "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-      "primary_url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ba95601d865a0210044540be1f74d839af08e1f6",
-          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T14:23:06.187000Z"
-        },
-        {
-          "id": "2f0a66f4493e18a9b91c14c15e8029c0cec5cc91",
-          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实 / AI giants learn what everyone else on the modern internet already knows",
-          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T14:02:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "ba95601d865a0210044540be1f74d839af08e1f6",
-          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T14:23:06.187000Z"
-        },
-        {
-          "id": "2f0a66f4493e18a9b91c14c15e8029c0cec5cc91",
-          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实 / AI giants learn what everyone else on the modern internet already knows",
-          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T14:02:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5324,
-      "importance": 0.5324,
-      "importance_score": 0.5324,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9256,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T14:02:01Z",
-      "latest_at": "2026-07-12T14:23:06.187000Z",
-      "primary_item": {
-        "id": "ba95601d865a0210044540be1f74d839af08e1f6",
-        "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-        "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_79354e1b81c7",
-      "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-      "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4874651.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "2f73b85ce310166279bd6f41b12db5f86db47840",
-          "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c96c2c820fa8341624ea5d57bbd3ee17cb4b3e41",
-          "title": "10倍生产力和打折的支付能力，AI最大的矛盾如何破局？",
-          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T12:53:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "2f73b85ce310166279bd6f41b12db5f86db47840",
-          "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c96c2c820fa8341624ea5d57bbd3ee17cb4b3e41",
-          "title": "10倍生产力和打折的支付能力，AI最大的矛盾如何破局？",
-          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T12:53:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
       "score": 0.5319,
       "importance": 0.5319,
       "importance_score": 0.5319,
@@ -1696,14 +1715,14 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-12T12:53:09Z",
-      "latest_at": "2026-07-12T14:09:25.866825Z",
+      "earliest_at": "2026-07-12T15:23:59Z",
+      "latest_at": "2026-07-12T15:23:59Z",
       "primary_item": {
-        "id": "2f73b85ce310166279bd6f41b12db5f86db47840",
-        "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-        "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "fd2c4cd155f371f55ae586a402244d3d90079fd1",
+        "title": "带状疱疹疫苗可能降低患痴呆症的风险 / A no-brainer for protecting your brain",
+        "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
