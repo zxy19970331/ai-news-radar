@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T17:47:36.649419Z",
+  "generated_at": "2026-07-16T19:22:07.161451Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8644,
-      "importance": 0.8644,
-      "importance_score": 0.8644,
+      "score": 0.8605,
+      "importance": 0.8605,
+      "importance_score": 0.8605,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9744,
+        "recency": 0.9525,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8615,
-      "importance": 0.8615,
-      "importance_score": 0.8615,
+      "score": 0.8575,
+      "importance": 0.8575,
+      "importance_score": 0.8575,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9747,
+        "recency": 0.9528,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8474,
-      "importance": 0.8474,
-      "importance_score": 0.8474,
+      "score": 0.8435,
+      "importance": 0.8435,
+      "importance_score": 0.8435,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9744,
+        "recency": 0.9525,
         "story_heat": 0.0
       },
       "category": "official",
@@ -206,6 +206,68 @@
         "title": "为什么青少年应该获得安全的人工智能 / Why teens deserve access to safe AI",
         "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b3f1c35889da",
+      "title": "用于 Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
+      "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
+      "primary_url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "225611c19971e2c7202b85385fe274bebde738e4",
+          "title": "用于 Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
+          "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T18:06:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "225611c19971e2c7202b85385fe274bebde738e4",
+          "title": "用于 Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
+          "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T18:06:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8408,
+      "importance": 0.8408,
+      "importance_score": 0.8408,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9821,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T18:06:52Z",
+      "latest_at": "2026-07-16T18:06:52Z",
+      "primary_item": {
+        "id": "225611c19971e2c7202b85385fe274bebde738e4",
+        "title": "用于 Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
+        "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -244,15 +306,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
+      "score": 0.8221,
+      "importance": 0.8221,
+      "importance_score": 0.8221,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7734,
+        "recency": 0.756,
         "story_heat": 0.0
       },
       "category": "official",
@@ -306,15 +368,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8237,
-      "importance": 0.8237,
-      "importance_score": 0.8237,
+      "score": 0.8201,
+      "importance": 0.8201,
+      "importance_score": 0.8201,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8873,
+        "recency": 0.8673,
         "story_heat": 0.0
       },
       "category": "official",
@@ -368,15 +430,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8451,
-      "importance": 0.8451,
-      "importance_score": 0.8451,
+      "score": 0.8414,
+      "importance": 0.8414,
+      "importance_score": 0.8414,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9175,
+        "recency": 0.8969,
         "story_heat": 0.0
       },
       "category": "official",
@@ -392,6 +454,68 @@
         "title": "更新型号，同样的优势 / Newer Models, Same Advantage",
         "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5c947366c8f5",
+      "title": "Xcode 27 运行程序图像现已公开预览 / Xcode 27 runner image now in public preview",
+      "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8b851e9e6471a3ec412b76a98930d2cd7a0e35aa",
+          "title": "Xcode 27 运行程序图像现已公开预览 / Xcode 27 runner image now in public preview",
+          "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T18:00:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "8b851e9e6471a3ec412b76a98930d2cd7a0e35aa",
+          "title": "Xcode 27 运行程序图像现已公开预览 / Xcode 27 runner image now in public preview",
+          "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T18:00:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9805,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T18:00:07Z",
+      "latest_at": "2026-07-16T18:00:07Z",
+      "primary_item": {
+        "id": "8b851e9e6471a3ec412b76a98930d2cd7a0e35aa",
+        "title": "Xcode 27 运行程序图像现已公开预览 / Xcode 27 runner image now in public preview",
+        "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -430,15 +554,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8394,
-      "importance": 0.8394,
-      "importance_score": 0.8394,
+      "score": 0.8355,
+      "importance": 0.8355,
+      "importance_score": 0.8355,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9744,
+        "recency": 0.9525,
         "story_heat": 0.0
       },
       "category": "official",
@@ -454,68 +578,6 @@
         "title": "将更多应用程序连接到搜索 / Connect more of your apps to Search",
         "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
         "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6895fff98626",
-      "title": "秘密扫描和公共监控的改进 / Improvements to secret scanning and public monitoring",
-      "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
-      "primary_url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f46aa4c38039a79063d73c58cdd08a9e93eec7f6",
-          "title": "秘密扫描和公共监控的改进 / Improvements to secret scanning and public monitoring",
-          "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T22:38:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f46aa4c38039a79063d73c58cdd08a9e93eec7f6",
-          "title": "秘密扫描和公共监控的改进 / Improvements to secret scanning and public monitoring",
-          "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T22:38:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7583,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T22:38:16Z",
-      "latest_at": "2026-07-15T22:38:16Z",
-      "primary_item": {
-        "id": "f46aa4c38039a79063d73c58cdd08a9e93eec7f6",
-        "title": "秘密扫描和公共监控的改进 / Improvements to secret scanning and public monitoring",
-        "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -573,15 +635,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7964,
-      "importance": 0.7964,
-      "importance_score": 0.7964,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9213,
+        "recency": 0.9005,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -654,15 +716,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
+      "score": 0.7897,
+      "importance": 0.7897,
+      "importance_score": 0.7897,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9554,
+        "recency": 0.9339,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -682,30 +744,30 @@
       }
     },
     {
-      "story_id": "story_9a3bfba7061e",
-      "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
-      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "primary_url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "story_id": "story_09e86f1db1bc",
+      "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "primary_url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
       "source": "VentureBeat：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5d6d8d91fe656d818e850012b9eed533e99d688b",
-          "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
-          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+          "id": "351849145c6b8eab8c7345374b4d6e548dcf571e",
+          "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
+          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
           "source": "VentureBeat：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-16T16:40:48Z"
+          "published_at": "2026-07-16T19:02:38Z"
         },
         {
-          "id": "93287a8d384a16f108101f4fddf8738f7f6daf67",
-          "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障 / The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+          "id": "f6494df2dcdac191b954127ec735ab7314bf4be8",
+          "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证 / The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
           "source": "VentureBeat AI",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-07-16T16:40:48Z"
+          "published_at": "2026-07-16T19:02:38Z"
         }
       ],
       "source_count": 2,
@@ -715,35 +777,35 @@
       ],
       "items": [
         {
-          "id": "5d6d8d91fe656d818e850012b9eed533e99d688b",
-          "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
-          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+          "id": "351849145c6b8eab8c7345374b4d6e548dcf571e",
+          "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
+          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
           "source": "VentureBeat：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-16T16:40:48Z"
+          "published_at": "2026-07-16T19:02:38Z"
         },
         {
-          "id": "93287a8d384a16f108101f4fddf8738f7f6daf67",
-          "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障 / The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+          "id": "f6494df2dcdac191b954127ec735ab7314bf4be8",
+          "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证 / The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
           "source": "VentureBeat AI",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-07-16T16:40:48Z"
+          "published_at": "2026-07-16T19:02:38Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7897,
-      "importance": 0.7897,
-      "importance_score": 0.7897,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.984,
+        "recency": 0.9953,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -752,13 +814,94 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T16:40:48Z",
-      "latest_at": "2026-07-16T16:40:48Z",
+      "earliest_at": "2026-07-16T19:02:38Z",
+      "latest_at": "2026-07-16T19:02:38Z",
       "primary_item": {
-        "id": "5d6d8d91fe656d818e850012b9eed533e99d688b",
-        "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
-        "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+        "id": "351849145c6b8eab8c7345374b4d6e548dcf571e",
+        "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
+        "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
         "source": "VentureBeat：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_054bb53f758e",
+      "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+      "url": "https://www.mixfont.com/experiments/decoy-font",
+      "primary_url": "https://www.mixfont.com/experiments/decoy-font",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "544a8b40618a9ff55c0f0054febd016a3ade9047",
+          "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+          "url": "https://www.mixfont.com/experiments/decoy-font",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T18:32:23.680000Z"
+        },
+        {
+          "id": "2843e32cc2f2e37aa4214f20eadbb89c52f5d682",
+          "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字 / Decoy Font",
+          "url": "https://www.mixfont.com/experiments/decoy-font",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-16T16:18:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "544a8b40618a9ff55c0f0054febd016a3ade9047",
+          "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+          "url": "https://www.mixfont.com/experiments/decoy-font",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T18:32:23.680000Z"
+        },
+        {
+          "id": "2843e32cc2f2e37aa4214f20eadbb89c52f5d682",
+          "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字 / Decoy Font",
+          "url": "https://www.mixfont.com/experiments/decoy-font",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-16T16:18:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9881,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T16:18:21Z",
+      "latest_at": "2026-07-16T18:32:23.680000Z",
+      "primary_item": {
+        "id": "544a8b40618a9ff55c0f0054febd016a3ade9047",
+        "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+        "url": "https://www.mixfont.com/experiments/decoy-font",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -797,15 +940,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8112,
-      "importance": 0.8112,
-      "importance_score": 0.8112,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7734,
+        "recency": 0.756,
         "story_heat": 0.0
       },
       "category": "official",
@@ -878,15 +1021,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
+      "score": 0.7669,
+      "importance": 0.7669,
+      "importance_score": 0.7669,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9964,
+        "recency": 0.9739,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -959,15 +1102,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.77,
-      "importance": 0.77,
-      "importance_score": 0.77,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8743,
+        "recency": 0.8546,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1040,15 +1183,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8645,
+        "recency": 0.8451,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1064,6 +1207,67 @@
         "title": "Patter SDK 教程：构建餐厅预订电话智能体，支持动态变量、护栏、延迟仪表盘与评估检查",
         "url": "https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-building-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-latency-dashboards-and-eval-checks",
         "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_77654aaff125",
+      "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
+      "url": "https://www.kimi.com/blog/perception-bench",
+      "primary_url": "https://www.kimi.com/blog/perception-bench",
+      "source": "Moonshot AI：Kimi Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ce8c88f36db4b4d4dd052be3cf3e4419b232412f",
+          "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
+          "url": "https://www.kimi.com/blog/perception-bench",
+          "source": "Moonshot AI：Kimi Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T19:11:01.192000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Moonshot AI：Kimi Blog"
+      ],
+      "items": [
+        {
+          "id": "ce8c88f36db4b4d4dd052be3cf3e4419b232412f",
+          "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
+          "url": "https://www.kimi.com/blog/perception-bench",
+          "source": "Moonshot AI：Kimi Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T19:11:01.192000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9973,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T19:11:01.192000Z",
+      "latest_at": "2026-07-16T19:11:01.192000Z",
+      "primary_item": {
+        "id": "ce8c88f36db4b4d4dd052be3cf3e4419b232412f",
+        "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
+        "url": "https://www.kimi.com/blog/perception-bench",
+        "source": "Moonshot AI：Kimi Blog",
         "source_name": "AI HOT"
       }
     },
@@ -1102,15 +1306,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8936,
+        "recency": 0.8735,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1163,15 +1367,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
+      "score": 0.8161,
+      "importance": 0.8161,
+      "importance_score": 0.8161,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7734,
+        "recency": 0.756,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1188,206 +1392,6 @@
         "url": "https://huggingface.co/blog/security-incident-july-2026",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_26284b3a5f42",
-      "title": "前谷歌DeepMind研究员因公司签署无限制军事AI协议而离职",
-      "url": "https://turntrout.com/why-i-left-google-deepmind",
-      "primary_url": "https://turntrout.com/why-i-left-google-deepmind",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ddc61b5fc8daf1282f72f311b725b10c8cf4c49d",
-          "title": "前谷歌DeepMind研究员因公司签署无限制军事AI协议而离职",
-          "url": "https://turntrout.com/why-i-left-google-deepmind",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T19:37:38.646000Z"
-        },
-        {
-          "id": "90e0dbda9973f4192351ccd1f4a560d289998761",
-          "title": "我为何离开谷歌DeepMind / Why I Left Google DeepMind",
-          "url": "https://turntrout.com/why-i-left-google-deepmind",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T18:40:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "ddc61b5fc8daf1282f72f311b725b10c8cf4c49d",
-          "title": "前谷歌DeepMind研究员因公司签署无限制军事AI协议而离职",
-          "url": "https://turntrout.com/why-i-left-google-deepmind",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T19:37:38.646000Z"
-        },
-        {
-          "id": "90e0dbda9973f4192351ccd1f4a560d289998761",
-          "title": "我为何离开谷歌DeepMind / Why I Left Google DeepMind",
-          "url": "https://turntrout.com/why-i-left-google-deepmind",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T18:40:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7261,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T18:40:34Z",
-      "latest_at": "2026-07-15T19:37:38.646000Z",
-      "primary_item": {
-        "id": "ddc61b5fc8daf1282f72f311b725b10c8cf4c49d",
-        "title": "前谷歌DeepMind研究员因公司签署无限制军事AI协议而离职",
-        "url": "https://turntrout.com/why-i-left-google-deepmind",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_bfaeb9f7b630",
-      "title": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
-      "url": "https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg",
-      "primary_url": "https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg",
-      "source": "公众号：百度智能云（文心）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b3aaa007f2b3661731b0de8b67354564f5c77cd1",
-          "title": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
-          "url": "https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg",
-          "source": "公众号：百度智能云（文心）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T12:17:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：百度智能云（文心）"
-      ],
-      "items": [
-        {
-          "id": "b3aaa007f2b3661731b0de8b67354564f5c77cd1",
-          "title": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
-          "url": "https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg",
-          "source": "公众号：百度智能云（文心）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T12:17:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7388,
-      "importance": 0.7388,
-      "importance_score": 0.7388,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9236,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T12:17:11Z",
-      "latest_at": "2026-07-16T12:17:11Z",
-      "primary_item": {
-        "id": "b3aaa007f2b3661731b0de8b67354564f5c77cd1",
-        "title": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
-        "url": "https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg",
-        "source": "公众号：百度智能云（文心）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_484cfcf80d6b",
-      "title": "面壁智能开源企业AI数字员工平台StaffDeck",
-      "url": "https://x.com/OpenBMB/status/2077741814799548451",
-      "primary_url": "https://x.com/OpenBMB/status/2077741814799548451",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "45d25a22eeb78dafb8de6e192a51db8529430440",
-          "title": "面壁智能开源企业AI数字员工平台StaffDeck",
-          "url": "https://x.com/OpenBMB/status/2077741814799548451",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T13:07:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：面壁智能 OpenBMB (@OpenBMB)"
-      ],
-      "items": [
-        {
-          "id": "45d25a22eeb78dafb8de6e192a51db8529430440",
-          "title": "面壁智能开源企业AI数字员工平台StaffDeck",
-          "url": "https://x.com/OpenBMB/status/2077741814799548451",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T13:07:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7378,
-      "importance": 0.7378,
-      "importance_score": 0.7378,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9347,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T13:07:05Z",
-      "latest_at": "2026-07-16T13:07:05Z",
-      "primary_item": {
-        "id": "45d25a22eeb78dafb8de6e192a51db8529430440",
-        "title": "面壁智能开源企业AI数字员工平台StaffDeck",
-        "url": "https://x.com/OpenBMB/status/2077741814799548451",
-        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-        "source_name": "AI HOT"
       }
     }
   ]
