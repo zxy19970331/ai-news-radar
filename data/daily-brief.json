@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T17:40:16.074597Z",
+  "generated_at": "2026-07-17T19:20:08.125999Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8806,
-      "importance": 0.8806,
-      "importance_score": 0.8806,
+      "score": 0.8764,
+      "importance": 0.8764,
+      "importance_score": 0.8764,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9757,
+        "recency": 0.9525,
         "story_heat": 0.25
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8581,
-      "importance": 0.8581,
-      "importance_score": 0.8581,
+      "score": 0.8543,
+      "importance": 0.8543,
+      "importance_score": 0.8543,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8951,
+        "recency": 0.8739,
         "story_heat": 0.25
       },
       "category": "official",
@@ -168,65 +168,145 @@
       }
     },
     {
-      "story_id": "story_aab42ecfa69f",
-      "title": "项目的高级搜索已普遍可用 / Advanced search for Projects is generally available",
-      "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_a49eed2391da",
+      "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
+      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "primary_url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3621b12003ddebd2eebc46a2d84322b51c5b24cd",
-          "title": "项目的高级搜索已普遍可用 / Advanced search for Projects is generally available",
-          "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T19:07:14Z"
+          "id": "821a7dee5b0d96c5be8f197943ec8615a5c65c76",
+          "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
+          "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T17:41:32Z"
+        },
+        {
+          "id": "29df03a4226bc5016b882921fce99b406e25110a",
+          "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？ / Apple’s plot to crush OpenAI",
+          "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-17T17:41:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "821a7dee5b0d96c5be8f197943ec8615a5c65c76",
+          "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
+          "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T17:41:32Z"
+        },
+        {
+          "id": "29df03a4226bc5016b882921fce99b406e25110a",
+          "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？ / Apple’s plot to crush OpenAI",
+          "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-17T17:41:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9765,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T17:41:32Z",
+      "latest_at": "2026-07-17T17:41:32Z",
+      "primary_item": {
+        "id": "821a7dee5b0d96c5be8f197943ec8615a5c65c76",
+        "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
+        "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6d9ee94b7b4e",
+      "title": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
+      "url": "https://x.com/dotey/status/2078172517085085951",
+      "primary_url": "https://x.com/dotey/status/2078172517085085951",
+      "source": "X：宝玉 (@dotey)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b9a7fee9978bddd3409b35656836bb8a5bcab19c",
+          "title": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
+          "url": "https://x.com/dotey/status/2078172517085085951",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T17:38:33Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：宝玉 (@dotey)"
       ],
       "items": [
         {
-          "id": "3621b12003ddebd2eebc46a2d84322b51c5b24cd",
-          "title": "项目的高级搜索已普遍可用 / Advanced search for Projects is generally available",
-          "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T19:07:14Z"
+          "id": "b9a7fee9978bddd3409b35656836bb8a5bcab19c",
+          "title": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
+          "url": "https://x.com/dotey/status/2078172517085085951",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T17:38:33Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.794,
-      "importance": 0.794,
-      "importance_score": 0.794,
-      "importance_label": "官方更新",
+      "score": 0.7903,
+      "importance": 0.7903,
+      "importance_score": 0.7903,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7221,
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9758,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T19:07:14Z",
-      "latest_at": "2026-07-16T19:07:14Z",
+      "earliest_at": "2026-07-17T17:38:33Z",
+      "latest_at": "2026-07-17T17:38:33Z",
       "primary_item": {
-        "id": "3621b12003ddebd2eebc46a2d84322b51c5b24cd",
-        "title": "项目的高级搜索已普遍可用 / Advanced search for Projects is generally available",
-        "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "b9a7fee9978bddd3409b35656836bb8a5bcab19c",
+        "title": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
+        "url": "https://x.com/dotey/status/2078172517085085951",
+        "source": "X：宝玉 (@dotey)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -264,15 +344,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7828,
-      "importance": 0.7828,
-      "importance_score": 0.7828,
+      "score": 0.7785,
+      "importance": 0.7785,
+      "importance_score": 0.7785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9842,
+        "recency": 0.9608,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -325,15 +405,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7784,
-      "importance": 0.7784,
-      "importance_score": 0.7784,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9931,
+        "recency": 0.9695,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -405,15 +485,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8884,
+        "recency": 0.8673,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -467,15 +547,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7677,
-      "importance": 0.7677,
-      "importance_score": 0.7677,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9503,
+        "recency": 0.9277,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -528,15 +608,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7359,
+        "recency": 0.7185,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -552,68 +632,6 @@
         "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
         "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_56c7b7eb8f9f",
-      "title": "存储库管理员可以归档拉取请求 / Repository admins can archive pull requests",
-      "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
-      "primary_url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c6386d05422d9f9710b752c06785a54f7a7a5b43",
-          "title": "存储库管理员可以归档拉取请求 / Repository admins can archive pull requests",
-          "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T19:01:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c6386d05422d9f9710b752c06785a54f7a7a5b43",
-          "title": "存储库管理员可以归档拉取请求 / Repository admins can archive pull requests",
-          "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T19:01:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7938,
-      "importance": 0.7938,
-      "importance_score": 0.7938,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.721,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T19:01:09Z",
-      "latest_at": "2026-07-16T19:01:09Z",
-      "primary_item": {
-        "id": "c6386d05422d9f9710b752c06785a54f7a7a5b43",
-        "title": "存储库管理员可以归档拉取请求 / Repository admins can archive pull requests",
-        "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -651,15 +669,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8785,
+        "recency": 0.8576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -712,15 +730,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.749,
+        "recency": 0.7313,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -773,15 +791,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9104,
+        "recency": 0.8887,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -834,15 +852,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8911,
+        "recency": 0.87,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -895,15 +913,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8323,
+        "recency": 0.8125,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -955,15 +973,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9839,
+        "recency": 0.9605,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1034,15 +1052,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7677,
-      "importance": 0.7677,
-      "importance_score": 0.7677,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8618,
+        "recency": 0.8413,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1059,148 +1077,6 @@
         "url": "https://www.aibase.com/news/29687",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_09e86f1db1bc",
-      "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
-      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "primary_url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "source": "VentureBeat：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "351849145c6b8eab8c7345374b4d6e548dcf571e",
-          "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
-          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-          "source": "VentureBeat：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T19:02:38Z"
-        },
-        {
-          "id": "f6494df2dcdac191b954127ec735ab7314bf4be8",
-          "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证 / The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-          "source": "VentureBeat AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-16T19:02:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "VentureBeat AI",
-        "VentureBeat：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "351849145c6b8eab8c7345374b4d6e548dcf571e",
-          "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
-          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-          "source": "VentureBeat：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T19:02:38Z"
-        },
-        {
-          "id": "f6494df2dcdac191b954127ec735ab7314bf4be8",
-          "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证 / The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-          "source": "VentureBeat AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-16T19:02:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7213,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T19:02:38Z",
-      "latest_at": "2026-07-16T19:02:38Z",
-      "primary_item": {
-        "id": "351849145c6b8eab8c7345374b4d6e548dcf571e",
-        "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
-        "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-        "source": "VentureBeat：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b3f1c35889da",
-      "title": "用于 Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
-      "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-      "primary_url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "225611c19971e2c7202b85385fe274bebde738e4",
-          "title": "用于 Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
-          "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T18:06:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "225611c19971e2c7202b85385fe274bebde738e4",
-          "title": "用于 Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
-          "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T18:06:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7921,
-      "importance": 0.7921,
-      "importance_score": 0.7921,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7116,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T18:06:52Z",
-      "latest_at": "2026-07-16T18:06:52Z",
-      "primary_item": {
-        "id": "225611c19971e2c7202b85385fe274bebde738e4",
-        "title": "用于 Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
-        "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1238,15 +1114,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
+      "score": 0.7297,
+      "importance": 0.7297,
+      "importance_score": 0.7297,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8601,
+        "recency": 0.8397,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1264,65 +1140,255 @@
       }
     },
     {
-      "story_id": "story_5c947366c8f5",
-      "title": "Xcode 27 运行程序图像现已公开预览 / Xcode 27 runner image now in public preview",
-      "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_d15e37ab2566",
+      "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
+      "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
+      "primary_url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8b851e9e6471a3ec412b76a98930d2cd7a0e35aa",
-          "title": "Xcode 27 运行程序图像现已公开预览 / Xcode 27 runner image now in public preview",
-          "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T18:00:07Z"
+          "id": "78996dfa263154031e4769c9285030721f78fd89",
+          "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
+          "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T00:40:20.333000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "8b851e9e6471a3ec412b76a98930d2cd7a0e35aa",
-          "title": "Xcode 27 运行程序图像现已公开预览 / Xcode 27 runner image now in public preview",
-          "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T18:00:07Z"
+          "id": "78996dfa263154031e4769c9285030721f78fd89",
+          "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
+          "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T00:40:20.333000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7919,
-      "importance": 0.7919,
-      "importance_score": 0.7919,
-      "importance_label": "官方更新",
+      "score": 0.7221,
+      "importance": 0.7221,
+      "importance_score": 0.7221,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7105,
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7638,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T18:00:07Z",
-      "latest_at": "2026-07-16T18:00:07Z",
+      "earliest_at": "2026-07-17T00:40:20.333000Z",
+      "latest_at": "2026-07-17T00:40:20.333000Z",
       "primary_item": {
-        "id": "8b851e9e6471a3ec412b76a98930d2cd7a0e35aa",
-        "title": "Xcode 27 运行程序图像现已公开预览 / Xcode 27 runner image now in public preview",
-        "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "78996dfa263154031e4769c9285030721f78fd89",
+        "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
+        "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "如果你还在反复改prompt，却发现Claude总是猜错需求、改错文件、产出不稳，这篇文章很值得看。作者把Anthropic工程师代码产出提升8倍的关键拆解了下：真正拉开差距的不是模型变强，而是“上下文工程”。从 AGENTS.md、项目记忆、任务状态，到MCP接入 GitHub、Linear、Slack、Sentry，完整剖析了如何把 AI 从“靠猜的助手”，变成“带着完整信息干活的工程伙伴”。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-07-17",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "3e7a7ab37adfd3500ac7c856eca8b073e7fa2a1f",
+          "title": "如果你还在反复改prompt，却发现Claude总是猜错需求、改错文件、产出不稳，这篇文章很值得看。作者把Anthropic工程师代码产出提升8倍的关键拆解了下：真正拉开差距的不是模型变强，而是“上下文工程”。从 AGENTS.md、项目记忆、任务状态，到MCP接入 GitHub、Linear、Slack、Sentry，完整剖析了如何把 AI 从“靠猜的助手”，变成“带着完整信息干活的工程伙伴”。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-17T17:40:16.074597Z"
+        },
+        {
+          "id": "9def84b2ae08d39197f3da63b176e980c8e7a139",
+          "title": "Claude Code 的设计负责人Meaghan Choi在 Dive Club 的这次对话里谈到的，不只是按钮、页面或视觉风格，而是一套正在成形的新工作方法：怎样设计没有传统界面的产品，怎样让 AI 从执行工具变成组织成员，以及当做东西越来越容易时，设计师该把判断力用在哪里。 Claude Code 的设计过程，也许正提前揭示了下一代设计工作的边界。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-17T16:20:30.795549Z"
+        },
+        {
+          "id": "cc11c76749c603a418d135d43fca6848512ce5ee",
+          "title": "以前写PRD，很多人习惯列功能、写流程、补几句Prompt；但到了AI 功能里，这套明显不够用了。阿昆这篇文章讲得很实在：AI PRD真正要写清楚的，不是“让 AI 干什么”这么简单，而是它在哪一步介入、需要什么输入、输出怎么验、错了谁接手、边界在哪里。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-17T16:20:30.795549Z"
+        },
+        {
+          "id": "8bcb5c3dda23d095f2a42f347bc0278d53328438",
+          "title": "别再幻想把公司知识都搬进一个“唯一真相库”了，Cerebras 的做法更现实：让信息继续待在 Slack、代码仓库、文档、Jira 这些它本来就会出现的地方，然后用一套知识检索系统把它们串起来。上线3个月后，这个内部知识库每天被问 15000+ 次，员工、自动化流程和 Agent 都在用。这篇文章拆解了这个知识库到底是怎么做的：Slack线程怎么蒸馏、代码仓库怎么向量化、全文检索和向量检索怎么混合、结果怎么重排序、MCP又怎么让Agent 直接调用这些能力。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-17T16:20:30.795549Z"
+        },
+        {
+          "id": "fede75ffbc7ab9f595b21340288fd439ccc5222f",
+          "title": "提示词越写越长，AI 还是做不对？老金这篇文章戳中了很多 AI 重度用户的痛点：我们总以为多补几条规则，就能让 AI 更听话，结果只养出一份越来越厚的“祖传提示词”。老金开源的 Meta Skill Creator，更像是在帮你先踩刹车——先想清楚谁来用、交付什么、怎样才算可用。快来试试效果如何！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-17T16:20:30.795549Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "社区更新 · 2026-07-17"
+      ],
+      "items": [
+        {
+          "id": "3e7a7ab37adfd3500ac7c856eca8b073e7fa2a1f",
+          "title": "如果你还在反复改prompt，却发现Claude总是猜错需求、改错文件、产出不稳，这篇文章很值得看。作者把Anthropic工程师代码产出提升8倍的关键拆解了下：真正拉开差距的不是模型变强，而是“上下文工程”。从 AGENTS.md、项目记忆、任务状态，到MCP接入 GitHub、Linear、Slack、Sentry，完整剖析了如何把 AI 从“靠猜的助手”，变成“带着完整信息干活的工程伙伴”。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-17T17:40:16.074597Z"
+        },
+        {
+          "id": "9def84b2ae08d39197f3da63b176e980c8e7a139",
+          "title": "Claude Code 的设计负责人Meaghan Choi在 Dive Club 的这次对话里谈到的，不只是按钮、页面或视觉风格，而是一套正在成形的新工作方法：怎样设计没有传统界面的产品，怎样让 AI 从执行工具变成组织成员，以及当做东西越来越容易时，设计师该把判断力用在哪里。 Claude Code 的设计过程，也许正提前揭示了下一代设计工作的边界。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-17T16:20:30.795549Z"
+        },
+        {
+          "id": "cc11c76749c603a418d135d43fca6848512ce5ee",
+          "title": "以前写PRD，很多人习惯列功能、写流程、补几句Prompt；但到了AI 功能里，这套明显不够用了。阿昆这篇文章讲得很实在：AI PRD真正要写清楚的，不是“让 AI 干什么”这么简单，而是它在哪一步介入、需要什么输入、输出怎么验、错了谁接手、边界在哪里。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-17T16:20:30.795549Z"
+        },
+        {
+          "id": "8bcb5c3dda23d095f2a42f347bc0278d53328438",
+          "title": "别再幻想把公司知识都搬进一个“唯一真相库”了，Cerebras 的做法更现实：让信息继续待在 Slack、代码仓库、文档、Jira 这些它本来就会出现的地方，然后用一套知识检索系统把它们串起来。上线3个月后，这个内部知识库每天被问 15000+ 次，员工、自动化流程和 Agent 都在用。这篇文章拆解了这个知识库到底是怎么做的：Slack线程怎么蒸馏、代码仓库怎么向量化、全文检索和向量检索怎么混合、结果怎么重排序、MCP又怎么让Agent 直接调用这些能力。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-17T16:20:30.795549Z"
+        },
+        {
+          "id": "fede75ffbc7ab9f595b21340288fd439ccc5222f",
+          "title": "提示词越写越长，AI 还是做不对？老金这篇文章戳中了很多 AI 重度用户的痛点：我们总以为多补几条规则，就能让 AI 更听话，结果只养出一份越来越厚的“祖传提示词”。老金开源的 Meta Skill Creator，更像是在帮你先踩刹车——先想清楚谁来用、交付什么、怎样才算可用。快来试试效果如何！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-17T16:20:30.795549Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6899,
+      "importance": 0.6899,
+      "importance_score": 0.6899,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.54,
+        "ai_relevance": 0.71,
+        "recency": 0.9763,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-17T16:20:30.795549Z",
+      "latest_at": "2026-07-17T17:40:16.074597Z",
+      "primary_item": {
+        "id": "3e7a7ab37adfd3500ac7c856eca8b073e7fa2a1f",
+        "title": "如果你还在反复改prompt，却发现Claude总是猜错需求、改错文件、产出不稳，这篇文章很值得看。作者把Anthropic工程师代码产出提升8倍的关键拆解了下：真正拉开差距的不是模型变强，而是“上下文工程”。从 AGENTS.md、项目记忆、任务状态，到MCP接入 GitHub、Linear、Slack、Sentry，完整剖析了如何把 AI 从“靠猜的助手”，变成“带着完整信息干活的工程伙伴”。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-07-17",
+        "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_faa720b8b921",
+      "title": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
+      "url": "https://www.aibase.com/news/29689",
+      "primary_url": "https://www.aibase.com/news/29689",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "aa9b347178a67e78a1b42b60abe81fb4db47bc89",
+          "title": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
+          "url": "https://www.aibase.com/news/29689",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T09:28:24.456974Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "aa9b347178a67e78a1b42b60abe81fb4db47bc89",
+          "title": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
+          "url": "https://www.aibase.com/news/29689",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T09:28:24.456974Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8673,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-17T09:28:24.456974Z",
+      "latest_at": "2026-07-17T09:28:24.456974Z",
+      "primary_item": {
+        "id": "aa9b347178a67e78a1b42b60abe81fb4db47bc89",
+        "title": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
+        "url": "https://www.aibase.com/news/29689",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
