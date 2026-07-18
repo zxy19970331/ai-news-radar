@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T21:26:24.402855Z",
+  "generated_at": "2026-07-18T22:26:25.958028Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8181,
-      "importance": 0.8181,
-      "importance_score": 0.8181,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7337,
+        "recency": 0.7232,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,130 +62,6 @@
         "title": "法典 CLI 0.144.6 / Codex CLI 0.144.6",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ed66fc264272",
-      "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
-      "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
-      "primary_url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
-          "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
-          "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
-          "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
-          "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7137,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T22:05:11Z",
-      "latest_at": "2026-07-17T22:05:11Z",
-      "primary_item": {
-        "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
-        "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
-        "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d7c9b0f9da4b",
-      "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-      "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7138,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T22:05:18Z",
-      "latest_at": "2026-07-17T22:05:18Z",
-      "primary_item": {
-        "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-        "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-        "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -243,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7863,
+        "recency": 0.775,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -358,15 +234,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6345,
-      "importance": 0.6345,
-      "importance_score": 0.6345,
+      "score": 0.632,
+      "importance": 0.632,
+      "importance_score": 0.632,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9459,
+        "recency": 0.9324,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -437,15 +313,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5943,
-      "importance": 0.5943,
-      "importance_score": 0.5943,
+      "score": 0.5922,
+      "importance": 0.5922,
+      "importance_score": 0.5922,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.5,
         "ai_relevance": 0.74,
-        "recency": 0.8417,
+        "recency": 0.8296,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -554,15 +430,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5761,
-      "importance": 0.5761,
-      "importance_score": 0.5761,
+      "score": 0.5738,
+      "importance": 0.5738,
+      "importance_score": 0.5738,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8908,
+        "recency": 0.8781,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -652,15 +528,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5661,
-      "importance": 0.5661,
-      "importance_score": 0.5661,
+      "score": 0.5636,
+      "importance": 0.5636,
+      "importance_score": 0.5636,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9741,
+        "recency": 0.9601,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -750,15 +626,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.555,
-      "importance": 0.555,
-      "importance_score": 0.555,
+      "score": 0.5527,
+      "importance": 0.5527,
+      "importance_score": 0.5527,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9124,
+        "recency": 0.8993,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -848,15 +724,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5532,
-      "importance": 0.5532,
-      "importance_score": 0.5532,
+      "score": 0.5508,
+      "importance": 0.5508,
+      "importance_score": 0.5508,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.902,
+        "recency": 0.8891,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -946,15 +822,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5513,
-      "importance": 0.5513,
-      "importance_score": 0.5513,
+      "score": 0.549,
+      "importance": 0.549,
+      "importance_score": 0.549,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8915,
+        "recency": 0.8787,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -968,6 +844,85 @@
         "title": "图表展示：AI对Stack Overflow的影响",
         "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
         "source": "data.stackexchange.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_31435a601668",
+      "title": "全美各地爆发反对人工智能数据中心的抗议活动",
+      "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+      "primary_url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "90e1406dde99e1a59e8e7f4fbb78d236ed4366b8",
+          "title": "全美各地爆发反对人工智能数据中心的抗议活动",
+          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T20:41:23.690000Z"
+        },
+        {
+          "id": "0b1f9af86289f9be503b089c3068838e8ec5548c",
+          "title": "全美各地爆发反对人工智能数据中心的抗议活动 / Anti-AI data center protesters rally across the US",
+          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T20:31:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "90e1406dde99e1a59e8e7f4fbb78d236ed4366b8",
+          "title": "全美各地爆发反对人工智能数据中心的抗议活动",
+          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T20:41:23.690000Z"
+        },
+        {
+          "id": "0b1f9af86289f9be503b089c3068838e8ec5548c",
+          "title": "全美各地爆发反对人工智能数据中心的抗议活动 / Anti-AI data center protesters rally across the US",
+          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T20:31:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.975,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T20:31:37Z",
+      "latest_at": "2026-07-18T20:41:23.690000Z",
+      "primary_item": {
+        "id": "90e1406dde99e1a59e8e7f4fbb78d236ed4366b8",
+        "title": "全美各地爆发反对人工智能数据中心的抗议活动",
+        "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1025,15 +980,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5339,
-      "importance": 0.5339,
-      "importance_score": 0.5339,
+      "score": 0.5315,
+      "importance": 0.5315,
+      "importance_score": 0.5315,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9337,
+        "recency": 0.9203,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1103,15 +1058,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5335,
-      "importance": 0.5335,
-      "importance_score": 0.5335,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9315,
+        "recency": 0.9182,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1182,15 +1137,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
+      "score": 0.5234,
+      "importance": 0.5234,
+      "importance_score": 0.5234,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8881,
+        "recency": 0.8754,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1261,15 +1216,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.525,
-      "importance": 0.525,
-      "importance_score": 0.525,
+      "score": 0.5228,
+      "importance": 0.5228,
+      "importance_score": 0.5228,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8847,
+        "recency": 0.872,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1340,15 +1295,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5526,
-      "importance": 0.5526,
-      "importance_score": 0.5526,
+      "score": 0.5507,
+      "importance": 0.5507,
+      "importance_score": 0.5507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7718,
+        "recency": 0.7607,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1419,15 +1374,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5226,
-      "importance": 0.5226,
-      "importance_score": 0.5226,
+      "score": 0.5204,
+      "importance": 0.5204,
+      "importance_score": 0.5204,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8712,
+        "recency": 0.8587,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1517,15 +1472,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5222,
-      "importance": 0.5222,
-      "importance_score": 0.5222,
+      "score": 0.5203,
+      "importance": 0.5203,
+      "importance_score": 0.5203,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7299,
+        "recency": 0.7194,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1596,15 +1551,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5218,
-      "importance": 0.5218,
-      "importance_score": 0.5218,
+      "score": 0.5196,
+      "importance": 0.5196,
+      "importance_score": 0.5196,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8667,
+        "recency": 0.8542,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1674,15 +1629,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5196,
-      "importance": 0.5196,
-      "importance_score": 0.5196,
+      "score": 0.5174,
+      "importance": 0.5174,
+      "importance_score": 0.5174,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8543,
+        "recency": 0.842,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1697,6 +1652,85 @@
         "url": "https://www.v2ex.com/t/1228233",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_6f4e7b4dbb1c",
+      "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
+      "url": "https://news.ycombinator.com/item?id=48962405",
+      "primary_url": "https://news.ycombinator.com/item?id=48962405",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "fc0c28f3521ca2a6cd0c0e4d2d20dfc3b8b2bc00",
+          "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
+          "url": "https://news.ycombinator.com/item?id=48962405",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T22:27:02.905000Z"
+        },
+        {
+          "id": "251521e5f631aaaf6ef9158d603ce7f88dbf306e",
+          "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
+          "url": "https://github.com/saineshnakra/automated-data-analyst",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T21:06:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fc0c28f3521ca2a6cd0c0e4d2d20dfc3b8b2bc00",
+          "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
+          "url": "https://news.ycombinator.com/item?id=48962405",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T22:27:02.905000Z"
+        },
+        {
+          "id": "251521e5f631aaaf6ef9158d603ce7f88dbf306e",
+          "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
+          "url": "https://github.com/saineshnakra/automated-data-analyst",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T21:06:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T21:06:49Z",
+      "latest_at": "2026-07-18T22:27:02.905000Z",
+      "primary_item": {
+        "id": "fc0c28f3521ca2a6cd0c0e4d2d20dfc3b8b2bc00",
+        "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
+        "url": "https://news.ycombinator.com/item?id=48962405",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
