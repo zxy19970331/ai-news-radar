@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T19:13:13.260484Z",
+  "generated_at": "2026-07-18T20:21:47.224059Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8224,
-      "importance": 0.8224,
-      "importance_score": 0.8224,
+      "score": 0.8201,
+      "importance": 0.8201,
+      "importance_score": 0.8201,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7576,
+        "recency": 0.7452,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,68 +62,6 @@
         "title": "法典 CLI 0.144.6 / Codex CLI 0.144.6",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c03164d67fef",
-      "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-      "primary_url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
-          "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T19:47:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
-          "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T19:47:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.713,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T19:47:45Z",
-      "latest_at": "2026-07-17T19:47:45Z",
-      "primary_item": {
-        "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
-        "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-        "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -162,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8047,
-      "importance": 0.8047,
-      "importance_score": 0.8047,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.737,
+        "recency": 0.7249,
         "story_heat": 0.0
       },
       "category": "official",
@@ -185,6 +123,68 @@
         "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
         "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
         "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d7c9b0f9da4b",
+      "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+      "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
+          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T22:05:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
+          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T22:05:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7249,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T22:05:18Z",
+      "latest_at": "2026-07-17T22:05:18Z",
+      "primary_item": {
+        "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
+        "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+        "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -243,15 +243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8119,
+        "recency": 0.7986,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -268,68 +268,6 @@
         "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d7c9b0f9da4b",
-      "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-      "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8047,
-      "importance": 0.8047,
-      "importance_score": 0.8047,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.737,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T22:05:18Z",
-      "latest_at": "2026-07-17T22:05:18Z",
-      "primary_item": {
-        "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-        "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-        "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -367,15 +305,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8029,
-      "importance": 0.8029,
-      "importance_score": 0.8029,
+      "score": 0.8007,
+      "importance": 0.8007,
+      "importance_score": 0.8007,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.727,
+        "recency": 0.7151,
         "story_heat": 0.0
       },
       "category": "official",
@@ -483,15 +421,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.64,
-      "importance": 0.64,
-      "importance_score": 0.64,
+      "score": 0.6371,
+      "importance": 0.6371,
+      "importance_score": 0.6371,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9767,
+        "recency": 0.9608,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -562,15 +500,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5993,
-      "importance": 0.5993,
-      "importance_score": 0.5993,
+      "score": 0.5967,
+      "importance": 0.5967,
+      "importance_score": 0.5967,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.5,
         "ai_relevance": 0.74,
-        "recency": 0.8691,
+        "recency": 0.8549,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -679,15 +617,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5814,
-      "importance": 0.5814,
-      "importance_score": 0.5814,
+      "score": 0.5787,
+      "importance": 0.5787,
+      "importance_score": 0.5787,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9198,
+        "recency": 0.9048,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -702,6 +640,104 @@
         "url": "https://news.ycombinator.com/item?id=48956924",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_cbcd45422a3a",
+      "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+      "url": "https://ykdojo.github.io/claude-controls-mac",
+      "primary_url": "https://ykdojo.github.io/claude-controls-mac",
+      "source": "ykdojo.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "ykdojo.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T19:37:23.960000Z"
+        },
+        {
+          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://news.ycombinator.com/item?id=48959392",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T16:29:30.461000Z"
+        },
+        {
+          "id": "323122533c257bf2584fb2a362c6d9770ad7ff62",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T16:12:08Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "ykdojo.github.io"
+      ],
+      "items": [
+        {
+          "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "ykdojo.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T19:37:23.960000Z"
+        },
+        {
+          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://news.ycombinator.com/item?id=48959392",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T16:29:30.461000Z"
+        },
+        {
+          "id": "323122533c257bf2584fb2a362c6d9770ad7ff62",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T16:12:08Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5689,
+      "importance": 0.5689,
+      "importance_score": 0.5689,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9894,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T16:12:08Z",
+      "latest_at": "2026-07-18T19:37:23.960000Z",
+      "primary_item": {
+        "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
+        "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+        "url": "https://ykdojo.github.io/claude-controls-mac",
+        "source": "ykdojo.github.io",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -777,15 +813,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5604,
-      "importance": 0.5604,
-      "importance_score": 0.5604,
+      "score": 0.5576,
+      "importance": 0.5576,
+      "importance_score": 0.5576,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9421,
+        "recency": 0.9267,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -875,15 +911,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5584,
-      "importance": 0.5584,
-      "importance_score": 0.5584,
+      "score": 0.5557,
+      "importance": 0.5557,
+      "importance_score": 0.5557,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9314,
+        "recency": 0.9161,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -973,15 +1009,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5565,
-      "importance": 0.5565,
-      "importance_score": 0.5565,
+      "score": 0.5538,
+      "importance": 0.5538,
+      "importance_score": 0.5538,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9206,
+        "recency": 0.9055,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1052,15 +1088,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5393,
-      "importance": 0.5393,
-      "importance_score": 0.5393,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9642,
+        "recency": 0.9484,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1130,15 +1166,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5389,
-      "importance": 0.5389,
-      "importance_score": 0.5389,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9619,
+        "recency": 0.9461,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1209,15 +1245,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
+      "score": 0.5282,
+      "importance": 0.5282,
+      "importance_score": 0.5282,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.917,
+        "recency": 0.902,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1288,15 +1324,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5302,
-      "importance": 0.5302,
-      "importance_score": 0.5302,
+      "score": 0.5275,
+      "importance": 0.5275,
+      "importance_score": 0.5275,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9135,
+        "recency": 0.8986,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1367,15 +1403,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5277,
-      "importance": 0.5277,
-      "importance_score": 0.5277,
+      "score": 0.5251,
+      "importance": 0.5251,
+      "importance_score": 0.5251,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8996,
+        "recency": 0.8849,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1446,15 +1482,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5572,
-      "importance": 0.5572,
-      "importance_score": 0.5572,
+      "score": 0.5548,
+      "importance": 0.5548,
+      "importance_score": 0.5548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7969,
+        "recency": 0.7839,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1525,15 +1561,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5269,
-      "importance": 0.5269,
-      "importance_score": 0.5269,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8949,
+        "recency": 0.8803,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1623,15 +1659,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5265,
-      "importance": 0.5265,
-      "importance_score": 0.5265,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7536,
+        "recency": 0.7413,
         "story_heat": 0.5
       },
       "category": "multi_source",
