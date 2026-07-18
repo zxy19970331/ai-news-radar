@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T16:28:26.410325Z",
+  "generated_at": "2026-07-18T17:35:28.116821Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
+      "score": 0.8256,
+      "importance": 0.8256,
+      "importance_score": 0.8256,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7883,
+        "recency": 0.7757,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8115,
-      "importance": 0.8115,
-      "importance_score": 0.8115,
+      "score": 0.8094,
+      "importance": 0.8094,
+      "importance_score": 0.8094,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7419,
+        "recency": 0.73,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.81,
-      "importance": 0.81,
-      "importance_score": 0.81,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7668,
+        "recency": 0.7545,
         "story_heat": 0.0
       },
       "category": "official",
@@ -243,15 +243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7562,
+      "importance": 0.7562,
+      "importance_score": 0.7562,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8447,
+        "recency": 0.8312,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -324,22 +324,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7197,
+        "recency": 0.7081,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T17:41:32Z",
       "latest_at": "2026-07-17T17:41:32Z",
@@ -386,15 +385,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.81,
-      "importance": 0.81,
-      "importance_score": 0.81,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7668,
+        "recency": 0.7546,
         "story_heat": 0.0
       },
       "category": "official",
@@ -448,15 +447,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
+      "score": 0.742,
+      "importance": 0.742,
+      "importance_score": 0.742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7191,
+        "recency": 0.7076,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -470,126 +469,6 @@
         "title": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
         "url": "https://x.com/dotey/status/2078172517085085951",
         "source": "X：宝玉 (@dotey)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_504ca7ec38cd",
-      "title": "Sora 2 视频克隆效果惊人，真假难辨",
-      "url": "https://x.com/gabriel1/status/2078156277247881438",
-      "primary_url": "https://x.com/gabriel1/status/2078156277247881438",
-      "source": "X：Gabriel (@gabriel1)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a3e474b460c8d7ea397e8fa60487f31c5f5bc268",
-          "title": "Sora 2 视频克隆效果惊人，真假难辨",
-          "url": "https://x.com/gabriel1/status/2078156277247881438",
-          "source": "X：Gabriel (@gabriel1)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T16:34:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Gabriel (@gabriel1)"
-      ],
-      "items": [
-        {
-          "id": "a3e474b460c8d7ea397e8fa60487f31c5f5bc268",
-          "title": "Sora 2 视频克隆效果惊人，真假难辨",
-          "url": "https://x.com/gabriel1/status/2078156277247881438",
-          "source": "X：Gabriel (@gabriel1)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T16:34:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7331,
-      "importance": 0.7331,
-      "importance_score": 0.7331,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7081,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T16:34:01Z",
-      "latest_at": "2026-07-17T16:34:01Z",
-      "primary_item": {
-        "id": "a3e474b460c8d7ea397e8fa60487f31c5f5bc268",
-        "title": "Sora 2 视频克隆效果惊人，真假难辨",
-        "url": "https://x.com/gabriel1/status/2078156277247881438",
-        "source": "X：Gabriel (@gabriel1)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9dbb841ada9a",
-      "title": "八天四款前沿模型发布，Kimi K3 跻身第三",
-      "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2f69db9fc8c217acc9e2ea01bb0208ab26cb651c",
-          "title": "八天四款前沿模型发布，Kimi K3 跻身第三",
-          "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T17:11:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "2f69db9fc8c217acc9e2ea01bb0208ab26cb651c",
-          "title": "八天四款前沿模型发布，Kimi K3 跻身第三",
-          "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T17:11:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7282,
-      "importance": 0.7282,
-      "importance_score": 0.7282,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7144,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T17:11:19Z",
-      "latest_at": "2026-07-17T17:11:19Z",
-      "primary_item": {
-        "id": "2f69db9fc8c217acc9e2ea01bb0208ab26cb651c",
-        "title": "八天四款前沿模型发布，Kimi K3 跻身第三",
-        "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
         "source_name": "AI HOT"
       }
     },
@@ -628,15 +507,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7564,
+        "recency": 0.7443,
         "story_heat": 0.0
       },
       "category": "official",
@@ -657,13 +536,31 @@
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "如果你已经写过几个Skill，大概率会遇到这种情况：刚开始能用，改几轮后边界模糊了、触发乱了、补丁越堆越多。作者开源的Skill Engineering 1.0可以帮你把Skill 从“能写出来”推进到“能稳定使用”。从会议纪要、GitHub Issue、Web 验收到研究证据包，详细展示了如何先定边界、再做验证、保留回归场景，让Skill真正变成可复用、可维护的Agent能力。",
+      "title": "很多人学习一门新语言时，会从变量、循环、函数开始，顺着教程一章一章往后读。几天之后，语法记住了一些，但真正要写程序时，仍然不知道该怎样组织代码。问题通常不在于学得不够多，而在于学习顺序错了。快速掌握一门编程语言的关键，是尽快建立它的心智模型：它为何存在，擅长解决什么问题，提供了哪些核心抽象，又希望程序员以什么方式思考。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "source": "社区更新 · 2026-07-18",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "935514c410fb9155464d89ce917d7cb5cc1ffd86",
+          "title": "很多人学习一门新语言时，会从变量、循环、函数开始，顺着教程一章一章往后读。几天之后，语法记住了一些，但真正要写程序时，仍然不知道该怎样组织代码。问题通常不在于学得不够多，而在于学习顺序错了。快速掌握一门编程语言的关键，是尽快建立它的心智模型：它为何存在，擅长解决什么问题，提供了哪些核心抽象，又希望程序员以什么方式思考。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-18",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-18T17:35:28.116821Z"
+        },
+        {
+          "id": "bf86ffc4851083d0223e0b361ea7431e6f0b98eb",
+          "title": "想让智能体真正操作浏览器，CDP是绕不开的一层底座。作者从 DevTools 背后的通信协议讲起，带大家看看Chrome如何通过JSON 命令、事件、Target、Session 暴露页面、网络、JS 运行时、输入和性能诊断能力。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-18",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-18T17:35:28.116821Z"
+        },
+        {
           "id": "a0389f971b3815d6ec2062207583f9902843d50c",
           "title": "如果你已经写过几个Skill，大概率会遇到这种情况：刚开始能用，改几轮后边界模糊了、触发乱了、补丁越堆越多。作者开源的Skill Engineering 1.0可以帮你把Skill 从“能写出来”推进到“能稳定使用”。从会议纪要、GitHub Issue、Web 验收到研究证据包，详细展示了如何先定边界、再做验证、保留回归场景，让Skill真正变成可复用、可维护的Agent能力。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -691,13 +588,31 @@
           "published_at": "2026-07-17T17:40:16.074597Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 5,
       "source_names": [
         "社区更新 · 2026-07-17",
         "社区更新 · 2026-07-18"
       ],
       "items": [
         {
+          "id": "935514c410fb9155464d89ce917d7cb5cc1ffd86",
+          "title": "很多人学习一门新语言时，会从变量、循环、函数开始，顺着教程一章一章往后读。几天之后，语法记住了一些，但真正要写程序时，仍然不知道该怎样组织代码。问题通常不在于学得不够多，而在于学习顺序错了。快速掌握一门编程语言的关键，是尽快建立它的心智模型：它为何存在，擅长解决什么问题，提供了哪些核心抽象，又希望程序员以什么方式思考。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-18",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-18T17:35:28.116821Z"
+        },
+        {
+          "id": "bf86ffc4851083d0223e0b361ea7431e6f0b98eb",
+          "title": "想让智能体真正操作浏览器，CDP是绕不开的一层底座。作者从 DevTools 背后的通信协议讲起，带大家看看Chrome如何通过JSON 命令、事件、Target、Session 暴露页面、网络、JS 运行时、输入和性能诊断能力。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-18",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-18T17:35:28.116821Z"
+        },
+        {
           "id": "a0389f971b3815d6ec2062207583f9902843d50c",
           "title": "如果你已经写过几个Skill，大概率会遇到这种情况：刚开始能用，改几轮后边界模糊了、触发乱了、补丁越堆越多。作者开源的Skill Engineering 1.0可以帮你把Skill 从“能写出来”推进到“能稳定使用”。从会议纪要、GitHub Issue、Web 验收到研究证据包，详细展示了如何先定边界、再做验证、保留回归场景，让Skill真正变成可复用、可维护的Agent能力。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -725,28 +640,28 @@
           "published_at": "2026-07-17T17:40:16.074597Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6192,
-      "importance": 0.6192,
-      "importance_score": 0.6192,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 0.5
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-07-17T17:40:16.074597Z",
-      "latest_at": "2026-07-18T16:28:26.410325Z",
+      "latest_at": "2026-07-18T17:35:28.116821Z",
       "primary_item": {
-        "id": "a0389f971b3815d6ec2062207583f9902843d50c",
-        "title": "如果你已经写过几个Skill，大概率会遇到这种情况：刚开始能用，改几轮后边界模糊了、触发乱了、补丁越堆越多。作者开源的Skill Engineering 1.0可以帮你把Skill 从“能写出来”推进到“能稳定使用”。从会议纪要、GitHub Issue、Web 验收到研究证据包，详细展示了如何先定边界、再做验证、保留回归场景，让Skill真正变成可复用、可维护的Agent能力。",
+        "id": "935514c410fb9155464d89ce917d7cb5cc1ffd86",
+        "title": "很多人学习一门新语言时，会从变量、循环、函数开始，顺着教程一章一章往后读。几天之后，语法记住了一些，但真正要写程序时，仍然不知道该怎样组织代码。问题通常不在于学得不够多，而在于学习顺序错了。快速掌握一门编程语言的关键，是尽快建立它的心智模型：它为何存在，擅长解决什么问题，提供了哪些核心抽象，又希望程序员以什么方式思考。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-18",
         "source_name": "WaytoAGI"
@@ -806,15 +721,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6056,
-      "importance": 0.6056,
-      "importance_score": 0.6056,
+      "score": 0.603,
+      "importance": 0.603,
+      "importance_score": 0.603,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.5,
         "ai_relevance": 0.74,
-        "recency": 0.9043,
+        "recency": 0.8898,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -923,15 +838,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5881,
-      "importance": 0.5881,
-      "importance_score": 0.5881,
+      "score": 0.5853,
+      "importance": 0.5853,
+      "importance_score": 0.5853,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9571,
+        "recency": 0.9417,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1021,15 +936,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5672,
-      "importance": 0.5672,
-      "importance_score": 0.5672,
+      "score": 0.5644,
+      "importance": 0.5644,
+      "importance_score": 0.5644,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9802,
+        "recency": 0.9645,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1119,15 +1034,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5652,
-      "importance": 0.5652,
-      "importance_score": 0.5652,
+      "score": 0.5624,
+      "importance": 0.5624,
+      "importance_score": 0.5624,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9691,
+        "recency": 0.9535,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1217,15 +1132,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5632,
-      "importance": 0.5632,
-      "importance_score": 0.5632,
+      "score": 0.5604,
+      "importance": 0.5604,
+      "importance_score": 0.5604,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9578,
+        "recency": 0.9425,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1239,6 +1154,85 @@
         "title": "图表展示：AI对Stack Overflow的影响",
         "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
         "source": "data.stackexchange.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_cdc22d7d874c",
+      "title": "“审查人工智能代码”并非一个站得住脚的论点",
+      "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+      "primary_url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+      "source": "softwaremaxims.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d3bd0f5be262041aaf5855053c60b76e2fe51b1b",
+          "title": "“审查人工智能代码”并非一个站得住脚的论点",
+          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+          "source": "softwaremaxims.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T16:41:31.812000Z"
+        },
+        {
+          "id": "4105e0f345eb1d4989e3988ad43a211e4456b8f6",
+          "title": "“审查人工智能代码”并非一个站得住脚的论点 / Reviewing AI Code Is Not A Viable Argument",
+          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T16:25:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "softwaremaxims.com"
+      ],
+      "items": [
+        {
+          "id": "d3bd0f5be262041aaf5855053c60b76e2fe51b1b",
+          "title": "“审查人工智能代码”并非一个站得住脚的论点",
+          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+          "source": "softwaremaxims.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T16:41:31.812000Z"
+        },
+        {
+          "id": "4105e0f345eb1d4989e3988ad43a211e4456b8f6",
+          "title": "“审查人工智能代码”并非一个站得住脚的论点 / Reviewing AI Code Is Not A Viable Argument",
+          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T16:25:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9871,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T16:25:19Z",
+      "latest_at": "2026-07-18T16:41:31.812000Z",
+      "primary_item": {
+        "id": "d3bd0f5be262041aaf5855053c60b76e2fe51b1b",
+        "title": "“审查人工智能代码”并非一个站得住脚的论点",
+        "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+        "source": "softwaremaxims.com",
         "source_name": "Buzzing"
       }
     },
@@ -1296,15 +1290,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5375,
-      "importance": 0.5375,
-      "importance_score": 0.5375,
+      "score": 0.5348,
+      "importance": 0.5348,
+      "importance_score": 0.5348,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9541,
+        "recency": 0.9389,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1375,15 +1369,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5369,
-      "importance": 0.5369,
-      "importance_score": 0.5369,
+      "score": 0.5341,
+      "importance": 0.5341,
+      "importance_score": 0.5341,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9505,
+        "recency": 0.9353,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1454,15 +1448,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5343,
-      "importance": 0.5343,
-      "importance_score": 0.5343,
+      "score": 0.5316,
+      "importance": 0.5316,
+      "importance_score": 0.5316,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.936,
+        "recency": 0.921,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1533,15 +1527,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5334,
-      "importance": 0.5334,
-      "importance_score": 0.5334,
+      "score": 0.5307,
+      "importance": 0.5307,
+      "importance_score": 0.5307,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9311,
+        "recency": 0.9162,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1556,6 +1550,85 @@
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_6bbe2c2befb8",
+      "title": "国家能源局：将加快构建新型能源体系 赋能AI发展",
+      "url": "https://36kr.com/newsflashes/3900549667456901?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3900549667456901?f=rss",
+      "source": "36Kr",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "8faa3cdbad1d04ec4df661f644030fd4a00c285b",
+          "title": "国家能源局：将加快构建新型能源体系 赋能AI发展",
+          "url": "https://36kr.com/newsflashes/3900549667456901?f=rss",
+          "source": "36Kr",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-18T03:30:08Z"
+        },
+        {
+          "id": "c6b2a69a3ec2fb29e787da9d730e7b6e121ee3d7",
+          "title": "国家能源局：将加快构建新型能源体系，赋能 AI 发展",
+          "url": "https://www.ithome.com/0/978/416.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T03:29:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36Kr",
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "8faa3cdbad1d04ec4df661f644030fd4a00c285b",
+          "title": "国家能源局：将加快构建新型能源体系 赋能AI发展",
+          "url": "https://36kr.com/newsflashes/3900549667456901?f=rss",
+          "source": "36Kr",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-18T03:30:08Z"
+        },
+        {
+          "id": "c6b2a69a3ec2fb29e787da9d730e7b6e121ee3d7",
+          "title": "国家能源局：将加快构建新型能源体系，赋能 AI 发展",
+          "url": "https://www.ithome.com/0/978/416.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T03:29:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5606,
+      "importance": 0.5606,
+      "importance_score": 0.5606,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4824,
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.8159,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T03:29:51Z",
+      "latest_at": "2026-07-18T03:30:08Z",
+      "primary_item": {
+        "id": "8faa3cdbad1d04ec4df661f644030fd4a00c285b",
+        "title": "国家能源局：将加快构建新型能源体系 赋能AI发展",
+        "url": "https://36kr.com/newsflashes/3900549667456901?f=rss",
+        "source": "36Kr",
+        "source_name": "OPML RSS"
       }
     }
   ]
