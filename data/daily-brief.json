@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T11:17:16.268191Z",
+  "generated_at": "2026-07-19T12:28:29.313179Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -30,12 +30,12 @@
           "published_at": "2026-07-19T05:13:24.607000Z"
         },
         {
-          "id": "f34693511d98e6b9edc2e76600ec21caba678fc7",
+          "id": "e416502be85cecb3a3f52201835ff8bca50dfc0e",
           "title": "AI 热潮正在瓦解全球决策机制 / AI Mania Is Eviscerating Global Decision-Making",
           "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-19T01:29:19Z"
         },
         {
@@ -50,7 +50,7 @@
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "ludic.mataroa.blog"
@@ -75,12 +75,12 @@
           "published_at": "2026-07-19T05:13:24.607000Z"
         },
         {
-          "id": "f34693511d98e6b9edc2e76600ec21caba678fc7",
+          "id": "e416502be85cecb3a3f52201835ff8bca50dfc0e",
           "title": "AI 热潮正在瓦解全球决策机制 / AI Mania Is Eviscerating Global Decision-Making",
           "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-19T01:29:19Z"
         },
         {
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8245,
-      "importance": 0.8245,
-      "importance_score": 0.8245,
+      "score": 0.8217,
+      "importance": 0.8217,
+      "importance_score": 0.8217,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9162,
+        "recency": 0.9006,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -176,15 +176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7846,
-      "importance": 0.7846,
-      "importance_score": 0.7846,
+      "score": 0.7818,
+      "importance": 0.7818,
+      "importance_score": 0.7818,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9056,
+        "recency": 0.8902,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -238,15 +238,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.7658,
+      "importance": 0.7658,
+      "importance_score": 0.7658,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9561,
+        "recency": 0.9398,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -318,15 +318,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7899,
-      "importance": 0.7899,
-      "importance_score": 0.7899,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8849,
+        "recency": 0.8699,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8964,
+        "recency": 0.8812,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -515,15 +515,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6174,
-      "importance": 0.6174,
-      "importance_score": 0.6174,
+      "score": 0.6144,
+      "importance": 0.6144,
+      "importance_score": 0.6144,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9812,
+        "recency": 0.9645,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -629,15 +629,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6036,
-      "importance": 0.6036,
-      "importance_score": 0.6036,
+      "score": 0.6012,
+      "importance": 0.6012,
+      "importance_score": 0.6012,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7745,
+        "recency": 0.7613,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -655,80 +655,80 @@
       }
     },
     {
-      "story_id": "story_bcc3cffdf762",
-      "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://simonwillison.net/2026/Jul/19/ai-mania",
-      "primary_url": "https://simonwillison.net/2026/Jul/19/ai-mania",
+      "story_id": "story_dbd57b2637da",
+      "title": "Claude Code 现在使用的是用 Rust 编写的 Bun / Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
+      "primary_url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
       "source": "Simon Willison",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "d0ba5b5159bbf9387c371672a62b283c63b9e914",
-          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-          "url": "https://simonwillison.net/2026/Jul/19/ai-mania",
+          "id": "01c3fbc920281ceb312e53d3b6804a945c8df637",
+          "title": "Claude Code 现在使用的是用 Rust 编写的 Bun / Claude Code uses Bun written in Rust now",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
           "source": "Simon Willison",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-19T05:06:21Z"
+          "published_at": "2026-07-19T03:54:09Z"
         },
         {
-          "id": "50309255056c40114111478e6000e7427e2e1f2f",
-          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-          "url": "https://news.ycombinator.com/item?id=48964185",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T04:23:05.352000Z"
+          "id": "de39365cf1490854ce1321311f37e65b09b74e27",
+          "title": "Claude Code 现在使用的是用 Rust 编写的 Bun",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
+          "source": "simonwillison.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T12:09:19.462000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Simon Willison",
-        "hackernews"
+        "simonwillison.net"
       ],
       "items": [
         {
-          "id": "d0ba5b5159bbf9387c371672a62b283c63b9e914",
-          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-          "url": "https://simonwillison.net/2026/Jul/19/ai-mania",
+          "id": "01c3fbc920281ceb312e53d3b6804a945c8df637",
+          "title": "Claude Code 现在使用的是用 Rust 编写的 Bun / Claude Code uses Bun written in Rust now",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
           "source": "Simon Willison",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-19T05:06:21Z"
+          "published_at": "2026-07-19T03:54:09Z"
         },
         {
-          "id": "50309255056c40114111478e6000e7427e2e1f2f",
-          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-          "url": "https://news.ycombinator.com/item?id=48964185",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T04:23:05.352000Z"
+          "id": "de39365cf1490854ce1321311f37e65b09b74e27",
+          "title": "Claude Code 现在使用的是用 Rust 编写的 Bun",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
+          "source": "simonwillison.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T12:09:19.462000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5783,
-      "importance": 0.5783,
-      "importance_score": 0.5783,
+      "score": 0.5894,
+      "importance": 0.5894,
+      "importance_score": 0.5894,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.4824,
+        "editorial": 0.5112,
         "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.9146,
+        "ai_relevance": 0.71,
+        "recency": 0.8836,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-19T04:23:05.352000Z",
-      "latest_at": "2026-07-19T05:06:21Z",
+      "earliest_at": "2026-07-19T03:54:09Z",
+      "latest_at": "2026-07-19T12:09:19.462000Z",
       "primary_item": {
-        "id": "d0ba5b5159bbf9387c371672a62b283c63b9e914",
-        "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
-        "url": "https://simonwillison.net/2026/Jul/19/ai-mania",
+        "id": "01c3fbc920281ceb312e53d3b6804a945c8df637",
+        "title": "Claude Code 现在使用的是用 Rust 编写的 Bun / Claude Code uses Bun written in Rust now",
+        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
         "source": "Simon Willison",
         "source_name": "OPML RSS"
       }
@@ -806,15 +806,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5674,
-      "importance": 0.5674,
-      "importance_score": 0.5674,
+      "score": 0.5644,
+      "importance": 0.5644,
+      "importance_score": 0.5644,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.981,
+        "recency": 0.9643,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -829,6 +829,164 @@
         "url": "https://www.36kr.com/p/3902166239200896",
         "source": "36氪 · 24小时热榜",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_bcc3cffdf762",
+      "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://simonwillison.net/2026/Jul/19/ai-mania",
+      "primary_url": "https://simonwillison.net/2026/Jul/19/ai-mania",
+      "source": "Simon Willison",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "d0ba5b5159bbf9387c371672a62b283c63b9e914",
+          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://simonwillison.net/2026/Jul/19/ai-mania",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-19T05:06:21Z"
+        },
+        {
+          "id": "50309255056c40114111478e6000e7427e2e1f2f",
+          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://news.ycombinator.com/item?id=48964185",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T04:23:05.352000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Simon Willison",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d0ba5b5159bbf9387c371672a62b283c63b9e914",
+          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://simonwillison.net/2026/Jul/19/ai-mania",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-19T05:06:21Z"
+        },
+        {
+          "id": "50309255056c40114111478e6000e7427e2e1f2f",
+          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://news.ycombinator.com/item?id=48964185",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T04:23:05.352000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5755,
+      "importance": 0.5755,
+      "importance_score": 0.5755,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4824,
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.8991,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T04:23:05.352000Z",
+      "latest_at": "2026-07-19T05:06:21Z",
+      "primary_item": {
+        "id": "d0ba5b5159bbf9387c371672a62b283c63b9e914",
+        "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+        "url": "https://simonwillison.net/2026/Jul/19/ai-mania",
+        "source": "Simon Willison",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_42ff174aec0d",
+      "title": "当人工智能开始进行足球博彩时，会发生什么？",
+      "url": "https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7",
+      "primary_url": "https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "176fa5b65296d1bb9c6eff1c6d5b6960cc6ee84e",
+          "title": "当人工智能开始进行足球博彩时，会发生什么？",
+          "url": "https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T11:21:29.886000Z"
+        },
+        {
+          "id": "d0b7cc0bc89e1ddd7f1ebed4b357f8032f7db6e4",
+          "title": "当人工智能开始进行足球博彩时，会发生什么？ / What happens when AI starts gambling on soccer?",
+          "url": "https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-19T10:00:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "176fa5b65296d1bb9c6eff1c6d5b6960cc6ee84e",
+          "title": "当人工智能开始进行足球博彩时，会发生什么？",
+          "url": "https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T11:21:29.886000Z"
+        },
+        {
+          "id": "d0b7cc0bc89e1ddd7f1ebed4b357f8032f7db6e4",
+          "title": "当人工智能开始进行足球博彩时，会发生什么？ / What happens when AI starts gambling on soccer?",
+          "url": "https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-19T10:00:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.984,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T10:00:01Z",
+      "latest_at": "2026-07-19T11:21:29.886000Z",
+      "primary_item": {
+        "id": "176fa5b65296d1bb9c6eff1c6d5b6960cc6ee84e",
+        "title": "当人工智能开始进行足球博彩时，会发生什么？",
+        "url": "https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -885,15 +1043,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5428,
+      "importance": 0.5428,
+      "importance_score": 0.5428,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9832,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -964,15 +1122,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.983,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -990,81 +1148,100 @@
       }
     },
     {
-      "story_id": "story_88ee6fb79923",
-      "title": "我没上大学，现在做蓝领工作，时薪超过40美元。人工智能热潮正为我创造更多机会。",
-      "url": "https://www.businessinsider.com/blue-collar-skipped-college-electrical-apprenticeship-data-center-build-2026-7",
-      "primary_url": "https://www.businessinsider.com/blue-collar-skipped-college-electrical-apprenticeship-data-center-build-2026-7",
-      "source": "www.businessinsider.com",
+      "story_id": "story_cbcd45422a3a",
+      "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+      "url": "https://ykdojo.github.io/claude-controls-mac",
+      "primary_url": "https://ykdojo.github.io/claude-controls-mac",
+      "source": "ykdojo.github.io",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "8a4f109a28c530f06223a846d2c3a77a9c6fa444",
-          "title": "我没上大学，现在做蓝领工作，时薪超过40美元。人工智能热潮正为我创造更多机会。",
-          "url": "https://www.businessinsider.com/blue-collar-skipped-college-electrical-apprenticeship-data-center-build-2026-7",
-          "source": "www.businessinsider.com",
+          "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "ykdojo.github.io",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-19T10:01:15.542000Z"
+          "published_at": "2026-07-18T19:37:23.960000Z"
         },
         {
-          "id": "89d35b82358829e2007bec6800345d32459b1689",
-          "title": "我没上大学，现在做蓝领工作，时薪超过40美元。人工智能热潮正为我创造更多机会。 / I skipped college and now earn over $40 an hour in a blue-collar job. The AI boom is creating more opportunities for me.",
-          "url": "https://www.businessinsider.com/blue-collar-skipped-college-electrical-apprenticeship-data-center-build-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-19T09:10:01Z"
+          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://news.ycombinator.com/item?id=48959392",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T16:29:30.461000Z"
+        },
+        {
+          "id": "93e7cf49fd34549680e30bb4c9e546a80cb3f456",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-18T16:12:08Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "HN Algolia · AI 24h",
+        "hackernews",
+        "ykdojo.github.io"
       ],
       "items": [
         {
-          "id": "8a4f109a28c530f06223a846d2c3a77a9c6fa444",
-          "title": "我没上大学，现在做蓝领工作，时薪超过40美元。人工智能热潮正为我创造更多机会。",
-          "url": "https://www.businessinsider.com/blue-collar-skipped-college-electrical-apprenticeship-data-center-build-2026-7",
-          "source": "www.businessinsider.com",
+          "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "ykdojo.github.io",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-19T10:01:15.542000Z"
+          "published_at": "2026-07-18T19:37:23.960000Z"
         },
         {
-          "id": "89d35b82358829e2007bec6800345d32459b1689",
-          "title": "我没上大学，现在做蓝领工作，时薪超过40美元。人工智能热潮正为我创造更多机会。 / I skipped college and now earn over $40 an hour in a blue-collar job. The AI boom is creating more opportunities for me.",
-          "url": "https://www.businessinsider.com/blue-collar-skipped-college-electrical-apprenticeship-data-center-build-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-19T09:10:01Z"
+          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://news.ycombinator.com/item?id=48959392",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T16:29:30.461000Z"
+        },
+        {
+          "id": "93e7cf49fd34549680e30bb4c9e546a80cb3f456",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-18T16:12:08Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9819,
-        "story_heat": 0.25
+        "recency": 0.784,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-19T09:10:01Z",
-      "latest_at": "2026-07-19T10:01:15.542000Z",
+      "earliest_at": "2026-07-18T16:12:08Z",
+      "latest_at": "2026-07-18T19:37:23.960000Z",
       "primary_item": {
-        "id": "8a4f109a28c530f06223a846d2c3a77a9c6fa444",
-        "title": "我没上大学，现在做蓝领工作，时薪超过40美元。人工智能热潮正为我创造更多机会。",
-        "url": "https://www.businessinsider.com/blue-collar-skipped-college-electrical-apprenticeship-data-center-build-2026-7",
-        "source": "www.businessinsider.com",
+        "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
+        "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+        "url": "https://ykdojo.github.io/claude-controls-mac",
+        "source": "ykdojo.github.io",
         "source_name": "Buzzing"
       }
     },
@@ -1121,15 +1298,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5346,
-      "importance": 0.5346,
-      "importance_score": 0.5346,
+      "score": 0.5317,
+      "importance": 0.5317,
+      "importance_score": 0.5317,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9376,
+        "recency": 0.9216,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1143,104 +1320,6 @@
         "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "source": "news.google.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_cbcd45422a3a",
-      "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-      "url": "https://ykdojo.github.io/claude-controls-mac",
-      "primary_url": "https://ykdojo.github.io/claude-controls-mac",
-      "source": "ykdojo.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
-          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "ykdojo.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T19:37:23.960000Z"
-        },
-        {
-          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
-          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "url": "https://news.ycombinator.com/item?id=48959392",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T16:29:30.461000Z"
-        },
-        {
-          "id": "323122533c257bf2584fb2a362c6d9770ad7ff62",
-          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T16:12:08Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "ykdojo.github.io"
-      ],
-      "items": [
-        {
-          "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
-          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "ykdojo.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T19:37:23.960000Z"
-        },
-        {
-          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
-          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "url": "https://news.ycombinator.com/item?id=48959392",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T16:29:30.461000Z"
-        },
-        {
-          "id": "323122533c257bf2584fb2a362c6d9770ad7ff62",
-          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T16:12:08Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7976,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T16:12:08Z",
-      "latest_at": "2026-07-18T19:37:23.960000Z",
-      "primary_item": {
-        "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
-        "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-        "url": "https://ykdojo.github.io/claude-controls-mac",
-        "source": "ykdojo.github.io",
         "source_name": "Buzzing"
       }
     },
@@ -1262,18 +1341,18 @@
           "published_at": "2026-07-19T03:53:18.442000Z"
         },
         {
-          "id": "2b93f1543b53bff936fd4a073c54457c312c64ba",
+          "id": "2383c8441a5382743d239c02fc6ad0b72c359ae9",
           "title": "《法典》重置 / Codex Resets",
           "url": "https://codex-resets.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-18T23:24:26Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "codex-resets.com"
       ],
       "items": [
@@ -1287,26 +1366,26 @@
           "published_at": "2026-07-19T03:53:18.442000Z"
         },
         {
-          "id": "2b93f1543b53bff936fd4a073c54457c312c64ba",
+          "id": "2383c8441a5382743d239c02fc6ad0b72c359ae9",
           "title": "《法典》重置 / Codex Resets",
           "url": "https://codex-resets.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-18T23:24:26Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5276,
-      "importance": 0.5276,
-      "importance_score": 0.5276,
+      "score": 0.5248,
+      "importance": 0.5248,
+      "importance_score": 0.5248,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8987,
+        "recency": 0.8834,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1320,6 +1399,104 @@
         "title": "《法典》重置",
         "url": "https://codex-resets.com",
         "source": "codex-resets.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_1c98b9c89e38",
+      "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+      "primary_url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+      "source": "old.reddit.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "old.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T14:17:48.882000Z"
+        },
+        {
+          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
+          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://news.ycombinator.com/item?id=48957779",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T13:26:05.437000Z"
+        },
+        {
+          "id": "8c75ec476a3401e38256cf7766af40479e966b99",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T13:00:52Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "old.reddit.com"
+      ],
+      "items": [
+        {
+          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "old.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T14:17:48.882000Z"
+        },
+        {
+          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
+          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://news.ycombinator.com/item?id=48957779",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T13:26:05.437000Z"
+        },
+        {
+          "id": "8c75ec476a3401e38256cf7766af40479e966b99",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T13:00:52Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5215,
+      "importance": 0.5215,
+      "importance_score": 0.5215,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.726,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T13:00:52Z",
+      "latest_at": "2026-07-18T14:17:48.882000Z",
+      "primary_item": {
+        "id": "9651931f406a4d924811d9891efdfa2132928dc1",
+        "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+        "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+        "source": "old.reddit.com",
         "source_name": "Buzzing"
       }
     },
@@ -1377,15 +1554,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
+      "score": 0.5212,
+      "importance": 0.5212,
+      "importance_score": 0.5212,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8782,
+        "recency": 0.8633,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1399,104 +1576,6 @@
         "title": "软件与人工智能——“预先规划”与“即兴创作”",
         "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
         "source": "pyjarrett.github.io",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_1c98b9c89e38",
-      "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-      "primary_url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-      "source": "old.reddit.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "old.reddit.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T14:17:48.882000Z"
-        },
-        {
-          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
-          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://news.ycombinator.com/item?id=48957779",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T13:26:05.437000Z"
-        },
-        {
-          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T13:00:52Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "old.reddit.com"
-      ],
-      "items": [
-        {
-          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "old.reddit.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T14:17:48.882000Z"
-        },
-        {
-          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
-          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://news.ycombinator.com/item?id=48957779",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T13:26:05.437000Z"
-        },
-        {
-          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T13:00:52Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5237,
-      "importance": 0.5237,
-      "importance_score": 0.5237,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7385,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T13:00:52Z",
-      "latest_at": "2026-07-18T14:17:48.882000Z",
-      "primary_item": {
-        "id": "9651931f406a4d924811d9891efdfa2132928dc1",
-        "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-        "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-        "source": "old.reddit.com",
         "source_name": "Buzzing"
       }
     },
@@ -1553,15 +1632,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5232,
-      "importance": 0.5232,
-      "importance_score": 0.5232,
+      "score": 0.5205,
+      "importance": 0.5205,
+      "importance_score": 0.5205,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8744,
+        "recency": 0.8596,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1632,15 +1711,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.983,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1655,85 +1734,6 @@
         "url": "https://www.ithome.com/0/978/774.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_87cd30f5b2eb",
-      "title": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k / OpenAI reduces Codex Model Context Size from 372k to 272k",
-      "url": "https://news.ycombinator.com/item?id=48965850",
-      "primary_url": "https://news.ycombinator.com/item?id=48965850",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "b394584b170edf3f0a0f3ace87d2fc7e804c46cd",
-          "title": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k / OpenAI reduces Codex Model Context Size from 372k to 272k",
-          "url": "https://news.ycombinator.com/item?id=48965850",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T10:48:40.619000Z"
-        },
-        {
-          "id": "023ebf15eb4a0e696725b614dfee331cf70d31a4",
-          "title": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k / OpenAI reduces Codex Model Context Size from 372k to 272k",
-          "url": "https://github.com/openai/codex/pull/33972/files",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-19T07:54:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b394584b170edf3f0a0f3ace87d2fc7e804c46cd",
-          "title": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k / OpenAI reduces Codex Model Context Size from 372k to 272k",
-          "url": "https://news.ycombinator.com/item?id=48965850",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T10:48:40.619000Z"
-        },
-        {
-          "id": "023ebf15eb4a0e696725b614dfee331cf70d31a4",
-          "title": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k / OpenAI reduces Codex Model Context Size from 372k to 272k",
-          "url": "https://github.com/openai/codex/pull/33972/files",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-19T07:54:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9931,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T07:54:39Z",
-      "latest_at": "2026-07-19T10:48:40.619000Z",
-      "primary_item": {
-        "id": "b394584b170edf3f0a0f3ace87d2fc7e804c46cd",
-        "title": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k / OpenAI reduces Codex Model Context Size from 372k to 272k",
-        "url": "https://news.ycombinator.com/item?id=48965850",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
