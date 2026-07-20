@@ -1,8 +1,170 @@
 {
-  "generated_at": "2026-07-20T12:33:55.367856Z",
+  "generated_at": "2026-07-20T15:16:02.827339Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_c3556096c82e",
+      "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
+          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T13:01:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
+          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T13:01:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9681,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T13:01:24Z",
+      "latest_at": "2026-07-20T13:01:24Z",
+      "primary_item": {
+        "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
+        "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+        "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_157f79bd67e3",
+      "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+      "url": "https://github.com/Saivineeth147/lora-speedrun",
+      "primary_url": "https://github.com/Saivineeth147/lora-speedrun",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4ae616fd44dae4d7e25ba518ae7bb2a13987c887",
+          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:21:09.021000Z"
+        },
+        {
+          "id": "4e726cae0601b10c3192da887c86074b0b4a7bc9",
+          "title": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T12:21:09.021000Z"
+        },
+        {
+          "id": "631742f38960d2e7cb3c0fd4df9f93be7ccbcd19",
+          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率 / LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-20T04:24:48Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "4ae616fd44dae4d7e25ba518ae7bb2a13987c887",
+          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:21:09.021000Z"
+        },
+        {
+          "id": "4e726cae0601b10c3192da887c86074b0b4a7bc9",
+          "title": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T12:21:09.021000Z"
+        },
+        {
+          "id": "631742f38960d2e7cb3c0fd4df9f93be7ccbcd19",
+          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率 / LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-20T04:24:48Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8042,
+      "importance": 0.8042,
+      "importance_score": 0.8042,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9588,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T04:24:48Z",
+      "latest_at": "2026-07-20T12:21:09.021000Z",
+      "primary_item": {
+        "id": "4ae616fd44dae4d7e25ba518ae7bb2a13987c887",
+        "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+        "url": "https://github.com/Saivineeth147/lora-speedrun",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_c4ff01821c40",
       "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
@@ -57,15 +219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8007,
-      "importance": 0.8007,
-      "importance_score": 0.8007,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9949,
+        "recency": 0.9569,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -138,15 +300,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7785,
-      "importance": 0.7785,
-      "importance_score": 0.7785,
+      "score": 0.7721,
+      "importance": 0.7721,
+      "importance_score": 0.7721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9215,
+        "recency": 0.8863,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -219,15 +381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8018,
+        "recency": 0.7711,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -281,15 +443,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8824,
+        "recency": 0.8486,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -342,21 +504,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9483,
+        "recency": 0.912,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T08:53:11Z",
       "latest_at": "2026-07-20T08:53:11Z",
@@ -403,21 +564,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7443,
+      "importance": 0.7443,
+      "importance_score": 0.7443,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8357,
+        "recency": 0.8037,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T00:08:00Z",
       "latest_at": "2026-07-20T00:08:00Z",
@@ -464,15 +624,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9228,
+        "recency": 0.8875,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -486,66 +646,6 @@
         "title": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
         "url": "https://www.ithome.com/0/979/017.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5051d31999f6",
-      "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-      "url": "https://ollama.com/blog/all-aboard-open-models",
-      "primary_url": "https://ollama.com/blog/all-aboard-open-models",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
-          "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-          "url": "https://ollama.com/blog/all-aboard-open-models",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T01:45:09.765000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
-          "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-          "url": "https://ollama.com/blog/all-aboard-open-models",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T01:45:09.765000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8554,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T01:45:09.765000Z",
-      "latest_at": "2026-07-20T01:45:09.765000Z",
-      "primary_item": {
-        "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
-        "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-        "url": "https://ollama.com/blog/all-aboard-open-models",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -584,15 +684,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9364,
+        "recency": 0.9005,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -644,15 +744,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7431,
+        "recency": 0.7146,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -704,15 +804,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9678,
+        "recency": 0.9308,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -728,6 +828,235 @@
         "url": "https://www.aibase.com/news/29725",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-07-20",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "2ee33a16ed14fa8b3a7d2ec094cf514222f5ea69",
+          "title": "Kimi K3刚冲上 Code Arena 第一，官方又因为算力紧张暂停新会员订阅。小歪直接花99 元实测了一轮，从价格、入口、API 成本，到3D 交互网页、知识可视化、无缝循环动效、多文件数据看板，带你快速判断K3哪些场景值得上手。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T15:16:02.827339Z"
+        },
+        {
+          "id": "7f1d3418a485614fba323bc36061660ed0c4e054",
+          "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T15:16:02.827339Z"
+        },
+        {
+          "id": "09e99af366792cddd98b2c04fb458c11810bfa29",
+          "title": "CY把Codex Micro的“Agent 状态外显”思路做成了Codex + Claude Code都能用的硬件版。他用EasyInput开发板跑通了从Codex / CC、本地Bridge、蓝牙 GATT到实体灯效的完整链路，让Agent的空闲、思考、未读、等待确认、报错等状态都可以直接显示在桌面灯光上。接下来，也会把它放进WaytoAGI AI 硬件训练营，带大家从零跑通相关设置和操作。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-19T18:30:06.941929Z"
+        },
+        {
+          "id": "36a3d43945170de328b3aa234329e827aee300c4",
+          "title": "LangChain开源了一个软件工程智能体工厂：dcode负责本地交互式编码，OpenSWE负责云端后台跑任务和提PR，OpenSWE Review 接入GitHub做自动代码审查，OpenWiki则为仓库持续生成文档和智能体记忆。快来体验一下！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-19T18:30:06.941929Z"
+        },
+        {
+          "id": "eaaefd0997e994162a8df0ce04b97977a376430c",
+          "title": "这期AI论文精选很适合关注Agent落地的人看：自我改进、元认知、路由评估、失败追踪、运行框架演化，这几篇都在围绕一个核心问题打转——怎样让智能体更可靠、更可调试、更能长期运行。后半部分论文还延伸到了世界模型、安全监控优化、兼顾推理多样性的强化学习算法和高性能开源人形机器人模型。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-19T18:30:06.941929Z"
+        },
+        {
+          "id": "36c3672aa0ac39c9f41f0ab30d1b99e1c7c75e63",
+          "title": "AI发展四年，市场反而开始喊“应用凉了”。作者这篇文章把模型和应用的几轮起落剖析了下：从 Character.ai、GPT-4o、DeepSeek、Manus，到智谱上市和 Openclaw 热潮，资本情绪一直在模型与应用之间剧烈摆动。对创业者来说，真正要守住的是用户价值、真实付费、出海能力和团队的韧性。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-19T17:05:22.973241Z"
+        },
+        {
+          "id": "3c2c634094ab1883d2369847a8237615af84da24",
+          "title": "如果你已经厌倦了反复给 AI 改错，这篇文章会很有启发。它把“自我纠错的 AI 循环”拆成构建者、评审者、管理者三层：先产出，再用真实依据核查，最后决定返工、通过或升级给人。这其中的关键在于结构化交接、独立评审、硬性停止条件和故障测试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-19T17:05:22.973241Z"
+        }
+      ],
+      "source_count": 7,
+      "source_names": [
+        "社区更新 · 2026-07-19",
+        "社区更新 · 2026-07-20"
+      ],
+      "items": [
+        {
+          "id": "2ee33a16ed14fa8b3a7d2ec094cf514222f5ea69",
+          "title": "Kimi K3刚冲上 Code Arena 第一，官方又因为算力紧张暂停新会员订阅。小歪直接花99 元实测了一轮，从价格、入口、API 成本，到3D 交互网页、知识可视化、无缝循环动效、多文件数据看板，带你快速判断K3哪些场景值得上手。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T15:16:02.827339Z"
+        },
+        {
+          "id": "7f1d3418a485614fba323bc36061660ed0c4e054",
+          "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T15:16:02.827339Z"
+        },
+        {
+          "id": "09e99af366792cddd98b2c04fb458c11810bfa29",
+          "title": "CY把Codex Micro的“Agent 状态外显”思路做成了Codex + Claude Code都能用的硬件版。他用EasyInput开发板跑通了从Codex / CC、本地Bridge、蓝牙 GATT到实体灯效的完整链路，让Agent的空闲、思考、未读、等待确认、报错等状态都可以直接显示在桌面灯光上。接下来，也会把它放进WaytoAGI AI 硬件训练营，带大家从零跑通相关设置和操作。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-19T18:30:06.941929Z"
+        },
+        {
+          "id": "36a3d43945170de328b3aa234329e827aee300c4",
+          "title": "LangChain开源了一个软件工程智能体工厂：dcode负责本地交互式编码，OpenSWE负责云端后台跑任务和提PR，OpenSWE Review 接入GitHub做自动代码审查，OpenWiki则为仓库持续生成文档和智能体记忆。快来体验一下！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-19T18:30:06.941929Z"
+        },
+        {
+          "id": "eaaefd0997e994162a8df0ce04b97977a376430c",
+          "title": "这期AI论文精选很适合关注Agent落地的人看：自我改进、元认知、路由评估、失败追踪、运行框架演化，这几篇都在围绕一个核心问题打转——怎样让智能体更可靠、更可调试、更能长期运行。后半部分论文还延伸到了世界模型、安全监控优化、兼顾推理多样性的强化学习算法和高性能开源人形机器人模型。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-19T18:30:06.941929Z"
+        },
+        {
+          "id": "36c3672aa0ac39c9f41f0ab30d1b99e1c7c75e63",
+          "title": "AI发展四年，市场反而开始喊“应用凉了”。作者这篇文章把模型和应用的几轮起落剖析了下：从 Character.ai、GPT-4o、DeepSeek、Manus，到智谱上市和 Openclaw 热潮，资本情绪一直在模型与应用之间剧烈摆动。对创业者来说，真正要守住的是用户价值、真实付费、出海能力和团队的韧性。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-19T17:05:22.973241Z"
+        },
+        {
+          "id": "3c2c634094ab1883d2369847a8237615af84da24",
+          "title": "如果你已经厌倦了反复给 AI 改错，这篇文章会很有启发。它把“自我纠错的 AI 循环”拆成构建者、评审者、管理者三层：先产出，再用真实依据核查，最后决定返工、通过或升级给人。这其中的关键在于结构化交接、独立评审、硬性停止条件和故障测试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-19T17:05:22.973241Z"
+        }
+      ],
+      "item_count": 7,
+      "duplicate_count": 7,
+      "score": 0.715,
+      "importance": 0.715,
+      "importance_score": 0.715,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.54,
+        "ai_relevance": 0.76,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T17:05:22.973241Z",
+      "latest_at": "2026-07-20T15:16:02.827339Z",
+      "primary_item": {
+        "id": "7f1d3418a485614fba323bc36061660ed0c4e054",
+        "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-07-20",
+        "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_5051d31999f6",
+      "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+      "url": "https://ollama.com/blog/all-aboard-open-models",
+      "primary_url": "https://ollama.com/blog/all-aboard-open-models",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
+          "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+          "url": "https://ollama.com/blog/all-aboard-open-models",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T01:45:09.765000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
+          "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+          "url": "https://ollama.com/blog/all-aboard-open-models",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T01:45:09.765000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8227,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-20T01:45:09.765000Z",
+      "latest_at": "2026-07-20T01:45:09.765000Z",
+      "primary_item": {
+        "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
+        "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+        "url": "https://ollama.com/blog/all-aboard-open-models",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -765,15 +1094,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9678,
+        "recency": 0.9308,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -826,15 +1155,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9678,
+        "recency": 0.9308,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -887,15 +1216,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9678,
+        "recency": 0.9308,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -911,138 +1240,6 @@
         "url": "https://www.aibase.com/news/29724",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "这期AI论文精选很适合关注Agent落地的人看：自我改进、元认知、路由评估、失败追踪、运行框架演化，这几篇都在围绕一个核心问题打转——怎样让智能体更可靠、更可调试、更能长期运行。后半部分论文还延伸到了世界模型、安全监控优化、兼顾推理多样性的强化学习算法和高性能开源人形机器人模型。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-07-19",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "09e99af366792cddd98b2c04fb458c11810bfa29",
-          "title": "CY把Codex Micro的“Agent 状态外显”思路做成了Codex + Claude Code都能用的硬件版。他用EasyInput开发板跑通了从Codex / CC、本地Bridge、蓝牙 GATT到实体灯效的完整链路，让Agent的空闲、思考、未读、等待确认、报错等状态都可以直接显示在桌面灯光上。接下来，也会把它放进WaytoAGI AI 硬件训练营，带大家从零跑通相关设置和操作。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T18:30:06.941929Z"
-        },
-        {
-          "id": "36a3d43945170de328b3aa234329e827aee300c4",
-          "title": "LangChain开源了一个软件工程智能体工厂：dcode负责本地交互式编码，OpenSWE负责云端后台跑任务和提PR，OpenSWE Review 接入GitHub做自动代码审查，OpenWiki则为仓库持续生成文档和智能体记忆。快来体验一下！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T18:30:06.941929Z"
-        },
-        {
-          "id": "eaaefd0997e994162a8df0ce04b97977a376430c",
-          "title": "这期AI论文精选很适合关注Agent落地的人看：自我改进、元认知、路由评估、失败追踪、运行框架演化，这几篇都在围绕一个核心问题打转——怎样让智能体更可靠、更可调试、更能长期运行。后半部分论文还延伸到了世界模型、安全监控优化、兼顾推理多样性的强化学习算法和高性能开源人形机器人模型。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T18:30:06.941929Z"
-        },
-        {
-          "id": "36c3672aa0ac39c9f41f0ab30d1b99e1c7c75e63",
-          "title": "AI发展四年，市场反而开始喊“应用凉了”。作者这篇文章把模型和应用的几轮起落剖析了下：从 Character.ai、GPT-4o、DeepSeek、Manus，到智谱上市和 Openclaw 热潮，资本情绪一直在模型与应用之间剧烈摆动。对创业者来说，真正要守住的是用户价值、真实付费、出海能力和团队的韧性。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T17:05:22.973241Z"
-        },
-        {
-          "id": "3c2c634094ab1883d2369847a8237615af84da24",
-          "title": "如果你已经厌倦了反复给 AI 改错，这篇文章会很有启发。它把“自我纠错的 AI 循环”拆成构建者、评审者、管理者三层：先产出，再用真实依据核查，最后决定返工、通过或升级给人。这其中的关键在于结构化交接、独立评审、硬性停止条件和故障测试。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T17:05:22.973241Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "社区更新 · 2026-07-19"
-      ],
-      "items": [
-        {
-          "id": "09e99af366792cddd98b2c04fb458c11810bfa29",
-          "title": "CY把Codex Micro的“Agent 状态外显”思路做成了Codex + Claude Code都能用的硬件版。他用EasyInput开发板跑通了从Codex / CC、本地Bridge、蓝牙 GATT到实体灯效的完整链路，让Agent的空闲、思考、未读、等待确认、报错等状态都可以直接显示在桌面灯光上。接下来，也会把它放进WaytoAGI AI 硬件训练营，带大家从零跑通相关设置和操作。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T18:30:06.941929Z"
-        },
-        {
-          "id": "36a3d43945170de328b3aa234329e827aee300c4",
-          "title": "LangChain开源了一个软件工程智能体工厂：dcode负责本地交互式编码，OpenSWE负责云端后台跑任务和提PR，OpenSWE Review 接入GitHub做自动代码审查，OpenWiki则为仓库持续生成文档和智能体记忆。快来体验一下！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T18:30:06.941929Z"
-        },
-        {
-          "id": "eaaefd0997e994162a8df0ce04b97977a376430c",
-          "title": "这期AI论文精选很适合关注Agent落地的人看：自我改进、元认知、路由评估、失败追踪、运行框架演化，这几篇都在围绕一个核心问题打转——怎样让智能体更可靠、更可调试、更能长期运行。后半部分论文还延伸到了世界模型、安全监控优化、兼顾推理多样性的强化学习算法和高性能开源人形机器人模型。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T18:30:06.941929Z"
-        },
-        {
-          "id": "36c3672aa0ac39c9f41f0ab30d1b99e1c7c75e63",
-          "title": "AI发展四年，市场反而开始喊“应用凉了”。作者这篇文章把模型和应用的几轮起落剖析了下：从 Character.ai、GPT-4o、DeepSeek、Manus，到智谱上市和 Openclaw 热潮，资本情绪一直在模型与应用之间剧烈摆动。对创业者来说，真正要守住的是用户价值、真实付费、出海能力和团队的韧性。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T17:05:22.973241Z"
-        },
-        {
-          "id": "3c2c634094ab1883d2369847a8237615af84da24",
-          "title": "如果你已经厌倦了反复给 AI 改错，这篇文章会很有启发。它把“自我纠错的 AI 循环”拆成构建者、评审者、管理者三层：先产出，再用真实依据核查，最后决定返工、通过或升级给人。这其中的关键在于结构化交接、独立评审、硬性停止条件和故障测试。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T17:05:22.973241Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.632,
-      "importance": 0.632,
-      "importance_score": 0.632,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.4752,
-        "source_tier": 0.54,
-        "ai_relevance": 0.66,
-        "recency": 0.7704,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T17:05:22.973241Z",
-      "latest_at": "2026-07-19T18:30:06.941929Z",
-      "primary_item": {
-        "id": "eaaefd0997e994162a8df0ce04b97977a376430c",
-        "title": "这期AI论文精选很适合关注Agent落地的人看：自我改进、元认知、路由评估、失败追踪、运行框架演化，这几篇都在围绕一个核心问题打转——怎样让智能体更可靠、更可调试、更能长期运行。后半部分论文还延伸到了世界模型、安全监控优化、兼顾推理多样性的强化学习算法和高性能开源人形机器人模型。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-07-19",
-        "source_name": "WaytoAGI"
       }
     },
     {
@@ -1080,21 +1277,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9215,
+        "recency": 0.8863,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T06:54:21.568730Z",
       "latest_at": "2026-07-20T06:54:21.568730Z",
@@ -1160,15 +1356,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6025,
-      "importance": 0.6025,
-      "importance_score": 0.6025,
+      "score": 0.5959,
+      "importance": 0.5959,
+      "importance_score": 0.5959,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9565,
+        "recency": 0.9199,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1220,21 +1416,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9215,
+        "recency": 0.8863,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T06:54:21.568730Z",
       "latest_at": "2026-07-20T06:54:21.568730Z",
@@ -1244,183 +1439,6 @@
         "url": "https://www.aibase.com/news/29717",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_65a3fce9f1f4",
-      "title": "2026世界人工智能大会闭幕，预计达成超200亿元意向采购金额",
-      "url": "https://36kr.com/newsflashes/3903765228045955?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3903765228045955?f=rss",
-      "source": "36Kr",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "982f554a48e3e7732517f7ac9eca5146496058da",
-          "title": "2026世界人工智能大会闭幕，预计达成超200亿元意向采购金额",
-          "url": "https://36kr.com/newsflashes/3903765228045955?f=rss",
-          "source": "36Kr",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-20T09:15:20Z"
-        },
-        {
-          "id": "ce6aee1fdf6350434dfcd5c2739259308d8cf0b0",
-          "title": "2026 世界人工智能大会闭幕，预计达成超 200 亿元意向采购金额",
-          "url": "https://36kr.com/newsflashes/3903765228045955?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36Kr",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "982f554a48e3e7732517f7ac9eca5146496058da",
-          "title": "2026世界人工智能大会闭幕，预计达成超200亿元意向采购金额",
-          "url": "https://36kr.com/newsflashes/3903765228045955?f=rss",
-          "source": "36Kr",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-20T09:15:20Z"
-        },
-        {
-          "id": "ce6aee1fdf6350434dfcd5c2739259308d8cf0b0",
-          "title": "2026 世界人工智能大会闭幕，预计达成超 200 亿元意向采购金额",
-          "url": "https://36kr.com/newsflashes/3903765228045955?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.602,
-      "importance": 0.602,
-      "importance_score": 0.602,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9533,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-20T09:15:20Z",
-      "latest_at": "2026-07-20T10:17:54.728743Z",
-      "primary_item": {
-        "id": "982f554a48e3e7732517f7ac9eca5146496058da",
-        "title": "2026世界人工智能大会闭幕，预计达成超200亿元意向采购金额",
-        "url": "https://36kr.com/newsflashes/3903765228045955?f=rss",
-        "source": "36Kr",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_2b709f3ee251",
-      "title": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。",
-      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
-      "primary_url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
-      "source": "slcyber.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "afd9a43d8bf0fd72514ec6325cacfe5096287221",
-          "title": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。",
-          "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
-          "source": "slcyber.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T10:47:09.626000Z"
-        },
-        {
-          "id": "3ab3689a1aa2714fb90ef62d309e0ad9bb3de6ff",
-          "title": "漏洞利用经纪人为 WordPress RCE 支付 50 万美元。我找到了一个 GPT5.6 的，售价 25 美元 / Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-          "url": "https://news.ycombinator.com/item?id=48975665",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T10:18:38.600000Z"
-        },
-        {
-          "id": "18b67079333c64ae73e0b9d1cc727c01b745549c",
-          "title": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。 / Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-          "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-20T08:13:36Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "slcyber.io"
-      ],
-      "items": [
-        {
-          "id": "afd9a43d8bf0fd72514ec6325cacfe5096287221",
-          "title": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。",
-          "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
-          "source": "slcyber.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T10:47:09.626000Z"
-        },
-        {
-          "id": "3ab3689a1aa2714fb90ef62d309e0ad9bb3de6ff",
-          "title": "漏洞利用经纪人为 WordPress RCE 支付 50 万美元。我找到了一个 GPT5.6 的，售价 25 美元 / Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-          "url": "https://news.ycombinator.com/item?id=48975665",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T10:18:38.600000Z"
-        },
-        {
-          "id": "18b67079333c64ae73e0b9d1cc727c01b745549c",
-          "title": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。 / Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-          "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-20T08:13:36Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5662,
-      "importance": 0.5662,
-      "importance_score": 0.5662,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9746,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-20T08:13:36Z",
-      "latest_at": "2026-07-20T10:47:09.626000Z",
-      "primary_item": {
-        "id": "afd9a43d8bf0fd72514ec6325cacfe5096287221",
-        "title": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。",
-        "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
-        "source": "slcyber.io",
-        "source_name": "Buzzing"
       }
     }
   ]
