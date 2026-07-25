@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T03:22:35.346842Z",
+  "generated_at": "2026-07-25T06:01:37.467770Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8342,
-      "importance": 0.8342,
-      "importance_score": 0.8342,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8567,
+        "recency": 0.8246,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8285,
-      "importance": 0.8285,
-      "importance_score": 0.8285,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.92,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8659,
+        "recency": 0.8334,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -200,15 +200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7959,
-      "importance": 0.7959,
-      "importance_score": 0.7959,
+      "score": 0.7893,
+      "importance": 0.7893,
+      "importance_score": 0.7893,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9683,
+        "recency": 0.9319,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -281,15 +281,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7874,
-      "importance": 0.7874,
-      "importance_score": 0.7874,
+      "score": 0.7814,
+      "importance": 0.7814,
+      "importance_score": 0.7814,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8877,
+        "recency": 0.8544,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -343,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9295,
+        "recency": 0.8946,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -423,15 +423,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7759,
+        "recency": 0.7468,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -504,22 +504,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7717,
+        "recency": 0.7427,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T09:25:31.501696Z",
       "latest_at": "2026-07-24T11:19:05.583515Z",
@@ -566,15 +565,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8205,
+        "recency": 0.7897,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -645,15 +644,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7757,
+        "recency": 0.7466,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -707,15 +706,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
+      "score": 0.7364,
+      "importance": 0.7364,
+      "importance_score": 0.7364,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8415,
+        "recency": 0.8099,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -767,15 +766,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7408,
-      "importance": 0.7408,
-      "importance_score": 0.7408,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.818,
+        "recency": 0.7873,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -827,15 +826,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
+      "score": 0.7267,
+      "importance": 0.7267,
+      "importance_score": 0.7267,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8204,
+        "recency": 0.7896,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -849,66 +848,6 @@
         "title": "Runway Agent 推出自然语言工作流功能",
         "url": "https://x.com/runwayml/status/2080649234672439389",
         "source": "X：Runway (@runwayml)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_81e43f035001",
-      "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "primary_url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9bdb9918b520ffbba73202bacd9f3631e20d3f8e",
-          "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T17:25:50.349000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "9bdb9918b520ffbba73202bacd9f3631e20d3f8e",
-          "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T17:25:50.349000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7225,
-      "importance": 0.7225,
-      "importance_score": 0.7225,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8662,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T17:25:50.349000Z",
-      "latest_at": "2026-07-24T17:25:50.349000Z",
-      "primary_item": {
-        "id": "9bdb9918b520ffbba73202bacd9f3631e20d3f8e",
-        "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
-        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-        "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -966,15 +905,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7443,
+      "importance": 0.7443,
+      "importance_score": 0.7443,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.743,
+        "recency": 0.7151,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1046,15 +985,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7402,
+        "recency": 0.7124,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1090,18 +1029,18 @@
           "published_at": "2026-07-24T11:55:45.885000Z"
         },
         {
-          "id": "d9d8a3a19c48f68d00c49361a52d4242cbdaae6e",
-          "title": "FLUX 3 x mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
+          "id": "36542a2fb972d1da2e9bfb21c568c238806bec3f",
+          "title": "Flux 3 X Mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
           "url": "https://bfl.ai/blog/flux-3-mimic",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-24T09:31:48Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
@@ -1115,26 +1054,26 @@
           "published_at": "2026-07-24T11:55:45.885000Z"
         },
         {
-          "id": "d9d8a3a19c48f68d00c49361a52d4242cbdaae6e",
-          "title": "FLUX 3 x mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
+          "id": "36542a2fb972d1da2e9bfb21c568c238806bec3f",
+          "title": "Flux 3 X Mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
           "url": "https://bfl.ai/blog/flux-3-mimic",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-24T09:31:48Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7656,
-      "importance": 0.7656,
-      "importance_score": 0.7656,
+      "score": 0.7602,
+      "importance": 0.7602,
+      "importance_score": 0.7602,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8001,
+        "recency": 0.77,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1154,241 +1093,121 @@
       }
     },
     {
-      "story_id": "story_68080c03187e",
-      "title": "Runway推出生成式媒体AI模型路由平台系统，全面开启开发者架构服务",
-      "url": "https://www.aibase.com/news/29849",
-      "primary_url": "https://www.aibase.com/news/29849",
+      "story_id": "story_0b0a0e69a075",
+      "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+      "url": "https://www.aibase.com/news/29881",
+      "primary_url": "https://www.aibase.com/news/29881",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ac80a5a94bdaebe1572f4e4056425797024b3211",
-          "title": "Runway推出生成式媒体AI模型路由平台系统，全面开启开发者架构服务",
-          "url": "https://www.aibase.com/news/29849",
+          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
+          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+          "url": "https://www.aibase.com/news/29881",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T03:55:03.642115Z"
-        },
-        {
-          "id": "e7f291c8bc3dd5a6f09a9684b54d6c0759886f19",
-          "title": "Runway 推出生成式媒体 AI 模型路由平台系统，全面开启开发者架构服务",
-          "url": "https://www.aibase.com/zh/news/29849",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-24T11:19:05.583515Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "ac80a5a94bdaebe1572f4e4056425797024b3211",
-          "title": "Runway推出生成式媒体AI模型路由平台系统，全面开启开发者架构服务",
-          "url": "https://www.aibase.com/news/29849",
+          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
+          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+          "url": "https://www.aibase.com/news/29881",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T03:55:03.642115Z"
-        },
-        {
-          "id": "e7f291c8bc3dd5a6f09a9684b54d6c0759886f19",
-          "title": "Runway 推出生成式媒体 AI 模型路由平台系统，全面开启开发者架构服务",
-          "url": "https://www.aibase.com/zh/news/29849",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-24T11:19:05.583515Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7409,
-      "importance": 0.7409,
-      "importance_score": 0.7409,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.725,
+      "importance": 0.725,
+      "importance_score": 0.725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7127,
-        "story_heat": 0.25
+        "recency": 0.7633,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T03:55:03.642115Z",
-      "latest_at": "2026-07-24T03:55:03.642115Z",
+      "earliest_at": "2026-07-24T11:19:05.583515Z",
+      "latest_at": "2026-07-24T11:19:05.583515Z",
       "primary_item": {
-        "id": "ac80a5a94bdaebe1572f4e4056425797024b3211",
-        "title": "Runway推出生成式媒体AI模型路由平台系统，全面开启开发者架构服务",
-        "url": "https://www.aibase.com/news/29849",
+        "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
+        "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+        "url": "https://www.aibase.com/news/29881",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_beff3db76c17",
-      "title": "微软自研双模型MAI-Image-2.5-Pro与MAI-Voice-2-Flash发布：不蒸馏第三方，已落地Bing和PowerPoint",
-      "url": "https://www.aibase.com/news/29851",
-      "primary_url": "https://www.aibase.com/news/29851",
+      "story_id": "story_538fbca60cb9",
+      "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+      "url": "https://www.aibase.com/news/29879",
+      "primary_url": "https://www.aibase.com/news/29879",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b7bd7e539877eb7ce31286a007ea7eb61350a0af",
-          "title": "微软自研双模型MAI-Image-2.5-Pro与MAI-Voice-2-Flash发布：不蒸馏第三方，已落地Bing和PowerPoint",
-          "url": "https://www.aibase.com/news/29851",
+          "id": "73f202821fdad56b7559a6d316da467d75b4e508",
+          "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+          "url": "https://www.aibase.com/news/29879",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T03:55:03.642115Z"
-        },
-        {
-          "id": "7dfa6c88d9a63b61dda65a9ac87aa132d322743a",
-          "title": "微软发布自研双模型 MAI-Image-2.5-Pro 与 MAI-Voice-2-Flash，已落地 Bing 和 PowerPoint",
-          "url": "https://www.aibase.com/zh/news/29851",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-24T11:19:05.583515Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "b7bd7e539877eb7ce31286a007ea7eb61350a0af",
-          "title": "微软自研双模型MAI-Image-2.5-Pro与MAI-Voice-2-Flash发布：不蒸馏第三方，已落地Bing和PowerPoint",
-          "url": "https://www.aibase.com/news/29851",
+          "id": "73f202821fdad56b7559a6d316da467d75b4e508",
+          "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+          "url": "https://www.aibase.com/news/29879",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T03:55:03.642115Z"
-        },
-        {
-          "id": "7dfa6c88d9a63b61dda65a9ac87aa132d322743a",
-          "title": "微软发布自研双模型 MAI-Image-2.5-Pro 与 MAI-Voice-2-Flash，已落地 Bing 和 PowerPoint",
-          "url": "https://www.aibase.com/zh/news/29851",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-24T11:19:05.583515Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7409,
-      "importance": 0.7409,
-      "importance_score": 0.7409,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.725,
+      "importance": 0.725,
+      "importance_score": 0.725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7127,
-        "story_heat": 0.25
+        "recency": 0.7633,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T03:55:03.642115Z",
-      "latest_at": "2026-07-24T03:55:03.642115Z",
+      "earliest_at": "2026-07-24T11:19:05.583515Z",
+      "latest_at": "2026-07-24T11:19:05.583515Z",
       "primary_item": {
-        "id": "b7bd7e539877eb7ce31286a007ea7eb61350a0af",
-        "title": "微软自研双模型MAI-Image-2.5-Pro与MAI-Voice-2-Flash发布：不蒸馏第三方，已落地Bing和PowerPoint",
-        "url": "https://www.aibase.com/news/29851",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9b4d67af0b1a",
-      "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
-      "url": "https://www.aibase.com/news/29852",
-      "primary_url": "https://www.aibase.com/news/29852",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c8a3296319449b7d4a68da4c7b023fe9e879a619",
-          "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
-          "url": "https://www.aibase.com/news/29852",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T03:55:03.642115Z"
-        },
-        {
-          "id": "a336f463e47c45591162cc3b6da9f10a9f5518d1",
-          "title": "谷歌 Gemini 月活突破 9.5 亿，逼近 ChatGPT 十亿用户里程碑",
-          "url": "https://www.aibase.com/zh/news/29852",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c8a3296319449b7d4a68da4c7b023fe9e879a619",
-          "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
-          "url": "https://www.aibase.com/news/29852",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T03:55:03.642115Z"
-        },
-        {
-          "id": "a336f463e47c45591162cc3b6da9f10a9f5518d1",
-          "title": "谷歌 Gemini 月活突破 9.5 亿，逼近 ChatGPT 十亿用户里程碑",
-          "url": "https://www.aibase.com/zh/news/29852",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7409,
-      "importance": 0.7409,
-      "importance_score": 0.7409,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7127,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T03:55:03.642115Z",
-      "latest_at": "2026-07-24T03:55:03.642115Z",
-      "primary_item": {
-        "id": "c8a3296319449b7d4a68da4c7b023fe9e879a619",
-        "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
-        "url": "https://www.aibase.com/news/29852",
+        "id": "73f202821fdad56b7559a6d316da467d75b4e508",
+        "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+        "url": "https://www.aibase.com/news/29879",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1447,15 +1266,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6197,
-      "importance": 0.6197,
-      "importance_score": 0.6197,
+      "score": 0.614,
+      "importance": 0.614,
+      "importance_score": 0.614,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8383,
+        "recency": 0.8069,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1470,6 +1289,144 @@
         "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_55dc522f59b8",
+      "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+      "url": "https://www.aibase.com/news/29880",
+      "primary_url": "https://www.aibase.com/news/29880",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
+          "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+          "url": "https://www.aibase.com/news/29880",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T11:19:05.583515Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
+          "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+          "url": "https://www.aibase.com/news/29880",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T11:19:05.583515Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.725,
+      "importance": 0.725,
+      "importance_score": 0.725,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7633,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T11:19:05.583515Z",
+      "latest_at": "2026-07-24T11:19:05.583515Z",
+      "primary_item": {
+        "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
+        "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+        "url": "https://www.aibase.com/news/29880",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1728859e4810",
+      "title": "中国人工智能是否窃取了人类的技术，OpenAI 失去了对两种模型的控制 / Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast",
+      "primary_url": "https://www.wired.com/story/uncanny-valley-podcast",
+      "source": "Wired AI",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "9cc6a8e235a2b8033cbbda24a80d4228c0d7282c",
+          "title": "中美人工智能竞赛升级、OpenAI 模型突破，以及为什么你应该检查你的汽车警报器 / China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
+          "url": "https://www.wired.com/story/uncanny-valley-podcast",
+          "source": "Wired AI",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T17:53:01Z"
+        },
+        {
+          "id": "b6fe11b86b75d6ab5675a3c9b706f238d889e8be",
+          "title": "中国人工智能是否窃取了人类的技术，OpenAI 失去了对两种模型的控制 / Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+          "url": "https://www.wired.com/story/uncanny-valley-podcast",
+          "source": "Wired AI",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T17:53:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Wired AI"
+      ],
+      "items": [
+        {
+          "id": "9cc6a8e235a2b8033cbbda24a80d4228c0d7282c",
+          "title": "中美人工智能竞赛升级、OpenAI 模型突破，以及为什么你应该检查你的汽车警报器 / China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
+          "url": "https://www.wired.com/story/uncanny-valley-podcast",
+          "source": "Wired AI",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T17:53:01Z"
+        },
+        {
+          "id": "b6fe11b86b75d6ab5675a3c9b706f238d889e8be",
+          "title": "中国人工智能是否窃取了人类的技术，OpenAI 失去了对两种模型的控制 / Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+          "url": "https://www.wired.com/story/uncanny-valley-podcast",
+          "source": "Wired AI",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T17:53:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.598,
+      "importance": 0.598,
+      "importance_score": 0.598,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 0.8392,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T17:53:01Z",
+      "latest_at": "2026-07-24T17:53:01Z",
+      "primary_item": {
+        "id": "b6fe11b86b75d6ab5675a3c9b706f238d889e8be",
+        "title": "中国人工智能是否窃取了人类的技术，OpenAI 失去了对两种模型的控制 / Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast",
+        "source": "Wired AI",
+        "source_name": "OPML RSS"
       }
     }
   ]
