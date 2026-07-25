@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T22:04:40.359643Z",
+  "generated_at": "2026-07-25T23:32:54.979843Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7842,
-      "importance": 0.7842,
-      "importance_score": 0.7842,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8869,
+        "recency": 0.8682,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -138,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7391,
+        "recency": 0.7236,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -254,15 +254,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6384,
-      "importance": 0.6384,
-      "importance_score": 0.6384,
+      "score": 0.6347,
+      "importance": 0.6347,
+      "importance_score": 0.6347,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9678,
+        "recency": 0.9475,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -277,6 +277,104 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-25",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_81e43f035001",
+      "title": "Claude 5 生成模型的上下文工程新规则",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "primary_url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "source": "claude.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
+          "title": "Claude 5 生成模型的上下文工程新规则",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T23:23:09.413000Z"
+        },
+        {
+          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://news.ycombinator.com/item?id=49051361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:29.575000Z"
+        },
+        {
+          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
+          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T20:42:35Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "claude.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
+          "title": "Claude 5 生成模型的上下文工程新规则",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T23:23:09.413000Z"
+        },
+        {
+          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://news.ycombinator.com/item?id=49051361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:29.575000Z"
+        },
+        {
+          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
+          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T20:42:35Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5704,
+      "importance": 0.5704,
+      "importance_score": 0.5704,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9977,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T20:42:35Z",
+      "latest_at": "2026-07-25T23:23:09.413000Z",
+      "primary_item": {
+        "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
+        "title": "Claude 5 生成模型的上下文工程新规则",
+        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+        "source": "claude.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -333,15 +431,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5631,
-      "importance": 0.5631,
-      "importance_score": 0.5631,
+      "score": 0.5603,
+      "importance": 0.5603,
+      "importance_score": 0.5603,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7372,
+        "recency": 0.7217,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -412,15 +510,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5617,
-      "importance": 0.5617,
-      "importance_score": 0.5617,
+      "score": 0.5589,
+      "importance": 0.5589,
+      "importance_score": 0.5589,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7296,
+        "recency": 0.7143,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -510,15 +608,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5613,
-      "importance": 0.5613,
-      "importance_score": 0.5613,
+      "score": 0.5577,
+      "importance": 0.5577,
+      "importance_score": 0.5577,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9471,
+        "recency": 0.9272,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -536,80 +634,80 @@
       }
     },
     {
-      "story_id": "story_81e43f035001",
-      "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-      "url": "https://news.ycombinator.com/item?id=49051361",
-      "primary_url": "https://news.ycombinator.com/item?id=49051361",
+      "story_id": "story_5f284decdfa5",
+      "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://news.ycombinator.com/item?id=49050512",
+      "primary_url": "https://news.ycombinator.com/item?id=49050512",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://news.ycombinator.com/item?id=49051361",
+          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://news.ycombinator.com/item?id=49050512",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-25T21:53:29.575000Z"
+          "published_at": "2026-07-25T23:06:07.579000Z"
         },
         {
-          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T20:42:35Z"
+          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T18:59:50Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://news.ycombinator.com/item?id=49051361",
+          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://news.ycombinator.com/item?id=49050512",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-25T21:53:29.575000Z"
+          "published_at": "2026-07-25T23:06:07.579000Z"
         },
         {
-          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T20:42:35Z"
+          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T18:59:50Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9973,
+        "recency": 0.9936,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T20:42:35Z",
-      "latest_at": "2026-07-25T21:53:29.575000Z",
+      "earliest_at": "2026-07-25T18:59:50Z",
+      "latest_at": "2026-07-25T23:06:07.579000Z",
       "primary_item": {
-        "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-        "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-        "url": "https://news.ycombinator.com/item?id=49051361",
+        "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+        "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+        "url": "https://news.ycombinator.com/item?id=49050512",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -668,15 +766,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
+      "score": 0.5393,
+      "importance": 0.5393,
+      "importance_score": 0.5393,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9844,
+        "recency": 0.9637,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -694,20 +792,178 @@
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
-      "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-      "primary_url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
+      "story_id": "story_98671c483284",
+      "title": "Show HN: 《扫雷》光线投射版",
+      "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+      "primary_url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+      "source": "claude.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3d68415b38169758e0b2b648b3d0f4b666afe3cb",
+          "title": "Show HN: 《扫雷》光线投射版",
+          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+          "source": "claude.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T19:55:34.429000Z"
+        },
+        {
+          "id": "b10d196f4f488a28a88a5c185e8566c9136e6700",
+          "title": "Show HN: 《扫雷》光线投射版 / Show HN: Minesweeper Raycasted",
+          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T19:39:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "claude.ai"
+      ],
+      "items": [
+        {
+          "id": "3d68415b38169758e0b2b648b3d0f4b666afe3cb",
+          "title": "Show HN: 《扫雷》光线投射版",
+          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+          "source": "claude.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T19:55:34.429000Z"
+        },
+        {
+          "id": "b10d196f4f488a28a88a5c185e8566c9136e6700",
+          "title": "Show HN: 《扫雷》光线投射版 / Show HN: Minesweeper Raycasted",
+          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T19:39:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.949,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T19:39:12Z",
+      "latest_at": "2026-07-25T19:55:34.429000Z",
+      "primary_item": {
+        "id": "3d68415b38169758e0b2b648b3d0f4b666afe3cb",
+        "title": "Show HN: 《扫雷》光线投射版",
+        "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+        "source": "claude.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_10e81be27811",
+      "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "primary_url": "https://www.debian.org/vote/2026/vote_002",
       "source": "Hacker News",
       "source_name": "TechURLs",
       "sources": [
         {
-          "id": "4dc6a85d4e09312aefe3a953a436dbc1bb5a8a53",
-          "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
-          "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
+          "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
+          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
+          "url": "https://www.debian.org/vote/2026/vote_002",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
+          "published_at": "2026-07-25T19:44:39Z"
+        },
+        {
+          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
+          "title": "一般性决议：Debian 中 LLM 的使用",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T16:27:16.797000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "www.debian.org"
+      ],
+      "items": [
+        {
+          "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
+          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T19:44:39Z"
+        },
+        {
+          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
+          "title": "一般性决议：Debian 中 LLM 的使用",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T16:27:16.797000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5362,
+      "importance": 0.5362,
+      "importance_score": 0.5362,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9465,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T16:27:16.797000Z",
+      "latest_at": "2026-07-25T19:44:39Z",
+      "primary_item": {
+        "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
+        "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
+        "url": "https://www.debian.org/vote/2026/vote_002",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
+      "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
+      "primary_url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
+          "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
+          "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T16:31:15Z"
         },
         {
@@ -722,17 +978,16 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
         "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "4dc6a85d4e09312aefe3a953a436dbc1bb5a8a53",
+          "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
           "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
           "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T16:31:15Z"
         },
         {
@@ -747,15 +1002,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5319,
-      "importance": 0.5319,
-      "importance_score": 0.5319,
+      "score": 0.5284,
+      "importance": 0.5284,
+      "importance_score": 0.5284,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9229,
+        "recency": 0.9035,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -765,90 +1020,11 @@
       "earliest_at": "2026-07-25T02:36:51Z",
       "latest_at": "2026-07-25T16:31:15Z",
       "primary_item": {
-        "id": "4dc6a85d4e09312aefe3a953a436dbc1bb5a8a53",
+        "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
         "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
         "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_10e81be27811",
-      "title": "一般性决议：Debian 中 LLM 的使用",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "primary_url": "https://www.debian.org/vote/2026/vote_002",
-      "source": "www.debian.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
-          "title": "一般性决议：Debian 中 LLM 的使用",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T16:27:16.797000Z"
-        },
-        {
-          "id": "8f313cdf55a1f6800b7b760ff68b1f9aff655ca1",
-          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM usage in Debian",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T16:10:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.debian.org"
-      ],
-      "items": [
-        {
-          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
-          "title": "一般性决议：Debian 中 LLM 的使用",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T16:27:16.797000Z"
-        },
-        {
-          "id": "8f313cdf55a1f6800b7b760ff68b1f9aff655ca1",
-          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM usage in Debian",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T16:10:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5318,
-      "importance": 0.5318,
-      "importance_score": 0.5318,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.922,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T16:10:47Z",
-      "latest_at": "2026-07-25T16:27:16.797000Z",
-      "primary_item": {
-        "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
-        "title": "一般性决议：Debian 中 LLM 的使用",
-        "url": "https://www.debian.org/vote/2026/vote_002",
-        "source": "www.debian.org",
-        "source_name": "Buzzing"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -905,15 +1081,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5305,
-      "importance": 0.5305,
-      "importance_score": 0.5305,
+      "score": 0.527,
+      "importance": 0.527,
+      "importance_score": 0.527,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9149,
+        "recency": 0.8957,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -928,85 +1104,6 @@
         "url": "https://news.ycombinator.com/item?id=49048571",
         "source": "news.ycombinator.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_64934dbed4f8",
-      "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-      "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-      "primary_url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T14:41:06Z"
-        },
-        {
-          "id": "ce0e3db950f079daf8e9da4564174d5011676407",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T13:14:51.753000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T14:41:06Z"
-        },
-        {
-          "id": "ce0e3db950f079daf8e9da4564174d5011676407",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T13:14:51.753000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5276,
-      "importance": 0.5276,
-      "importance_score": 0.5276,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8987,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T13:14:51.753000Z",
-      "latest_at": "2026-07-25T14:41:06Z",
-      "primary_item": {
-        "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
-        "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-        "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1063,15 +1160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5504,
-      "importance": 0.5504,
-      "importance_score": 0.5504,
+      "score": 0.5475,
+      "importance": 0.5475,
+      "importance_score": 0.5475,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7592,
+        "recency": 0.7432,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1142,15 +1239,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5415,
+      "importance": 0.5415,
+      "importance_score": 0.5415,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9973,
+        "recency": 0.9764,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1220,15 +1317,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.512,
-      "importance": 0.512,
-      "importance_score": 0.512,
+      "score": 0.5089,
+      "importance": 0.5089,
+      "importance_score": 0.5089,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.812,
+        "recency": 0.795,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1299,15 +1396,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5065,
-      "importance": 0.5065,
-      "importance_score": 0.5065,
+      "score": 0.5035,
+      "importance": 0.5035,
+      "importance_score": 0.5035,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7814,
+        "recency": 0.765,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1378,15 +1475,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5032,
-      "importance": 0.5032,
-      "importance_score": 0.5032,
+      "score": 0.5003,
+      "importance": 0.5003,
+      "importance_score": 0.5003,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7633,
+        "recency": 0.7473,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1404,161 +1501,82 @@
       }
     },
     {
-      "story_id": "story_bbb0789ef07d",
-      "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
+      "story_id": "story_64934dbed4f8",
+      "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+      "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+      "primary_url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "1b64e19f9e8fe51f86837d22583e161467328660",
-          "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T23:39:48.013000Z"
+          "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
+          "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T14:41:06Z"
         },
         {
-          "id": "e0708f69e05de4da0a4fc19e8eeddea00515ed7c",
-          "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？ / Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T23:11:13Z"
+          "id": "ce0e3db950f079daf8e9da4564174d5011676407",
+          "title": "人工智能引发的就业危机短期内恐怕不会到来",
+          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T13:14:51.753000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "BBC News (世界新闻)",
-        "www.bbc.co.uk"
+        "Hacker News · 24h最热",
+        "www.theguardian.com"
       ],
       "items": [
         {
-          "id": "1b64e19f9e8fe51f86837d22583e161467328660",
-          "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T23:39:48.013000Z"
+          "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
+          "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T14:41:06Z"
         },
         {
-          "id": "e0708f69e05de4da0a4fc19e8eeddea00515ed7c",
-          "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？ / Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T23:11:13Z"
+          "id": "ce0e3db950f079daf8e9da4564174d5011676407",
+          "title": "人工智能引发的就业危机短期内恐怕不会到来",
+          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T13:14:51.753000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.496,
-      "importance": 0.496,
-      "importance_score": 0.496,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7235,
+        "recency": 0.8799,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-24T23:11:13Z",
-      "latest_at": "2026-07-24T23:39:48.013000Z",
+      "earliest_at": "2026-07-25T13:14:51.753000Z",
+      "latest_at": "2026-07-25T14:41:06Z",
       "primary_item": {
-        "id": "1b64e19f9e8fe51f86837d22583e161467328660",
-        "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？",
-        "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b2e8ce2bc9a2",
-      "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
-      "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-      "primary_url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-      "source": "unsung.aresluna.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d0b2e976bfac416a1b5a2b3c76d0c7ceab3059e7",
-          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
-          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-          "source": "unsung.aresluna.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T23:07:45.216000Z"
-        },
-        {
-          "id": "ad53f7596fdcf009a092b960b37b9ad3d4e38ceb",
-          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键 / Chrome registers a global shortcut for Gemini popup window",
-          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T23:04:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "unsung.aresluna.org"
-      ],
-      "items": [
-        {
-          "id": "d0b2e976bfac416a1b5a2b3c76d0c7ceab3059e7",
-          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
-          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-          "source": "unsung.aresluna.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T23:07:45.216000Z"
-        },
-        {
-          "id": "ad53f7596fdcf009a092b960b37b9ad3d4e38ceb",
-          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键 / Chrome registers a global shortcut for Gemini popup window",
-          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T23:04:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.495,
-      "importance": 0.495,
-      "importance_score": 0.495,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7179,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T23:04:57Z",
-      "latest_at": "2026-07-24T23:07:45.216000Z",
-      "primary_item": {
-        "id": "d0b2e976bfac416a1b5a2b3c76d0c7ceab3059e7",
-        "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
-        "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-        "source": "unsung.aresluna.org",
-        "source_name": "Buzzing"
+        "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
+        "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+        "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1615,15 +1633,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5243,
-      "importance": 0.5243,
-      "importance_score": 0.5243,
+      "score": 0.5209,
+      "importance": 0.5209,
+      "importance_score": 0.5209,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8803,
+        "recency": 0.8618,
         "story_heat": 0.25
       },
       "category": "watch",
