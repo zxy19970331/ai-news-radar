@@ -1,109 +1,8 @@
 {
-  "generated_at": "2026-07-24T23:35:07.687194Z",
+  "generated_at": "2026-07-25T03:22:35.346842Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_e75df1016aa1",
-      "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "primary_url": "https://www.anthropic.com/news/claude-opus-5",
-      "source": "Anthropic News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
-          "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Anthropic News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-24T00:00:00Z"
-        },
-        {
-          "id": "0e81d4cf8c1908c817163d7e08bd41ceb535298f",
-          "title": "Anthropic 发布 Claude Opus 5",
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T17:24:25.589000Z"
-        },
-        {
-          "id": "5e6f4b2d0286887467b40335ebe2f64104234f87",
-          "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T16:57:41Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Anthropic News",
-        "Anthropic：Newsroom（网页）",
-        "Hacker News (黑客新闻)"
-      ],
-      "items": [
-        {
-          "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
-          "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Anthropic News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-24T00:00:00Z"
-        },
-        {
-          "id": "0e81d4cf8c1908c817163d7e08bd41ceb535298f",
-          "title": "Anthropic 发布 Claude Opus 5",
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T17:24:25.589000Z"
-        },
-        {
-          "id": "5e6f4b2d0286887467b40335ebe2f64104234f87",
-          "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T16:57:41Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.858,
-      "importance": 0.858,
-      "importance_score": 0.858,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7114,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T00:00:00Z",
-      "latest_at": "2026-07-24T17:24:25.589000Z",
-      "primary_item": {
-        "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
-        "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
-        "url": "https://www.anthropic.com/news/claude-opus-5",
-        "source": "Anthropic News",
-        "source_name": "Official AI Updates"
-      }
-    },
     {
       "story_id": "story_67c184ed18ef",
       "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
@@ -139,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8429,
-      "importance": 0.8429,
-      "importance_score": 0.8429,
+      "score": 0.8342,
+      "importance": 0.8342,
+      "importance_score": 0.8342,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9049,
+        "recency": 0.8567,
         "story_heat": 0.0
       },
       "category": "official",
@@ -164,6 +63,168 @@
         "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e75df1016aa1",
+      "title": "Anthropic 发布 Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "primary_url": "https://www.anthropic.com/news/claude-opus-5",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0e81d4cf8c1908c817163d7e08bd41ceb535298f",
+          "title": "Anthropic 发布 Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T17:24:25.589000Z"
+        },
+        {
+          "id": "5e6f4b2d0286887467b40335ebe2f64104234f87",
+          "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T16:57:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Anthropic：Newsroom（网页）",
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "0e81d4cf8c1908c817163d7e08bd41ceb535298f",
+          "title": "Anthropic 发布 Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T17:24:25.589000Z"
+        },
+        {
+          "id": "5e6f4b2d0286887467b40335ebe2f64104234f87",
+          "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T16:57:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8285,
+      "importance": 0.8285,
+      "importance_score": 0.8285,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.92,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8659,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T16:57:41Z",
+      "latest_at": "2026-07-24T17:24:25.589000Z",
+      "primary_item": {
+        "id": "0e81d4cf8c1908c817163d7e08bd41ceb535298f",
+        "title": "Anthropic 发布 Claude Opus 5",
+        "url": "https://www.anthropic.com/news/claude-opus-5",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_919f33d88a9b",
+      "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
+      "url": "https://www.ithome.com/0/981/432.htm",
+      "primary_url": "https://www.ithome.com/0/981/432.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e6800627a2a9f0b44852539be4d0ff91c6ccd109",
+          "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
+          "url": "https://www.ithome.com/0/981/432.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-25T01:08:45Z"
+        },
+        {
+          "id": "ff5c3fdc9f519b95299f6a7c9f635bafad19a485",
+          "title": "智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
+          "url": "https://www.ithome.com/0/981/432.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T01:08:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e6800627a2a9f0b44852539be4d0ff91c6ccd109",
+          "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
+          "url": "https://www.ithome.com/0/981/432.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-25T01:08:45Z"
+        },
+        {
+          "id": "ff5c3fdc9f519b95299f6a7c9f635bafad19a485",
+          "title": "智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
+          "url": "https://www.ithome.com/0/981/432.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T01:08:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7959,
+      "importance": 0.7959,
+      "importance_score": 0.7959,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9683,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-25T01:08:45Z",
+      "latest_at": "2026-07-25T01:08:45Z",
+      "primary_item": {
+        "id": "e6800627a2a9f0b44852539be4d0ff91c6ccd109",
+        "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
+        "url": "https://www.ithome.com/0/981/432.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -220,15 +281,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7964,
-      "importance": 0.7964,
-      "importance_score": 0.7964,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9377,
+        "recency": 0.8877,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -282,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9818,
+        "recency": 0.9295,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -362,15 +423,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8196,
+        "recency": 0.7759,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -443,15 +504,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8151,
+        "recency": 0.7717,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -468,87 +529,6 @@
         "url": "https://www.aibase.com/news/29878",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_37e28291df02",
-      "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-      "url": "https://www.ithome.com/0/981/137.htm",
-      "primary_url": "https://www.ithome.com/0/981/137.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
-          "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-          "url": "https://www.ithome.com/0/981/137.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T06:48:04Z"
-        },
-        {
-          "id": "62bcc0d11d0dc1598af8fbe54037057aec7de792",
-          "title": "FLUX 3 多模态 AI 模型登场：支持单次生成 20 秒多样化视频",
-          "url": "https://www.ithome.com/0/981/137.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T06:48:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
-          "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-          "url": "https://www.ithome.com/0/981/137.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T06:48:04Z"
-        },
-        {
-          "id": "62bcc0d11d0dc1598af8fbe54037057aec7de792",
-          "title": "FLUX 3 多模态 AI 模型登场：支持单次生成 20 秒多样化视频",
-          "url": "https://www.ithome.com/0/981/137.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T06:48:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7848,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T06:48:04Z",
-      "latest_at": "2026-07-24T06:48:04Z",
-      "primary_item": {
-        "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
-        "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-        "url": "https://www.ithome.com/0/981/137.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -586,21 +566,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7443,
+      "importance": 0.7443,
+      "importance_score": 0.7443,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8667,
+        "recency": 0.8205,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T13:40:30Z",
       "latest_at": "2026-07-24T13:40:30Z",
@@ -666,15 +645,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7811,
-      "importance": 0.7811,
-      "importance_score": 0.7811,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8194,
+        "recency": 0.7757,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -728,21 +707,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8889,
+        "recency": 0.8415,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T15:25:45.300000Z",
       "latest_at": "2026-07-24T15:25:45.300000Z",
@@ -789,15 +767,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.864,
+        "recency": 0.818,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -849,15 +827,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8666,
+        "recency": 0.8204,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -909,15 +887,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7313,
-      "importance": 0.7313,
-      "importance_score": 0.7313,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.8662,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -935,62 +913,82 @@
       }
     },
     {
-      "story_id": "story_64c6cf758cb9",
-      "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
-      "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
-      "primary_url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
-      "source": "公众号：百度智能云（文心）",
+      "story_id": "story_37e28291df02",
+      "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+      "url": "https://www.ithome.com/0/981/137.htm",
+      "primary_url": "https://www.ithome.com/0/981/137.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9dfb04799b08d1104c703b3b7a11eb2b33fb90bc",
-          "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
-          "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
-          "source": "公众号：百度智能云（文心）",
+          "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
+          "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+          "url": "https://www.ithome.com/0/981/137.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-24T12:28:24Z"
+          "published_at": "2026-07-24T06:48:04Z"
+        },
+        {
+          "id": "62bcc0d11d0dc1598af8fbe54037057aec7de792",
+          "title": "FLUX 3 多模态 AI 模型登场：支持单次生成 20 秒多样化视频",
+          "url": "https://www.ithome.com/0/981/137.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T06:48:04Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "公众号：百度智能云（文心）"
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "9dfb04799b08d1104c703b3b7a11eb2b33fb90bc",
-          "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
-          "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
-          "source": "公众号：百度智能云（文心）",
+          "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
+          "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+          "url": "https://www.ithome.com/0/981/137.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-24T12:28:24Z"
+          "published_at": "2026-07-24T06:48:04Z"
+        },
+        {
+          "id": "62bcc0d11d0dc1598af8fbe54037057aec7de792",
+          "title": "FLUX 3 多模态 AI 模型登场：支持单次生成 20 秒多样化视频",
+          "url": "https://www.ithome.com/0/981/137.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T06:48:04Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7259,
-      "importance": 0.7259,
-      "importance_score": 0.7259,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.67,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8517,
-        "story_heat": 0.0
+        "recency": 0.743,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T12:28:24Z",
-      "latest_at": "2026-07-24T12:28:24Z",
+      "earliest_at": "2026-07-24T06:48:04Z",
+      "latest_at": "2026-07-24T06:48:04Z",
       "primary_item": {
-        "id": "9dfb04799b08d1104c703b3b7a11eb2b33fb90bc",
-        "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
-        "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
-        "source": "公众号：百度智能云（文心）",
+        "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
+        "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+        "url": "https://www.ithome.com/0/981/137.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1048,22 +1046,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7818,
+        "recency": 0.7402,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T06:32:28.098861Z",
       "latest_at": "2026-07-24T06:32:28.098861Z",
@@ -1129,15 +1126,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7737,
-      "importance": 0.7737,
-      "importance_score": 0.7737,
+      "score": 0.7656,
+      "importance": 0.7656,
+      "importance_score": 0.7656,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8451,
+        "recency": 0.8001,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1210,15 +1207,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7528,
+        "recency": 0.7127,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1290,15 +1287,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7528,
+        "recency": 0.7127,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1312,6 +1309,86 @@
         "id": "b7bd7e539877eb7ce31286a007ea7eb61350a0af",
         "title": "微软自研双模型MAI-Image-2.5-Pro与MAI-Voice-2-Flash发布：不蒸馏第三方，已落地Bing和PowerPoint",
         "url": "https://www.aibase.com/news/29851",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9b4d67af0b1a",
+      "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
+      "url": "https://www.aibase.com/news/29852",
+      "primary_url": "https://www.aibase.com/news/29852",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c8a3296319449b7d4a68da4c7b023fe9e879a619",
+          "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
+          "url": "https://www.aibase.com/news/29852",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T03:55:03.642115Z"
+        },
+        {
+          "id": "a336f463e47c45591162cc3b6da9f10a9f5518d1",
+          "title": "谷歌 Gemini 月活突破 9.5 亿，逼近 ChatGPT 十亿用户里程碑",
+          "url": "https://www.aibase.com/zh/news/29852",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c8a3296319449b7d4a68da4c7b023fe9e879a619",
+          "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
+          "url": "https://www.aibase.com/news/29852",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T03:55:03.642115Z"
+        },
+        {
+          "id": "a336f463e47c45591162cc3b6da9f10a9f5518d1",
+          "title": "谷歌 Gemini 月活突破 9.5 亿，逼近 ChatGPT 十亿用户里程碑",
+          "url": "https://www.aibase.com/zh/news/29852",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7127,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T03:55:03.642115Z",
+      "latest_at": "2026-07-24T03:55:03.642115Z",
+      "primary_item": {
+        "id": "c8a3296319449b7d4a68da4c7b023fe9e879a619",
+        "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
+        "url": "https://www.aibase.com/news/29852",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1370,15 +1447,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6282,
-      "importance": 0.6282,
-      "importance_score": 0.6282,
+      "score": 0.6197,
+      "importance": 0.6197,
+      "importance_score": 0.6197,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8855,
+        "recency": 0.8383,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1393,86 +1470,6 @@
         "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_9b4d67af0b1a",
-      "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
-      "url": "https://www.aibase.com/news/29852",
-      "primary_url": "https://www.aibase.com/news/29852",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c8a3296319449b7d4a68da4c7b023fe9e879a619",
-          "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
-          "url": "https://www.aibase.com/news/29852",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T03:55:03.642115Z"
-        },
-        {
-          "id": "a336f463e47c45591162cc3b6da9f10a9f5518d1",
-          "title": "谷歌 Gemini 月活突破 9.5 亿，逼近 ChatGPT 十亿用户里程碑",
-          "url": "https://www.aibase.com/zh/news/29852",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c8a3296319449b7d4a68da4c7b023fe9e879a619",
-          "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
-          "url": "https://www.aibase.com/news/29852",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T03:55:03.642115Z"
-        },
-        {
-          "id": "a336f463e47c45591162cc3b6da9f10a9f5518d1",
-          "title": "谷歌 Gemini 月活突破 9.5 亿，逼近 ChatGPT 十亿用户里程碑",
-          "url": "https://www.aibase.com/zh/news/29852",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7528,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T03:55:03.642115Z",
-      "latest_at": "2026-07-24T03:55:03.642115Z",
-      "primary_item": {
-        "id": "c8a3296319449b7d4a68da4c7b023fe9e879a619",
-        "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
-        "url": "https://www.aibase.com/news/29852",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
