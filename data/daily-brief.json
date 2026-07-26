@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T09:19:17.153392Z",
+  "generated_at": "2026-07-26T11:04:02.206806Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8411,
-      "importance": 0.8411,
-      "importance_score": 0.8411,
+      "score": 0.8369,
+      "importance": 0.8369,
+      "importance_score": 0.8369,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9249,
+        "recency": 0.9019,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -176,15 +176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
+      "score": 0.7893,
+      "importance": 0.7893,
+      "importance_score": 0.7893,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9896,
+        "recency": 0.965,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -257,15 +257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7771,
-      "importance": 0.7771,
-      "importance_score": 0.7771,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9472,
+        "recency": 0.9236,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -319,15 +319,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
+      "score": 0.733,
+      "importance": 0.733,
+      "importance_score": 0.733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8795,
+        "recency": 0.8576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -398,15 +398,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.754,
+        "recency": 0.7352,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -514,15 +514,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6123,
-      "importance": 0.6123,
-      "importance_score": 0.6123,
+      "score": 0.6086,
+      "importance": 0.6086,
+      "importance_score": 0.6086,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8228,
+        "recency": 0.8023,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -593,15 +593,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6068,
-      "importance": 0.6068,
-      "importance_score": 0.6068,
+      "score": 0.6024,
+      "importance": 0.6024,
+      "importance_score": 0.6024,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9804,
+        "recency": 0.956,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -709,15 +709,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5823,
-      "importance": 0.5823,
-      "importance_score": 0.5823,
+      "score": 0.5781,
+      "importance": 0.5781,
+      "importance_score": 0.5781,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9249,
+        "recency": 0.9019,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -807,15 +807,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5672,
-      "importance": 0.5672,
-      "importance_score": 0.5672,
+      "score": 0.5628,
+      "importance": 0.5628,
+      "importance_score": 0.5628,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9799,
+        "recency": 0.9555,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -905,15 +905,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5573,
-      "importance": 0.5573,
-      "importance_score": 0.5573,
+      "score": 0.5531,
+      "importance": 0.5531,
+      "importance_score": 0.5531,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9249,
+        "recency": 0.9019,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1003,15 +1003,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5467,
-      "importance": 0.5467,
-      "importance_score": 0.5467,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8663,
+        "recency": 0.8448,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1025,85 +1025,6 @@
         "title": "Claude 5 生成模型的上下文工程新规则",
         "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
         "source": "claude.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a3b5dcaa1793",
-      "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”",
-      "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
-      "primary_url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "32983f03804d9d312c734f42395e4adf75445c37",
-          "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”",
-          "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T08:26:52.518000Z"
-        },
-        {
-          "id": "3c2e2b122298a5af51e4e1b0e0dc0557881aed9e",
-          "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者” / AI is quietly becoming an unofficial and potentially unwanted 'third' in relationships",
-          "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T08:11:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "32983f03804d9d312c734f42395e4adf75445c37",
-          "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”",
-          "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T08:26:52.518000Z"
-        },
-        {
-          "id": "3c2e2b122298a5af51e4e1b0e0dc0557881aed9e",
-          "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者” / AI is quietly becoming an unofficial and potentially unwanted 'third' in relationships",
-          "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T08:11:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5435,
-      "importance": 0.5435,
-      "importance_score": 0.5435,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9875,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T08:11:01Z",
-      "latest_at": "2026-07-26T08:26:52.518000Z",
-      "primary_item": {
-        "id": "32983f03804d9d312c734f42395e4adf75445c37",
-        "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”",
-        "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1180,15 +1101,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5434,
-      "importance": 0.5434,
-      "importance_score": 0.5434,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8478,
+        "recency": 0.8267,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1203,6 +1124,85 @@
         "url": "https://news.ycombinator.com/item?id=49051692",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_a3b5dcaa1793",
+      "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”",
+      "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "32983f03804d9d312c734f42395e4adf75445c37",
+          "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”",
+          "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T08:26:52.518000Z"
+        },
+        {
+          "id": "3c2e2b122298a5af51e4e1b0e0dc0557881aed9e",
+          "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者” / AI is quietly becoming an unofficial and potentially unwanted 'third' in relationships",
+          "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T08:11:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "32983f03804d9d312c734f42395e4adf75445c37",
+          "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”",
+          "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T08:26:52.518000Z"
+        },
+        {
+          "id": "3c2e2b122298a5af51e4e1b0e0dc0557881aed9e",
+          "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者” / AI is quietly becoming an unofficial and potentially unwanted 'third' in relationships",
+          "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T08:11:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9629,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T08:11:01Z",
+      "latest_at": "2026-07-26T08:26:52.518000Z",
+      "primary_item": {
+        "id": "32983f03804d9d312c734f42395e4adf75445c37",
+        "title": "人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”",
+        "url": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1259,15 +1259,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5415,
-      "importance": 0.5415,
-      "importance_score": 0.5415,
+      "score": 0.5371,
+      "importance": 0.5371,
+      "importance_score": 0.5371,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9761,
+        "recency": 0.9518,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1357,15 +1357,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8052,
+        "recency": 0.7851,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1436,15 +1436,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5315,
-      "importance": 0.5315,
-      "importance_score": 0.5315,
+      "score": 0.5274,
+      "importance": 0.5274,
+      "importance_score": 0.5274,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9208,
+        "recency": 0.8979,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1514,15 +1514,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5286,
-      "importance": 0.5286,
-      "importance_score": 0.5286,
+      "score": 0.5246,
+      "importance": 0.5246,
+      "importance_score": 0.5246,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9045,
+        "recency": 0.882,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1537,84 +1537,6 @@
         "url": "https://golfcoursebrowser.com",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_8ec02e1c13b5",
-      "title": "实习生日薪5500元，清华姚班凭什么成为AI圈的“硬通货”",
-      "url": "https://www.huxiu.com/article/4878142.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4878142.html?f=rss",
-      "source": "虎嗅 (Huxiu)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "9ce91e788964fa7bb67ffe5f27e0d7b0527ec66c",
-          "title": "实习生日薪5500元，清华姚班凭什么成为AI圈的“硬通货”",
-          "url": "https://www.huxiu.com/article/4878142.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T01:30:00Z"
-        },
-        {
-          "id": "9f11b62e62c0511fe1c3100a50626952b04caf9b",
-          "title": "实习生日薪5500元，清华姚班凭什么成为AI 圈的“硬通货”",
-          "url": "https://www.huxiu.com/article/4878142.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T09:41:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "9ce91e788964fa7bb67ffe5f27e0d7b0527ec66c",
-          "title": "实习生日薪5500元，清华姚班凭什么成为AI圈的“硬通货”",
-          "url": "https://www.huxiu.com/article/4878142.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T01:30:00Z"
-        },
-        {
-          "id": "9f11b62e62c0511fe1c3100a50626952b04caf9b",
-          "title": "实习生日薪5500元，清华姚班凭什么成为AI 圈的“硬通货”",
-          "url": "https://www.huxiu.com/article/4878142.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T09:41:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5266,
-      "importance": 0.5266,
-      "importance_score": 0.5266,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8932,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T09:41:17Z",
-      "latest_at": "2026-07-26T01:30:00Z",
-      "primary_item": {
-        "id": "9ce91e788964fa7bb67ffe5f27e0d7b0527ec66c",
-        "title": "实习生日薪5500元，清华姚班凭什么成为AI圈的“硬通货”",
-        "url": "https://www.huxiu.com/article/4878142.html?f=rss",
-        "source": "虎嗅 (Huxiu)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1671,15 +1593,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5141,
-      "importance": 0.5141,
-      "importance_score": 0.5141,
+      "score": 0.5104,
+      "importance": 0.5104,
+      "importance_score": 0.5104,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8241,
+        "recency": 0.8036,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1750,15 +1672,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5058,
-      "importance": 0.5058,
-      "importance_score": 0.5058,
+      "score": 0.5023,
+      "importance": 0.5023,
+      "importance_score": 0.5023,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7778,
+        "recency": 0.7584,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1773,6 +1695,84 @@
         "url": "https://news.ycombinator.com/item?id=49048571",
         "source": "news.ycombinator.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_bded7cfd2e34",
+      "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
+      "url": "https://news.ycombinator.com/item?id=49050859",
+      "primary_url": "https://news.ycombinator.com/item?id=49050859",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
+          "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
+          "url": "https://news.ycombinator.com/item?id=49050859",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T03:37:08.514000Z"
+        },
+        {
+          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
+          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
+          "url": "https://news.ycombinator.com/item?id=49050859",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:06:07.579000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
+          "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
+          "url": "https://news.ycombinator.com/item?id=49050859",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T03:37:08.514000Z"
+        },
+        {
+          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
+          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
+          "url": "https://news.ycombinator.com/item?id=49050859",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:06:07.579000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5274,
+      "importance": 0.5274,
+      "importance_score": 0.5274,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.898,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T23:06:07.579000Z",
+      "latest_at": "2026-07-26T03:37:08.514000Z",
+      "primary_item": {
+        "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
+        "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
+        "url": "https://news.ycombinator.com/item?id=49050859",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
