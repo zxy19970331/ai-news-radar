@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T20:31:35.952441Z",
+  "generated_at": "2026-07-26T22:04:22.592813Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7673,
+      "importance": 0.7673,
+      "importance_score": 0.7673,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8958,
+        "recency": 0.876,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -138,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7671,
-      "importance": 0.7671,
-      "importance_score": 0.7671,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8418,
+        "recency": 0.8232,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -219,15 +219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7867,
+        "recency": 0.7693,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -281,15 +281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9675,
+        "recency": 0.9462,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -360,22 +360,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8057,
+        "recency": 0.7879,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-26T05:33:44Z",
       "latest_at": "2026-07-26T05:33:44Z",
@@ -458,15 +457,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6161,
-      "importance": 0.6161,
-      "importance_score": 0.6161,
+      "score": 0.6122,
+      "importance": 0.6122,
+      "importance_score": 0.6122,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9831,
+        "recency": 0.9613,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -537,15 +536,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5805,
-      "importance": 0.5805,
-      "importance_score": 0.5805,
+      "score": 0.5772,
+      "importance": 0.5772,
+      "importance_score": 0.5772,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8339,
+        "recency": 0.8155,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -560,6 +559,104 @@
         "url": "https://36kr.com/newsflashes/3912181723518084?f=rss",
         "source": "36Kr",
         "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_8a43a7c831c0",
+      "title": "人工智能的新“超能力”：专注与坚持到底",
+      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "primary_url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "source": "www.rickmanelius.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a4f694c70e32b8740533b72da76cfb4abc0767b5",
+          "title": "人工智能的新“超能力”：专注与坚持到底",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "www.rickmanelius.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T21:46:07.121000Z"
+        },
+        {
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://news.ycombinator.com/item?id=49057877",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T15:55:48.299000Z"
+        },
+        {
+          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
+          "title": "人工智能的新“超能力”：专注与坚持到底 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T13:13:03Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.rickmanelius.com"
+      ],
+      "items": [
+        {
+          "id": "a4f694c70e32b8740533b72da76cfb4abc0767b5",
+          "title": "人工智能的新“超能力”：专注与坚持到底",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "www.rickmanelius.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T21:46:07.121000Z"
+        },
+        {
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://news.ycombinator.com/item?id=49057877",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T15:55:48.299000Z"
+        },
+        {
+          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
+          "title": "人工智能的新“超能力”：专注与坚持到底 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T13:13:03Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.57,
+      "importance": 0.57,
+      "importance_score": 0.57,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9956,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T13:13:03Z",
+      "latest_at": "2026-07-26T21:46:07.121000Z",
+      "primary_item": {
+        "id": "a4f694c70e32b8740533b72da76cfb4abc0767b5",
+        "title": "人工智能的新“超能力”：专注与坚持到底",
+        "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+        "source": "www.rickmanelius.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -635,15 +732,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5612,
-      "importance": 0.5612,
-      "importance_score": 0.5612,
+      "score": 0.5574,
+      "importance": 0.5574,
+      "importance_score": 0.5574,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9464,
+        "recency": 0.9255,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -658,6 +755,85 @@
         "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
         "source": "aerospaceglobalnews.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2b5731f70115",
+      "title": "多路图灵机（2021 年人工智能之前） / Multiway Turing Machines (2021 pre-ai)",
+      "url": "https://news.ycombinator.com/item?id=49062259",
+      "primary_url": "https://news.ycombinator.com/item?id=49062259",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "41fa66a79125f584268c7e53a0b7c6079f8c3f69",
+          "title": "多路图灵机（2021 年人工智能之前） / Multiway Turing Machines (2021 pre-ai)",
+          "url": "https://news.ycombinator.com/item?id=49062259",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T22:04:58.819000Z"
+        },
+        {
+          "id": "eadbf580624ac28b901c336fc8849fca2574b374",
+          "title": "多路图灵机（2021 年人工智能之前） / Multiway Turing Machines (2021 pre-ai)",
+          "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T20:49:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "41fa66a79125f584268c7e53a0b7c6079f8c3f69",
+          "title": "多路图灵机（2021 年人工智能之前） / Multiway Turing Machines (2021 pre-ai)",
+          "url": "https://news.ycombinator.com/item?id=49062259",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T22:04:58.819000Z"
+        },
+        {
+          "id": "eadbf580624ac28b901c336fc8849fca2574b374",
+          "title": "多路图灵机（2021 年人工智能之前） / Multiway Turing Machines (2021 pre-ai)",
+          "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T20:49:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T20:49:43Z",
+      "latest_at": "2026-07-26T22:04:58.819000Z",
+      "primary_item": {
+        "id": "41fa66a79125f584268c7e53a0b7c6079f8c3f69",
+        "title": "多路图灵机（2021 年人工智能之前） / Multiway Turing Machines (2021 pre-ai)",
+        "url": "https://news.ycombinator.com/item?id=49062259",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -733,15 +909,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5408,
-      "importance": 0.5408,
-      "importance_score": 0.5408,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8335,
+        "recency": 0.8151,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -760,7 +936,7 @@
     },
     {
       "story_id": "story_ace01848219f",
-      "title": "德克尔 / Decker",
+      "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker",
       "url": "https://beyondloom.com/decker",
       "primary_url": "https://beyondloom.com/decker",
       "source": "Hacker News · 24h最热",
@@ -768,7 +944,7 @@
       "sources": [
         {
           "id": "9a8d6c2272d5ed9ffbafc0da2e198f3fdffdec7b",
-          "title": "德克尔 / Decker",
+          "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker",
           "url": "https://beyondloom.com/decker",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -777,7 +953,7 @@
         },
         {
           "id": "3e076c483b484105febe0765c8b7bc3023659421",
-          "title": "Decker，一个建立在 Hypercard 和经典 macOS 基础上的平台 / Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+          "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker, a platform that builds on the legacy of Hypercard and classic macOS",
           "url": "https://beyondloom.com/decker",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -792,7 +968,7 @@
       "items": [
         {
           "id": "9a8d6c2272d5ed9ffbafc0da2e198f3fdffdec7b",
-          "title": "德克尔 / Decker",
+          "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker",
           "url": "https://beyondloom.com/decker",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -801,7 +977,7 @@
         },
         {
           "id": "3e076c483b484105febe0765c8b7bc3023659421",
-          "title": "Decker，一个建立在 Hypercard 和经典 macOS 基础上的平台 / Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+          "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker, a platform that builds on the legacy of Hypercard and classic macOS",
           "url": "https://beyondloom.com/decker",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -811,15 +987,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9695,
+        "recency": 0.9481,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -830,89 +1006,10 @@
       "latest_at": "2026-07-26T18:23:06Z",
       "primary_item": {
         "id": "9a8d6c2272d5ed9ffbafc0da2e198f3fdffdec7b",
-        "title": "德克尔 / Decker",
+        "title": "Decker 是一个基于 Hypercard 和经典 macOS 遗产构建的平台 / Decker",
         "url": "https://beyondloom.com/decker",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_8a0d9544ac70",
-      "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-      "url": "https://news.ycombinator.com/item?id=49059660",
-      "primary_url": "https://news.ycombinator.com/item?id=49059660",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
-          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-          "url": "https://news.ycombinator.com/item?id=49059660",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T17:35:36.028000Z"
-        },
-        {
-          "id": "d046f8a5036c00e63c224ef6a2a05e8b8abd7a3d",
-          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-          "url": "https://www.agrillo.it/EvasionEn.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T16:23:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
-          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-          "url": "https://news.ycombinator.com/item?id=49059660",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T17:35:36.028000Z"
-        },
-        {
-          "id": "d046f8a5036c00e63c224ef6a2a05e8b8abd7a3d",
-          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-          "url": "https://www.agrillo.it/EvasionEn.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T16:23:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9585,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T16:23:56Z",
-      "latest_at": "2026-07-26T17:35:36.028000Z",
-      "primary_item": {
-        "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
-        "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
-        "url": "https://news.ycombinator.com/item?id=49059660",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -969,15 +1066,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5381,
-      "importance": 0.5381,
-      "importance_score": 0.5381,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9574,
+        "recency": 0.9363,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1048,15 +1145,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5285,
-      "importance": 0.5285,
-      "importance_score": 0.5285,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9037,
+        "recency": 0.8838,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1070,104 +1167,6 @@
         "title": "如何在求职面试中最好地谈论人工智能——即使你对此持怀疑态度",
         "url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_81e43f035001",
-      "title": "Claude 5 生成模型的上下文工程新规则",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "primary_url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "source": "claude.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
-          "title": "Claude 5 生成模型的上下文工程新规则",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T23:23:09.413000Z"
-        },
-        {
-          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://news.ycombinator.com/item?id=49051361",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T21:53:29.575000Z"
-        },
-        {
-          "id": "d105580d62986262856d4df7c87a85dd27afd2ac",
-          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T20:42:35Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "claude.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
-          "title": "Claude 5 生成模型的上下文工程新规则",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T23:23:09.413000Z"
-        },
-        {
-          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://news.ycombinator.com/item?id=49051361",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T21:53:29.575000Z"
-        },
-        {
-          "id": "d105580d62986262856d4df7c87a85dd27afd2ac",
-          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T20:42:35Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5234,
-      "importance": 0.5234,
-      "importance_score": 0.5234,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7369,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T20:42:35Z",
-      "latest_at": "2026-07-25T23:23:09.413000Z",
-      "primary_item": {
-        "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
-        "title": "Claude 5 生成模型的上下文工程新规则",
-        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-        "source": "claude.com",
         "source_name": "Buzzing"
       }
     },
@@ -1225,15 +1224,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5229,
-      "importance": 0.5229,
-      "importance_score": 0.5229,
+      "score": 0.5195,
+      "importance": 0.5195,
+      "importance_score": 0.5195,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8729,
+        "recency": 0.8536,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1304,15 +1303,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5153,
-      "importance": 0.5153,
-      "importance_score": 0.5153,
+      "score": 0.512,
+      "importance": 0.512,
+      "importance_score": 0.512,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8303,
+        "recency": 0.812,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1327,6 +1326,85 @@
         "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
         "source": "huggingface.co",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8a0d9544ac70",
+      "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+      "url": "https://news.ycombinator.com/item?id=49059660",
+      "primary_url": "https://news.ycombinator.com/item?id=49059660",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
+          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "url": "https://news.ycombinator.com/item?id=49059660",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T17:35:36.028000Z"
+        },
+        {
+          "id": "d046f8a5036c00e63c224ef6a2a05e8b8abd7a3d",
+          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "url": "https://www.agrillo.it/EvasionEn.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T16:23:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
+          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "url": "https://news.ycombinator.com/item?id=49059660",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T17:35:36.028000Z"
+        },
+        {
+          "id": "d046f8a5036c00e63c224ef6a2a05e8b8abd7a3d",
+          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "url": "https://www.agrillo.it/EvasionEn.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T16:23:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9374,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T16:23:56Z",
+      "latest_at": "2026-07-26T17:35:36.028000Z",
+      "primary_item": {
+        "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
+        "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+        "url": "https://news.ycombinator.com/item?id=49059660",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1383,15 +1461,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5068,
-      "importance": 0.5068,
-      "importance_score": 0.5068,
+      "score": 0.5037,
+      "importance": 0.5037,
+      "importance_score": 0.5037,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7833,
+        "recency": 0.766,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1409,160 +1487,100 @@
       }
     },
     {
-      "story_id": "story_8a43a7c831c0",
-      "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-      "url": "https://news.ycombinator.com/item?id=49057877",
-      "primary_url": "https://news.ycombinator.com/item?id=49057877",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_7f366388db06",
+      "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "primary_url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "source": "github.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://news.ycombinator.com/item?id=49057877",
+          "id": "6701328e205a2b0fa38156d13c431358070662ea",
+          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.690000Z"
+        },
+        {
+          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
+          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "url": "https://news.ycombinator.com/item?id=49052912",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-26T15:55:48.299000Z"
+          "published_at": "2026-07-26T03:37:08.514000Z"
         },
         {
-          "id": "05b39220b5c869b6b921ca427001f0f621e5f2ce",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T13:13:03Z"
+          "id": "875c49807ef2df50e759f88d5f91ee418f44e14c",
+          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T23:32:50Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
+        "github.com",
         "hackernews"
       ],
       "items": [
         {
-          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://news.ycombinator.com/item?id=49057877",
+          "id": "6701328e205a2b0fa38156d13c431358070662ea",
+          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.690000Z"
+        },
+        {
+          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
+          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "url": "https://news.ycombinator.com/item?id=49052912",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-26T15:55:48.299000Z"
+          "published_at": "2026-07-26T03:37:08.514000Z"
         },
         {
-          "id": "05b39220b5c869b6b921ca427001f0f621e5f2ce",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T13:13:03Z"
+          "id": "875c49807ef2df50e759f88d5f91ee418f44e14c",
+          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T23:32:50Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5342,
-      "importance": 0.5342,
-      "importance_score": 0.5342,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5293,
+      "importance": 0.5293,
+      "importance_score": 0.5293,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9358,
-        "story_heat": 0.25
+        "recency": 0.7693,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-26T13:13:03Z",
-      "latest_at": "2026-07-26T15:55:48.299000Z",
+      "earliest_at": "2026-07-25T23:32:50Z",
+      "latest_at": "2026-07-26T03:54:52.690000Z",
       "primary_item": {
-        "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-        "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-        "url": "https://news.ycombinator.com/item?id=49057877",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_40b66364c786",
-      "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b7981426bffe3d23a62448cb01ea9ad24dacb8ca",
-          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” - Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T02:18:54.069000Z"
-        },
-        {
-          "id": "e5c2fb315cc604ef49b0a39661ddb7b587e54d0b",
-          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
-          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T20:59:11.659000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "b7981426bffe3d23a62448cb01ea9ad24dacb8ca",
-          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” - Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T02:18:54.069000Z"
-        },
-        {
-          "id": "e5c2fb315cc604ef49b0a39661ddb7b587e54d0b",
-          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
-          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T20:59:11.659000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5042,
-      "importance": 0.5042,
-      "importance_score": 0.5042,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7688,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T20:59:11.659000Z",
-      "latest_at": "2026-07-26T02:18:54.069000Z",
-      "primary_item": {
-        "id": "b7981426bffe3d23a62448cb01ea9ad24dacb8ca",
-        "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” - Business Insider",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
+        "id": "6701328e205a2b0fa38156d13c431358070662ea",
+        "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+        "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+        "source": "github.com",
         "source_name": "Buzzing"
       }
     },
@@ -1619,15 +1637,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5327,
-      "importance": 0.5327,
-      "importance_score": 0.5327,
+      "score": 0.529,
+      "importance": 0.529,
+      "importance_score": 0.529,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9271,
+        "recency": 0.9066,
         "story_heat": 0.25
       },
       "category": "watch",
