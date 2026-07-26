@@ -1,8 +1,208 @@
 {
-  "generated_at": "2026-07-26T03:36:32.464315Z",
+  "generated_at": "2026-07-26T06:42:00.970595Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_5f284decdfa5",
+      "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "primary_url": "https://github.com/slvDev/esp32-ai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
+          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T03:54:52.332000Z"
+        },
+        {
+          "id": "0d3f67bc703c56530c7a6cf6bd27dcaca9ac10b8",
+          "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.332000Z"
+        },
+        {
+          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://news.ycombinator.com/item?id=49050512",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:06:07.579000Z"
+        },
+        {
+          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型 / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T18:59:50Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
+          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T03:54:52.332000Z"
+        },
+        {
+          "id": "0d3f67bc703c56530c7a6cf6bd27dcaca9ac10b8",
+          "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.332000Z"
+        },
+        {
+          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://news.ycombinator.com/item?id=49050512",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:06:07.579000Z"
+        },
+        {
+          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型 / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T18:59:50Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8475,
+      "importance": 0.8475,
+      "importance_score": 0.8475,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9606,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-25T18:59:50Z",
+      "latest_at": "2026-07-26T03:54:52.332000Z",
+      "primary_item": {
+        "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
+        "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+        "url": "https://github.com/slvDev/esp32-ai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1728b4e0f38b",
+      "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+      "url": "https://www.ithome.com/0/981/688.htm",
+      "primary_url": "https://www.ithome.com/0/981/688.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6aec6c207a5ec8b5404742ad23e136ffd3a979a1",
+          "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+          "url": "https://www.ithome.com/0/981/688.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T05:33:44Z"
+        },
+        {
+          "id": "901441dfd8715b62cb0d52801d9549a0e05796df",
+          "title": "Claude Opus 5 被扒光，1511 行提示词底牌全摊开",
+          "url": "https://www.ithome.com/0/981/688.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T05:33:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6aec6c207a5ec8b5404742ad23e136ffd3a979a1",
+          "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+          "url": "https://www.ithome.com/0/981/688.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T05:33:44Z"
+        },
+        {
+          "id": "901441dfd8715b62cb0d52801d9549a0e05796df",
+          "title": "Claude Opus 5 被扒光，1511 行提示词底牌全摊开",
+          "url": "https://www.ithome.com/0/981/688.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T05:33:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7837,
+      "importance": 0.7837,
+      "importance_score": 0.7837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9837,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-26T05:33:44Z",
+      "latest_at": "2026-07-26T05:33:44Z",
+      "primary_item": {
+        "id": "6aec6c207a5ec8b5404742ad23e136ffd3a979a1",
+        "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+        "url": "https://www.ithome.com/0/981/688.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_5baddcdfddd2",
       "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
@@ -57,15 +257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8188,
+        "recency": 0.783,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,21 +319,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9551,
+        "recency": 0.9134,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-26T00:25:41Z",
       "latest_at": "2026-07-26T00:25:41Z",
@@ -234,15 +433,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.625,
-      "importance": 0.625,
-      "importance_score": 0.625,
+      "score": 0.618,
+      "importance": 0.618,
+      "importance_score": 0.618,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8935,
+        "recency": 0.8545,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -257,6 +456,220 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-25",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_10e81be27811",
+      "title": "Debian 中 LLM 的应用：三项提案",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "primary_url": "https://www.debian.org/vote/2026/vote_002",
+      "source": "www.debian.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
+          "title": "Debian 中 LLM 的应用：三项提案",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.336000Z"
+        },
+        {
+          "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
+          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T19:44:39Z"
+        },
+        {
+          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
+          "title": "一般性决议：Debian 中 LLM 的使用 / LLM Usage in Debian: Three Proposals",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T19:44:39Z"
+        },
+        {
+          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
+          "title": "一般性决议：Debian 中 LLM 的使用",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T16:27:16.797000Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "www.debian.org"
+      ],
+      "items": [
+        {
+          "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
+          "title": "Debian 中 LLM 的应用：三项提案",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.336000Z"
+        },
+        {
+          "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
+          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T19:44:39Z"
+        },
+        {
+          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
+          "title": "一般性决议：Debian 中 LLM 的使用 / LLM Usage in Debian: Three Proposals",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T19:44:39Z"
+        },
+        {
+          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
+          "title": "一般性决议：Debian 中 LLM 的使用",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T16:27:16.797000Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5887,
+      "importance": 0.5887,
+      "importance_score": 0.5887,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9606,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T16:27:16.797000Z",
+      "latest_at": "2026-07-26T03:54:52.336000Z",
+      "primary_item": {
+        "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
+        "title": "Debian 中 LLM 的应用：三项提案",
+        "url": "https://www.debian.org/vote/2026/vote_002",
+        "source": "www.debian.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7f366388db06",
+      "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "primary_url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6701328e205a2b0fa38156d13c431358070662ea",
+          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.690000Z"
+        },
+        {
+          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
+          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "url": "https://news.ycombinator.com/item?id=49052912",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T03:37:08.514000Z"
+        },
+        {
+          "id": "0dedc15929b175f9d0203d2c31d410eaad8abaa8",
+          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T23:32:50Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6701328e205a2b0fa38156d13c431358070662ea",
+          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.690000Z"
+        },
+        {
+          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
+          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "url": "https://news.ycombinator.com/item?id=49052912",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T03:37:08.514000Z"
+        },
+        {
+          "id": "0dedc15929b175f9d0203d2c31d410eaad8abaa8",
+          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T23:32:50Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5637,
+      "importance": 0.5637,
+      "importance_score": 0.5637,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9606,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T23:32:50Z",
+      "latest_at": "2026-07-26T03:54:52.690000Z",
+      "primary_item": {
+        "id": "6701328e205a2b0fa38156d13c431358070662ea",
+        "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+        "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -286,18 +699,18 @@
           "published_at": "2026-07-25T21:53:29.575000Z"
         },
         {
-          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
+          "id": "b29d63d16c40b219fb2e29ee30bdd9fc299b9abc",
           "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
           "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-25T20:42:35Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "claude.com",
         "hackernews"
       ],
@@ -321,26 +734,26 @@
           "published_at": "2026-07-25T21:53:29.575000Z"
         },
         {
-          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
+          "id": "b29d63d16c40b219fb2e29ee30bdd9fc299b9abc",
           "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
           "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-25T20:42:35Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5602,
-      "importance": 0.5602,
-      "importance_score": 0.5602,
+      "score": 0.5528,
+      "importance": 0.5528,
+      "importance_score": 0.5528,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9408,
+        "recency": 0.8998,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -355,104 +768,6 @@
         "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
         "source": "claude.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_10e81be27811",
-      "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "primary_url": "https://www.debian.org/vote/2026/vote_002",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
-          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
-          "title": "一般性决议：Debian 中 LLM 的使用 / LLM Usage in Debian: Three Proposals",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
-          "title": "一般性决议：Debian 中 LLM 的使用",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T16:27:16.797000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "www.debian.org"
-      ],
-      "items": [
-        {
-          "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
-          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
-          "title": "一般性决议：Debian 中 LLM 的使用 / LLM Usage in Debian: Three Proposals",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
-          "title": "一般性决议：Debian 中 LLM 的使用",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T16:27:16.797000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5515,
-      "importance": 0.5515,
-      "importance_score": 0.5515,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8926,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T16:27:16.797000Z",
-      "latest_at": "2026-07-25T19:44:39Z",
-      "primary_item": {
-        "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
-        "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
-        "url": "https://www.debian.org/vote/2026/vote_002",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
       }
     },
     {
@@ -528,15 +843,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5482,
-      "importance": 0.5482,
-      "importance_score": 0.5482,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8744,
+        "recency": 0.8363,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -607,15 +922,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9565,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -686,15 +1001,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5379,
+      "importance": 0.5379,
+      "importance_score": 0.5379,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9563,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -709,6 +1024,84 @@
         "url": "https://www.ithome.com/0/981/643.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_8ca75aca4ab6",
+      "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course",
+      "url": "https://golfcoursebrowser.com",
+      "primary_url": "https://golfcoursebrowser.com",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "1cd2da5d2e867cae928d9d7358e34c5b4074ea92",
+          "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course",
+          "url": "https://golfcoursebrowser.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T02:22:26Z"
+        },
+        {
+          "id": "a43faab724386e56e5a4956c91402045b9b1022e",
+          "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
+          "url": "https://golfcoursebrowser.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T02:22:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "1cd2da5d2e867cae928d9d7358e34c5b4074ea92",
+          "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course",
+          "url": "https://golfcoursebrowser.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T02:22:26Z"
+        },
+        {
+          "id": "a43faab724386e56e5a4956c91402045b9b1022e",
+          "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
+          "url": "https://golfcoursebrowser.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T02:22:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5349,
+      "importance": 0.5349,
+      "importance_score": 0.5349,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9394,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T02:22:26Z",
+      "latest_at": "2026-07-26T02:22:26Z",
+      "primary_item": {
+        "id": "1cd2da5d2e867cae928d9d7358e34c5b4074ea92",
+        "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course",
+        "url": "https://golfcoursebrowser.com",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -764,15 +1157,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5404,
-      "importance": 0.5404,
-      "importance_score": 0.5404,
+      "score": 0.5328,
+      "importance": 0.5328,
+      "importance_score": 0.5328,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.97,
+        "recency": 0.9277,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -843,15 +1236,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5294,
-      "importance": 0.5294,
-      "importance_score": 0.5294,
+      "score": 0.5222,
+      "importance": 0.5222,
+      "importance_score": 0.5222,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9088,
+        "recency": 0.8691,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -866,84 +1259,6 @@
         "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9130fcc2d02a",
-      "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
-      "url": "https://fly.io/blog/kurt-scott-money-sprites",
-      "primary_url": "https://fly.io/blog/kurt-scott-money-sprites",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "54b179311029d9f90feb1c8cd787eeb303525bbb",
-          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
-          "url": "https://fly.io/blog/kurt-scott-money-sprites",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T20:43:11Z"
-        },
-        {
-          "id": "8db0b6f3c45763469c5d0672e114b957f864723f",
-          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Turn And Face The Strange",
-          "url": "https://fly.io/blog/kurt-scott-money-sprites",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T20:43:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "54b179311029d9f90feb1c8cd787eeb303525bbb",
-          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
-          "url": "https://fly.io/blog/kurt-scott-money-sprites",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T20:43:11Z"
-        },
-        {
-          "id": "8db0b6f3c45763469c5d0672e114b957f864723f",
-          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Turn And Face The Strange",
-          "url": "https://fly.io/blog/kurt-scott-money-sprites",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T20:43:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5288,
-      "importance": 0.5288,
-      "importance_score": 0.5288,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9053,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T20:43:11Z",
-      "latest_at": "2026-07-25T20:43:11Z",
-      "primary_item": {
-        "id": "54b179311029d9f90feb1c8cd787eeb303525bbb",
-        "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
-        "url": "https://fly.io/blog/kurt-scott-money-sprites",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1000,15 +1315,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5269,
-      "importance": 0.5269,
-      "importance_score": 0.5269,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.895,
+        "recency": 0.8559,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1079,15 +1394,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5178,
-      "importance": 0.5178,
-      "importance_score": 0.5178,
+      "score": 0.5112,
+      "importance": 0.5112,
+      "importance_score": 0.5112,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8447,
+        "recency": 0.8078,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1157,15 +1472,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9565,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1236,15 +1551,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5066,
-      "importance": 0.5066,
-      "importance_score": 0.5066,
+      "score": 0.5004,
+      "importance": 0.5004,
+      "importance_score": 0.5004,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7821,
+        "recency": 0.7479,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1262,159 +1577,79 @@
       }
     },
     {
-      "story_id": "story_7f366388db06",
-      "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-      "url": "https://news.ycombinator.com/item?id=49052912",
-      "primary_url": "https://news.ycombinator.com/item?id=49052912",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
-          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "url": "https://news.ycombinator.com/item?id=49052912",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T03:37:08.514000Z"
-        },
-        {
-          "id": "0dedc15929b175f9d0203d2c31d410eaad8abaa8",
-          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T23:32:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
-          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "url": "https://news.ycombinator.com/item?id=49052912",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T03:37:08.514000Z"
-        },
-        {
-          "id": "0dedc15929b175f9d0203d2c31d410eaad8abaa8",
-          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T23:32:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T23:32:50Z",
-      "latest_at": "2026-07-26T03:37:08.514000Z",
-      "primary_item": {
-        "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
-        "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-        "url": "https://news.ycombinator.com/item?id=49052912",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_64934dbed4f8",
-      "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-      "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-      "primary_url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+      "story_id": "story_9130fcc2d02a",
+      "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
+      "url": "https://fly.io/blog/kurt-scott-money-sprites",
+      "primary_url": "https://fly.io/blog/kurt-scott-money-sprites",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+          "id": "54b179311029d9f90feb1c8cd787eeb303525bbb",
+          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
+          "url": "https://fly.io/blog/kurt-scott-money-sprites",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-25T14:41:06Z"
+          "published_at": "2026-07-25T20:43:11Z"
         },
         {
-          "id": "ce0e3db950f079daf8e9da4564174d5011676407",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T13:14:51.753000Z"
+          "id": "8db0b6f3c45763469c5d0672e114b957f864723f",
+          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Turn And Face The Strange",
+          "url": "https://fly.io/blog/kurt-scott-money-sprites",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T20:43:11Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "www.theguardian.com"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+          "id": "54b179311029d9f90feb1c8cd787eeb303525bbb",
+          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
+          "url": "https://fly.io/blog/kurt-scott-money-sprites",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-25T14:41:06Z"
+          "published_at": "2026-07-25T20:43:11Z"
         },
         {
-          "id": "ce0e3db950f079daf8e9da4564174d5011676407",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T13:14:51.753000Z"
+          "id": "8db0b6f3c45763469c5d0672e114b957f864723f",
+          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Turn And Face The Strange",
+          "url": "https://fly.io/blog/kurt-scott-money-sprites",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T20:43:11Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5152,
-      "importance": 0.5152,
-      "importance_score": 0.5152,
+      "score": 0.5216,
+      "importance": 0.5216,
+      "importance_score": 0.5216,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8298,
+        "recency": 0.8658,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T13:14:51.753000Z",
-      "latest_at": "2026-07-25T14:41:06Z",
+      "earliest_at": "2026-07-25T20:43:11Z",
+      "latest_at": "2026-07-25T20:43:11Z",
       "primary_item": {
-        "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
-        "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-        "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+        "id": "54b179311029d9f90feb1c8cd787eeb303525bbb",
+        "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
+        "url": "https://fly.io/blog/kurt-scott-money-sprites",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
@@ -1473,15 +1708,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5121,
-      "importance": 0.5121,
-      "importance_score": 0.5121,
+      "score": 0.5057,
+      "importance": 0.5057,
+      "importance_score": 0.5057,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8127,
+        "recency": 0.7772,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1496,164 +1731,6 @@
         "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2b75b6719305",
-      "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
-      "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
-      "primary_url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7ce5968c55e53d2732c9ea078ff0c489adb2a1a0",
-          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
-          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T10:35:07.024000Z"
-        },
-        {
-          "id": "10f6b1bfd771afc7cb58c6786f978e5992d0d68a",
-          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元 / I dreamt of building rockets until my aunt's illness inspired me to build an AI startup that's raised nearly $10 million",
-          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T10:02:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "7ce5968c55e53d2732c9ea078ff0c489adb2a1a0",
-          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
-          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T10:35:07.024000Z"
-        },
-        {
-          "id": "10f6b1bfd771afc7cb58c6786f978e5992d0d68a",
-          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元 / I dreamt of building rockets until my aunt's illness inspired me to build an AI startup that's raised nearly $10 million",
-          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T10:02:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5066,
-      "importance": 0.5066,
-      "importance_score": 0.5066,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7821,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T10:02:01Z",
-      "latest_at": "2026-07-25T10:35:07.024000Z",
-      "primary_item": {
-        "id": "7ce5968c55e53d2732c9ea078ff0c489adb2a1a0",
-        "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
-        "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5f284decdfa5",
-      "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
-      "url": "https://news.ycombinator.com/item?id=49050512",
-      "primary_url": "https://news.ycombinator.com/item?id=49050512",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
-          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "url": "https://news.ycombinator.com/item?id=49050512",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T23:06:07.579000Z"
-        },
-        {
-          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
-          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T18:59:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
-          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "url": "https://news.ycombinator.com/item?id=49050512",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T23:06:07.579000Z"
-        },
-        {
-          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
-          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T18:59:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5345,
-      "importance": 0.5345,
-      "importance_score": 0.5345,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.937,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T18:59:50Z",
-      "latest_at": "2026-07-25T23:06:07.579000Z",
-      "primary_item": {
-        "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
-        "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
-        "url": "https://news.ycombinator.com/item?id=49050512",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
