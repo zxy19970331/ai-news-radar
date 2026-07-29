@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-07-29T14:53:10.418875Z",
+  "generated_at": "2026-07-29T16:26:01.803004Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_42b77c184ced",
+      "title": "我们将在 Google Flow Music 中推出 Lyria 3.5，该版本在音乐性、歌词、人声和创意控制方面都取得了进步 / We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+      "primary_url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "81ae2e2f8cde8743358cdd5dd802d493a3c8f500",
+          "title": "我们将在 Google Flow Music 中推出 Lyria 3.5，该版本在音乐性、歌词、人声和创意控制方面都取得了进步 / We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T16:02:10Z"
+        },
+        {
+          "id": "06d72c73e2e285bdb53cc5374168b800ab0a552f",
+          "title": "我们将在 Google Flow Music 中推出 Lyria 3.5，该版本在音乐性、歌词、人声和创意控制方面都取得了进步。 / We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google DeepMind",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "81ae2e2f8cde8743358cdd5dd802d493a3c8f500",
+          "title": "我们将在 Google Flow Music 中推出 Lyria 3.5，该版本在音乐性、歌词、人声和创意控制方面都取得了进步 / We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T16:02:10Z"
+        },
+        {
+          "id": "06d72c73e2e285bdb53cc5374168b800ab0a552f",
+          "title": "我们将在 Google Flow Music 中推出 Lyria 3.5，该版本在音乐性、歌词、人声和创意控制方面都取得了进步。 / We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.868,
+      "importance": 0.868,
+      "importance_score": 0.868,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9943,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T16:02:10Z",
+      "latest_at": "2026-07-29T16:26:01.803004Z",
+      "primary_item": {
+        "id": "81ae2e2f8cde8743358cdd5dd802d493a3c8f500",
+        "title": "我们将在 Google Flow Music 中推出 Lyria 3.5，该版本在音乐性、歌词、人声和创意控制方面都取得了进步 / We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+        "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_91992ed9f82d",
       "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
@@ -38,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8312,
-      "importance": 0.8312,
-      "importance_score": 0.8312,
+      "score": 0.828,
+      "importance": 0.828,
+      "importance_score": 0.828,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8066,
+        "recency": 0.7887,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8311,
-      "importance": 0.8311,
-      "importance_score": 0.8311,
+      "score": 0.8274,
+      "importance": 0.8274,
+      "importance_score": 0.8274,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9286,
+        "recency": 0.908,
         "story_heat": 0.0
       },
       "category": "official",
@@ -181,15 +263,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8282,
-      "importance": 0.8282,
-      "importance_score": 0.8282,
+      "score": 0.8253,
+      "importance": 0.8253,
+      "importance_score": 0.8253,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.729,
+        "recency": 0.7129,
         "story_heat": 0.25
       },
       "category": "official",
@@ -210,103 +292,21 @@
       }
     },
     {
-      "story_id": "story_d81cfe08f75c",
-      "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fa7f61bbbfb6f72af25cff40b02eb82b902d5b37",
-          "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T16:00:00Z"
-        },
-        {
-          "id": "2d317650ad850459dee0f3e6e32c83397e558023",
-          "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T16:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google AI Blog",
-        "Google Blog：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "fa7f61bbbfb6f72af25cff40b02eb82b902d5b37",
-          "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T16:00:00Z"
-        },
-        {
-          "id": "2d317650ad850459dee0f3e6e32c83397e558023",
-          "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T16:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8263,
-      "importance": 0.8263,
-      "importance_score": 0.8263,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7186,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T16:00:00Z",
-      "latest_at": "2026-07-28T16:00:00Z",
-      "primary_item": {
-        "id": "fa7f61bbbfb6f72af25cff40b02eb82b902d5b37",
-        "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_85dd02699b25",
-      "title": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器 / LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "story_id": "story_92e866603de3",
+      "title": "OlmoEarth 平台：行星尺度的地理空间推断 / The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "primary_url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6b4343c587f8a82ce5345ee23b16a5ac90928057",
-          "title": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器 / LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+          "id": "9c81955c3104356a72acefa7ab29262422f12a7a",
+          "title": "OlmoEarth 平台：行星尺度的地理空间推断 / The OlmoEarth Platform: Geospatial inference at planetary scale",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T15:01:45Z"
+          "published_at": "2026-07-28T16:27:42Z"
         }
       ],
       "source_count": 1,
@@ -315,26 +315,26 @@
       ],
       "items": [
         {
-          "id": "6b4343c587f8a82ce5345ee23b16a5ac90928057",
-          "title": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器 / LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+          "id": "9c81955c3104356a72acefa7ab29262422f12a7a",
+          "title": "OlmoEarth 平台：行星尺度的地理空间推断 / The OlmoEarth Platform: Geospatial inference at planetary scale",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T15:01:45Z"
+          "published_at": "2026-07-28T16:27:42Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7086,
+        "ai_relevance": 0.95,
+        "recency": 0.7074,
         "story_heat": 0.0
       },
       "category": "official",
@@ -343,14 +343,95 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T15:01:45Z",
-      "latest_at": "2026-07-28T15:01:45Z",
+      "earliest_at": "2026-07-28T16:27:42Z",
+      "latest_at": "2026-07-28T16:27:42Z",
       "primary_item": {
-        "id": "6b4343c587f8a82ce5345ee23b16a5ac90928057",
-        "title": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器 / LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+        "id": "9c81955c3104356a72acefa7ab29262422f12a7a",
+        "title": "OlmoEarth 平台：行星尺度的地理空间推断 / The OlmoEarth Platform: Geospatial inference at planetary scale",
+        "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b2b36e20e7a7",
+      "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
+      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
+      "primary_url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "520109bab60f838de978be96179993ff0f5cbced",
+          "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
+          "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T15:35:09Z"
+        },
+        {
+          "id": "7bb434c6b856e786c2594ed925b5886746bd9719",
+          "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手 / Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+          "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-29T15:35:09Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "520109bab60f838de978be96179993ff0f5cbced",
+          "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
+          "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T15:35:09Z"
+        },
+        {
+          "id": "7bb434c6b856e786c2594ed925b5886746bd9719",
+          "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手 / Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+          "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-29T15:35:09Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7934,
+      "importance": 0.7934,
+      "importance_score": 0.7934,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9878,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T15:35:09Z",
+      "latest_at": "2026-07-29T15:35:09Z",
+      "primary_item": {
+        "id": "520109bab60f838de978be96179993ff0f5cbced",
+        "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
+        "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -407,15 +488,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.791,
-      "importance": 0.791,
-      "importance_score": 0.791,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9579,
+        "recency": 0.9367,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -469,15 +550,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
+      "score": 0.8131,
+      "importance": 0.8131,
+      "importance_score": 0.8131,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8017,
+        "recency": 0.784,
         "story_heat": 0.0
       },
       "category": "official",
@@ -550,15 +631,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7858,
-      "importance": 0.7858,
-      "importance_score": 0.7858,
+      "score": 0.7819,
+      "importance": 0.7819,
+      "importance_score": 0.7819,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.962,
+        "recency": 0.9408,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -631,15 +712,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7855,
-      "importance": 0.7855,
-      "importance_score": 0.7855,
+      "score": 0.7817,
+      "importance": 0.7817,
+      "importance_score": 0.7817,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9607,
+        "recency": 0.9395,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -656,68 +737,6 @@
         "url": "https://www.aibase.com/news/29984",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_92e866603de3",
-      "title": "OlmoEarth 平台：行星尺度的地理空间推断 / The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "primary_url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9c81955c3104356a72acefa7ab29262422f12a7a",
-          "title": "OlmoEarth 平台：行星尺度的地理空间推断 / The OlmoEarth Platform: Geospatial inference at planetary scale",
-          "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T16:27:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "9c81955c3104356a72acefa7ab29262422f12a7a",
-          "title": "OlmoEarth 平台：行星尺度的地理空间推断 / The OlmoEarth Platform: Geospatial inference at planetary scale",
-          "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T16:27:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7234,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T16:27:42Z",
-      "latest_at": "2026-07-28T16:27:42Z",
-      "primary_item": {
-        "id": "9c81955c3104356a72acefa7ab29262422f12a7a",
-        "title": "OlmoEarth 平台：行星尺度的地理空间推断 / The OlmoEarth Platform: Geospatial inference at planetary scale",
-        "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -774,15 +793,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8401,
+        "recency": 0.8216,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -836,15 +855,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7642,
+      "importance": 0.7642,
+      "importance_score": 0.7642,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9694,
+        "recency": 0.9479,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -916,15 +935,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7526,
+        "recency": 0.736,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -978,15 +997,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7663,
+        "recency": 0.7494,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1001,87 +1020,6 @@
         "title": "Hugging Face 公开自主智能体网络攻击详情",
         "url": "https://x.com/ClementDelangue/status/2082201245813514613",
         "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c7dd00fb22f1",
-      "title": "Sam Altman 态度转变：AI 发展或需\"减速\"以让社会做好准备",
-      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
-      "primary_url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b55259f89b3ba59e42d489134114f874d41d4a7a",
-          "title": "Sam Altman 态度转变：AI 发展或需\"减速\"以让社会做好准备",
-          "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T20:17:08Z"
-        },
-        {
-          "id": "f6d3bd2949a6f1f6d939ee6e73ead7848f6fb5ea",
-          "title": "Sam Altman 态度转变：AI 发展或需\"减速\"以让社会做好准备 / Sam Altman is ready to decelerate",
-          "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-28T20:17:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b55259f89b3ba59e42d489134114f874d41d4a7a",
-          "title": "Sam Altman 态度转变：AI 发展或需\"减速\"以让社会做好准备",
-          "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T20:17:08Z"
-        },
-        {
-          "id": "f6d3bd2949a6f1f6d939ee6e73ead7848f6fb5ea",
-          "title": "Sam Altman 态度转变：AI 发展或需\"减速\"以让社会做好准备 / Sam Altman is ready to decelerate",
-          "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-28T20:17:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7644,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T20:17:08Z",
-      "latest_at": "2026-07-28T20:17:08Z",
-      "primary_item": {
-        "id": "b55259f89b3ba59e42d489134114f874d41d4a7a",
-        "title": "Sam Altman 态度转变：AI 发展或需\"减速\"以让社会做好准备",
-        "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
-        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1139,15 +1077,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7796,
-      "importance": 0.7796,
-      "importance_score": 0.7796,
+      "score": 0.7759,
+      "importance": 0.7759,
+      "importance_score": 0.7759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.928,
+        "recency": 0.9075,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1201,15 +1139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8074,
-      "importance": 0.8074,
-      "importance_score": 0.8074,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7523,
+        "recency": 0.7357,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1263,15 +1201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7961,
+        "recency": 0.7785,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1323,15 +1261,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7649,
+        "recency": 0.748,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1383,15 +1321,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7827,
+        "recency": 0.7654,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1405,6 +1343,66 @@
         "title": "OpenAI 失控模型二次入侵 Modal 客户",
         "url": "https://x.com/AISafetyMemes/status/2082223372214448303",
         "source": "X：AI Safety Memes (@AISafetyMemes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fb946d7f5d1a",
+      "title": "OpenAI 开源 Codex Security 代码安全扫描工具",
+      "url": "https://x.com/dotey/status/2082227259096944689",
+      "primary_url": "https://x.com/dotey/status/2082227259096944689",
+      "source": "X：宝玉 (@dotey)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "05656dabab1279549654aae9afd2b185ab239074",
+          "title": "OpenAI 开源 Codex Security 代码安全扫描工具",
+          "url": "https://x.com/dotey/status/2082227259096944689",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T22:10:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：宝玉 (@dotey)"
+      ],
+      "items": [
+        {
+          "id": "05656dabab1279549654aae9afd2b185ab239074",
+          "title": "OpenAI 开源 Codex Security 代码安全扫描工具",
+          "url": "https://x.com/dotey/status/2082227259096944689",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T22:10:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7683,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T22:10:39Z",
+      "latest_at": "2026-07-28T22:10:39Z",
+      "primary_item": {
+        "id": "05656dabab1279549654aae9afd2b185ab239074",
+        "title": "OpenAI 开源 Codex Security 代码安全扫描工具",
+        "url": "https://x.com/dotey/status/2082227259096944689",
+        "source": "X：宝玉 (@dotey)",
         "source_name": "AI HOT"
       }
     }
