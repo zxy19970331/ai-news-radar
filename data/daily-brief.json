@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T23:07:09.915807Z",
+  "generated_at": "2026-08-06T00:53:31.309651Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8587,
-      "importance": 0.8587,
-      "importance_score": 0.8587,
+      "score": 0.8542,
+      "importance": 0.8542,
+      "importance_score": 0.8542,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9726,
+        "recency": 0.948,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -232,15 +232,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8479,
-      "importance": 0.8479,
-      "importance_score": 0.8479,
+      "score": 0.8438,
+      "importance": 0.8438,
+      "importance_score": 0.8438,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9074,
+        "recency": 0.8845,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -260,65 +260,84 @@
       }
     },
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.146.1 / Codex CLI 0.146.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_620c2c09d292",
+      "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击",
+      "url": "https://simonwillison.net/2026/Aug/5/incident-report",
+      "primary_url": "https://simonwillison.net/2026/Aug/5/incident-report",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "58e1ee1fbaa85927b5d15f6eb6d39146b6384769",
-          "title": "法典 CLI 0.146.1 / Codex CLI 0.146.1",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-05T00:00:00Z"
+          "id": "6a13e7a88b601252f6f44f815936f834ec9ed190",
+          "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击",
+          "url": "https://simonwillison.net/2026/Aug/5/incident-report",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T23:32:06Z"
+        },
+        {
+          "id": "912074ebaf1a3a479e213d2133b5b0f4056b3bd0",
+          "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击 / Incident Report: Unsanctioned Agent Behaviour During Cyber Testing",
+          "url": "https://simonwillison.net/2026/Aug/5/incident-report",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "Readhub · AI",
+        "Simon Willison 博客"
       ],
       "items": [
         {
-          "id": "58e1ee1fbaa85927b5d15f6eb6d39146b6384769",
-          "title": "法典 CLI 0.146.1 / Codex CLI 0.146.1",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-05T00:00:00Z"
+          "id": "6a13e7a88b601252f6f44f815936f834ec9ed190",
+          "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击",
+          "url": "https://simonwillison.net/2026/Aug/5/incident-report",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T23:32:06Z"
+        },
+        {
+          "id": "912074ebaf1a3a479e213d2133b5b0f4056b3bd0",
+          "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击 / Incident Report: Unsanctioned Agent Behaviour During Cyber Testing",
+          "url": "https://simonwillison.net/2026/Aug/5/incident-report",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7951,
+      "importance": 0.7951,
+      "importance_score": 0.7951,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7162,
-        "story_heat": 0.0
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9806,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-05T00:00:00Z",
-      "latest_at": "2026-08-05T00:00:00Z",
+      "earliest_at": "2026-08-05T23:32:06Z",
+      "latest_at": "2026-08-06T00:53:31.309651Z",
       "primary_item": {
-        "id": "58e1ee1fbaa85927b5d15f6eb6d39146b6384769",
-        "title": "法典 CLI 0.146.1 / Codex CLI 0.146.1",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
+        "id": "6a13e7a88b601252f6f44f815936f834ec9ed190",
+        "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击",
+        "url": "https://simonwillison.net/2026/Aug/5/incident-report",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -375,15 +394,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7904,
-      "importance": 0.7904,
-      "importance_score": 0.7904,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9214,
+        "recency": 0.8981,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -399,106 +418,6 @@
         "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业",
         "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fb817c6a0b15",
-      "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志",
-      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
-      "primary_url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5497c271baa91c9758e84f8bb4bf2363b088ac43",
-          "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志",
-          "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T23:58:24Z"
-        },
-        {
-          "id": "89d6b03ae1a78d24cdefb734d50bbf88c9c40f29",
-          "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志 / New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
-          "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-04T23:58:24Z"
-        },
-        {
-          "id": "3123707e7907ca472ee771785cbc3cae2c6faa7a",
-          "title": "LLM 新版本支持推理痕迹、OpenAI Responses、服务端工具及更智能的日志",
-          "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Readhub · AI",
-        "Simon Willison",
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "5497c271baa91c9758e84f8bb4bf2363b088ac43",
-          "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志",
-          "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T23:58:24Z"
-        },
-        {
-          "id": "89d6b03ae1a78d24cdefb734d50bbf88c9c40f29",
-          "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志 / New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
-          "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-04T23:58:24Z"
-        },
-        {
-          "id": "3123707e7907ca472ee771785cbc3cae2c6faa7a",
-          "title": "LLM 新版本支持推理痕迹、OpenAI Responses、服务端工具及更智能的日志",
-          "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7159,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T23:58:24Z",
-      "latest_at": "2026-08-05T03:14:50.597420Z",
-      "primary_item": {
-        "id": "5497c271baa91c9758e84f8bb4bf2363b088ac43",
-        "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志",
-        "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
-        "source": "Simon Willison 博客",
         "source_name": "AI HOT"
       }
     },
@@ -556,15 +475,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7865,
-      "importance": 0.7865,
-      "importance_score": 0.7865,
+      "score": 0.7821,
+      "importance": 0.7821,
+      "importance_score": 0.7821,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.983,
+        "recency": 0.9582,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -618,15 +537,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
+      "score": 0.7807,
+      "importance": 0.7807,
+      "importance_score": 0.7807,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9468,
+        "recency": 0.9229,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -698,15 +617,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.78,
-      "importance": 0.78,
-      "importance_score": 0.78,
+      "score": 0.7762,
+      "importance": 0.7762,
+      "importance_score": 0.7762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.83,
+        "recency": 0.809,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -798,15 +717,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8397,
-      "importance": 0.8397,
-      "importance_score": 0.8397,
+      "score": 0.8352,
+      "importance": 0.8352,
+      "importance_score": 0.8352,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9726,
+        "recency": 0.948,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -860,15 +779,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.7731,
+      "importance": 0.7731,
+      "importance_score": 0.7731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.989,
+        "recency": 0.964,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -940,15 +859,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7741,
-      "importance": 0.7741,
-      "importance_score": 0.7741,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.864,
+        "recency": 0.8422,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -965,6 +884,67 @@
         "url": "https://blog.cloudflare.com/cloudflare-os",
         "source": "Cloudflare Blog",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a782231f65ba",
+      "title": "AI战场再起波澜:Meta首款编程智能体叫板OpenAI与Anthropic",
+      "url": "https://www.aibase.com/news/30139",
+      "primary_url": "https://www.aibase.com/news/30139",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "42e06eca17a801289d51634c76fa1f463c73eb1e",
+          "title": "AI战场再起波澜:Meta首款编程智能体叫板OpenAI与Anthropic",
+          "url": "https://www.aibase.com/news/30139",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-06T00:53:31.309651Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "42e06eca17a801289d51634c76fa1f463c73eb1e",
+          "title": "AI战场再起波澜:Meta首款编程智能体叫板OpenAI与Anthropic",
+          "url": "https://www.aibase.com/news/30139",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-06T00:53:31.309651Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T00:53:31.309651Z",
+      "latest_at": "2026-08-06T00:53:31.309651Z",
+      "primary_item": {
+        "id": "42e06eca17a801289d51634c76fa1f463c73eb1e",
+        "title": "AI战场再起波澜:Meta首款编程智能体叫板OpenAI与Anthropic",
+        "url": "https://www.aibase.com/news/30139",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1002,15 +982,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9034,
+        "recency": 0.8805,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1082,15 +1062,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7897,
+        "recency": 0.7697,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1107,87 +1087,6 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
         "source": "公众号：卡尔的AI沃茨",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_aed2ee455d40",
-      "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-      "url": "https://www.aibase.com/news/30132",
-      "primary_url": "https://www.aibase.com/news/30132",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d863f5b2ef0f856624b1ce3cea30354a0a6dc2f7",
-          "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-          "url": "https://www.aibase.com/news/30132",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T09:20:06.140936Z"
-        },
-        {
-          "id": "4cfe74669ebbd66225f65d11ac1a6dfd4a0a1c60",
-          "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-          "url": "https://www.aibase.com/zh/news/30132",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d863f5b2ef0f856624b1ce3cea30354a0a6dc2f7",
-          "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-          "url": "https://www.aibase.com/news/30132",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T09:20:06.140936Z"
-        },
-        {
-          "id": "4cfe74669ebbd66225f65d11ac1a6dfd4a0a1c60",
-          "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-          "url": "https://www.aibase.com/zh/news/30132",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8195,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T09:20:06.140936Z",
-      "latest_at": "2026-08-05T09:20:06.140936Z",
-      "primary_item": {
-        "id": "d863f5b2ef0f856624b1ce3cea30354a0a6dc2f7",
-        "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-        "url": "https://www.aibase.com/news/30132",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1225,15 +1124,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8832,
+        "recency": 0.8608,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1305,15 +1204,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "score": 0.7755,
+      "importance": 0.7755,
+      "importance_score": 0.7755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8087,
+        "recency": 0.7883,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1386,15 +1285,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
+      "score": 0.7736,
+      "importance": 0.7736,
+      "importance_score": 0.7736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.952,
+        "recency": 0.9279,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1467,15 +1366,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7717,
-      "importance": 0.7717,
-      "importance_score": 0.7717,
+      "score": 0.7679,
+      "importance": 0.7679,
+      "importance_score": 0.7679,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8337,
+        "recency": 0.8127,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1492,6 +1391,67 @@
         "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_82abecda17f0",
+      "title": "字节跳动发布全双工大模型SeedRealtime，国产算力产业链景气度获强化",
+      "url": "https://www.aibase.com/news/30140",
+      "primary_url": "https://www.aibase.com/news/30140",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "61607f022948896859886f60bd703b8f366ed864",
+          "title": "字节跳动发布全双工大模型SeedRealtime，国产算力产业链景气度获强化",
+          "url": "https://www.aibase.com/news/30140",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-06T00:53:31.309651Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "61607f022948896859886f60bd703b8f366ed864",
+          "title": "字节跳动发布全双工大模型SeedRealtime，国产算力产业链景气度获强化",
+          "url": "https://www.aibase.com/news/30140",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-06T00:53:31.309651Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T00:53:31.309651Z",
+      "latest_at": "2026-08-06T00:53:31.309651Z",
+      "primary_item": {
+        "id": "61607f022948896859886f60bd703b8f366ed864",
+        "title": "字节跳动发布全双工大模型SeedRealtime，国产算力产业链景气度获强化",
+        "url": "https://www.aibase.com/news/30140",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1529,15 +1489,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.735,
+      "importance": 0.735,
+      "importance_score": 0.735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8744,
+        "recency": 0.8523,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1555,84 +1515,102 @@
       }
     },
     {
-      "story_id": "story_df0c9d1fbfff",
-      "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-      "url": "https://www.aibase.com/news/30130",
-      "primary_url": "https://www.aibase.com/news/30130",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_e24af488b820",
+      "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
+      "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+      "primary_url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "45d71f070884471c1302c577a523eae2763a2385",
-          "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-          "url": "https://www.aibase.com/news/30130",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T09:20:06.140936Z"
+          "id": "3fd784856cb0fda63d3a778729f1578f13b253f7",
+          "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
+          "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T16:39:55.296000Z"
         },
         {
-          "id": "22c2c6eaf5044c34334f901e8d723162d0afcbe0",
-          "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-          "url": "https://www.aibase.com/zh/news/30130",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "7d8a97af2650ebe56c31a218f995265f80de646d",
+          "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任 / Demis Hassabis is moving from CEO to Chairman at Google DeepMind",
+          "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-05T16:05:37Z"
+        },
+        {
+          "id": "ea9dd394cd8e88fe02d7b93ac8c4877cd633758f",
+          "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任 / Google DeepMind CEO Demis Hassabis is stepping down",
+          "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-05T16:05:37Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "45d71f070884471c1302c577a523eae2763a2385",
-          "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-          "url": "https://www.aibase.com/news/30130",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T09:20:06.140936Z"
+          "id": "3fd784856cb0fda63d3a778729f1578f13b253f7",
+          "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
+          "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T16:39:55.296000Z"
         },
         {
-          "id": "22c2c6eaf5044c34334f901e8d723162d0afcbe0",
-          "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-          "url": "https://www.aibase.com/zh/news/30130",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "7d8a97af2650ebe56c31a218f995265f80de646d",
+          "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任 / Demis Hassabis is moving from CEO to Chairman at Google DeepMind",
+          "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-05T16:05:37Z"
+        },
+        {
+          "id": "ea9dd394cd8e88fe02d7b93ac8c4877cd633758f",
+          "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任 / Google DeepMind CEO Demis Hassabis is stepping down",
+          "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-05T16:05:37Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8004,
+      "importance": 0.8004,
+      "importance_score": 0.8004,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8195,
-        "story_heat": 0.25
+        "recency": 0.888,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-05T09:20:06.140936Z",
-      "latest_at": "2026-08-05T09:20:06.140936Z",
+      "earliest_at": "2026-08-05T16:05:37Z",
+      "latest_at": "2026-08-05T16:39:55.296000Z",
       "primary_item": {
-        "id": "45d71f070884471c1302c577a523eae2763a2385",
-        "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-        "url": "https://www.aibase.com/news/30130",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "3fd784856cb0fda63d3a778729f1578f13b253f7",
+        "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
+        "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     }
   ]
