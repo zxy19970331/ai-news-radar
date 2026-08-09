@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T15:02:28.767693Z",
+  "generated_at": "2026-08-09T15:59:28.349954Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.8098,
+      "importance": 0.8098,
+      "importance_score": 0.8098,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9922,
+        "recency": 0.9787,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8702,
+        "recency": 0.8584,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -179,15 +179,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8941,
+        "recency": 0.882,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -239,15 +239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8466,
+        "recency": 0.8351,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -262,6 +262,66 @@
         "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
         "source": "Daily Digest",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_d0cf384fd303",
+      "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
+      "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+      "primary_url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+      "source": "Nathan Lambert：Interconnects（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b7700670027f0dea335dcc483c71d5edaa1c24d3",
+          "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
+          "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+          "source": "Nathan Lambert：Interconnects（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T14:57:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Nathan Lambert：Interconnects（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b7700670027f0dea335dcc483c71d5edaa1c24d3",
+          "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
+          "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+          "source": "Nathan Lambert：Interconnects（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T14:57:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7289,
+      "importance": 0.7289,
+      "importance_score": 0.7289,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9851,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-09T14:57:11Z",
+      "latest_at": "2026-08-09T14:57:11Z",
+      "primary_item": {
+        "id": "b7700670027f0dea335dcc483c71d5edaa1c24d3",
+        "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
+        "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+        "source": "Nathan Lambert：Interconnects（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -299,15 +359,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7299,
-      "importance": 0.7299,
-      "importance_score": 0.7299,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7906,
+        "recency": 0.7798,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -359,15 +419,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7398,
-      "importance": 0.7398,
-      "importance_score": 0.7398,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8454,
+        "recency": 0.8339,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -382,6 +442,85 @@
         "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
         "source": "Daily Digest",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_70ac8307a80a",
+      "title": "历史学家吉尔·莱波雷 (Jill Lepore) 表示，硅谷误读了科幻小说并破坏了民主 / Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+      "primary_url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "60475933c9e669f87d78b2c368eaadf87fc79586",
+          "title": "历史学家吉尔·莱波雷 (Jill Lepore) 表示，硅谷误读了科幻小说并破坏了民主 / Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+          "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-09T15:00:00Z"
+        },
+        {
+          "id": "29ae8db8bc1f28d99da1c12ba4c79d2b5f4bef76",
+          "title": "硅谷误读科幻小说并破坏民主 / Silicon Valley misreads science fiction and undermines democracy",
+          "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T15:18:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "60475933c9e669f87d78b2c368eaadf87fc79586",
+          "title": "历史学家吉尔·莱波雷 (Jill Lepore) 表示，硅谷误读了科幻小说并破坏了民主 / Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+          "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-09T15:00:00Z"
+        },
+        {
+          "id": "29ae8db8bc1f28d99da1c12ba4c79d2b5f4bef76",
+          "title": "硅谷误读科幻小说并破坏民主 / Silicon Valley misreads science fiction and undermines democracy",
+          "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T15:18:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6462,
+      "importance": 0.6462,
+      "importance_score": 0.6462,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.9858,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T15:00:00Z",
+      "latest_at": "2026-08-09T15:18:25Z",
+      "primary_item": {
+        "id": "60475933c9e669f87d78b2c368eaadf87fc79586",
+        "title": "历史学家吉尔·莱波雷 (Jill Lepore) 表示，硅谷误读了科幻小说并破坏了民主 / Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+        "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -455,15 +594,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5772,
-      "importance": 0.5772,
-      "importance_score": 0.5772,
+      "score": 0.5753,
+      "importance": 0.5753,
+      "importance_score": 0.5753,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7665,
+        "recency": 0.756,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -534,15 +673,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5723,
-      "importance": 0.5723,
-      "importance_score": 0.5723,
+      "score": 0.5704,
+      "importance": 0.5704,
+      "importance_score": 0.5704,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7887,
+        "recency": 0.7779,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -560,199 +699,101 @@
       }
     },
     {
-      "story_id": "story_bd5f6c57f204",
-      "title": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-      "url": "https://news.ycombinator.com/item?id=49230550",
-      "primary_url": "https://news.ycombinator.com/item?id=49230550",
+      "story_id": "story_774f7412d1a3",
+      "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+      "url": "https://news.ycombinator.com/item?id=49230605",
+      "primary_url": "https://news.ycombinator.com/item?id=49230605",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "170aa6c78fb817e9e360f77b6a1353d936704c82",
-          "title": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-          "url": "https://news.ycombinator.com/item?id=49230550",
+          "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
+          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+          "url": "https://news.ycombinator.com/item?id=49230605",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-09T12:36:51.496000Z"
+          "published_at": "2026-08-09T15:37:14.306000Z"
         },
         {
-          "id": "2a51c08bd79c5a401d68a6701c1721d11d8cc46f",
-          "title": "Show HN: DeepSeek-V4 潜在推理——将“思考”转移到潜在空间",
-          "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-          "source": "blog.n.ichol.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T11:58:46.174000Z"
+          "id": "f49c1f306709789af4e524d6da243a9ba943f9df",
+          "title": "为什么华尔街忽视大型科技公司的债务 / Why Wall Street Is Ignoring Big Tech's Debt",
+          "url": "https://www.youtube.com/watch?v=NufJ7g63KSY",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T12:01:39Z"
         },
         {
-          "id": "1cd230ab2b42f81c8127004ef56752d9fd520a7e",
-          "title": "Show HN: DeepSeek-V4 潜在推理——将“思考”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-          "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T11:46:28Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "blog.n.ichol.ai",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "170aa6c78fb817e9e360f77b6a1353d936704c82",
-          "title": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-          "url": "https://news.ycombinator.com/item?id=49230550",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T12:36:51.496000Z"
-        },
-        {
-          "id": "2a51c08bd79c5a401d68a6701c1721d11d8cc46f",
-          "title": "Show HN: DeepSeek-V4 潜在推理——将“思考”转移到潜在空间",
-          "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-          "source": "blog.n.ichol.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T11:58:46.174000Z"
-        },
-        {
-          "id": "1cd230ab2b42f81c8127004ef56752d9fd520a7e",
-          "title": "Show HN: DeepSeek-V4 潜在推理——将“思考”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-          "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T11:46:28Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5646,
-      "importance": 0.5646,
-      "importance_score": 0.5646,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9656,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T11:46:28Z",
-      "latest_at": "2026-08-09T12:36:51.496000Z",
-      "primary_item": {
-        "id": "170aa6c78fb817e9e360f77b6a1353d936704c82",
-        "title": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-        "url": "https://news.ycombinator.com/item?id=49230550",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_561b016160b5",
-      "title": "向您其他“克劳德代码”会话发送消息",
-      "url": "https://code.claude.com/docs/en/cross-session-messaging",
-      "primary_url": "https://code.claude.com/docs/en/cross-session-messaging",
-      "source": "code.claude.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c93e2a7d723746932053a05dcfd00125866be205",
-          "title": "向您其他“克劳德代码”会话发送消息",
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "code.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T06:22:36.507000Z"
-        },
-        {
-          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
-          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-          "url": "https://news.ycombinator.com/item?id=49222824",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T20:17:29.087000Z"
-        },
-        {
-          "id": "ccd78cb14dcef4b54915673f2890b1db5b55a8a9",
-          "title": "向您其他“克劳德代码”会话发送消息 / Message your other Claude Code sessions",
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
+          "id": "43bf37af49cb13e01b08742a2ed44a8deb73f2b5",
+          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
           "source": "HN Algolia · AI 24h",
           "source_name": "Hacker News",
           "site_id": "hackernews",
-          "published_at": "2026-08-08T15:34:49Z"
+          "published_at": "2026-08-09T11:56:16Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "HN Algolia · AI 24h",
-        "code.claude.com",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "c93e2a7d723746932053a05dcfd00125866be205",
-          "title": "向您其他“克劳德代码”会话发送消息",
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "code.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T06:22:36.507000Z"
-        },
-        {
-          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
-          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-          "url": "https://news.ycombinator.com/item?id=49222824",
+          "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
+          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+          "url": "https://news.ycombinator.com/item?id=49230605",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-08T20:17:29.087000Z"
+          "published_at": "2026-08-09T15:37:14.306000Z"
         },
         {
-          "id": "ccd78cb14dcef4b54915673f2890b1db5b55a8a9",
-          "title": "向您其他“克劳德代码”会话发送消息 / Message your other Claude Code sessions",
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
+          "id": "f49c1f306709789af4e524d6da243a9ba943f9df",
+          "title": "为什么华尔街忽视大型科技公司的债务 / Why Wall Street Is Ignoring Big Tech's Debt",
+          "url": "https://www.youtube.com/watch?v=NufJ7g63KSY",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T12:01:39Z"
+        },
+        {
+          "id": "43bf37af49cb13e01b08742a2ed44a8deb73f2b5",
+          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
           "source": "HN Algolia · AI 24h",
           "source_name": "Hacker News",
           "site_id": "hackernews",
-          "published_at": "2026-08-08T15:34:49Z"
+          "published_at": "2026-08-09T11:56:16Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5496,
-      "importance": 0.5496,
-      "importance_score": 0.5496,
+      "score": 0.5698,
+      "importance": 0.5698,
+      "importance_score": 0.5698,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8824,
+        "recency": 0.9947,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-08T15:34:49Z",
-      "latest_at": "2026-08-09T06:22:36.507000Z",
+      "earliest_at": "2026-08-09T11:56:16Z",
+      "latest_at": "2026-08-09T15:37:14.306000Z",
       "primary_item": {
-        "id": "c93e2a7d723746932053a05dcfd00125866be205",
-        "title": "向您其他“克劳德代码”会话发送消息",
-        "url": "https://code.claude.com/docs/en/cross-session-messaging",
-        "source": "code.claude.com",
-        "source_name": "Buzzing"
+        "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
+        "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+        "url": "https://news.ycombinator.com/item?id=49230605",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -809,15 +850,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5455,
-      "importance": 0.5455,
-      "importance_score": 0.5455,
+      "score": 0.543,
+      "importance": 0.543,
+      "importance_score": 0.543,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9981,
+        "recency": 0.9845,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -832,85 +873,6 @@
         "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "为什么华尔街忽视大型科技公司的债务 / Why Wall Street Is Ignoring Big Tech's Debt",
-      "url": "https://www.youtube.com/watch?v=NufJ7g63KSY",
-      "primary_url": "https://www.youtube.com/watch?v=NufJ7g63KSY",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "f49c1f306709789af4e524d6da243a9ba943f9df",
-          "title": "为什么华尔街忽视大型科技公司的债务 / Why Wall Street Is Ignoring Big Tech's Debt",
-          "url": "https://www.youtube.com/watch?v=NufJ7g63KSY",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T12:01:39Z"
-        },
-        {
-          "id": "43bf37af49cb13e01b08742a2ed44a8deb73f2b5",
-          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-09T11:56:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "f49c1f306709789af4e524d6da243a9ba943f9df",
-          "title": "为什么华尔街忽视大型科技公司的债务 / Why Wall Street Is Ignoring Big Tech's Debt",
-          "url": "https://www.youtube.com/watch?v=NufJ7g63KSY",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T12:01:39Z"
-        },
-        {
-          "id": "43bf37af49cb13e01b08742a2ed44a8deb73f2b5",
-          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-09T11:56:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5381,
-      "importance": 0.5381,
-      "importance_score": 0.5381,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9574,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T11:56:16Z",
-      "latest_at": "2026-08-09T12:01:39Z",
-      "primary_item": {
-        "id": "f49c1f306709789af4e524d6da243a9ba943f9df",
-        "title": "为什么华尔街忽视大型科技公司的债务 / Why Wall Street Is Ignoring Big Tech's Debt",
-        "url": "https://www.youtube.com/watch?v=NufJ7g63KSY",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -985,15 +947,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5345,
-      "importance": 0.5345,
-      "importance_score": 0.5345,
+      "score": 0.5325,
+      "importance": 0.5325,
+      "importance_score": 0.5325,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7983,
+        "recency": 0.7875,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1008,6 +970,104 @@
         "url": "https://github.com/sebastiancarlos/faaah",
         "source": "github.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_bd5f6c57f204",
+      "title": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
+      "url": "https://news.ycombinator.com/item?id=49230550",
+      "primary_url": "https://news.ycombinator.com/item?id=49230550",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "170aa6c78fb817e9e360f77b6a1353d936704c82",
+          "title": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
+          "url": "https://news.ycombinator.com/item?id=49230550",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T12:36:51.496000Z"
+        },
+        {
+          "id": "2a51c08bd79c5a401d68a6701c1721d11d8cc46f",
+          "title": "Show HN: DeepSeek-V4 潜在推理——将“思考”转移到潜在空间",
+          "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+          "source": "blog.n.ichol.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T11:58:46.174000Z"
+        },
+        {
+          "id": "c277db0fedc5a6b755531758f2541e4e4c48d082",
+          "title": "Show HN: DeepSeek-V4 潜在推理——将“思考”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
+          "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T11:46:28Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "blog.n.ichol.ai",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "170aa6c78fb817e9e360f77b6a1353d936704c82",
+          "title": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
+          "url": "https://news.ycombinator.com/item?id=49230550",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T12:36:51.496000Z"
+        },
+        {
+          "id": "2a51c08bd79c5a401d68a6701c1721d11d8cc46f",
+          "title": "Show HN: DeepSeek-V4 潜在推理——将“思考”转移到潜在空间",
+          "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+          "source": "blog.n.ichol.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T11:58:46.174000Z"
+        },
+        {
+          "id": "c277db0fedc5a6b755531758f2541e4e4c48d082",
+          "title": "Show HN: DeepSeek-V4 潜在推理——将“思考”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
+          "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T11:46:28Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5622,
+      "importance": 0.5622,
+      "importance_score": 0.5622,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9524,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T11:46:28Z",
+      "latest_at": "2026-08-09T12:36:51.496000Z",
+      "primary_item": {
+        "id": "170aa6c78fb817e9e360f77b6a1353d936704c82",
+        "title": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
+        "url": "https://news.ycombinator.com/item?id=49230550",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1083,15 +1143,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5264,
-      "importance": 0.5264,
-      "importance_score": 0.5264,
+      "score": 0.5246,
+      "importance": 0.5246,
+      "importance_score": 0.5246,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7536,
+        "recency": 0.7433,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1162,15 +1222,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5246,
-      "importance": 0.5246,
-      "importance_score": 0.5246,
+      "score": 0.5225,
+      "importance": 0.5225,
+      "importance_score": 0.5225,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8824,
+        "recency": 0.8704,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1241,15 +1301,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5226,
-      "importance": 0.5226,
-      "importance_score": 0.5226,
+      "score": 0.5205,
+      "importance": 0.5205,
+      "importance_score": 0.5205,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8713,
+        "recency": 0.8594,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1320,15 +1380,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5119,
-      "importance": 0.5119,
-      "importance_score": 0.5119,
+      "score": 0.51,
+      "importance": 0.51,
+      "importance_score": 0.51,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.32,
         "ai_relevance": 0.67,
-        "recency": 0.7652,
+        "recency": 0.7548,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1343,85 +1403,6 @@
         "url": "https://revisionprompting.info",
         "source": "revisionprompting.info",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_644ee0a04941",
-      "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-      "url": "https://news.ycombinator.com/item?id=49229412",
-      "primary_url": "https://news.ycombinator.com/item?id=49229412",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
-          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "url": "https://news.ycombinator.com/item?id=49229412",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T10:41:52.976000Z"
-        },
-        {
-          "id": "e9a8939f4cc426279f94b42f96e4aacc82320dc5",
-          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T08:00:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
-          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "url": "https://news.ycombinator.com/item?id=49229412",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T10:41:52.976000Z"
-        },
-        {
-          "id": "e9a8939f4cc426279f94b42f96e4aacc82320dc5",
-          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T08:00:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9392,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T08:00:51Z",
-      "latest_at": "2026-08-09T10:41:52.976000Z",
-      "primary_item": {
-        "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
-        "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-        "url": "https://news.ycombinator.com/item?id=49229412",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1478,15 +1459,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5017,
-      "importance": 0.5017,
-      "importance_score": 0.5017,
+      "score": 0.4999,
+      "importance": 0.4999,
+      "importance_score": 0.4999,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7553,
+        "recency": 0.745,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1557,15 +1538,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5315,
-      "importance": 0.5315,
-      "importance_score": 0.5315,
+      "score": 0.5292,
+      "importance": 0.5292,
+      "importance_score": 0.5292,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9206,
+        "recency": 0.908,
         "story_heat": 0.25
       },
       "category": "watch",
