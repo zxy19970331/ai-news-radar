@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T06:54:46.114752Z",
+  "generated_at": "2026-08-12T08:23:10.955896Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8515,
-      "importance": 0.8515,
-      "importance_score": 0.8515,
+      "score": 0.8477,
+      "importance": 0.8477,
+      "importance_score": 0.8477,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9825,
+        "recency": 0.9618,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -176,15 +176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8362,
-      "importance": 0.8362,
-      "importance_score": 0.8362,
+      "score": 0.8331,
+      "importance": 0.8331,
+      "importance_score": 0.8331,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.818,
+        "recency": 0.8008,
         "story_heat": 0.25
       },
       "category": "official",
@@ -239,15 +239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8263,
-      "importance": 0.8263,
-      "importance_score": 0.8263,
+      "score": 0.8231,
+      "importance": 0.8231,
+      "importance_score": 0.8231,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8575,
+        "recency": 0.8394,
         "story_heat": 0.0
       },
       "category": "official",
@@ -301,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.779,
+        "recency": 0.7626,
         "story_heat": 0.0
       },
       "category": "official",
@@ -363,15 +363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8131,
-      "importance": 0.8131,
-      "importance_score": 0.8131,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7393,
+        "recency": 0.7238,
         "story_heat": 0.0
       },
       "category": "official",
@@ -427,7 +427,7 @@
         },
         {
           "id": "a9b3f1ef17a821b3975a91a795f6a120a6a5480c",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
           "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -436,7 +436,7 @@
         },
         {
           "id": "d2b7aec04594679734bd16690316a9172d0a10b8",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
           "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -482,7 +482,7 @@
         },
         {
           "id": "a9b3f1ef17a821b3975a91a795f6a120a6a5480c",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
           "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -491,7 +491,7 @@
         },
         {
           "id": "d2b7aec04594679734bd16690316a9172d0a10b8",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
           "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -501,15 +501,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8372,
-      "importance": 0.8372,
-      "importance_score": 0.8372,
+      "score": 0.8341,
+      "importance": 0.8341,
+      "importance_score": 0.8341,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8143,
+        "recency": 0.7972,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -526,6 +526,87 @@
         "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_456fc214b456",
+      "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+      "url": "https://www.aibase.com/news/30277",
+      "primary_url": "https://www.aibase.com/news/30277",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
+          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "url": "https://www.aibase.com/news/30277",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T08:23:10.955896Z"
+        },
+        {
+          "id": "4357d7ce8cfc62fff19f5c9525af3dac6a8dda2d",
+          "title": "LTX 正式发布开放世界模型 LTX-2.5：原生集成 ComfyUI，中小企业免费",
+          "url": "https://www.aibase.com/zh/news/30277",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
+          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "url": "https://www.aibase.com/news/30277",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T08:23:10.955896Z"
+        },
+        {
+          "id": "4357d7ce8cfc62fff19f5c9525af3dac6a8dda2d",
+          "title": "LTX 正式发布开放世界模型 LTX-2.5：原生集成 ComfyUI，中小企业免费",
+          "url": "https://www.aibase.com/zh/news/30277",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T08:23:10.955896Z",
+      "latest_at": "2026-08-12T08:23:10.955896Z",
+      "primary_item": {
+        "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
+        "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+        "url": "https://www.aibase.com/news/30277",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -582,15 +663,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7948,
-      "importance": 0.7948,
-      "importance_score": 0.7948,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7456,
+        "recency": 0.7299,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -682,15 +763,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7948,
-      "importance": 0.7948,
-      "importance_score": 0.7948,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9067,
+        "recency": 0.8876,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -744,15 +825,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
+      "score": 0.8187,
+      "importance": 0.8187,
+      "importance_score": 0.8187,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8327,
+        "recency": 0.8151,
         "story_heat": 0.0
       },
       "category": "official",
@@ -825,15 +906,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7897,
-      "importance": 0.7897,
-      "importance_score": 0.7897,
+      "score": 0.7865,
+      "importance": 0.7865,
+      "importance_score": 0.7865,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8504,
+        "recency": 0.8325,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -850,87 +931,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7958c202a17d",
-      "title": "医疗AI迎来重大突破：研究型系统AMIE首次展示实时临床视频问诊能力",
-      "url": "https://www.aibase.com/news/30271",
-      "primary_url": "https://www.aibase.com/news/30271",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bb106316ad2c12f0c281a97e25e6431fbd8d6573",
-          "title": "医疗AI迎来重大突破：研究型系统AMIE首次展示实时临床视频问诊能力",
-          "url": "https://www.aibase.com/news/30271",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T05:15:17.212934Z"
-        },
-        {
-          "id": "d4e29f7fd60572cdb6800ce593095b96e7a3b7b5",
-          "title": "医疗 AI 迎来重大突破：研究型系统 AMIE 首次展示实时临床视频问诊能力",
-          "url": "https://www.aibase.com/zh/news/30271",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "bb106316ad2c12f0c281a97e25e6431fbd8d6573",
-          "title": "医疗AI迎来重大突破：研究型系统AMIE首次展示实时临床视频问诊能力",
-          "url": "https://www.aibase.com/news/30271",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T05:15:17.212934Z"
-        },
-        {
-          "id": "d4e29f7fd60572cdb6800ce593095b96e7a3b7b5",
-          "title": "医疗 AI 迎来重大突破：研究型系统 AMIE 首次展示实时临床视频问诊能力",
-          "url": "https://www.aibase.com/zh/news/30271",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7883,
-      "importance": 0.7883,
-      "importance_score": 0.7883,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9763,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T05:15:17.212934Z",
-      "latest_at": "2026-08-12T05:15:17.212934Z",
-      "primary_item": {
-        "id": "bb106316ad2c12f0c281a97e25e6431fbd8d6573",
-        "title": "医疗AI迎来重大突破：研究型系统AMIE首次展示实时临床视频问诊能力",
-        "url": "https://www.aibase.com/news/30271",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -987,15 +987,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7852,
-      "importance": 0.7852,
-      "importance_score": 0.7852,
+      "score": 0.7821,
+      "importance": 0.7821,
+      "importance_score": 0.7821,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8257,
+        "recency": 0.8083,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1049,15 +1049,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
+      "score": 0.8023,
+      "importance": 0.8023,
+      "importance_score": 0.8023,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7393,
+        "recency": 0.7238,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1111,15 +1111,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8187,
-      "importance": 0.8187,
-      "importance_score": 0.8187,
+      "score": 0.8155,
+      "importance": 0.8155,
+      "importance_score": 0.8155,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8597,
+        "recency": 0.8416,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1139,26 +1139,26 @@
       }
     },
     {
-      "story_id": "story_e4f4793b8655",
-      "title": "量子计算首次入驻云巨头数据中心：Quantinuum 将 98 量子比特 Helios 装进 Oracle AI 数据中心",
-      "url": "https://www.aibase.com/news/30273",
-      "primary_url": "https://www.aibase.com/news/30273",
+      "story_id": "story_7958c202a17d",
+      "title": "医疗AI迎来重大突破：研究型系统AMIE首次展示实时临床视频问诊能力",
+      "url": "https://www.aibase.com/news/30271",
+      "primary_url": "https://www.aibase.com/news/30271",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6296e14ad778412341ccc1dfd27d4c4acb045a57",
-          "title": "量子计算首次入驻云巨头数据中心：Quantinuum 将 98 量子比特 Helios 装进 Oracle AI 数据中心",
-          "url": "https://www.aibase.com/news/30273",
+          "id": "bb106316ad2c12f0c281a97e25e6431fbd8d6573",
+          "title": "医疗AI迎来重大突破：研究型系统AMIE首次展示实时临床视频问诊能力",
+          "url": "https://www.aibase.com/news/30271",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-12T05:15:17.212934Z"
         },
         {
-          "id": "52f15384f190f8028c277eb53949533e5bc7375e",
-          "title": "量子计算首次入驻云巨头数据中心：Quantinuum 将 98 量子比特 Helios 装进 Oracle AI 数据中心",
-          "url": "https://www.aibase.com/zh/news/30273",
+          "id": "d4e29f7fd60572cdb6800ce593095b96e7a3b7b5",
+          "title": "医疗 AI 迎来重大突破：研究型系统 AMIE 首次展示实时临床视频问诊能力",
+          "url": "https://www.aibase.com/zh/news/30271",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1172,18 +1172,18 @@
       ],
       "items": [
         {
-          "id": "6296e14ad778412341ccc1dfd27d4c4acb045a57",
-          "title": "量子计算首次入驻云巨头数据中心：Quantinuum 将 98 量子比特 Helios 装进 Oracle AI 数据中心",
-          "url": "https://www.aibase.com/news/30273",
+          "id": "bb106316ad2c12f0c281a97e25e6431fbd8d6573",
+          "title": "医疗AI迎来重大突破：研究型系统AMIE首次展示实时临床视频问诊能力",
+          "url": "https://www.aibase.com/news/30271",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-12T05:15:17.212934Z"
         },
         {
-          "id": "52f15384f190f8028c277eb53949533e5bc7375e",
-          "title": "量子计算首次入驻云巨头数据中心：Quantinuum 将 98 量子比特 Helios 装进 Oracle AI 数据中心",
-          "url": "https://www.aibase.com/zh/news/30273",
+          "id": "d4e29f7fd60572cdb6800ce593095b96e7a3b7b5",
+          "title": "医疗 AI 迎来重大突破：研究型系统 AMIE 首次展示实时临床视频问诊能力",
+          "url": "https://www.aibase.com/zh/news/30271",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1192,15 +1192,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7883,
-      "importance": 0.7883,
-      "importance_score": 0.7883,
+      "score": 0.7846,
+      "importance": 0.7846,
+      "importance_score": 0.7846,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9763,
+        "recency": 0.9558,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1212,9 +1212,9 @@
       "earliest_at": "2026-08-12T05:15:17.212934Z",
       "latest_at": "2026-08-12T05:15:17.212934Z",
       "primary_item": {
-        "id": "6296e14ad778412341ccc1dfd27d4c4acb045a57",
-        "title": "量子计算首次入驻云巨头数据中心：Quantinuum 将 98 量子比特 Helios 装进 Oracle AI 数据中心",
-        "url": "https://www.aibase.com/news/30273",
+        "id": "bb106316ad2c12f0c281a97e25e6431fbd8d6573",
+        "title": "医疗AI迎来重大突破：研究型系统AMIE首次展示实时临床视频问诊能力",
+        "url": "https://www.aibase.com/news/30271",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1254,15 +1254,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8181,
+        "recency": 0.8009,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1276,66 +1276,6 @@
         "title": "Gemini月活破10亿，成谷歌增长最快产品",
         "url": "https://x.com/sundarpichai/status/2087222656819241292",
         "source": "X：Sundar Pichai (@sundarpichai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1e7e2d06b693",
-      "title": "Runway Seedance 2.5 上线，支持50角色参考",
-      "url": "https://x.com/runwayml/status/2087251184658657346",
-      "primary_url": "https://x.com/runwayml/status/2087251184658657346",
-      "source": "X：Runway (@runwayml)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
-          "title": "Runway Seedance 2.5 上线，支持50角色参考",
-          "url": "https://x.com/runwayml/status/2087251184658657346",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T18:53:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Runway (@runwayml)"
-      ],
-      "items": [
-        {
-          "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
-          "title": "Runway Seedance 2.5 上线，支持50角色参考",
-          "url": "https://x.com/runwayml/status/2087251184658657346",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T18:53:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8407,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T18:53:56Z",
-      "latest_at": "2026-08-11T18:53:56Z",
-      "primary_item": {
-        "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
-        "title": "Runway Seedance 2.5 上线，支持50角色参考",
-        "url": "https://x.com/runwayml/status/2087251184658657346",
-        "source": "X：Runway (@runwayml)",
         "source_name": "AI HOT"
       }
     },
@@ -1374,15 +1314,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7386,
-      "importance": 0.7386,
-      "importance_score": 0.7386,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7722,
+        "recency": 0.7559,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1396,6 +1336,66 @@
         "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
         "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
         "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1e7e2d06b693",
+      "title": "Runway Seedance 2.5 上线，支持50角色参考",
+      "url": "https://x.com/runwayml/status/2087251184658657346",
+      "primary_url": "https://x.com/runwayml/status/2087251184658657346",
+      "source": "X：Runway (@runwayml)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
+          "title": "Runway Seedance 2.5 上线，支持50角色参考",
+          "url": "https://x.com/runwayml/status/2087251184658657346",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T18:53:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Runway (@runwayml)"
+      ],
+      "items": [
+        {
+          "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
+          "title": "Runway Seedance 2.5 上线，支持50角色参考",
+          "url": "https://x.com/runwayml/status/2087251184658657346",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T18:53:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.823,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-11T18:53:56Z",
+      "latest_at": "2026-08-11T18:53:56Z",
+      "primary_item": {
+        "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
+        "title": "Runway Seedance 2.5 上线，支持50角色参考",
+        "url": "https://x.com/runwayml/status/2087251184658657346",
+        "source": "X：Runway (@runwayml)",
         "source_name": "AI HOT"
       }
     },
@@ -1434,15 +1434,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7818,
+        "recency": 0.7653,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1460,62 +1460,63 @@
       }
     },
     {
-      "story_id": "story_3eae35082480",
-      "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-      "primary_url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-      "source": "Google Cloud：Databases（RSS）",
+      "story_id": "story_8925a4da83bc",
+      "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+      "url": "https://www.ithome.com/0/988/766.htm",
+      "primary_url": "https://www.ithome.com/0/988/766.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
-          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-          "source": "Google Cloud：Databases（RSS）",
+          "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
+          "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+          "url": "https://www.ithome.com/0/988/766.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-11T16:00:00Z"
+          "published_at": "2026-08-12T06:46:51Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google Cloud：Databases（RSS）"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
-          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-          "source": "Google Cloud：Databases（RSS）",
+          "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
+          "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+          "url": "https://www.ithome.com/0/988/766.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-11T16:00:00Z"
+          "published_at": "2026-08-12T06:46:51Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8063,
+        "recency": 0.9771,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-11T16:00:00Z",
-      "latest_at": "2026-08-11T16:00:00Z",
+      "earliest_at": "2026-08-12T06:46:51Z",
+      "latest_at": "2026-08-12T06:46:51Z",
       "primary_item": {
-        "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
-        "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-        "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-        "source": "Google Cloud：Databases（RSS）",
+        "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
+        "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+        "url": "https://www.ithome.com/0/988/766.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     }
