@@ -1,8 +1,132 @@
 {
-  "generated_at": "2026-08-12T13:59:14.789129Z",
+  "generated_at": "2026-08-12T15:08:18.847934Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_ab799e9da743",
+      "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
+          "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T14:00:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
+          "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T14:00:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8631,
+      "importance": 0.8631,
+      "importance_score": 0.8631,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9839,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T14:00:51Z",
+      "latest_at": "2026-08-12T14:00:51Z",
+      "primary_item": {
+        "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
+        "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9c2d2be8f210",
+      "title": "将手语人工智能交到用户手中 / Putting sign language AI into users’ hands",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
+      "primary_url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f4b3d51450affd47eb9faf2cd2b42e2d79128492",
+          "title": "将手语人工智能交到用户手中 / Putting sign language AI into users’ hands",
+          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T14:01:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "f4b3d51450affd47eb9faf2cd2b42e2d79128492",
+          "title": "将手语人工智能交到用户手中 / Putting sign language AI into users’ hands",
+          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T14:01:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8411,
+      "importance": 0.8411,
+      "importance_score": 0.8411,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9842,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T14:01:59Z",
+      "latest_at": "2026-08-12T14:01:59Z",
+      "primary_item": {
+        "id": "f4b3d51450affd47eb9faf2cd2b42e2d79128492",
+        "title": "将手语人工智能交到用户手中 / Putting sign language AI into users’ hands",
+        "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_40f97f4ec864",
       "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
@@ -39,18 +163,18 @@
           "published_at": "2026-08-12T05:02:33.250000Z"
         },
         {
-          "id": "89ae5bcf405610024be71dce015b500e864559e3",
+          "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
           "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-12T02:05:42Z"
         }
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "hackernews",
         "www.404media.co"
@@ -84,26 +208,26 @@
           "published_at": "2026-08-12T05:02:33.250000Z"
         },
         {
-          "id": "89ae5bcf405610024be71dce015b500e864559e3",
+          "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
           "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-12T02:05:42Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
+      "score": 0.8316,
+      "importance": 0.8316,
+      "importance_score": 0.8316,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8871,
+        "recency": 0.8725,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8297,
+      "importance": 0.8297,
+      "importance_score": 0.8297,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8911,
+        "recency": 0.8764,
         "story_heat": 0.0
       },
       "category": "official",
@@ -238,15 +362,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
+      "score": 0.8197,
+      "importance": 0.8197,
+      "importance_score": 0.8197,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7385,
+        "recency": 0.7264,
         "story_heat": 0.25
       },
       "category": "official",
@@ -301,15 +425,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8114,
-      "importance": 0.8114,
-      "importance_score": 0.8114,
+      "score": 0.8091,
+      "importance": 0.8091,
+      "importance_score": 0.8091,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7742,
+        "recency": 0.7614,
         "story_heat": 0.0
       },
       "category": "official",
@@ -326,144 +450,6 @@
         "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_800ebb0d7846",
-      "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "primary_url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:41:17.281000Z"
-        },
-        {
-          "id": "4b2102e403d9dec5881249532877b86614b3ef6f",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-11T16:41:17.281000Z"
-        },
-        {
-          "id": "6d1cfa2910e04a5058b726a06334be2164e1126a",
-          "title": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "url": "https://news.ycombinator.com/item?id=49259339",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T16:28:16.467000Z"
-        },
-        {
-          "id": "a9b3f1ef17a821b3975a91a795f6a120a6a5480c",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T14:50:33Z"
-        },
-        {
-          "id": "d2b7aec04594679734bd16690316a9172d0a10b8",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-11T14:50:33Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:41:17.281000Z"
-        },
-        {
-          "id": "4b2102e403d9dec5881249532877b86614b3ef6f",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-11T16:41:17.281000Z"
-        },
-        {
-          "id": "6d1cfa2910e04a5058b726a06334be2164e1126a",
-          "title": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "url": "https://news.ycombinator.com/item?id=49259339",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T16:28:16.467000Z"
-        },
-        {
-          "id": "a9b3f1ef17a821b3975a91a795f6a120a6a5480c",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T14:50:33Z"
-        },
-        {
-          "id": "d2b7aec04594679734bd16690316a9172d0a10b8",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-11T14:50:33Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7352,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T14:50:33Z",
-      "latest_at": "2026-08-11T16:41:17.281000Z",
-      "primary_item": {
-        "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
-        "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-        "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -520,15 +506,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.94,
+        "recency": 0.9245,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -582,15 +568,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
+      "score": 0.8051,
+      "importance": 0.8051,
+      "importance_score": 0.8051,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7518,
+        "recency": 0.7394,
         "story_heat": 0.0
       },
       "category": "official",
@@ -663,15 +649,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7679,
+        "recency": 0.7552,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -744,15 +730,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7686,
+      "importance": 0.7686,
+      "importance_score": 0.7686,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7455,
+        "recency": 0.7332,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -806,15 +792,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9718,
+        "recency": 0.9558,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -829,87 +815,6 @@
         "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
         "url": "https://x.com/OpenRouter/status/2087509478480765218",
         "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "零基础用户半天上手AI的12步实操流程",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d747a416f4c95455fae2ec95897bb170bc08f61c",
-          "title": "零基础用户半天上手AI的12步实操流程",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T00:08:00Z"
-        },
-        {
-          "id": "e0037c6da88c5465caeb47927f1f7f298ffc49a9",
-          "title": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T14:15:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "公众号：卡尔的AI沃茨",
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "d747a416f4c95455fae2ec95897bb170bc08f61c",
-          "title": "零基础用户半天上手AI的12步实操流程",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T00:08:00Z"
-        },
-        {
-          "id": "e0037c6da88c5465caeb47927f1f7f298ffc49a9",
-          "title": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T14:15:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8187,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T14:15:07Z",
-      "latest_at": "2026-08-12T00:08:00Z",
-      "primary_item": {
-        "id": "d747a416f4c95455fae2ec95897bb170bc08f61c",
-        "title": "零基础用户半天上手AI的12步实操流程",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
-        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -967,15 +872,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.94,
+        "recency": 0.9245,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1029,15 +934,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9012,
+        "recency": 0.8863,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1089,15 +994,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7762,
+        "recency": 0.7634,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1151,15 +1056,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7356,
-      "importance": 0.7356,
-      "importance_score": 0.7356,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7386,
+        "recency": 0.7265,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1173,6 +1078,126 @@
         "title": "Gemini月活破10亿，成谷歌增长最快产品",
         "url": "https://x.com/sundarpichai/status/2087222656819241292",
         "source": "X：Sundar Pichai (@sundarpichai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ec0d34d30f20",
+      "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
+      "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+      "primary_url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+      "source": "Nathan Lambert：Interconnects（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9ebbab8acc299b2a6ba84182ed950e6abe29ec7b",
+          "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
+          "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+          "source": "Nathan Lambert：Interconnects（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T13:01:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Nathan Lambert：Interconnects（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9ebbab8acc299b2a6ba84182ed950e6abe29ec7b",
+          "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
+          "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+          "source": "Nathan Lambert：Interconnects（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T13:01:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7322,
+      "importance": 0.7322,
+      "importance_score": 0.7322,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.62,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9699,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T13:01:16Z",
+      "latest_at": "2026-08-12T13:01:16Z",
+      "primary_item": {
+        "id": "9ebbab8acc299b2a6ba84182ed950e6abe29ec7b",
+        "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
+        "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+        "source": "Nathan Lambert：Interconnects（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "零基础用户半天上手AI的12步实操流程",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d747a416f4c95455fae2ec95897bb170bc08f61c",
+          "title": "零基础用户半天上手AI的12步实操流程",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T00:08:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "d747a416f4c95455fae2ec95897bb170bc08f61c",
+          "title": "零基础用户半天上手AI的12步实操流程",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T00:08:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8052,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T00:08:00Z",
+      "latest_at": "2026-08-12T00:08:00Z",
+      "primary_item": {
+        "id": "d747a416f4c95455fae2ec95897bb170bc08f61c",
+        "title": "零基础用户半天上手AI的12步实操流程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -1211,15 +1236,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7242,
-      "importance": 0.7242,
-      "importance_score": 0.7242,
+      "score": 0.722,
+      "importance": 0.722,
+      "importance_score": 0.722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7591,
+        "recency": 0.7466,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1233,209 +1258,6 @@
         "title": "Runway Seedance 2.5 上线，支持50角色参考",
         "url": "https://x.com/runwayml/status/2087251184658657346",
         "source": "X：Runway (@runwayml)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_456fc214b456",
-      "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-      "url": "https://www.aibase.com/news/30277",
-      "primary_url": "https://www.aibase.com/news/30277",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
-          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-          "url": "https://www.aibase.com/news/30277",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T08:23:10.955896Z"
-        },
-        {
-          "id": "4357d7ce8cfc62fff19f5c9525af3dac6a8dda2d",
-          "title": "LTX 正式发布开放世界模型 LTX-2.5：原生集成 ComfyUI，中小企业免费",
-          "url": "https://www.aibase.com/zh/news/30277",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
-          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-          "url": "https://www.aibase.com/news/30277",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T08:23:10.955896Z"
-        },
-        {
-          "id": "4357d7ce8cfc62fff19f5c9525af3dac6a8dda2d",
-          "title": "LTX 正式发布开放世界模型 LTX-2.5：原生集成 ComfyUI，中小企业免费",
-          "url": "https://www.aibase.com/zh/news/30277",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7786,
-      "importance": 0.7786,
-      "importance_score": 0.7786,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9223,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T08:23:10.955896Z",
-      "latest_at": "2026-08-12T08:23:10.955896Z",
-      "primary_item": {
-        "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
-        "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-        "url": "https://www.aibase.com/news/30277",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6d2ce1842205",
-      "title": "自动将分支保护规则迁移到存储库规则集 / Automatically migrate branch protection rules to repository rulesets",
-      "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
-      "primary_url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9218b35fb343b8ac2d17e453ef63046d41d017ef",
-          "title": "自动将分支保护规则迁移到存储库规则集 / Automatically migrate branch protection rules to repository rulesets",
-          "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T19:03:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "9218b35fb343b8ac2d17e453ef63046d41d017ef",
-          "title": "自动将分支保护规则迁移到存储库规则集 / Automatically migrate branch protection rules to repository rulesets",
-          "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T19:03:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7609,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T19:03:57Z",
-      "latest_at": "2026-08-11T19:03:57Z",
-      "primary_item": {
-        "id": "9218b35fb343b8ac2d17e453ef63046d41d017ef",
-        "title": "自动将分支保护规则迁移到存储库规则集 / Automatically migrate branch protection rules to repository rulesets",
-        "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f520ee4ee8e7",
-      "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
-      "url": "https://www.ithome.com/0/988/524.htm",
-      "primary_url": "https://www.ithome.com/0/988/524.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2b93cf3286b962a5fd6e30ed6a7accb666ff80c0",
-          "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
-          "url": "https://www.ithome.com/0/988/524.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T14:54:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2b93cf3286b962a5fd6e30ed6a7accb666ff80c0",
-          "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
-          "url": "https://www.ithome.com/0/988/524.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T14:54:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7256,
-      "importance": 0.7256,
-      "importance_score": 0.7256,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7165,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T14:54:16Z",
-      "latest_at": "2026-08-11T14:54:16Z",
-      "primary_item": {
-        "id": "2b93cf3286b962a5fd6e30ed6a7accb666ff80c0",
-        "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
-        "url": "https://www.ithome.com/0/988/524.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1493,15 +1315,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7519,
+      "importance": 0.7519,
+      "importance_score": 0.7519,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7698,
+        "recency": 0.7571,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1518,6 +1340,87 @@
         "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_456fc214b456",
+      "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+      "url": "https://www.aibase.com/news/30277",
+      "primary_url": "https://www.aibase.com/news/30277",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
+          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "url": "https://www.aibase.com/news/30277",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T08:23:10.955896Z"
+        },
+        {
+          "id": "4357d7ce8cfc62fff19f5c9525af3dac6a8dda2d",
+          "title": "LTX 正式发布开放世界模型 LTX-2.5：原生集成 ComfyUI，中小企业免费",
+          "url": "https://www.aibase.com/zh/news/30277",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
+          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "url": "https://www.aibase.com/news/30277",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T08:23:10.955896Z"
+        },
+        {
+          "id": "4357d7ce8cfc62fff19f5c9525af3dac6a8dda2d",
+          "title": "LTX 正式发布开放世界模型 LTX-2.5：原生集成 ComfyUI，中小企业免费",
+          "url": "https://www.aibase.com/zh/news/30277",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7759,
+      "importance": 0.7759,
+      "importance_score": 0.7759,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9071,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T08:23:10.955896Z",
+      "latest_at": "2026-08-12T08:23:10.955896Z",
+      "primary_item": {
+        "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
+        "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+        "url": "https://www.aibase.com/news/30277",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
