@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T19:09:59.931500Z",
+  "generated_at": "2026-08-12T20:10:11.987593Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8776,
-      "importance": 0.8776,
-      "importance_score": 0.8776,
+      "score": 0.8751,
+      "importance": 0.8751,
+      "importance_score": 0.8751,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9587,
+        "recency": 0.9449,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8596,
-      "importance": 0.8596,
-      "importance_score": 0.8596,
+      "score": 0.857,
+      "importance": 0.857,
+      "importance_score": 0.857,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9976,
+        "recency": 0.9832,
         "story_heat": 0.0
       },
       "category": "official",
@@ -144,6 +144,68 @@
         "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
         "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
         "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_52be363e70b3",
+      "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+      "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "18e5595d096312125c112295fde577991c1afc7c",
+          "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T18:39:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "18e5595d096312125c112295fde577991c1afc7c",
+          "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T18:39:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8481,
+      "importance": 0.8481,
+      "importance_score": 0.8481,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9783,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T18:39:11Z",
+      "latest_at": "2026-08-12T18:39:11Z",
+      "primary_item": {
+        "id": "18e5595d096312125c112295fde577991c1afc7c",
+        "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+        "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -182,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8311,
-      "importance": 0.8311,
-      "importance_score": 0.8311,
+      "score": 0.8287,
+      "importance": 0.8287,
+      "importance_score": 0.8287,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9285,
+        "recency": 0.9152,
         "story_heat": 0.0
       },
       "category": "official",
@@ -244,15 +306,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8531,
-      "importance": 0.8531,
-      "importance_score": 0.8531,
+      "score": 0.8507,
+      "importance": 0.8507,
+      "importance_score": 0.8507,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9283,
+        "recency": 0.9149,
         "story_heat": 0.0
       },
       "category": "official",
@@ -308,7 +370,7 @@
         },
         {
           "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
-          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+          "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -353,7 +415,7 @@
         },
         {
           "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
-          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+          "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -363,15 +425,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8228,
-      "importance": 0.8228,
-      "importance_score": 0.8228,
+      "score": 0.8206,
+      "importance": 0.8206,
+      "importance_score": 0.8206,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8232,
+        "recency": 0.8113,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -425,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8208,
-      "importance": 0.8208,
-      "importance_score": 0.8208,
+      "score": 0.8187,
+      "importance": 0.8187,
+      "importance_score": 0.8187,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8268,
+        "recency": 0.815,
         "story_heat": 0.0
       },
       "category": "official",
@@ -453,21 +515,21 @@
       }
     },
     {
-      "story_id": "story_dad741422848",
-      "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
-      "primary_url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+      "story_id": "story_50336f408dcb",
+      "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+      "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
-          "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
-          "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
+          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-11T20:15:55Z"
+          "published_at": "2026-08-12T18:30:28Z"
         }
       ],
       "source_count": 1,
@@ -476,26 +538,26 @@
       ],
       "items": [
         {
-          "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
-          "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
-          "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
+          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-11T20:15:55Z"
+          "published_at": "2026-08-12T18:30:28Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8013,
-      "importance": 0.8013,
-      "importance_score": 0.8013,
+      "score": 0.8397,
+      "importance": 0.8397,
+      "importance_score": 0.8397,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7184,
+        "ai_relevance": 0.87,
+        "recency": 0.9763,
         "story_heat": 0.0
       },
       "category": "official",
@@ -504,12 +566,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-11T20:15:55Z",
-      "latest_at": "2026-08-11T20:15:55Z",
+      "earliest_at": "2026-08-12T18:30:28Z",
+      "latest_at": "2026-08-12T18:30:28Z",
       "primary_item": {
-        "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
-        "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
-        "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+        "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
+        "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+        "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -568,15 +630,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7696,
-      "importance": 0.7696,
-      "importance_score": 0.7696,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8723,
+        "recency": 0.8597,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -630,15 +692,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -653,87 +715,6 @@
         "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
         "url": "https://www.ithome.com/0/989/001.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_72f52ad1b938",
-      "title": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
-          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T19:41:42Z"
-        },
-        {
-          "id": "6d847b3ebace5350af849256b37529eb3f71a6ed",
-          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-11T19:41:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
-          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T19:41:42Z"
-        },
-        {
-          "id": "6d847b3ebace5350af849256b37529eb3f71a6ed",
-          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-11T19:41:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7125,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T19:41:42Z",
-      "latest_at": "2026-08-11T19:41:42Z",
-      "primary_item": {
-        "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
-        "title": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-        "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -791,15 +772,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7582,
+        "recency": 0.7473,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -816,68 +797,6 @@
         "url": "https://x.ai/news/grok-4-6",
         "source": "xAI：News（网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_81bd7a517074",
-      "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
-      "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-      "primary_url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
-          "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
-          "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T20:26:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
-          "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
-          "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T20:26:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7202,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T20:26:26Z",
-      "latest_at": "2026-08-11T20:26:26Z",
-      "primary_item": {
-        "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
-        "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
-        "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -915,15 +834,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9017,
+        "recency": 0.8888,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -937,6 +856,66 @@
         "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
         "url": "https://x.com/OpenRouter/status/2087509478480765218",
         "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6acbb8c7572b",
+      "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+      "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+      "primary_url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+      "source": "GitHub Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "db8cb1b09708503077cd0ebbc7d6809608eee5d2",
+          "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+          "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T18:00:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "db8cb1b09708503077cd0ebbc7d6809608eee5d2",
+          "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+          "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T18:00:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9692,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T18:00:08Z",
+      "latest_at": "2026-08-12T18:00:08Z",
+      "primary_item": {
+        "id": "db8cb1b09708503077cd0ebbc7d6809608eee5d2",
+        "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+        "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+        "source": "GitHub Blog",
         "source_name": "AI HOT"
       }
     },
@@ -975,15 +954,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9827,
+        "recency": 0.9686,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -998,6 +977,68 @@
         "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
         "source": "Google Research：Blog（网页）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_dad741422848",
+      "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+      "primary_url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
+          "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T20:15:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
+          "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T20:15:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7995,
+      "importance": 0.7995,
+      "importance_score": 0.7995,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7081,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T20:15:55Z",
+      "latest_at": "2026-08-11T20:15:55Z",
+      "primary_item": {
+        "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
+        "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
+        "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1035,15 +1076,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9555,
+        "recency": 0.9418,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1114,15 +1155,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7696,
-      "importance": 0.7696,
-      "importance_score": 0.7696,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8723,
+        "recency": 0.8597,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1139,66 +1180,6 @@
         "url": "https://www.aibase.com/news/30289",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ec0d34d30f20",
-      "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-      "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-      "primary_url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-      "source": "Nathan Lambert：Interconnects（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9ebbab8acc299b2a6ba84182ed950e6abe29ec7b",
-          "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-          "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T13:01:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Nathan Lambert：Interconnects（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9ebbab8acc299b2a6ba84182ed950e6abe29ec7b",
-          "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-          "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T13:01:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7223,
-      "importance": 0.7223,
-      "importance_score": 0.7223,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9151,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T13:01:16Z",
-      "latest_at": "2026-08-12T13:01:16Z",
-      "primary_item": {
-        "id": "9ebbab8acc299b2a6ba84182ed950e6abe29ec7b",
-        "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-        "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-        "source": "Nathan Lambert：Interconnects（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1255,15 +1236,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8558,
+        "recency": 0.8435,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1317,15 +1298,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.733,
+      "importance": 0.733,
+      "importance_score": 0.733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8362,
+        "recency": 0.8242,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1343,84 +1324,65 @@
       }
     },
     {
-      "story_id": "story_31a51d9a09e9",
-      "title": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
-      "url": "https://www.aibase.com/news/30283",
-      "primary_url": "https://www.aibase.com/news/30283",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_81bd7a517074",
+      "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
+      "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
+      "primary_url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "4fc88da65bda692dddd2b6ac4763557b467f43af",
-          "title": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
-          "url": "https://www.aibase.com/news/30283",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T08:23:10.955896Z"
-        },
-        {
-          "id": "c3473b2ee9d39fdf6882560cd609c1363a6e3919",
-          "title": "前通义千问负责人林俊旸官宣创业，成立 AI 实验室 Pragmatik Labs，获数亿美元融资估值达 20 亿",
-          "url": "https://www.aibase.com/zh/news/30283",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
+          "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
+          "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T20:26:26Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "4fc88da65bda692dddd2b6ac4763557b467f43af",
-          "title": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
-          "url": "https://www.aibase.com/news/30283",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T08:23:10.955896Z"
-        },
-        {
-          "id": "c3473b2ee9d39fdf6882560cd609c1363a6e3919",
-          "title": "前通义千问负责人林俊旸官宣创业，成立 AI 实验室 Pragmatik Labs，获数亿美元融资估值达 20 亿",
-          "url": "https://www.aibase.com/zh/news/30283",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
+          "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
+          "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T20:26:26Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
-      "importance_label": "行业动态",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7918,
+      "importance": 0.7918,
+      "importance_score": 0.7918,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8558,
-        "story_heat": 0.25
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7099,
+        "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-12T08:23:10.955896Z",
-      "latest_at": "2026-08-12T09:42:16.625636Z",
+      "earliest_at": "2026-08-11T20:26:26Z",
+      "latest_at": "2026-08-11T20:26:26Z",
       "primary_item": {
-        "id": "4fc88da65bda692dddd2b6ac4763557b467f43af",
-        "title": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
-        "url": "https://www.aibase.com/news/30283",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
+        "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
+        "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     }
   ]
