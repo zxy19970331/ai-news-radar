@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T17:04:37.392594Z",
+  "generated_at": "2026-08-14T18:26:26.520290Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -114,15 +114,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8745,
-      "importance": 0.8745,
-      "importance_score": 0.8745,
+      "score": 0.8713,
+      "importance": 0.8713,
+      "importance_score": 0.8713,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9216,
+        "recency": 0.9036,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -139,6 +139,68 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
         "source": "公众号：小红书技术（dots.llm）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_61fc6209c742",
+      "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
+          "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T16:17:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
+          "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T16:17:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8465,
+      "importance": 0.8465,
+      "importance_score": 0.8465,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9695,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T16:17:46Z",
+      "latest_at": "2026-08-14T16:17:46Z",
+      "primary_item": {
+        "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
+        "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -195,15 +257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8457,
-      "importance": 0.8457,
-      "importance_score": 0.8457,
+      "score": 0.8429,
+      "importance": 0.8429,
+      "importance_score": 0.8429,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7815,
+        "recency": 0.7662,
         "story_heat": 0.25
       },
       "category": "official",
@@ -258,15 +320,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8412,
-      "importance": 0.8412,
-      "importance_score": 0.8412,
+      "score": 0.8378,
+      "importance": 0.8378,
+      "importance_score": 0.8378,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9846,
+        "recency": 0.9654,
         "story_heat": 0.0
       },
       "category": "official",
@@ -282,68 +344,6 @@
         "title": "如何使用代理应用程序将软件交付工作流程引入 GitHub / How to bring your software delivery workflow into GitHub with agent apps",
         "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_117194245eb4",
-      "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
-      "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
-      "primary_url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
-          "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
-          "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T03:15:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
-          "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
-          "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T03:15:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8192,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T03:15:56Z",
-      "latest_at": "2026-08-14T03:15:56Z",
-      "primary_item": {
-        "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
-        "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
-        "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -401,15 +401,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9628,
+        "recency": 0.9441,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -429,49 +429,149 @@
       }
     },
     {
-      "story_id": "story_c1c988556190",
-      "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "primary_url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "source": "Hugging Face Blog",
+      "story_id": "story_20b744e598ba",
+      "title": "Cursor 正式被 SpaceX 收购",
+      "url": "https://cursor.com/blog/joining-spacex",
+      "primary_url": "https://cursor.com/blog/joining-spacex",
+      "source": "Cursor Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "37be0084d39109564aa95e679db99447f43ba6a3",
+          "title": "Cursor 正式被 SpaceX 收购",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T12:00:00Z"
+        },
+        {
+          "id": "b86c20d9cb5cc2585a4918a90a21a06028ca09a8",
+          "title": "Cursor 正式被 SpaceX 收购 / Cursor Is Joining SpaceX",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-14T13:10:12Z"
+        },
+        {
+          "id": "546db9bf87c619ee45dc6f2948f0751751c8841d",
+          "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-14T13:10:12Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Cursor Blog",
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "37be0084d39109564aa95e679db99447f43ba6a3",
+          "title": "Cursor 正式被 SpaceX 收购",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T12:00:00Z"
+        },
+        {
+          "id": "b86c20d9cb5cc2585a4918a90a21a06028ca09a8",
+          "title": "Cursor 正式被 SpaceX 收购 / Cursor Is Joining SpaceX",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-14T13:10:12Z"
+        },
+        {
+          "id": "546db9bf87c619ee45dc6f2948f0751751c8841d",
+          "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-14T13:10:12Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7896,
+      "importance": 0.7896,
+      "importance_score": 0.7896,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9112,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T12:00:00Z",
+      "latest_at": "2026-08-14T13:10:12Z",
+      "primary_item": {
+        "id": "37be0084d39109564aa95e679db99447f43ba6a3",
+        "title": "Cursor 正式被 SpaceX 收购",
+        "url": "https://cursor.com/blog/joining-spacex",
+        "source": "Cursor Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_117194245eb4",
+      "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
+      "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+      "primary_url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
-          "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-          "source": "Hugging Face Blog",
+          "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
+          "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
+          "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T17:16:04Z"
+          "published_at": "2026-08-14T03:15:56Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
-          "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-          "source": "Hugging Face Blog",
+          "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
+          "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
+          "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T17:16:04Z"
+          "published_at": "2026-08-14T03:15:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
+      "score": 0.8166,
+      "importance": 0.8166,
+      "importance_score": 0.8166,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7091,
+        "ai_relevance": 0.91,
+        "recency": 0.8032,
         "story_heat": 0.0
       },
       "category": "official",
@@ -480,13 +580,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-13T17:16:04Z",
-      "latest_at": "2026-08-13T17:16:04Z",
+      "earliest_at": "2026-08-14T03:15:56Z",
+      "latest_at": "2026-08-14T03:15:56Z",
       "primary_item": {
-        "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
-        "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-        "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-        "source": "Hugging Face Blog",
+        "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
+        "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
+        "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -544,15 +644,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7742,
-      "importance": 0.7742,
-      "importance_score": 0.7742,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.898,
+        "recency": 0.8805,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -606,15 +706,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.7691,
+      "importance": 0.7691,
+      "importance_score": 0.7691,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9436,
+        "recency": 0.9252,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -630,149 +730,6 @@
         "url": "https://x.com/SpaceXAI/status/2088250109188608289",
         "source": "X：SpaceXAI (@SpaceXAI)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_20b744e598ba",
-      "title": "Cursor 正式被 SpaceX 收购",
-      "url": "https://cursor.com/blog/joining-spacex",
-      "primary_url": "https://cursor.com/blog/joining-spacex",
-      "source": "Cursor Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "37be0084d39109564aa95e679db99447f43ba6a3",
-          "title": "Cursor 正式被 SpaceX 收购",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T12:00:00Z"
-        },
-        {
-          "id": "b86c20d9cb5cc2585a4918a90a21a06028ca09a8",
-          "title": "Cursor 正式被 SpaceX 收购 / Cursor Is Joining SpaceX",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-14T13:10:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Cursor Blog",
-        "Hacker News (黑客新闻)"
-      ],
-      "items": [
-        {
-          "id": "37be0084d39109564aa95e679db99447f43ba6a3",
-          "title": "Cursor 正式被 SpaceX 收购",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T12:00:00Z"
-        },
-        {
-          "id": "b86c20d9cb5cc2585a4918a90a21a06028ca09a8",
-          "title": "Cursor 正式被 SpaceX 收购 / Cursor Is Joining SpaceX",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-14T13:10:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9293,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T12:00:00Z",
-      "latest_at": "2026-08-14T13:10:12Z",
-      "primary_item": {
-        "id": "37be0084d39109564aa95e679db99447f43ba6a3",
-        "title": "Cursor 正式被 SpaceX 收购",
-        "url": "https://cursor.com/blog/joining-spacex",
-        "source": "Cursor Blog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7b7795911104",
-      "title": "许可数据质量改进 / License data quality improvements",
-      "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-      "primary_url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "87dd2c8686ef4e741185768b45139d717de59f24",
-          "title": "许可数据质量改进 / License data quality improvements",
-          "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T19:14:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "87dd2c8686ef4e741185768b45139d717de59f24",
-          "title": "许可数据质量改进 / License data quality improvements",
-          "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T19:14:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7295,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T19:14:12Z",
-      "latest_at": "2026-08-13T19:14:12Z",
-      "primary_item": {
-        "id": "87dd2c8686ef4e741185768b45139d717de59f24",
-        "title": "许可数据质量改进 / License data quality improvements",
-        "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -810,15 +767,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9711,
+        "recency": 0.9522,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -871,21 +828,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9686,
+        "recency": 0.9497,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-14T14:52:10Z",
       "latest_at": "2026-08-14T14:52:10Z",
@@ -894,6 +850,66 @@
         "title": "Cursor 正式加入 SpaceX，助力 Grok 生态",
         "url": "https://x.com/mntruell/status/2088277505933488137",
         "source": "X：Michael Truell (@mntruell)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5bb924366b41",
+      "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
+      "url": "https://x.com/GeminiApp/status/2088326407730692538",
+      "primary_url": "https://x.com/GeminiApp/status/2088326407730692538",
+      "source": "X：Gemini (@GeminiApp)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ae979d823c43b5207d5f47ae5382d70f81150f8a",
+          "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
+          "url": "https://x.com/GeminiApp/status/2088326407730692538",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T18:06:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Gemini (@GeminiApp)"
+      ],
+      "items": [
+        {
+          "id": "ae979d823c43b5207d5f47ae5382d70f81150f8a",
+          "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
+          "url": "https://x.com/GeminiApp/status/2088326407730692538",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T18:06:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9952,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-14T18:06:29Z",
+      "latest_at": "2026-08-14T18:06:29Z",
+      "primary_item": {
+        "id": "ae979d823c43b5207d5f47ae5382d70f81150f8a",
+        "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
+        "url": "https://x.com/GeminiApp/status/2088326407730692538",
+        "source": "X：Gemini (@GeminiApp)",
         "source_name": "AI HOT"
       }
     },
@@ -951,15 +967,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8636,
+        "recency": 0.8467,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -979,21 +995,21 @@
       }
     },
     {
-      "story_id": "story_968ad09332ea",
-      "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
-      "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
-      "primary_url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+      "story_id": "story_7b7795911104",
+      "title": "许可数据质量改进 / License data quality improvements",
+      "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
+      "primary_url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "60f355677cf4a09c3158662dda1f01d50413d142",
-          "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
-          "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+          "id": "87dd2c8686ef4e741185768b45139d717de59f24",
+          "title": "许可数据质量改进 / License data quality improvements",
+          "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T19:02:46Z"
+          "published_at": "2026-08-13T19:14:12Z"
         }
       ],
       "source_count": 1,
@@ -1002,26 +1018,26 @@
       ],
       "items": [
         {
-          "id": "60f355677cf4a09c3158662dda1f01d50413d142",
-          "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
-          "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+          "id": "87dd2c8686ef4e741185768b45139d717de59f24",
+          "title": "许可数据质量改进 / License data quality improvements",
+          "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T19:02:46Z"
+          "published_at": "2026-08-13T19:14:12Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7275,
+        "recency": 0.7153,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1030,12 +1046,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-13T19:02:46Z",
-      "latest_at": "2026-08-13T19:02:46Z",
+      "earliest_at": "2026-08-13T19:14:12Z",
+      "latest_at": "2026-08-13T19:14:12Z",
       "primary_item": {
-        "id": "60f355677cf4a09c3158662dda1f01d50413d142",
-        "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
-        "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+        "id": "87dd2c8686ef4e741185768b45139d717de59f24",
+        "title": "许可数据质量改进 / License data quality improvements",
+        "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -1094,15 +1110,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7302,
-      "importance": 0.7302,
-      "importance_score": 0.7302,
+      "score": 0.7275,
+      "importance": 0.7275,
+      "importance_score": 0.7275,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7532,
+        "recency": 0.7385,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1118,6 +1134,68 @@
         "url": "https://x.com/bcherny/status/2088014489438621990",
         "source": "X：Boris Cherny (@bcherny)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_968ad09332ea",
+      "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
+      "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+      "primary_url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "60f355677cf4a09c3158662dda1f01d50413d142",
+          "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
+          "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T19:02:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "60f355677cf4a09c3158662dda1f01d50413d142",
+          "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
+          "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T19:02:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7133,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T19:02:46Z",
+      "latest_at": "2026-08-13T19:02:46Z",
+      "primary_item": {
+        "id": "60f355677cf4a09c3158662dda1f01d50413d142",
+        "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
+        "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1174,15 +1252,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8433,
+        "recency": 0.8268,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1255,15 +1333,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8433,
+        "recency": 0.8268,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1389,15 +1467,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6537,
-      "importance": 0.6537,
-      "importance_score": 0.6537,
+      "score": 0.6511,
+      "importance": 0.6511,
+      "importance_score": 0.6511,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5256,
         "source_tier": 0.54,
         "ai_relevance": 0.73,
-        "recency": 0.7288,
+        "recency": 0.7146,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1468,15 +1546,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8176,
+        "recency": 0.8016,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1493,86 +1571,6 @@
         "url": "https://www.aibase.com/news/30338",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_71f28f1b3fcc",
-      "title": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍 / OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
-      "primary_url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "206ac5348dbcc5c7d2f8fb3aa1b757814eb4e638",
-          "title": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍 / OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-13T19:22:40Z"
-        },
-        {
-          "id": "a4b6405fe42e30ccbd34a7e082e867231c5b745a",
-          "title": "OpenAI 推出“超快”新模式，使 GPT 5.6 Sol 的工作速度提高 14 倍 / OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
-          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-13T19:22:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "206ac5348dbcc5c7d2f8fb3aa1b757814eb4e638",
-          "title": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍 / OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-13T19:22:40Z"
-        },
-        {
-          "id": "a4b6405fe42e30ccbd34a7e082e867231c5b745a",
-          "title": "OpenAI 推出“超快”新模式，使 GPT 5.6 Sol 的工作速度提高 14 倍 / OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
-          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-13T19:22:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6253,
-      "importance": 0.6253,
-      "importance_score": 0.6253,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.58,
-        "ai_relevance": 0.82,
-        "recency": 0.731,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-13T19:22:40Z",
-      "latest_at": "2026-08-13T19:22:40Z",
-      "primary_item": {
-        "id": "206ac5348dbcc5c7d2f8fb3aa1b757814eb4e638",
-        "title": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍 / OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-        "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
       }
     }
   ]
