@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T20:36:33.619137Z",
+  "generated_at": "2026-08-14T21:30:47.217172Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -114,15 +114,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8662,
-      "importance": 0.8662,
-      "importance_score": 0.8662,
+      "score": 0.8642,
+      "importance": 0.8642,
+      "importance_score": 0.8642,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8758,
+        "recency": 0.8644,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -213,15 +213,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8637,
-      "importance": 0.8637,
-      "importance_score": 0.8637,
+      "score": 0.8619,
+      "importance": 0.8619,
+      "importance_score": 0.8619,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7426,
+        "recency": 0.733,
         "story_heat": 0.5
       },
       "category": "official",
@@ -276,15 +276,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8411,
-      "importance": 0.8411,
-      "importance_score": 0.8411,
+      "score": 0.8389,
+      "importance": 0.8389,
+      "importance_score": 0.8389,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9396,
+        "recency": 0.9274,
         "story_heat": 0.0
       },
       "category": "official",
@@ -338,15 +338,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8302,
+      "importance": 0.8302,
+      "importance_score": 0.8302,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9356,
+        "recency": 0.9235,
         "story_heat": 0.0
       },
       "category": "official",
@@ -438,15 +438,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7934,
-      "importance": 0.7934,
-      "importance_score": 0.7934,
+      "score": 0.7911,
+      "importance": 0.7911,
+      "importance_score": 0.7911,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9824,
+        "recency": 0.9697,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -519,15 +519,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7893,
-      "importance": 0.7893,
-      "importance_score": 0.7893,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9149,
+        "recency": 0.9031,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -619,15 +619,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7846,
-      "importance": 0.7846,
-      "importance_score": 0.7846,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8831,
+        "recency": 0.8716,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -681,15 +681,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8121,
-      "importance": 0.8121,
-      "importance_score": 0.8121,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7784,
+        "recency": 0.7684,
         "story_heat": 0.0
       },
       "category": "official",
@@ -762,15 +762,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.7642,
+      "importance": 0.7642,
+      "importance_score": 0.7642,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8533,
+        "recency": 0.8422,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -824,15 +824,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.764,
-      "importance": 0.764,
-      "importance_score": 0.764,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8967,
+        "recency": 0.885,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -885,21 +885,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9228,
+        "recency": 0.9108,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-14T15:02:48Z",
       "latest_at": "2026-08-14T15:02:48Z",
@@ -946,15 +945,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9205,
+        "recency": 0.9085,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1006,15 +1005,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9645,
+        "recency": 0.952,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1085,15 +1084,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8206,
+        "recency": 0.81,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1110,86 +1109,6 @@
         "url": "https://www.aibase.com/news/30353",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f02ed6582eed",
-      "title": "Claude 接管应用日常维护：388 个 PR 的实践",
-      "url": "https://x.com/bcherny/status/2088014489438621990",
-      "primary_url": "https://x.com/bcherny/status/2088014489438621990",
-      "source": "X：Boris Cherny (@bcherny)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cfcd90def755975169f4d24accc3d5bf67fe3646",
-          "title": "Claude 接管应用日常维护：388 个 PR 的实践",
-          "url": "https://x.com/bcherny/status/2088014489438621990",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T21:27:02Z"
-        },
-        {
-          "id": "d58dbe5c2328e0e890689f30e1fe7d3206bec20b",
-          "title": "Claude 接管应用日常维护：388 个 PR 的实践 / A weird experiment I've been trying the last few weeks is having Claude take over day-to-day maintenance of our apps. Seeing early signs of life that this might be possible. The setup is straightforward: we have a Sla...",
-          "url": "https://x.com/bcherny/status/2088014489438621990",
-          "source": "Follow Builders · X · Boris Cherny",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-13T21:27:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Boris Cherny",
-        "X：Boris Cherny (@bcherny)"
-      ],
-      "items": [
-        {
-          "id": "cfcd90def755975169f4d24accc3d5bf67fe3646",
-          "title": "Claude 接管应用日常维护：388 个 PR 的实践",
-          "url": "https://x.com/bcherny/status/2088014489438621990",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T21:27:02Z"
-        },
-        {
-          "id": "d58dbe5c2328e0e890689f30e1fe7d3206bec20b",
-          "title": "Claude 接管应用日常维护：388 个 PR 的实践 / A weird experiment I've been trying the last few weeks is having Claude take over day-to-day maintenance of our apps. Seeing early signs of life that this might be possible. The setup is straightforward: we have a Sla...",
-          "url": "https://x.com/bcherny/status/2088014489438621990",
-          "source": "Follow Builders · X · Boris Cherny",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-13T21:27:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7234,
-      "importance": 0.7234,
-      "importance_score": 0.7234,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7157,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-13T21:27:02Z",
-      "latest_at": "2026-08-13T21:27:02Z",
-      "primary_item": {
-        "id": "cfcd90def755975169f4d24accc3d5bf67fe3646",
-        "title": "Claude 接管应用日常维护：388 个 PR 的实践",
-        "url": "https://x.com/bcherny/status/2088014489438621990",
-        "source": "X：Boris Cherny (@bcherny)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1246,15 +1165,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8013,
+        "recency": 0.7909,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1327,15 +1246,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8013,
+        "recency": 0.7909,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1408,15 +1327,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6377,
-      "importance": 0.6377,
-      "importance_score": 0.6377,
+      "score": 0.6355,
+      "importance": 0.6355,
+      "importance_score": 0.6355,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9387,
+        "recency": 0.9265,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1487,15 +1406,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7769,
+        "recency": 0.7668,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1567,15 +1486,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.618,
-      "importance": 0.618,
-      "importance_score": 0.618,
+      "score": 0.6158,
+      "importance": 0.6158,
+      "importance_score": 0.6158,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9445,
+        "recency": 0.9323,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1590,6 +1509,87 @@
         "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
         "source": "The Verge",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_595ebf749a43",
+      "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
+      "url": "https://www.aibase.com/news/30332",
+      "primary_url": "https://www.aibase.com/news/30332",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f93691ad5f2e54d1db9b6439fd6206f0343a4eca",
+          "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
+          "url": "https://www.aibase.com/news/30332",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T03:07:38.875840Z"
+        },
+        {
+          "id": "d2dfa1a6c5a2385836633431b47712658e285f22",
+          "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的「工作记忆」",
+          "url": "https://www.aibase.com/zh/news/30332",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f93691ad5f2e54d1db9b6439fd6206f0343a4eca",
+          "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
+          "url": "https://www.aibase.com/news/30332",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T03:07:38.875840Z"
+        },
+        {
+          "id": "d2dfa1a6c5a2385836633431b47712658e285f22",
+          "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的「工作记忆」",
+          "url": "https://www.aibase.com/zh/news/30332",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7668,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T03:07:38.875840Z",
+      "latest_at": "2026-08-14T03:07:38.875840Z",
+      "primary_item": {
+        "id": "f93691ad5f2e54d1db9b6439fd6206f0343a4eca",
+        "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
+        "url": "https://www.aibase.com/news/30332",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
