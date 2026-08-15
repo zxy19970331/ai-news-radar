@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T11:26:01.949527Z",
+  "generated_at": "2026-08-15T11:48:23.168332Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8324,
+        "recency": 0.8279,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
+      "score": 0.7992,
+      "importance": 0.7992,
+      "importance_score": 0.7992,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7553,
+        "recency": 0.7513,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7585,
+        "recency": 0.7545,
         "story_heat": 0.0
       },
       "category": "official",
@@ -187,6 +187,67 @@
         "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2deeef90fc1a",
+      "title": "人工智能生成的书籍充斥亚马逊，人类作家的销量大幅下降 / AI-generated books are flooding Amazon and tanking sales for human authors",
+      "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+      "primary_url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
+          "title": "人工智能生成的书籍充斥亚马逊，人类作家的销量大幅下降 / AI-generated books are flooding Amazon and tanking sales for human authors",
+          "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-15T11:00:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
+          "title": "人工智能生成的书籍充斥亚马逊，人类作家的销量大幅下降 / AI-generated books are flooding Amazon and tanking sales for human authors",
+          "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-15T11:00:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9886,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-15T11:00:50Z",
+      "latest_at": "2026-08-15T11:00:50Z",
+      "primary_item": {
+        "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
+        "title": "人工智能生成的书籍充斥亚马逊，人类作家的销量大幅下降 / AI-generated books are flooding Amazon and tanking sales for human authors",
+        "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -262,15 +323,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7931,
+        "recency": 0.7888,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -343,15 +404,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7576,
-      "importance": 0.7576,
-      "importance_score": 0.7576,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7386,
+        "recency": 0.7347,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -443,15 +504,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7129,
+        "recency": 0.7091,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -505,15 +566,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7329,
-      "importance": 0.7329,
-      "importance_score": 0.7329,
+      "score": 0.7322,
+      "importance": 0.7322,
+      "importance_score": 0.7322,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7239,
+        "recency": 0.72,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -584,15 +645,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6052,
-      "importance": 0.6052,
-      "importance_score": 0.6052,
+      "score": 0.6044,
+      "importance": 0.6044,
+      "importance_score": 0.6044,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7578,
+        "recency": 0.7537,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -662,15 +723,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5852,
-      "importance": 0.5852,
-      "importance_score": 0.5852,
+      "score": 0.5845,
+      "importance": 0.5845,
+      "importance_score": 0.5845,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7625,
+        "recency": 0.7584,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -760,15 +821,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5593,
-      "importance": 0.5593,
-      "importance_score": 0.5593,
+      "score": 0.5584,
+      "importance": 0.5584,
+      "importance_score": 0.5584,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.936,
+        "recency": 0.931,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -858,15 +919,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5578,
-      "importance": 0.5578,
-      "importance_score": 0.5578,
+      "score": 0.5569,
+      "importance": 0.5569,
+      "importance_score": 0.5569,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9277,
+        "recency": 0.9227,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -937,15 +998,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5441,
-      "importance": 0.5441,
-      "importance_score": 0.5441,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9904,
+        "recency": 0.9851,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -959,6 +1020,85 @@
         "title": "培养人工智能科学家以复现研究成果",
         "url": "https://inherentlabs.ai/research/training-to-replicate",
         "source": "inherentlabs.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5ca8762cdb1c",
+      "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
+      "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
+      "primary_url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7ee4a29d6d020b1a6fc22afabea6a8911898e045",
+          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
+          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T10:45:54.910000Z"
+        },
+        {
+          "id": "0efb6b26ef7382346e60f6420345f3aeb9cedecc",
+          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报 / EY is creating a 'value realization' office to make sure its AI spending pays off",
+          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T10:32:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "7ee4a29d6d020b1a6fc22afabea6a8911898e045",
+          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
+          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T10:45:54.910000Z"
+        },
+        {
+          "id": "0efb6b26ef7382346e60f6420345f3aeb9cedecc",
+          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报 / EY is creating a 'value realization' office to make sure its AI spending pays off",
+          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T10:32:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9851,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T10:32:01Z",
+      "latest_at": "2026-08-15T10:45:54.910000Z",
+      "primary_item": {
+        "id": "7ee4a29d6d020b1a6fc22afabea6a8911898e045",
+        "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
+        "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1035,15 +1175,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8269,
+        "recency": 0.8224,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1057,85 +1197,6 @@
         "title": "充分利用您的克劳德代码（Claude Code）会话",
         "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
         "source": "claude.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c71ab223e5c0",
-      "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工",
-      "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
-      "primary_url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "dbcc639113a67c34be4b15783c590acda889f65c",
-          "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工",
-          "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T08:22:17.069000Z"
-        },
-        {
-          "id": "89c6527e6dbde2f93b0b21e76861baaadbc7d955",
-          "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工 / The AI boss at a San Francisco store just fired its first human",
-          "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T08:11:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "dbcc639113a67c34be4b15783c590acda889f65c",
-          "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工",
-          "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T08:22:17.069000Z"
-        },
-        {
-          "id": "89c6527e6dbde2f93b0b21e76861baaadbc7d955",
-          "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工 / The AI boss at a San Francisco store just fired its first human",
-          "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T08:11:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9567,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T08:11:01Z",
-      "latest_at": "2026-08-15T08:22:17.069000Z",
-      "primary_item": {
-        "id": "dbcc639113a67c34be4b15783c590acda889f65c",
-        "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工",
-        "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1193,15 +1254,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5359,
-      "importance": 0.5359,
-      "importance_score": 0.5359,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9452,
+        "recency": 0.9401,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1272,15 +1333,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5343,
-      "importance": 0.5343,
-      "importance_score": 0.5343,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9359,
+        "recency": 0.9308,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1370,15 +1431,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5335,
-      "importance": 0.5335,
-      "importance_score": 0.5335,
+      "score": 0.5328,
+      "importance": 0.5328,
+      "importance_score": 0.5328,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.793,
+        "recency": 0.7887,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1449,15 +1510,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5234,
-      "importance": 0.5234,
-      "importance_score": 0.5234,
+      "score": 0.5226,
+      "importance": 0.5226,
+      "importance_score": 0.5226,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8756,
+        "recency": 0.8709,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1527,15 +1588,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5199,
-      "importance": 0.5199,
-      "importance_score": 0.5199,
+      "score": 0.519,
+      "importance": 0.519,
+      "importance_score": 0.519,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8559,
+        "recency": 0.8513,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1549,85 +1610,6 @@
         "title": "据《华尔街日报》报道，英伟达缩减了对俄亥俄州OpenAI数据中心的资金担保",
         "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
         "source": "www.reuters.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c035f19b6650",
-      "title": "亲手打造的AI",
-      "url": "https://www.byhand.ai",
-      "primary_url": "https://www.byhand.ai",
-      "source": "www.byhand.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3523b13d05fc4fd151c64c39871e155186a0caf8",
-          "title": "亲手打造的AI",
-          "url": "https://www.byhand.ai",
-          "source": "www.byhand.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T20:56:57.601000Z"
-        },
-        {
-          "id": "272e92f897c88293a600bd3a1108b047008f58f9",
-          "title": "亲手打造的AI / AI by Hand",
-          "url": "https://www.byhand.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-14T15:58:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.byhand.ai"
-      ],
-      "items": [
-        {
-          "id": "3523b13d05fc4fd151c64c39871e155186a0caf8",
-          "title": "亲手打造的AI",
-          "url": "https://www.byhand.ai",
-          "source": "www.byhand.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T20:56:57.601000Z"
-        },
-        {
-          "id": "272e92f897c88293a600bd3a1108b047008f58f9",
-          "title": "亲手打造的AI / AI by Hand",
-          "url": "https://www.byhand.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-14T15:58:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5118,
-      "importance": 0.5118,
-      "importance_score": 0.5118,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8113,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T15:58:59Z",
-      "latest_at": "2026-08-14T20:56:57.601000Z",
-      "primary_item": {
-        "id": "3523b13d05fc4fd151c64c39871e155186a0caf8",
-        "title": "亲手打造的AI",
-        "url": "https://www.byhand.ai",
-        "source": "www.byhand.ai",
         "source_name": "Buzzing"
       }
     }
