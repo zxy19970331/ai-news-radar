@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T11:48:23.168332Z",
+  "generated_at": "2026-08-15T12:49:46.065672Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.813,
-      "importance": 0.813,
-      "importance_score": 0.813,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8279,
+        "recency": 0.8158,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7992,
-      "importance": 0.7992,
-      "importance_score": 0.7992,
+      "score": 0.7972,
+      "importance": 0.7972,
+      "importance_score": 0.7972,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7513,
+        "recency": 0.7402,
         "story_heat": 0.0
       },
       "category": "official",
@@ -125,6 +125,86 @@
         "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2deeef90fc1a",
+      "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors",
+      "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+      "primary_url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
+          "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors",
+          "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-15T11:00:50Z"
+        },
+        {
+          "id": "237f5929662e76d04e6158b8f564028e5c415071",
+          "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
+          "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-15T11:00:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
+          "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors",
+          "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-15T11:00:50Z"
+        },
+        {
+          "id": "237f5929662e76d04e6158b8f564028e5c415071",
+          "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
+          "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-15T11:00:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7819,
+      "importance": 0.7819,
+      "importance_score": 0.7819,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9741,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-15T11:00:50Z",
+      "latest_at": "2026-08-15T11:00:50Z",
+      "primary_item": {
+        "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
+        "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors",
+        "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -162,15 +242,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8078,
-      "importance": 0.8078,
-      "importance_score": 0.8078,
+      "score": 0.8058,
+      "importance": 0.8058,
+      "importance_score": 0.8058,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7545,
+        "recency": 0.7434,
         "story_heat": 0.0
       },
       "category": "official",
@@ -187,67 +267,6 @@
         "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2deeef90fc1a",
-      "title": "人工智能生成的书籍充斥亚马逊，人类作家的销量大幅下降 / AI-generated books are flooding Amazon and tanking sales for human authors",
-      "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
-      "primary_url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
-          "title": "人工智能生成的书籍充斥亚马逊，人类作家的销量大幅下降 / AI-generated books are flooding Amazon and tanking sales for human authors",
-          "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-15T11:00:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
-          "title": "人工智能生成的书籍充斥亚马逊，人类作家的销量大幅下降 / AI-generated books are flooding Amazon and tanking sales for human authors",
-          "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-15T11:00:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9886,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-15T11:00:50Z",
-      "latest_at": "2026-08-15T11:00:50Z",
-      "primary_item": {
-        "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
-        "title": "人工智能生成的书籍充斥亚马逊，人类作家的销量大幅下降 / AI-generated books are flooding Amazon and tanking sales for human authors",
-        "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -323,15 +342,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7565,
+      "importance": 0.7565,
+      "importance_score": 0.7565,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7888,
+        "recency": 0.7773,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -404,15 +423,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7347,
+        "recency": 0.7239,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -428,106 +447,6 @@
         "title": "随着中国人工智能竞争对手不断壮大，OpenAI与Anthropic展开价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
         "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
         "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_20b744e598ba",
-      "title": "Cursor 正式被 SpaceX 收购",
-      "url": "https://cursor.com/blog/joining-spacex",
-      "primary_url": "https://cursor.com/blog/joining-spacex",
-      "source": "Cursor Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "37be0084d39109564aa95e679db99447f43ba6a3",
-          "title": "Cursor 正式被 SpaceX 收购",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T12:00:00Z"
-        },
-        {
-          "id": "b86c20d9cb5cc2585a4918a90a21a06028ca09a8",
-          "title": "Cursor 正式被 SpaceX 收购 / Cursor Is Joining SpaceX",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-14T13:10:12Z"
-        },
-        {
-          "id": "546db9bf87c619ee45dc6f2948f0751751c8841d",
-          "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T13:10:12Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Cursor Blog",
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "37be0084d39109564aa95e679db99447f43ba6a3",
-          "title": "Cursor 正式被 SpaceX 收购",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T12:00:00Z"
-        },
-        {
-          "id": "b86c20d9cb5cc2585a4918a90a21a06028ca09a8",
-          "title": "Cursor 正式被 SpaceX 收购 / Cursor Is Joining SpaceX",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-14T13:10:12Z"
-        },
-        {
-          "id": "546db9bf87c619ee45dc6f2948f0751751c8841d",
-          "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T13:10:12Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7532,
-      "importance": 0.7532,
-      "importance_score": 0.7532,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7091,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T12:00:00Z",
-      "latest_at": "2026-08-14T13:10:12Z",
-      "primary_item": {
-        "id": "37be0084d39109564aa95e679db99447f43ba6a3",
-        "title": "Cursor 正式被 SpaceX 收购",
-        "url": "https://cursor.com/blog/joining-spacex",
-        "source": "Cursor Blog",
         "source_name": "AI HOT"
       }
     },
@@ -566,15 +485,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7322,
-      "importance": 0.7322,
-      "importance_score": 0.7322,
+      "score": 0.7303,
+      "importance": 0.7303,
+      "importance_score": 0.7303,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.72,
+        "recency": 0.7094,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -645,15 +564,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6044,
-      "importance": 0.6044,
-      "importance_score": 0.6044,
+      "score": 0.6024,
+      "importance": 0.6024,
+      "importance_score": 0.6024,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7537,
+        "recency": 0.7427,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -723,15 +642,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5845,
-      "importance": 0.5845,
-      "importance_score": 0.5845,
+      "score": 0.5825,
+      "importance": 0.5825,
+      "importance_score": 0.5825,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7584,
+        "recency": 0.7473,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -821,15 +740,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5584,
-      "importance": 0.5584,
-      "importance_score": 0.5584,
+      "score": 0.5559,
+      "importance": 0.5559,
+      "importance_score": 0.5559,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.931,
+        "recency": 0.9173,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -919,15 +838,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5569,
-      "importance": 0.5569,
-      "importance_score": 0.5569,
+      "score": 0.5545,
+      "importance": 0.5545,
+      "importance_score": 0.5545,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9227,
+        "recency": 0.9092,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -998,15 +917,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9851,
+        "recency": 0.9706,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1077,15 +996,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9851,
+        "recency": 0.9706,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1175,15 +1094,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5388,
-      "importance": 0.5388,
-      "importance_score": 0.5388,
+      "score": 0.5367,
+      "importance": 0.5367,
+      "importance_score": 0.5367,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8224,
+        "recency": 0.8104,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1254,15 +1173,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.5325,
+      "importance": 0.5325,
+      "importance_score": 0.5325,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9401,
+        "recency": 0.9263,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1333,15 +1252,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5334,
-      "importance": 0.5334,
-      "importance_score": 0.5334,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9308,
+        "recency": 0.9172,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1431,15 +1350,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5328,
-      "importance": 0.5328,
-      "importance_score": 0.5328,
+      "score": 0.5307,
+      "importance": 0.5307,
+      "importance_score": 0.5307,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7887,
+        "recency": 0.7772,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1510,15 +1429,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5226,
-      "importance": 0.5226,
-      "importance_score": 0.5226,
+      "score": 0.5203,
+      "importance": 0.5203,
+      "importance_score": 0.5203,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8709,
+        "recency": 0.8581,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1588,15 +1507,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.519,
-      "importance": 0.519,
-      "importance_score": 0.519,
+      "score": 0.5168,
+      "importance": 0.5168,
+      "importance_score": 0.5168,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8513,
+        "recency": 0.8388,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1611,6 +1530,85 @@
         "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
         "source": "www.reuters.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e7607846045a",
+      "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "url": "https://news.ycombinator.com/item?id=49309549",
+      "primary_url": "https://news.ycombinator.com/item?id=49309549",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "346274b22b37e9694636fa708f056faa34061988",
+          "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "url": "https://news.ycombinator.com/item?id=49309549",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T12:38:05.900000Z"
+        },
+        {
+          "id": "bc9604c13e3a66b8b75be69bf59facde955e8ba2",
+          "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "url": "https://sankalp.bearblog.dev/autoresearch",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:00:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "346274b22b37e9694636fa708f056faa34061988",
+          "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "url": "https://news.ycombinator.com/item?id=49309549",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T12:38:05.900000Z"
+        },
+        {
+          "id": "bc9604c13e3a66b8b75be69bf59facde955e8ba2",
+          "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "url": "https://sankalp.bearblog.dev/autoresearch",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:00:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9972,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T11:00:02Z",
+      "latest_at": "2026-08-15T12:38:05.900000Z",
+      "primary_item": {
+        "id": "346274b22b37e9694636fa708f056faa34061988",
+        "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
+        "url": "https://news.ycombinator.com/item?id=49309549",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
