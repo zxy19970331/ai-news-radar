@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T16:32:16.223217Z",
+  "generated_at": "2026-08-16T17:24:55.782249Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9271,
+        "recency": 0.9155,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
+      "score": 0.7343,
+      "importance": 0.7343,
+      "importance_score": 0.7343,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8254,
+        "recency": 0.815,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -198,15 +198,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7444,
+        "recency": 0.735,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -296,15 +296,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6506,
-      "importance": 0.6506,
-      "importance_score": 0.6506,
+      "score": 0.6489,
+      "importance": 0.6489,
+      "importance_score": 0.6489,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.7325,
+        "recency": 0.7232,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -450,15 +450,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.5884,
-      "importance": 0.5884,
-      "importance_score": 0.5884,
+      "score": 0.5865,
+      "importance": 0.5865,
+      "importance_score": 0.5865,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8198,
+        "recency": 0.8095,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -603,15 +603,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.5789,
-      "importance": 0.5789,
-      "importance_score": 0.5789,
+      "score": 0.5771,
+      "importance": 0.5771,
+      "importance_score": 0.5771,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.767,
+        "recency": 0.7573,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -701,15 +701,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5539,
-      "importance": 0.5539,
-      "importance_score": 0.5539,
+      "score": 0.5518,
+      "importance": 0.5518,
+      "importance_score": 0.5518,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.906,
+        "recency": 0.8946,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -724,6 +724,85 @@
         "url": "https://littlelearner-ll.github.io",
         "source": "littlelearner-ll.github.io",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_dc17d35aad93",
+      "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
+      "url": "https://www.huxiu.com/article/4883517.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4883517.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "95d79892ef4cad03fe678d4d883bfa52b13c816f",
+          "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
+          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "139e2530651083380a682ad186daf7d698c08062",
+          "title": "DeepSeek涨价背后：中国正在把“智能”变成一种工业品",
+          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T16:26:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "95d79892ef4cad03fe678d4d883bfa52b13c816f",
+          "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
+          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "139e2530651083380a682ad186daf7d698c08062",
+          "title": "DeepSeek涨价背后：中国正在把“智能”变成一种工业品",
+          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T16:26:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T16:26:33Z",
+      "latest_at": "2026-08-16T17:24:55.782249Z",
+      "primary_item": {
+        "id": "95d79892ef4cad03fe678d4d883bfa52b13c816f",
+        "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
+        "url": "https://www.huxiu.com/article/4883517.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -780,15 +859,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
+      "score": 0.5384,
+      "importance": 0.5384,
+      "importance_score": 0.5384,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9711,
+        "recency": 0.9588,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -878,15 +957,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5674,
-      "importance": 0.5674,
-      "importance_score": 0.5674,
+      "score": 0.5652,
+      "importance": 0.5652,
+      "importance_score": 0.5652,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.981,
+        "recency": 0.9686,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -957,15 +1036,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5353,
-      "importance": 0.5353,
-      "importance_score": 0.5353,
+      "score": 0.5331,
+      "importance": 0.5331,
+      "importance_score": 0.5331,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9415,
+        "recency": 0.9297,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1036,15 +1115,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5333,
-      "importance": 0.5333,
-      "importance_score": 0.5333,
+      "score": 0.5312,
+      "importance": 0.5312,
+      "importance_score": 0.5312,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9308,
+        "recency": 0.919,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1115,15 +1194,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5332,
-      "importance": 0.5332,
-      "importance_score": 0.5332,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9298,
+        "recency": 0.9181,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1138,85 +1217,6 @@
         "url": "https://github.com/akitaonrails/ai-memory",
         "source": "github",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_e9e25d79a002",
-      "title": "ChatGPT 新功能：订阅用户可直接编辑谷歌云盘文件",
-      "url": "https://www.ithome.com/0/990/295.htm",
-      "primary_url": "https://www.ithome.com/0/990/295.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "0d2b70ce9e68957a9651b53ecf668b6299ad8c1a",
-          "title": "ChatGPT 新功能：订阅用户可直接编辑谷歌云盘文件",
-          "url": "https://www.ithome.com/0/990/295.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "81907c59654433c39918cfba2a6ea5ec0f5679a9",
-          "title": "ChatGPT 新功能：订阅用户无需离开对话，即可直接编辑谷歌云盘文件",
-          "url": "https://www.ithome.com/0/990/295.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T08:01:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0d2b70ce9e68957a9651b53ecf668b6299ad8c1a",
-          "title": "ChatGPT 新功能：订阅用户可直接编辑谷歌云盘文件",
-          "url": "https://www.ithome.com/0/990/295.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "81907c59654433c39918cfba2a6ea5ec0f5679a9",
-          "title": "ChatGPT 新功能：订阅用户无需离开对话，即可直接编辑谷歌云盘文件",
-          "url": "https://www.ithome.com/0/990/295.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T08:01:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5285,
-      "importance": 0.5285,
-      "importance_score": 0.5285,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.904,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T08:01:14Z",
-      "latest_at": "2026-08-16T09:32:49.702921Z",
-      "primary_item": {
-        "id": "0d2b70ce9e68957a9651b53ecf668b6299ad8c1a",
-        "title": "ChatGPT 新功能：订阅用户可直接编辑谷歌云盘文件",
-        "url": "https://www.ithome.com/0/990/295.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1273,15 +1273,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5314,
-      "importance": 0.5314,
-      "importance_score": 0.5314,
+      "score": 0.5293,
+      "importance": 0.5293,
+      "importance_score": 0.5293,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.92,
+        "recency": 0.9084,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1351,15 +1351,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5008,
-      "importance": 0.5008,
-      "importance_score": 0.5008,
+      "score": 0.4991,
+      "importance": 0.4991,
+      "importance_score": 0.4991,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7502,
+        "recency": 0.7407,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1377,30 +1377,30 @@
       }
     },
     {
-      "story_id": "story_92d5ed5d2fd7",
-      "title": "索尼 PlayStation 新专利：用 AI 模拟未成年人账号，识别恶意用户",
-      "url": "https://www.ithome.com/0/990/270.htm",
-      "primary_url": "https://www.ithome.com/0/990/270.htm",
+      "story_id": "story_e9e25d79a002",
+      "title": "ChatGPT 新功能：订阅用户可直接编辑谷歌云盘文件",
+      "url": "https://www.ithome.com/0/990/295.htm",
+      "primary_url": "https://www.ithome.com/0/990/295.htm",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "aed78b34a9de1a9f017520009a95b3aa7f5da56c",
-          "title": "索尼 PlayStation 新专利：用 AI 模拟未成年人账号，识别恶意用户",
-          "url": "https://www.ithome.com/0/990/270.htm",
+          "id": "0d2b70ce9e68957a9651b53ecf668b6299ad8c1a",
+          "title": "ChatGPT 新功能：订阅用户可直接编辑谷歌云盘文件",
+          "url": "https://www.ithome.com/0/990/295.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "f91c421393cbd4ef96fc5a9e522772e5a9d9ef15",
-          "title": "索尼 PlayStation 新专利公开：利用 AI 驱动账号模拟未成年人，主动识别潜在恶意用户",
-          "url": "https://www.ithome.com/0/990/270.htm",
+          "id": "81907c59654433c39918cfba2a6ea5ec0f5679a9",
+          "title": "ChatGPT 新功能：订阅用户无需离开对话，即可直接编辑谷歌云盘文件",
+          "url": "https://www.ithome.com/0/990/295.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-16T04:30:46Z"
+          "published_at": "2026-08-16T08:01:14Z"
         }
       ],
       "source_count": 2,
@@ -1410,47 +1410,47 @@
       ],
       "items": [
         {
-          "id": "aed78b34a9de1a9f017520009a95b3aa7f5da56c",
-          "title": "索尼 PlayStation 新专利：用 AI 模拟未成年人账号，识别恶意用户",
-          "url": "https://www.ithome.com/0/990/270.htm",
+          "id": "0d2b70ce9e68957a9651b53ecf668b6299ad8c1a",
+          "title": "ChatGPT 新功能：订阅用户可直接编辑谷歌云盘文件",
+          "url": "https://www.ithome.com/0/990/295.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "f91c421393cbd4ef96fc5a9e522772e5a9d9ef15",
-          "title": "索尼 PlayStation 新专利公开：利用 AI 驱动账号模拟未成年人，主动识别潜在恶意用户",
-          "url": "https://www.ithome.com/0/990/270.htm",
+          "id": "81907c59654433c39918cfba2a6ea5ec0f5679a9",
+          "title": "ChatGPT 新功能：订阅用户无需离开对话，即可直接编辑谷歌云盘文件",
+          "url": "https://www.ithome.com/0/990/295.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-16T04:30:46Z"
+          "published_at": "2026-08-16T08:01:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5202,
-      "importance": 0.5202,
-      "importance_score": 0.5202,
+      "score": 0.5265,
+      "importance": 0.5265,
+      "importance_score": 0.5265,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8579,
+        "recency": 0.8926,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T04:30:46Z",
-      "latest_at": "2026-08-16T05:55:20.470008Z",
+      "earliest_at": "2026-08-16T08:01:14Z",
+      "latest_at": "2026-08-16T09:32:49.702921Z",
       "primary_item": {
-        "id": "aed78b34a9de1a9f017520009a95b3aa7f5da56c",
-        "title": "索尼 PlayStation 新专利：用 AI 模拟未成年人账号，识别恶意用户",
-        "url": "https://www.ithome.com/0/990/270.htm",
+        "id": "0d2b70ce9e68957a9651b53ecf668b6299ad8c1a",
+        "title": "ChatGPT 新功能：订阅用户可直接编辑谷歌云盘文件",
+        "url": "https://www.ithome.com/0/990/295.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1509,15 +1509,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5424,
-      "importance": 0.5424,
-      "importance_score": 0.5424,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.981,
+        "recency": 0.9686,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1535,30 +1535,30 @@
       }
     },
     {
-      "story_id": "story_13fe377049bd",
-      "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
-      "url": "https://www.ithome.com/0/990/207.htm",
-      "primary_url": "https://www.ithome.com/0/990/207.htm",
+      "story_id": "story_92d5ed5d2fd7",
+      "title": "索尼 PlayStation 新专利：用 AI 模拟未成年人账号，识别恶意用户",
+      "url": "https://www.ithome.com/0/990/270.htm",
+      "primary_url": "https://www.ithome.com/0/990/270.htm",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "1acb0c89943ae66403e4167d361cee7426249ec1",
-          "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
-          "url": "https://www.ithome.com/0/990/207.htm",
+          "id": "aed78b34a9de1a9f017520009a95b3aa7f5da56c",
+          "title": "索尼 PlayStation 新专利：用 AI 模拟未成年人账号，识别恶意用户",
+          "url": "https://www.ithome.com/0/990/270.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "c6b0ce5c23241bf8c68232c218d70ebe87f672d4",
-          "title": "从 2500 亿美元降至不足 1200 亿美元，消息称英伟达大幅收缩对 OpenAI 数据中心的融资担保",
-          "url": "https://www.ithome.com/0/990/207.htm",
+          "id": "f91c421393cbd4ef96fc5a9e522772e5a9d9ef15",
+          "title": "索尼 PlayStation 新专利公开：利用 AI 驱动账号模拟未成年人，主动识别潜在恶意用户",
+          "url": "https://www.ithome.com/0/990/270.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-15T23:32:41Z"
+          "published_at": "2026-08-16T04:30:46Z"
         }
       ],
       "source_count": 2,
@@ -1568,47 +1568,47 @@
       ],
       "items": [
         {
-          "id": "1acb0c89943ae66403e4167d361cee7426249ec1",
-          "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
-          "url": "https://www.ithome.com/0/990/207.htm",
+          "id": "aed78b34a9de1a9f017520009a95b3aa7f5da56c",
+          "title": "索尼 PlayStation 新专利：用 AI 模拟未成年人账号，识别恶意用户",
+          "url": "https://www.ithome.com/0/990/270.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "c6b0ce5c23241bf8c68232c218d70ebe87f672d4",
-          "title": "从 2500 亿美元降至不足 1200 亿美元，消息称英伟达大幅收缩对 OpenAI 数据中心的融资担保",
-          "url": "https://www.ithome.com/0/990/207.htm",
+          "id": "f91c421393cbd4ef96fc5a9e522772e5a9d9ef15",
+          "title": "索尼 PlayStation 新专利公开：利用 AI 驱动账号模拟未成年人，主动识别潜在恶意用户",
+          "url": "https://www.ithome.com/0/990/270.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-15T23:32:41Z"
+          "published_at": "2026-08-16T04:30:46Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5112,
-      "importance": 0.5112,
-      "importance_score": 0.5112,
+      "score": 0.5183,
+      "importance": 0.5183,
+      "importance_score": 0.5183,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8077,
+        "recency": 0.8471,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T23:32:41Z",
-      "latest_at": "2026-08-16T01:45:08.943556Z",
+      "earliest_at": "2026-08-16T04:30:46Z",
+      "latest_at": "2026-08-16T05:55:20.470008Z",
       "primary_item": {
-        "id": "1acb0c89943ae66403e4167d361cee7426249ec1",
-        "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
-        "url": "https://www.ithome.com/0/990/207.htm",
+        "id": "aed78b34a9de1a9f017520009a95b3aa7f5da56c",
+        "title": "索尼 PlayStation 新专利：用 AI 模拟未成年人账号，识别恶意用户",
+        "url": "https://www.ithome.com/0/990/270.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1667,15 +1667,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5411,
-      "importance": 0.5411,
-      "importance_score": 0.5411,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9739,
+        "recency": 0.9617,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1746,15 +1746,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5003,
-      "importance": 0.5003,
-      "importance_score": 0.5003,
+      "score": 0.4986,
+      "importance": 0.4986,
+      "importance_score": 0.4986,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7473,
+        "recency": 0.7379,
         "story_heat": 0.25
       },
       "category": "watch",
