@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T11:25:38.205425Z",
+  "generated_at": "2026-08-16T11:48:04.082603Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
+      "score": 0.7943,
+      "importance": 0.7943,
+      "importance_score": 0.7943,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9982,
+        "recency": 0.9928,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8887,
+        "recency": 0.8839,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -198,15 +198,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8014,
+        "recency": 0.7971,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -279,15 +279,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6357,
-      "importance": 0.6357,
-      "importance_score": 0.6357,
+      "score": 0.6349,
+      "importance": 0.6349,
+      "importance_score": 0.6349,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.7886,
+        "recency": 0.7843,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -433,15 +433,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.5997,
-      "importance": 0.5997,
-      "importance_score": 0.5997,
+      "score": 0.5988,
+      "importance": 0.5988,
+      "importance_score": 0.5988,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8826,
+        "recency": 0.8778,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -568,15 +568,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5894,
-      "importance": 0.5894,
-      "importance_score": 0.5894,
+      "score": 0.5886,
+      "importance": 0.5886,
+      "importance_score": 0.5886,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8257,
+        "recency": 0.8213,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -666,15 +666,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5664,
-      "importance": 0.5664,
-      "importance_score": 0.5664,
+      "score": 0.5654,
+      "importance": 0.5654,
+      "importance_score": 0.5654,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9754,
+        "recency": 0.9701,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -689,6 +689,85 @@
         "url": "https://littlelearner-ll.github.io",
         "source": "littlelearner-ll.github.io",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9b780e5528de",
+      "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "primary_url": "https://github.com/akitaonrails/ai-memory",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "e093aec71608c94ab78108d3149519fad3663164",
+          "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T11:29:51.730000Z"
+        },
+        {
+          "id": "7ed9cfc7ad6a8a90822e035db00cc2078fa0ca5e",
+          "title": "akitaonrails / ai-内存 / akitaonrails / ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "e093aec71608c94ab78108d3149519fad3663164",
+          "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T11:29:51.730000Z"
+        },
+        {
+          "id": "7ed9cfc7ad6a8a90822e035db00cc2078fa0ca5e",
+          "title": "akitaonrails / ai-内存 / akitaonrails / ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9956,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T11:25:38.205425Z",
+      "latest_at": "2026-08-16T11:29:51.730000Z",
+      "primary_item": {
+        "id": "e093aec71608c94ab78108d3149519fad3663164",
+        "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
+        "url": "https://github.com/akitaonrails/ai-memory",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -745,15 +824,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5441,
-      "importance": 0.5441,
-      "importance_score": 0.5441,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9905,
+        "recency": 0.9852,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -824,15 +903,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.541,
-      "importance": 0.541,
-      "importance_score": 0.541,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9732,
+        "recency": 0.968,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -903,15 +982,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5112,
-      "importance": 0.5112,
-      "importance_score": 0.5112,
+      "score": 0.5104,
+      "importance": 0.5104,
+      "importance_score": 0.5104,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8076,
+        "recency": 0.8033,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -981,15 +1060,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5112,
-      "importance": 0.5112,
-      "importance_score": 0.5112,
+      "score": 0.5104,
+      "importance": 0.5104,
+      "importance_score": 0.5104,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8076,
+        "recency": 0.8033,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1079,15 +1158,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8317,
+        "recency": 0.8272,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1158,15 +1237,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.532,
-      "importance": 0.532,
-      "importance_score": 0.532,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9236,
+        "recency": 0.9186,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1236,15 +1315,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4986,
-      "importance": 0.4986,
-      "importance_score": 0.4986,
+      "score": 0.4979,
+      "importance": 0.4979,
+      "importance_score": 0.4979,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7378,
+        "recency": 0.7339,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1315,15 +1394,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5106,
-      "importance": 0.5106,
-      "importance_score": 0.5106,
+      "score": 0.5098,
+      "importance": 0.5098,
+      "importance_score": 0.5098,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8045,
+        "recency": 0.8002,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1394,15 +1473,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5315,
-      "importance": 0.5315,
-      "importance_score": 0.5315,
+      "score": 0.5306,
+      "importance": 0.5306,
+      "importance_score": 0.5306,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9204,
+        "recency": 0.9154,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1473,15 +1552,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
+      "score": 0.5215,
+      "importance": 0.5215,
+      "importance_score": 0.5215,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8696,
+        "recency": 0.8649,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1552,15 +1631,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5244,
-      "importance": 0.5244,
-      "importance_score": 0.5244,
+      "score": 0.5236,
+      "importance": 0.5236,
+      "importance_score": 0.5236,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8813,
+        "recency": 0.8765,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1631,15 +1710,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5244,
-      "importance": 0.5244,
-      "importance_score": 0.5244,
+      "score": 0.5236,
+      "importance": 0.5236,
+      "importance_score": 0.5236,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8813,
+        "recency": 0.8765,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1652,85 +1731,6 @@
         "id": "a8484567193fa84bfd673651a93e15a0dab91865",
         "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
         "url": "https://news.ycombinator.com/item?id=49315709",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_ff34e5a81db6",
-      "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-      "url": "https://news.ycombinator.com/item?id=49316242",
-      "primary_url": "https://news.ycombinator.com/item?id=49316242",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "dd014bf97877d028a6388db7a26c84d56491c9cf",
-          "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-          "url": "https://news.ycombinator.com/item?id=49316242",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T02:40:29.910000Z"
-        },
-        {
-          "id": "3715c64be287d162f1e6c16761e1e73d878d5629",
-          "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-          "url": "https://arxiv.org/abs/2608.13328",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T02:07:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "dd014bf97877d028a6388db7a26c84d56491c9cf",
-          "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-          "url": "https://news.ycombinator.com/item?id=49316242",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T02:40:29.910000Z"
-        },
-        {
-          "id": "3715c64be287d162f1e6c16761e1e73d878d5629",
-          "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-          "url": "https://arxiv.org/abs/2608.13328",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T02:07:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5244,
-      "importance": 0.5244,
-      "importance_score": 0.5244,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8813,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T02:07:06Z",
-      "latest_at": "2026-08-16T02:40:29.910000Z",
-      "primary_item": {
-        "id": "dd014bf97877d028a6388db7a26c84d56491c9cf",
-        "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-        "url": "https://news.ycombinator.com/item?id=49316242",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
