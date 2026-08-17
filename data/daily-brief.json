@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T13:44:15.936257Z",
+  "generated_at": "2026-08-17T14:34:17.586141Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8568,
-      "importance": 0.8568,
-      "importance_score": 0.8568,
+      "score": 0.8549,
+      "importance": 0.8549,
+      "importance_score": 0.8549,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8878,
+        "recency": 0.8772,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
+      "score": 0.8357,
+      "importance": 0.8357,
+      "importance_score": 0.8357,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9205,
+        "recency": 0.9095,
         "story_heat": 0.0
       },
       "category": "official",
@@ -201,15 +201,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8517,
-      "importance": 0.8517,
-      "importance_score": 0.8517,
+      "score": 0.8499,
+      "importance": 0.8499,
+      "importance_score": 0.8499,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8595,
+        "recency": 0.8492,
         "story_heat": 0.25
       },
       "category": "official",
@@ -283,15 +283,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8046,
-      "importance": 0.8046,
-      "importance_score": 0.8046,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9834,
+        "recency": 0.9717,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -383,15 +383,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.784,
-      "importance": 0.784,
-      "importance_score": 0.784,
+      "score": 0.7823,
+      "importance": 0.7823,
+      "importance_score": 0.7823,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7968,
+        "recency": 0.7873,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -464,15 +464,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7827,
-      "importance": 0.7827,
-      "importance_score": 0.7827,
+      "score": 0.7807,
+      "importance": 0.7807,
+      "importance_score": 0.7807,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9452,
+        "recency": 0.9338,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -489,67 +489,6 @@
         "url": "https://www.aibase.com/news/30404",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_df9d1c419cb5",
-      "title": "https://x.com/i/article/2089330332369588224",
-      "url": "https://x.com/JensenHuang/status/2089331487342829862",
-      "primary_url": "https://x.com/JensenHuang/status/2089331487342829862",
-      "source": "X：Jensen Huang (@JensenHuang)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "eb6adbb26b1fed965cc82024c6ddc48158de77bc",
-          "title": "https://x.com/i/article/2089330332369588224",
-          "url": "https://x.com/JensenHuang/status/2089331487342829862",
-          "source": "X：Jensen Huang (@JensenHuang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T12:40:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Jensen Huang (@JensenHuang)"
-      ],
-      "items": [
-        {
-          "id": "eb6adbb26b1fed965cc82024c6ddc48158de77bc",
-          "title": "https://x.com/i/article/2089330332369588224",
-          "url": "https://x.com/JensenHuang/status/2089331487342829862",
-          "source": "X：Jensen Huang (@JensenHuang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T12:40:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9847,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T12:40:19Z",
-      "latest_at": "2026-08-17T12:40:19Z",
-      "primary_item": {
-        "id": "eb6adbb26b1fed965cc82024c6ddc48158de77bc",
-        "title": "https://x.com/i/article/2089330332369588224",
-        "url": "https://x.com/JensenHuang/status/2089331487342829862",
-        "source": "X：Jensen Huang (@JensenHuang)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -587,15 +526,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8307,
-      "importance": 0.8307,
-      "importance_score": 0.8307,
+      "score": 0.8288,
+      "importance": 0.8288,
+      "importance_score": 0.8288,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8815,
+        "recency": 0.8709,
         "story_heat": 0.0
       },
       "category": "official",
@@ -612,6 +551,67 @@
         "url": "https://openai.com/index/openai-joins-ports-pike-project",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_df9d1c419cb5",
+      "title": "https://x.com/i/article/2089330332369588224",
+      "url": "https://x.com/JensenHuang/status/2089331487342829862",
+      "primary_url": "https://x.com/JensenHuang/status/2089331487342829862",
+      "source": "X：Jensen Huang (@JensenHuang)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "eb6adbb26b1fed965cc82024c6ddc48158de77bc",
+          "title": "https://x.com/i/article/2089330332369588224",
+          "url": "https://x.com/JensenHuang/status/2089331487342829862",
+          "source": "X：Jensen Huang (@JensenHuang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T12:40:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Jensen Huang (@JensenHuang)"
+      ],
+      "items": [
+        {
+          "id": "eb6adbb26b1fed965cc82024c6ddc48158de77bc",
+          "title": "https://x.com/i/article/2089330332369588224",
+          "url": "https://x.com/JensenHuang/status/2089331487342829862",
+          "source": "X：Jensen Huang (@JensenHuang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T12:40:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9729,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T12:40:19Z",
+      "latest_at": "2026-08-17T12:40:19Z",
+      "primary_item": {
+        "id": "eb6adbb26b1fed965cc82024c6ddc48158de77bc",
+        "title": "https://x.com/i/article/2089330332369588224",
+        "url": "https://x.com/JensenHuang/status/2089331487342829862",
+        "source": "X：Jensen Huang (@JensenHuang)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -649,15 +649,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9812,
+        "recency": 0.9695,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -729,15 +729,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7827,
-      "importance": 0.7827,
-      "importance_score": 0.7827,
+      "score": 0.7807,
+      "importance": 0.7807,
+      "importance_score": 0.7807,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9452,
+        "recency": 0.9338,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -810,15 +810,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7804,
-      "importance": 0.7804,
-      "importance_score": 0.7804,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.932,
+        "recency": 0.9208,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -891,15 +891,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7804,
-      "importance": 0.7804,
-      "importance_score": 0.7804,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.932,
+        "recency": 0.9208,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -972,15 +972,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7804,
-      "importance": 0.7804,
-      "importance_score": 0.7804,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.932,
+        "recency": 0.9208,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1052,15 +1052,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6333,
-      "importance": 0.6333,
-      "importance_score": 0.6333,
+      "score": 0.6313,
+      "importance": 0.6313,
+      "importance_score": 0.6313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.9606,
+        "recency": 0.9491,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1131,15 +1131,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9148,
+        "recency": 0.9038,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1212,15 +1212,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.61,
-      "importance": 0.61,
-      "importance_score": 0.61,
+      "score": 0.6083,
+      "importance": 0.6083,
+      "importance_score": 0.6083,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7847,
+        "recency": 0.7753,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1308,15 +1308,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6093,
-      "importance": 0.6093,
-      "importance_score": 0.6093,
+      "score": 0.6073,
+      "importance": 0.6073,
+      "importance_score": 0.6073,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9452,
+        "recency": 0.9338,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1387,15 +1387,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9148,
+        "recency": 0.9038,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1505,15 +1505,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5943,
-      "importance": 0.5943,
-      "importance_score": 0.5943,
+      "score": 0.5922,
+      "importance": 0.5922,
+      "importance_score": 0.5922,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9918,
+        "recency": 0.9799,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1603,15 +1603,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
+      "score": 0.5687,
+      "importance": 0.5687,
+      "importance_score": 0.5687,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9882,
         "story_heat": 0.5
       },
       "category": "multi_source",
