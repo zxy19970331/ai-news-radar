@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T01:38:16.946424Z",
+  "generated_at": "2026-08-18T03:01:10.968766Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.861,
-      "importance": 0.861,
-      "importance_score": 0.861,
+      "score": 0.8576,
+      "importance": 0.8576,
+      "importance_score": 0.8576,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.952,
+        "recency": 0.9332,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8454,
-      "importance": 0.8454,
-      "importance_score": 0.8454,
+      "score": 0.8421,
+      "importance": 0.8421,
+      "importance_score": 0.8421,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9188,
+        "recency": 0.9006,
         "story_heat": 0.0
       },
       "category": "official",
@@ -238,15 +238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8316,
-      "importance": 0.8316,
-      "importance_score": 0.8316,
+      "score": 0.8289,
+      "importance": 0.8289,
+      "importance_score": 0.8289,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7477,
+        "recency": 0.7329,
         "story_heat": 0.25
       },
       "category": "official",
@@ -301,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8206,
-      "importance": 0.8206,
-      "importance_score": 0.8206,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8701,
+        "recency": 0.8529,
         "story_heat": 0.0
       },
       "category": "official",
@@ -477,15 +477,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.8476,
-      "importance": 0.8476,
-      "importance_score": 0.8476,
+      "score": 0.8444,
+      "importance": 0.8444,
+      "importance_score": 0.8444,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9056,
+        "recency": 0.8877,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -539,15 +539,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8115,
-      "importance": 0.8115,
-      "importance_score": 0.8115,
+      "score": 0.8088,
+      "importance": 0.8088,
+      "importance_score": 0.8088,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7751,
+        "recency": 0.7598,
         "story_heat": 0.0
       },
       "category": "official",
@@ -620,15 +620,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
+      "score": 0.8247,
+      "importance": 0.8247,
+      "importance_score": 0.8247,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7238,
+        "recency": 0.7095,
         "story_heat": 0.25
       },
       "category": "official",
@@ -649,26 +649,26 @@
       }
     },
     {
-      "story_id": "story_336b871058e9",
-      "title": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
-      "url": "https://www.aibase.com/news/30409",
-      "primary_url": "https://www.aibase.com/news/30409",
+      "story_id": "story_7279deb93600",
+      "title": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
+      "url": "https://www.aibase.com/news/30419",
+      "primary_url": "https://www.aibase.com/news/30419",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "37d2e32b084c366fc2b10a345454d58c52e6c877",
-          "title": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
-          "url": "https://www.aibase.com/news/30409",
+          "id": "b008d6862fe519efe75eabc5f3a3e28222cd89f0",
+          "title": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
+          "url": "https://www.aibase.com/news/30419",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T01:38:16.946424Z"
+          "published_at": "2026-08-18T03:01:10.968766Z"
         },
         {
-          "id": "271908271122fdfc0ca46a2686aaf96aceb61fa9",
-          "title": "AI 算力基建迎超级风口：OpenAI 与英伟达深化合作，千亿级生态加速落地",
-          "url": "https://www.aibase.com/zh/news/30409",
+          "id": "d8276d6f8365437ea00af6756b3cc8a806566649",
+          "title": "Reddit 测试 AI 视频功能，将文本帖子转为音视频内容",
+          "url": "https://www.aibase.com/zh/news/30419",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -682,18 +682,18 @@
       ],
       "items": [
         {
-          "id": "37d2e32b084c366fc2b10a345454d58c52e6c877",
-          "title": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
-          "url": "https://www.aibase.com/news/30409",
+          "id": "b008d6862fe519efe75eabc5f3a3e28222cd89f0",
+          "title": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
+          "url": "https://www.aibase.com/news/30419",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T01:38:16.946424Z"
+          "published_at": "2026-08-18T03:01:10.968766Z"
         },
         {
-          "id": "271908271122fdfc0ca46a2686aaf96aceb61fa9",
-          "title": "AI 算力基建迎超级风口：OpenAI 与英伟达深化合作，千亿级生态加速落地",
-          "url": "https://www.aibase.com/zh/news/30409",
+          "id": "d8276d6f8365437ea00af6756b3cc8a806566649",
+          "title": "Reddit 测试 AI 视频功能，将文本帖子转为音视频内容",
+          "url": "https://www.aibase.com/zh/news/30419",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -719,12 +719,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T01:38:16.946424Z",
-      "latest_at": "2026-08-18T01:38:16.946424Z",
+      "earliest_at": "2026-08-18T03:01:10.968766Z",
+      "latest_at": "2026-08-18T03:01:10.968766Z",
       "primary_item": {
-        "id": "37d2e32b084c366fc2b10a345454d58c52e6c877",
-        "title": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
-        "url": "https://www.aibase.com/news/30409",
+        "id": "b008d6862fe519efe75eabc5f3a3e28222cd89f0",
+        "title": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
+        "url": "https://www.aibase.com/news/30419",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -783,15 +783,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7767,
-      "importance": 0.7767,
-      "importance_score": 0.7767,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8282,
+        "recency": 0.8118,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -863,15 +863,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8292,
+        "recency": 0.8129,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -891,26 +891,26 @@
       }
     },
     {
-      "story_id": "story_2a9d863c0c84",
-      "title": "OpenAI 落子俄亥俄：10 吉瓦超级数据中心敲定，英伟达 15 亿美元入股兜底",
-      "url": "https://www.aibase.com/news/30407",
-      "primary_url": "https://www.aibase.com/news/30407",
+      "story_id": "story_57c1ba5d2105",
+      "title": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
+      "url": "https://www.aibase.com/news/30418",
+      "primary_url": "https://www.aibase.com/news/30418",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "27e2818b8381cf1d8692549e451f7963d88df9f6",
-          "title": "OpenAI 落子俄亥俄：10 吉瓦超级数据中心敲定，英伟达 15 亿美元入股兜底",
-          "url": "https://www.aibase.com/news/30407",
+          "id": "344a1a7fed640588ca161b3c2efcd180f810dd31",
+          "title": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
+          "url": "https://www.aibase.com/news/30418",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T01:38:16.946424Z"
+          "published_at": "2026-08-18T03:01:10.968766Z"
         },
         {
-          "id": "3222fde9accbf365881033e437fe61d04a757909",
-          "title": "OpenAI 落子俄亥俄：10 吉瓦超级数据中心敲定，英伟达 15 亿美元入股兜底",
-          "url": "https://www.aibase.com/zh/news/30407",
+          "id": "cdc44a58bf7adfa299828cacc334e80222737c65",
+          "title": "字节跳动联合清华 AIR 推出 CUDA Agent：大模型如何学会编写比编译器更快的 GPU 内核",
+          "url": "https://www.aibase.com/zh/news/30418",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -924,18 +924,18 @@
       ],
       "items": [
         {
-          "id": "27e2818b8381cf1d8692549e451f7963d88df9f6",
-          "title": "OpenAI 落子俄亥俄：10 吉瓦超级数据中心敲定，英伟达 15 亿美元入股兜底",
-          "url": "https://www.aibase.com/news/30407",
+          "id": "344a1a7fed640588ca161b3c2efcd180f810dd31",
+          "title": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
+          "url": "https://www.aibase.com/news/30418",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T01:38:16.946424Z"
+          "published_at": "2026-08-18T03:01:10.968766Z"
         },
         {
-          "id": "3222fde9accbf365881033e437fe61d04a757909",
-          "title": "OpenAI 落子俄亥俄：10 吉瓦超级数据中心敲定，英伟达 15 亿美元入股兜底",
-          "url": "https://www.aibase.com/zh/news/30407",
+          "id": "cdc44a58bf7adfa299828cacc334e80222737c65",
+          "title": "字节跳动联合清华 AIR 推出 CUDA Agent：大模型如何学会编写比编译器更快的 GPU 内核",
+          "url": "https://www.aibase.com/zh/news/30418",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -961,12 +961,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T01:38:16.946424Z",
-      "latest_at": "2026-08-18T01:38:16.946424Z",
+      "earliest_at": "2026-08-18T03:01:10.968766Z",
+      "latest_at": "2026-08-18T03:01:10.968766Z",
       "primary_item": {
-        "id": "27e2818b8381cf1d8692549e451f7963d88df9f6",
-        "title": "OpenAI 落子俄亥俄：10 吉瓦超级数据中心敲定，英伟达 15 亿美元入股兜底",
-        "url": "https://www.aibase.com/news/30407",
+        "id": "344a1a7fed640588ca161b3c2efcd180f810dd31",
+        "title": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
+        "url": "https://www.aibase.com/news/30418",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1006,15 +1006,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9762,
+        "recency": 0.9569,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1124,15 +1124,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
+      "score": 0.8145,
+      "importance": 0.8145,
+      "importance_score": 0.8145,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8952,
+        "recency": 0.8775,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1186,21 +1186,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9678,
+        "recency": 0.9487,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-17T23:22:25.902000Z",
       "latest_at": "2026-08-17T23:22:25.902000Z",
@@ -1247,15 +1246,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7423,
+        "recency": 0.7276,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1309,15 +1308,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7364,
+      "importance": 0.7364,
+      "importance_score": 0.7364,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8263,
+        "recency": 0.81,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1350,11 +1349,21 @@
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-18T01:38:16.946424Z"
+        },
+        {
+          "id": "ee15765a88d927eaa95d66431ef44d8a10a0b3f7",
+          "title": "AI 工作流自动化工具 Relay 宣布关闭，创始人将加入谷歌 Chrome 团队",
+          "url": "https://www.aibase.com/zh/news/30411",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
@@ -1365,28 +1374,38 @@
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-18T01:38:16.946424Z"
+        },
+        {
+          "id": "ee15765a88d927eaa95d66431ef44d8a10a0b3f7",
+          "title": "AI 工作流自动化工具 Relay 宣布关闭，创始人将加入谷歌 Chrome 团队",
+          "url": "https://www.aibase.com/zh/news/30411",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.789,
+      "importance": 0.789,
+      "importance_score": 0.789,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9802,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-08-18T01:38:16.946424Z",
-      "latest_at": "2026-08-18T01:38:16.946424Z",
+      "latest_at": "2026-08-18T03:01:10.968766Z",
       "primary_item": {
         "id": "7823e6f0e326657bfe619ad1bc880c2a96a413b3",
         "title": "AI工作流自动化工具Relay宣布关闭，创始人将加入谷歌Chrome团队",
@@ -1396,62 +1415,163 @@
       }
     },
     {
-      "story_id": "story_57dfd2a8c2d5",
-      "title": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
-      "url": "https://www.aibase.com/news/30416",
-      "primary_url": "https://www.aibase.com/news/30416",
+      "story_id": "story_336b871058e9",
+      "title": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
+      "url": "https://www.aibase.com/news/30409",
+      "primary_url": "https://www.aibase.com/news/30409",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ef250e6e4bd7f172750528a8de2ed0ac6b5ea11d",
-          "title": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
-          "url": "https://www.aibase.com/news/30416",
+          "id": "37d2e32b084c366fc2b10a345454d58c52e6c877",
+          "title": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
+          "url": "https://www.aibase.com/news/30409",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-18T01:38:16.946424Z"
+        },
+        {
+          "id": "271908271122fdfc0ca46a2686aaf96aceb61fa9",
+          "title": "AI 算力基建迎超级风口：OpenAI 与英伟达深化合作，千亿级生态加速落地",
+          "url": "https://www.aibase.com/zh/news/30409",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "ef250e6e4bd7f172750528a8de2ed0ac6b5ea11d",
-          "title": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
-          "url": "https://www.aibase.com/news/30416",
+          "id": "37d2e32b084c366fc2b10a345454d58c52e6c877",
+          "title": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
+          "url": "https://www.aibase.com/news/30409",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-18T01:38:16.946424Z"
+        },
+        {
+          "id": "271908271122fdfc0ca46a2686aaf96aceb61fa9",
+          "title": "AI 算力基建迎超级风口：OpenAI 与英伟达深化合作，千亿级生态加速落地",
+          "url": "https://www.aibase.com/zh/news/30409",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.789,
+      "importance": 0.789,
+      "importance_score": 0.789,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9802,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-08-18T01:38:16.946424Z",
       "latest_at": "2026-08-18T01:38:16.946424Z",
       "primary_item": {
-        "id": "ef250e6e4bd7f172750528a8de2ed0ac6b5ea11d",
-        "title": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
-        "url": "https://www.aibase.com/news/30416",
+        "id": "37d2e32b084c366fc2b10a345454d58c52e6c877",
+        "title": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
+        "url": "https://www.aibase.com/news/30409",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_bfdd0542b900",
+      "title": "ChatGPT 要成\"购物车\"？Synchrony 联手 OpenAI 把信用卡塞进 AI 对话框",
+      "url": "https://www.aibase.com/news/30413",
+      "primary_url": "https://www.aibase.com/news/30413",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "654e76ba4df7d40d8d6bbabe32545f0542c162cc",
+          "title": "ChatGPT 要成\"购物车\"？Synchrony 联手 OpenAI 把信用卡塞进 AI 对话框",
+          "url": "https://www.aibase.com/news/30413",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T01:38:16.946424Z"
+        },
+        {
+          "id": "7469b3605855212fc4dcccf8c2d626ab2bc10d2b",
+          "title": "ChatGPT 要成「购物车」？Synchrony 联手 OpenAI 把信用卡塞进 AI 对话框",
+          "url": "https://www.aibase.com/zh/news/30413",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "654e76ba4df7d40d8d6bbabe32545f0542c162cc",
+          "title": "ChatGPT 要成\"购物车\"？Synchrony 联手 OpenAI 把信用卡塞进 AI 对话框",
+          "url": "https://www.aibase.com/news/30413",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T01:38:16.946424Z"
+        },
+        {
+          "id": "7469b3605855212fc4dcccf8c2d626ab2bc10d2b",
+          "title": "ChatGPT 要成「购物车」？Synchrony 联手 OpenAI 把信用卡塞进 AI 对话框",
+          "url": "https://www.aibase.com/zh/news/30413",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.789,
+      "importance": 0.789,
+      "importance_score": 0.789,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9802,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T01:38:16.946424Z",
+      "latest_at": "2026-08-18T03:01:10.968766Z",
+      "primary_item": {
+        "id": "654e76ba4df7d40d8d6bbabe32545f0542c162cc",
+        "title": "ChatGPT 要成\"购物车\"？Synchrony 联手 OpenAI 把信用卡塞进 AI 对话框",
+        "url": "https://www.aibase.com/news/30413",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1529,15 +1649,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6518,
-      "importance": 0.6518,
-      "importance_score": 0.6518,
+      "score": 0.6487,
+      "importance": 0.6487,
+      "importance_score": 0.6487,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8782,
+        "recency": 0.8609,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1552,67 +1672,6 @@
         "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_9f354fbed07e",
-      "title": "AI视频创作平台 Higgsfield完成4亿美元B轮融资，估值升至54亿美元",
-      "url": "https://www.aibase.com/news/30412",
-      "primary_url": "https://www.aibase.com/news/30412",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "614ab34169e08a313897e927c1d7f0d85a8fb041",
-          "title": "AI视频创作平台 Higgsfield完成4亿美元B轮融资，估值升至54亿美元",
-          "url": "https://www.aibase.com/news/30412",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T01:38:16.946424Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "614ab34169e08a313897e927c1d7f0d85a8fb041",
-          "title": "AI视频创作平台 Higgsfield完成4亿美元B轮融资，估值升至54亿美元",
-          "url": "https://www.aibase.com/news/30412",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T01:38:16.946424Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T01:38:16.946424Z",
-      "latest_at": "2026-08-18T01:38:16.946424Z",
-      "primary_item": {
-        "id": "614ab34169e08a313897e927c1d7f0d85a8fb041",
-        "title": "AI视频创作平台 Higgsfield完成4亿美元B轮融资，估值升至54亿美元",
-        "url": "https://www.aibase.com/news/30412",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
