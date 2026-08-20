@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T08:06:17.251848Z",
+  "generated_at": "2026-08-20T09:07:10.755139Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8682,
-      "importance": 0.8682,
-      "importance_score": 0.8682,
+      "score": 0.8662,
+      "importance": 0.8662,
+      "importance_score": 0.8662,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7679,
+        "recency": 0.7567,
         "story_heat": 0.5
       },
       "category": "official",
@@ -158,15 +158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.846,
-      "importance": 0.846,
-      "importance_score": 0.846,
+      "score": 0.8438,
+      "importance": 0.8438,
+      "importance_score": 0.8438,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8276,
+        "recency": 0.8155,
         "story_heat": 0.25
       },
       "category": "official",
@@ -221,15 +221,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
+      "score": 0.8164,
+      "importance": 0.8164,
+      "importance_score": 0.8164,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8138,
+        "recency": 0.802,
         "story_heat": 0.0
       },
       "category": "official",
@@ -283,15 +283,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8538,
+        "recency": 0.8414,
         "story_heat": 0.0
       },
       "category": "official",
@@ -345,15 +345,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.813,
-      "importance": 0.813,
-      "importance_score": 0.813,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8276,
+        "recency": 0.8155,
         "story_heat": 0.0
       },
       "category": "official",
@@ -373,26 +373,26 @@
       }
     },
     {
-      "story_id": "story_999edccd4c84",
-      "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-      "url": "https://www.aibase.com/news/30501",
-      "primary_url": "https://www.aibase.com/news/30501",
+      "story_id": "story_ab4d6ad18fcb",
+      "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
+      "url": "https://www.aibase.com/news/30503",
+      "primary_url": "https://www.aibase.com/news/30503",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
-          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "url": "https://www.aibase.com/news/30501",
+          "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
+          "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
+          "url": "https://www.aibase.com/news/30503",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T07:00:17.547383Z"
+          "published_at": "2026-08-20T08:06:17.251848Z"
         },
         {
-          "id": "5c9c0be1102794daca335f0c87841861f6873c4e",
-          "title": "IDC 发布《中国生成式 AI 安全评估平台报告》，蚂蚁数科位居领导者",
-          "url": "https://www.aibase.com/zh/news/30501",
+          "id": "2a2baf88a41e40488bc13f03948d62d661bc5b7a",
+          "title": "MiniMax Design 发布：用自然语言「指挥」视频创作，告别逐帧编辑",
+          "url": "https://www.aibase.com/zh/news/30503",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -406,18 +406,18 @@
       ],
       "items": [
         {
-          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
-          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "url": "https://www.aibase.com/news/30501",
+          "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
+          "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
+          "url": "https://www.aibase.com/news/30503",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T07:00:17.547383Z"
+          "published_at": "2026-08-20T08:06:17.251848Z"
         },
         {
-          "id": "5c9c0be1102794daca335f0c87841861f6873c4e",
-          "title": "IDC 发布《中国生成式 AI 安全评估平台报告》，蚂蚁数科位居领导者",
-          "url": "https://www.aibase.com/zh/news/30501",
+          "id": "2a2baf88a41e40488bc13f03948d62d661bc5b7a",
+          "title": "MiniMax Design 发布：用自然语言「指挥」视频创作，告别逐帧编辑",
+          "url": "https://www.aibase.com/zh/news/30503",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -426,15 +426,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7898,
-      "importance": 0.7898,
-      "importance_score": 0.7898,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9842,
+        "recency": 0.9855,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -443,12 +443,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T07:00:17.547383Z",
-      "latest_at": "2026-08-20T07:00:17.547383Z",
+      "earliest_at": "2026-08-20T08:06:17.251848Z",
+      "latest_at": "2026-08-20T09:07:10.755139Z",
       "primary_item": {
-        "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
-        "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-        "url": "https://www.aibase.com/news/30501",
+        "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
+        "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
+        "url": "https://www.aibase.com/news/30503",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -488,15 +488,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7583,
+        "recency": 0.7473,
         "story_heat": 0.0
       },
       "category": "official",
@@ -569,15 +569,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8605,
+        "recency": 0.848,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -593,6 +593,267 @@
         "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
         "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_999edccd4c84",
+      "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+      "url": "https://www.aibase.com/news/30501",
+      "primary_url": "https://www.aibase.com/news/30501",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
+          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "url": "https://www.aibase.com/news/30501",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T07:00:17.547383Z"
+        },
+        {
+          "id": "5c9c0be1102794daca335f0c87841861f6873c4e",
+          "title": "IDC 发布《中国生成式 AI 安全评估平台报告》，蚂蚁数科位居领导者",
+          "url": "https://www.aibase.com/zh/news/30501",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
+          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "url": "https://www.aibase.com/news/30501",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T07:00:17.547383Z"
+        },
+        {
+          "id": "5c9c0be1102794daca335f0c87841861f6873c4e",
+          "title": "IDC 发布《中国生成式 AI 安全评估平台报告》，蚂蚁数科位居领导者",
+          "url": "https://www.aibase.com/zh/news/30501",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9699,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T07:00:17.547383Z",
+      "latest_at": "2026-08-20T07:00:17.547383Z",
+      "primary_item": {
+        "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
+        "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+        "url": "https://www.aibase.com/news/30501",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a6e3ccf71c3a",
+      "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+      "url": "https://www.ithome.com/0/991/886.htm",
+      "primary_url": "https://www.ithome.com/0/991/886.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
+          "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "url": "https://www.ithome.com/0/991/886.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T00:17:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
+          "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "url": "https://www.ithome.com/0/991/886.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T00:17:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8803,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-20T00:17:26Z",
+      "latest_at": "2026-08-20T00:17:26Z",
+      "primary_item": {
+        "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
+        "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+        "url": "https://www.ithome.com/0/991/886.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8a294acf7ec9",
+      "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
+      "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+      "primary_url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "106a6a47dd09951e75c4fd850f355248b2d26a1e",
+          "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
+          "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T17:56:13.817000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "106a6a47dd09951e75c4fd850f355248b2d26a1e",
+          "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
+          "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T17:56:13.817000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7352,
+      "importance": 0.7352,
+      "importance_score": 0.7352,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8031,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-19T17:56:13.817000Z",
+      "latest_at": "2026-08-19T17:56:13.817000Z",
+      "primary_item": {
+        "id": "106a6a47dd09951e75c4fd850f355248b2d26a1e",
+        "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
+        "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_44c5c213e88d",
+      "title": "FastMetal 让 Mac 本地 30 秒生成视频",
+      "url": "https://x.com/haoailab/status/2090177721913770407",
+      "primary_url": "https://x.com/haoailab/status/2090177721913770407",
+      "source": "X：Sky Computing Lab (@haoailab)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
+          "title": "FastMetal 让 Mac 本地 30 秒生成视频",
+          "url": "https://x.com/haoailab/status/2090177721913770407",
+          "source": "X：Sky Computing Lab (@haoailab)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T20:42:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sky Computing Lab (@haoailab)"
+      ],
+      "items": [
+        {
+          "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
+          "title": "FastMetal 让 Mac 本地 30 秒生成视频",
+          "url": "https://x.com/haoailab/status/2090177721913770407",
+          "source": "X：Sky Computing Lab (@haoailab)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T20:42:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7351,
+      "importance": 0.7351,
+      "importance_score": 0.7351,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.836,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-19T20:42:57Z",
+      "latest_at": "2026-08-19T20:42:57Z",
+      "primary_item": {
+        "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
+        "title": "FastMetal 让 Mac 本地 30 秒生成视频",
+        "url": "https://x.com/haoailab/status/2090177721913770407",
+        "source": "X：Sky Computing Lab (@haoailab)",
         "source_name": "AI HOT"
       }
     },
@@ -650,15 +911,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7898,
-      "importance": 0.7898,
-      "importance_score": 0.7898,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9842,
+        "recency": 0.9699,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -675,186 +936,6 @@
         "url": "https://www.aibase.com/news/30500",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a6e3ccf71c3a",
-      "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-      "url": "https://www.ithome.com/0/991/886.htm",
-      "primary_url": "https://www.ithome.com/0/991/886.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
-          "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-          "url": "https://www.ithome.com/0/991/886.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T00:17:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
-          "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-          "url": "https://www.ithome.com/0/991/886.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T00:17:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8933,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T00:17:26Z",
-      "latest_at": "2026-08-20T00:17:26Z",
-      "primary_item": {
-        "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
-        "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-        "url": "https://www.ithome.com/0/991/886.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_44c5c213e88d",
-      "title": "FastMetal 让 Mac 本地 30 秒生成视频",
-      "url": "https://x.com/haoailab/status/2090177721913770407",
-      "primary_url": "https://x.com/haoailab/status/2090177721913770407",
-      "source": "X：Sky Computing Lab (@haoailab)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
-          "title": "FastMetal 让 Mac 本地 30 秒生成视频",
-          "url": "https://x.com/haoailab/status/2090177721913770407",
-          "source": "X：Sky Computing Lab (@haoailab)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T20:42:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sky Computing Lab (@haoailab)"
-      ],
-      "items": [
-        {
-          "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
-          "title": "FastMetal 让 Mac 本地 30 秒生成视频",
-          "url": "https://x.com/haoailab/status/2090177721913770407",
-          "source": "X：Sky Computing Lab (@haoailab)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T20:42:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8483,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T20:42:57Z",
-      "latest_at": "2026-08-19T20:42:57Z",
-      "primary_item": {
-        "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
-        "title": "FastMetal 让 Mac 本地 30 秒生成视频",
-        "url": "https://x.com/haoailab/status/2090177721913770407",
-        "source": "X：Sky Computing Lab (@haoailab)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8a294acf7ec9",
-      "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
-      "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
-      "primary_url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "106a6a47dd09951e75c4fd850f355248b2d26a1e",
-          "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
-          "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T17:56:13.817000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "106a6a47dd09951e75c4fd850f355248b2d26a1e",
-          "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
-          "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T17:56:13.817000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.815,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T17:56:13.817000Z",
-      "latest_at": "2026-08-19T17:56:13.817000Z",
-      "primary_item": {
-        "id": "106a6a47dd09951e75c4fd850f355248b2d26a1e",
-        "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
-        "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -911,15 +992,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7872,
-      "importance": 0.7872,
-      "importance_score": 0.7872,
+      "score": 0.7846,
+      "importance": 0.7846,
+      "importance_score": 0.7846,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9697,
+        "recency": 0.9556,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -992,15 +1073,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7826,
-      "importance": 0.7826,
-      "importance_score": 0.7826,
+      "score": 0.7802,
+      "importance": 0.7802,
+      "importance_score": 0.7802,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9446,
+        "recency": 0.9308,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1015,87 +1096,6 @@
         "id": "651ff7fbcf2e21de28c647cf4af49aa3ade5a8c4",
         "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
         "url": "https://www.aibase.com/news/30495",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e0578d07f1af",
-      "title": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-      "url": "https://www.aibase.com/news/30493",
-      "primary_url": "https://www.aibase.com/news/30493",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8fc76318ec4fdac79afb7d741cc0066d968e1874",
-          "title": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-          "url": "https://www.aibase.com/news/30493",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T03:02:50.088016Z"
-        },
-        {
-          "id": "53ad35493f6f868bda80788cc85a6238251ad09a",
-          "title": "Meta 推出 Mac 版 AI 助手，支持屏幕共享和语音输入功能",
-          "url": "https://www.aibase.com/zh/news/30493",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "8fc76318ec4fdac79afb7d741cc0066d968e1874",
-          "title": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-          "url": "https://www.aibase.com/news/30493",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T03:02:50.088016Z"
-        },
-        {
-          "id": "53ad35493f6f868bda80788cc85a6238251ad09a",
-          "title": "Meta 推出 Mac 版 AI 助手，支持屏幕共享和语音输入功能",
-          "url": "https://www.aibase.com/zh/news/30493",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7799,
-      "importance": 0.7799,
-      "importance_score": 0.7799,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9296,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T03:02:50.088016Z",
-      "latest_at": "2026-08-20T03:02:50.088016Z",
-      "primary_item": {
-        "id": "8fc76318ec4fdac79afb7d741cc0066d968e1874",
-        "title": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-        "url": "https://www.aibase.com/news/30493",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1207,15 +1207,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6376,
-      "importance": 0.6376,
-      "importance_score": 0.6376,
+      "score": 0.6354,
+      "importance": 0.6354,
+      "importance_score": 0.6354,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8242,
+        "recency": 0.8122,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1233,26 +1233,26 @@
       }
     },
     {
-      "story_id": "story_73a0b7a89c99",
-      "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
-      "url": "https://www.aibase.com/news/30483",
-      "primary_url": "https://www.aibase.com/news/30483",
+      "story_id": "story_e0578d07f1af",
+      "title": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
+      "url": "https://www.aibase.com/news/30493",
+      "primary_url": "https://www.aibase.com/news/30493",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c4d373af1554fe91e6281ad03d5ec4b1c3477243",
-          "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
-          "url": "https://www.aibase.com/news/30483",
+          "id": "8fc76318ec4fdac79afb7d741cc0066d968e1874",
+          "title": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
+          "url": "https://www.aibase.com/news/30493",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T01:38:58.560007Z"
+          "published_at": "2026-08-20T03:02:50.088016Z"
         },
         {
-          "id": "eccbe4c34cc8fce321274bb9567965a6314d7cf9",
-          "title": "OpenAI 计划 2027 年完成 IPO，已秘密提交上市文件",
-          "url": "https://www.aibase.com/zh/news/30483",
+          "id": "53ad35493f6f868bda80788cc85a6238251ad09a",
+          "title": "Meta 推出 Mac 版 AI 助手，支持屏幕共享和语音输入功能",
+          "url": "https://www.aibase.com/zh/news/30493",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1266,18 +1266,18 @@
       ],
       "items": [
         {
-          "id": "c4d373af1554fe91e6281ad03d5ec4b1c3477243",
-          "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
-          "url": "https://www.aibase.com/news/30483",
+          "id": "8fc76318ec4fdac79afb7d741cc0066d968e1874",
+          "title": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
+          "url": "https://www.aibase.com/news/30493",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T01:38:58.560007Z"
+          "published_at": "2026-08-20T03:02:50.088016Z"
         },
         {
-          "id": "eccbe4c34cc8fce321274bb9567965a6314d7cf9",
-          "title": "OpenAI 计划 2027 年完成 IPO，已秘密提交上市文件",
-          "url": "https://www.aibase.com/zh/news/30483",
+          "id": "53ad35493f6f868bda80788cc85a6238251ad09a",
+          "title": "Meta 推出 Mac 版 AI 助手，支持屏幕共享和语音输入功能",
+          "url": "https://www.aibase.com/zh/news/30493",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1286,15 +1286,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.7775,
+      "importance": 0.7775,
+      "importance_score": 0.7775,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.911,
+        "recency": 0.916,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1303,12 +1303,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T01:38:58.560007Z",
+      "earliest_at": "2026-08-20T03:02:50.088016Z",
       "latest_at": "2026-08-20T03:02:50.088016Z",
       "primary_item": {
-        "id": "c4d373af1554fe91e6281ad03d5ec4b1c3477243",
-        "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
-        "url": "https://www.aibase.com/news/30483",
+        "id": "8fc76318ec4fdac79afb7d741cc0066d968e1874",
+        "title": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
+        "url": "https://www.aibase.com/news/30493",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1367,15 +1367,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6071,
-      "importance": 0.6071,
-      "importance_score": 0.6071,
+      "score": 0.6048,
+      "importance": 0.6048,
+      "importance_score": 0.6048,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.8896,
+        "recency": 0.8767,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1390,6 +1390,87 @@
         "url": "https://zhidx.com/p/586603.html",
         "source": "智东西",
         "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_73a0b7a89c99",
+      "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+      "url": "https://www.aibase.com/news/30483",
+      "primary_url": "https://www.aibase.com/news/30483",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c4d373af1554fe91e6281ad03d5ec4b1c3477243",
+          "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+          "url": "https://www.aibase.com/news/30483",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T01:38:58.560007Z"
+        },
+        {
+          "id": "eccbe4c34cc8fce321274bb9567965a6314d7cf9",
+          "title": "OpenAI 计划 2027 年完成 IPO，已秘密提交上市文件",
+          "url": "https://www.aibase.com/zh/news/30483",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c4d373af1554fe91e6281ad03d5ec4b1c3477243",
+          "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+          "url": "https://www.aibase.com/news/30483",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T01:38:58.560007Z"
+        },
+        {
+          "id": "eccbe4c34cc8fce321274bb9567965a6314d7cf9",
+          "title": "OpenAI 计划 2027 年完成 IPO，已秘密提交上市文件",
+          "url": "https://www.aibase.com/zh/news/30483",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8977,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T01:38:58.560007Z",
+      "latest_at": "2026-08-20T03:02:50.088016Z",
+      "primary_item": {
+        "id": "c4d373af1554fe91e6281ad03d5ec4b1c3477243",
+        "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+        "url": "https://www.aibase.com/news/30483",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1446,15 +1527,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.911,
+        "recency": 0.8977,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1469,67 +1550,6 @@
         "id": "ad5ad36b30f8fbd277152d637afc8c39e4df9a22",
         "title": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
         "url": "https://www.aibase.com/news/30482",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ab4d6ad18fcb",
-      "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-      "url": "https://www.aibase.com/news/30503",
-      "primary_url": "https://www.aibase.com/news/30503",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
-          "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-          "url": "https://www.aibase.com/news/30503",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T08:06:17.251848Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
-          "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-          "url": "https://www.aibase.com/news/30503",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T08:06:17.251848Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T08:06:17.251848Z",
-      "latest_at": "2026-08-20T08:06:17.251848Z",
-      "primary_item": {
-        "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
-        "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-        "url": "https://www.aibase.com/news/30503",
         "source": "AIbase",
         "source_name": "AIbase"
       }
