@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T06:50:28.615712Z",
+  "generated_at": "2026-08-22T07:36:47.432025Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8085,
+        "recency": 0.7995,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8011,
-      "importance": 0.8011,
-      "importance_score": 0.8011,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7618,
+        "recency": 0.7533,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.8158,
+      "importance": 0.8158,
+      "importance_score": 0.8158,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8078,
+        "recency": 0.7988,
         "story_heat": 0.0
       },
       "category": "official",
@@ -262,15 +262,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7341,
+        "recency": 0.726,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -324,15 +324,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8124,
-      "importance": 0.8124,
-      "importance_score": 0.8124,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8245,
+        "recency": 0.8153,
         "story_heat": 0.0
       },
       "category": "official",
@@ -405,15 +405,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7444,
+      "importance": 0.7444,
+      "importance_score": 0.7444,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7405,
+        "recency": 0.7323,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -466,15 +466,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7895,
+        "recency": 0.7808,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -526,15 +526,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
+      "score": 0.7273,
+      "importance": 0.7273,
+      "importance_score": 0.7273,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.734,
+        "recency": 0.7259,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -586,15 +586,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.722,
-      "importance": 0.722,
-      "importance_score": 0.722,
+      "score": 0.7203,
+      "importance": 0.7203,
+      "importance_score": 0.7203,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.83,
+        "recency": 0.8208,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -665,15 +665,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7444,
+      "importance": 0.7444,
+      "importance_score": 0.7444,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7405,
+        "recency": 0.7323,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -745,15 +745,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7291,
-      "importance": 0.7291,
-      "importance_score": 0.7291,
+      "score": 0.7274,
+      "importance": 0.7274,
+      "importance_score": 0.7274,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8304,
+        "recency": 0.8212,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -825,15 +825,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7311,
+        "recency": 0.723,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -905,15 +905,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7203,
+        "recency": 0.7123,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1056,15 +1056,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6487,
-      "importance": 0.6487,
-      "importance_score": 0.6487,
+      "score": 0.647,
+      "importance": 0.647,
+      "importance_score": 0.647,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.84,
+        "recency": 0.8307,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1135,15 +1135,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7203,
+        "recency": 0.7123,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1241,86 +1241,6 @@
       }
     },
     {
-      "story_id": "story_fb9dba5038e4",
-      "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
-      "url": "https://www.aibase.com/news/30527",
-      "primary_url": "https://www.aibase.com/news/30527",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "621bd70bc44f5db80bdd8e306bb854d610576db8",
-          "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
-          "url": "https://www.aibase.com/news/30527",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:02:44.334251Z"
-        },
-        {
-          "id": "c32ddb47f3cffaf2421762c04b63f9f83bbc7053",
-          "title": "商汤科技开源 8B 轻量多模态大模型：原生 4K 输出、全能视觉编辑",
-          "url": "https://www.aibase.com/zh/news/30527",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "621bd70bc44f5db80bdd8e306bb854d610576db8",
-          "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
-          "url": "https://www.aibase.com/news/30527",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:02:44.334251Z"
-        },
-        {
-          "id": "c32ddb47f3cffaf2421762c04b63f9f83bbc7053",
-          "title": "商汤科技开源 8B 轻量多模态大模型：原生 4K 输出、全能视觉编辑",
-          "url": "https://www.aibase.com/zh/news/30527",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7403,
-      "importance": 0.7403,
-      "importance_score": 0.7403,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7092,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T07:02:44.334251Z",
-      "latest_at": "2026-08-21T07:02:44.334251Z",
-      "primary_item": {
-        "id": "621bd70bc44f5db80bdd8e306bb854d610576db8",
-        "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
-        "url": "https://www.aibase.com/news/30527",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
       "story_id": "story_fd3f5bbbc04e",
       "title": "构建一个（几乎）完全自托管、沙盒、代理的软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
       "url": "https://news.ycombinator.com/item?id=49390463",
@@ -1411,15 +1331,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5665,
-      "importance": 0.5665,
-      "importance_score": 0.5665,
+      "score": 0.5648,
+      "importance": 0.5648,
+      "importance_score": 0.5648,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8372,
+        "recency": 0.8279,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1528,15 +1448,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5641,
-      "importance": 0.5641,
-      "importance_score": 0.5641,
+      "score": 0.5625,
+      "importance": 0.5625,
+      "importance_score": 0.5625,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8239,
+        "recency": 0.8148,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1551,6 +1471,85 @@
         "url": "https://canews24.online/?p=71",
         "source": "canews24.online",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_631f4e2ee377",
+      "title": "越会用 AI 的人，学习能力退化得越快",
+      "url": "https://news.pedaily.cn/202608/567987.shtml",
+      "primary_url": "https://news.pedaily.cn/202608/567987.shtml",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "873e5e95612c8df994782efc7ecdc29da237e2a9",
+          "title": "越会用 AI 的人，学习能力退化得越快",
+          "url": "https://news.pedaily.cn/202608/567987.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "46131e08a071c26921b245aa70a3d42a1c14f617",
+          "title": "越会用AI 的人，学习能力退化得越快",
+          "url": "https://www.huxiu.com/article/4885107.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T04:09:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "873e5e95612c8df994782efc7ecdc29da237e2a9",
+          "title": "越会用 AI 的人，学习能力退化得越快",
+          "url": "https://news.pedaily.cn/202608/567987.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "46131e08a071c26921b245aa70a3d42a1c14f617",
+          "title": "越会用AI 的人，学习能力退化得越快",
+          "url": "https://www.huxiu.com/article/4885107.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T04:09:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T04:09:04Z",
+      "latest_at": "2026-08-22T07:36:47.432025Z",
+      "primary_item": {
+        "id": "873e5e95612c8df994782efc7ecdc29da237e2a9",
+        "title": "越会用 AI 的人，学习能力退化得越快",
+        "url": "https://news.pedaily.cn/202608/567987.shtml",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1606,15 +1605,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5724,
-      "importance": 0.5724,
-      "importance_score": 0.5724,
+      "score": 0.5708,
+      "importance": 0.5708,
+      "importance_score": 0.5708,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7888,
+        "recency": 0.7801,
         "story_heat": 0.25
       },
       "category": "watch",
