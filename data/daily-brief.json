@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T10:30:09.925079Z",
+  "generated_at": "2026-08-23T10:55:16.105082Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9112,
+        "recency": 0.9057,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -99,15 +99,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7473,
-      "importance": 0.7473,
-      "importance_score": 0.7473,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8704,
+        "recency": 0.8652,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -231,15 +231,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6364,
-      "importance": 0.6364,
-      "importance_score": 0.6364,
+      "score": 0.6355,
+      "importance": 0.6355,
+      "importance_score": 0.6355,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.7714,
+        "recency": 0.7667,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -336,30 +336,30 @@
       }
     },
     {
-      "story_id": "story_543f347056f8",
-      "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
-      "url": "https://www.ithome.com/0/993/242.htm",
-      "primary_url": "https://www.ithome.com/0/993/242.htm",
+      "story_id": "story_61266559dfa6",
+      "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+      "url": "https://www.ithome.com/0/993/248.htm",
+      "primary_url": "https://www.ithome.com/0/993/248.htm",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "6ec5d1fe7f53c7dca3608f47369432d88ffc224c",
-          "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
-          "url": "https://www.ithome.com/0/993/242.htm",
+          "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
+          "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "6059f6bed02a5480252d42ea6f7b3482256bd991",
-          "title": "微软英国超大规模 AI 数据中心项目遇阻，遭 4 万居民联署反对",
-          "url": "https://www.ithome.com/0/993/242.htm",
+          "id": "efcdc7453daee5ba3b83c7eb305ca79abd3eed7b",
+          "title": "AI 机器人进厨房：橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-23T09:49:59Z"
+          "published_at": "2026-08-23T10:01:14Z"
         }
       ],
       "source_count": 2,
@@ -369,22 +369,22 @@
       ],
       "items": [
         {
-          "id": "6ec5d1fe7f53c7dca3608f47369432d88ffc224c",
-          "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
-          "url": "https://www.ithome.com/0/993/242.htm",
+          "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
+          "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "6059f6bed02a5480252d42ea6f7b3482256bd991",
-          "title": "微软英国超大规模 AI 数据中心项目遇阻，遭 4 万居民联署反对",
-          "url": "https://www.ithome.com/0/993/242.htm",
+          "id": "efcdc7453daee5ba3b83c7eb305ca79abd3eed7b",
+          "title": "AI 机器人进厨房：橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-23T09:49:59Z"
+          "published_at": "2026-08-23T10:01:14Z"
         }
       ],
       "item_count": 2,
@@ -404,12 +404,12 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-23T09:49:59Z",
-      "latest_at": "2026-08-23T10:30:09.925079Z",
+      "earliest_at": "2026-08-23T10:01:14Z",
+      "latest_at": "2026-08-23T10:55:16.105082Z",
       "primary_item": {
-        "id": "6ec5d1fe7f53c7dca3608f47369432d88ffc224c",
-        "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
-        "url": "https://www.ithome.com/0/993/242.htm",
+        "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
+        "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+        "url": "https://www.ithome.com/0/993/248.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -468,15 +468,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.544,
+      "importance": 0.544,
+      "importance_score": 0.544,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.996,
+        "recency": 0.99,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -566,15 +566,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8408,
+        "recency": 0.8357,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -644,15 +644,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
+      "score": 0.5379,
+      "importance": 0.5379,
+      "importance_score": 0.5379,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9621,
+        "recency": 0.9563,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -742,15 +742,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
+      "score": 0.5301,
+      "importance": 0.5301,
+      "importance_score": 0.5301,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7784,
+        "recency": 0.7737,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -820,15 +820,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5286,
-      "importance": 0.5286,
-      "importance_score": 0.5286,
+      "score": 0.5276,
+      "importance": 0.5276,
+      "importance_score": 0.5276,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9043,
+        "recency": 0.8989,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -918,15 +918,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.526,
-      "importance": 0.526,
-      "importance_score": 0.526,
+      "score": 0.5252,
+      "importance": 0.5252,
+      "importance_score": 0.5252,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.751,
+        "recency": 0.7465,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -997,15 +997,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5231,
-      "importance": 0.5231,
-      "importance_score": 0.5231,
+      "score": 0.5222,
+      "importance": 0.5222,
+      "importance_score": 0.5222,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8739,
+        "recency": 0.8686,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1020,6 +1020,85 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "source": "news.google.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_543f347056f8",
+      "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
+      "url": "https://www.ithome.com/0/993/242.htm",
+      "primary_url": "https://www.ithome.com/0/993/242.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "6ec5d1fe7f53c7dca3608f47369432d88ffc224c",
+          "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
+          "url": "https://www.ithome.com/0/993/242.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6059f6bed02a5480252d42ea6f7b3482256bd991",
+          "title": "微软英国超大规模 AI 数据中心项目遇阻，遭 4 万居民联署反对",
+          "url": "https://www.ithome.com/0/993/242.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T09:49:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6ec5d1fe7f53c7dca3608f47369432d88ffc224c",
+          "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
+          "url": "https://www.ithome.com/0/993/242.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6059f6bed02a5480252d42ea6f7b3482256bd991",
+          "title": "微软英国超大规模 AI 数据中心项目遇阻，遭 4 万居民联署反对",
+          "url": "https://www.ithome.com/0/993/242.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T09:49:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.994,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T09:49:59Z",
+      "latest_at": "2026-08-23T10:30:09.925079Z",
+      "primary_item": {
+        "id": "6ec5d1fe7f53c7dca3608f47369432d88ffc224c",
+        "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
+        "url": "https://www.ithome.com/0/993/242.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1076,15 +1155,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5142,
-      "importance": 0.5142,
-      "importance_score": 0.5142,
+      "score": 0.5134,
+      "importance": 0.5134,
+      "importance_score": 0.5134,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8247,
+        "recency": 0.8197,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1155,15 +1234,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5137,
-      "importance": 0.5137,
-      "importance_score": 0.5137,
+      "score": 0.5128,
+      "importance": 0.5128,
+      "importance_score": 0.5128,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8215,
+        "recency": 0.8166,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1178,85 +1257,6 @@
         "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_3f3be91b4072",
-      "title": "亿万投资人马克·库班：医生应该教患者如何用AI辅助治疗",
-      "url": "https://www.ithome.com/0/993/193.htm",
-      "primary_url": "https://www.ithome.com/0/993/193.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "ecdb57694719ecc45b1ae81177023b1cf4d4183d",
-          "title": "亿万投资人马克·库班：医生应该教患者如何用AI辅助治疗",
-          "url": "https://www.ithome.com/0/993/193.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0819a979f7d723d1d4e2ee589619eb0705a1f6c7",
-          "title": "亿万投资人马克 · 库班：医生应该教患者如何用 AI 来辅助治疗",
-          "url": "https://www.ithome.com/0/993/193.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T07:11:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ecdb57694719ecc45b1ae81177023b1cf4d4183d",
-          "title": "亿万投资人马克·库班：医生应该教患者如何用AI辅助治疗",
-          "url": "https://www.ithome.com/0/993/193.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0819a979f7d723d1d4e2ee589619eb0705a1f6c7",
-          "title": "亿万投资人马克 · 库班：医生应该教患者如何用 AI 来辅助治疗",
-          "url": "https://www.ithome.com/0/993/193.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T07:11:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9595,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T07:11:05Z",
-      "latest_at": "2026-08-23T07:38:20.822580Z",
-      "primary_item": {
-        "id": "ecdb57694719ecc45b1ae81177023b1cf4d4183d",
-        "title": "亿万投资人马克·库班：医生应该教患者如何用AI辅助治疗",
-        "url": "https://www.ithome.com/0/993/193.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1312,15 +1312,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5057,
-      "importance": 0.5057,
-      "importance_score": 0.5057,
+      "score": 0.5048,
+      "importance": 0.5048,
+      "importance_score": 0.5048,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7771,
+        "recency": 0.7724,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1391,15 +1391,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5043,
-      "importance": 0.5043,
-      "importance_score": 0.5043,
+      "score": 0.5035,
+      "importance": 0.5035,
+      "importance_score": 0.5035,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7695,
+        "recency": 0.7649,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1470,15 +1470,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4989,
-      "importance": 0.4989,
-      "importance_score": 0.4989,
+      "score": 0.4981,
+      "importance": 0.4981,
+      "importance_score": 0.4981,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7395,
+        "recency": 0.7351,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1549,15 +1549,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5099,
-      "importance": 0.5099,
-      "importance_score": 0.5099,
+      "score": 0.509,
+      "importance": 0.509,
+      "importance_score": 0.509,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8005,
+        "recency": 0.7957,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1575,81 +1575,82 @@
       }
     },
     {
-      "story_id": "story_d901a93bbcfa",
-      "title": "《用Python思考》 / Thinking in Python",
-      "url": "https://thinkinginpython.com",
-      "primary_url": "https://thinkinginpython.com",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_3f3be91b4072",
+      "title": "亿万投资人马克·库班：医生应该教患者如何用AI辅助治疗",
+      "url": "https://www.ithome.com/0/993/193.htm",
+      "primary_url": "https://www.ithome.com/0/993/193.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
-          "title": "《用Python思考》 / Thinking in Python",
-          "url": "https://thinkinginpython.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
+          "id": "ecdb57694719ecc45b1ae81177023b1cf4d4183d",
+          "title": "亿万投资人马克·库班：医生应该教患者如何用AI辅助治疗",
+          "url": "https://www.ithome.com/0/993/193.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "3289df469c5b7ba3c168fe930418c735ddf2afd9",
-          "title": "《用Python思考》 / Thinking in Python by Bruce Eckel",
-          "url": "https://thinkinginpython.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
+          "id": "0819a979f7d723d1d4e2ee589619eb0705a1f6c7",
+          "title": "亿万投资人马克 · 库班：医生应该教患者如何用 AI 来辅助治疗",
+          "url": "https://www.ithome.com/0/993/193.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T07:11:05Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
-          "title": "《用Python思考》 / Thinking in Python",
-          "url": "https://thinkinginpython.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
+          "id": "ecdb57694719ecc45b1ae81177023b1cf4d4183d",
+          "title": "亿万投资人马克·库班：医生应该教患者如何用AI辅助治疗",
+          "url": "https://www.ithome.com/0/993/193.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "3289df469c5b7ba3c168fe930418c735ddf2afd9",
-          "title": "《用Python思考》 / Thinking in Python by Bruce Eckel",
-          "url": "https://thinkinginpython.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
+          "id": "0819a979f7d723d1d4e2ee589619eb0705a1f6c7",
+          "title": "亿万投资人马克 · 库班：医生应该教患者如何用 AI 来辅助治疗",
+          "url": "https://www.ithome.com/0/993/193.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T07:11:05Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.508,
-      "importance": 0.508,
-      "importance_score": 0.508,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.79,
+        "recency": 0.9537,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T18:10:49Z",
-      "latest_at": "2026-08-22T18:10:49Z",
+      "earliest_at": "2026-08-23T07:11:05Z",
+      "latest_at": "2026-08-23T07:38:20.822580Z",
       "primary_item": {
-        "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
-        "title": "《用Python思考》 / Thinking in Python",
-        "url": "https://thinkinginpython.com",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "ecdb57694719ecc45b1ae81177023b1cf4d4183d",
+        "title": "亿万投资人马克·库班：医生应该教患者如何用AI辅助治疗",
+        "url": "https://www.ithome.com/0/993/193.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
