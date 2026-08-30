@@ -1,68 +1,66 @@
 {
-  "generated_at": "2026-08-29T23:11:11.809053Z",
+  "generated_at": "2026-08-30T01:33:42.653461Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "Codex CLI 0.151.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_dab2710a3e78",
+      "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "primary_url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f98e6d3f28314f72c32272040c8ebf3ac854f556",
-          "title": "Codex CLI 0.151.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-29T00:00:00Z"
+          "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
+          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
+          "url": "https://www.dwarkesh.com/p/openai-huggingface",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T22:47:53Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "Dwarkesh Patel：Podcast & Blog（RSS）"
       ],
       "items": [
         {
-          "id": "f98e6d3f28314f72c32272040c8ebf3ac854f556",
-          "title": "Codex CLI 0.151.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-29T00:00:00Z"
+          "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
+          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
+          "url": "https://www.dwarkesh.com/p/openai-huggingface",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T22:47:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
-      "importance_label": "官方更新",
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7155,
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9609,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-29T00:00:00Z",
-      "latest_at": "2026-08-29T00:00:00Z",
+      "earliest_at": "2026-08-29T22:47:53Z",
+      "latest_at": "2026-08-29T22:47:53Z",
       "primary_item": {
-        "id": "f98e6d3f28314f72c32272040c8ebf3ac854f556",
-        "title": "Codex CLI 0.151.0",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
+        "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
+        "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
+        "url": "https://www.dwarkesh.com/p/openai-huggingface",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -100,15 +98,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
+      "score": 0.7343,
+      "importance": 0.7343,
+      "importance_score": 0.7343,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7916,
+        "recency": 0.7649,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -179,15 +177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
+      "score": 0.7313,
+      "importance": 0.7313,
+      "importance_score": 0.7313,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7343,
+        "recency": 0.7095,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -240,15 +238,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7251,
-      "importance": 0.7251,
-      "importance_score": 0.7251,
+      "score": 0.7204,
+      "importance": 0.7204,
+      "importance_score": 0.7204,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7637,
+        "recency": 0.738,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -300,15 +298,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
+      "score": 0.7324,
+      "importance": 0.7324,
+      "importance_score": 0.7324,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7977,
+        "recency": 0.7708,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -414,15 +412,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6308,
-      "importance": 0.6308,
-      "importance_score": 0.6308,
+      "score": 0.6252,
+      "importance": 0.6252,
+      "importance_score": 0.6252,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9257,
+        "recency": 0.8945,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -457,12 +455,12 @@
           "published_at": "2026-08-29T15:16:20.593000Z"
         },
         {
-          "id": "2a5b872c692789f050919e55f7152de4f368099b",
+          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
           "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
           "url": "https://lwn.net/Articles/1091231",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-29T14:02:10Z"
         },
         {
@@ -486,7 +484,7 @@
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "Lobsters (技术社区)",
         "lwn.net",
         "www.phoronix.com"
@@ -502,12 +500,12 @@
           "published_at": "2026-08-29T15:16:20.593000Z"
         },
         {
-          "id": "2a5b872c692789f050919e55f7152de4f368099b",
+          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
           "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
           "url": "https://lwn.net/Articles/1091231",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-29T14:02:10Z"
         },
         {
@@ -531,15 +529,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5764,
-      "importance": 0.5764,
-      "importance_score": 0.5764,
+      "score": 0.5709,
+      "importance": 0.5709,
+      "importance_score": 0.5709,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.892,
+        "recency": 0.8619,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -629,15 +627,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5635,
-      "importance": 0.5635,
-      "importance_score": 0.5635,
+      "score": 0.5577,
+      "importance": 0.5577,
+      "importance_score": 0.5577,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9597,
+        "recency": 0.9273,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -708,15 +706,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9663,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -787,15 +785,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9635,
+        "recency": 0.931,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -866,15 +864,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
+      "score": 0.5327,
+      "importance": 0.5327,
+      "importance_score": 0.5327,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9597,
+        "recency": 0.9273,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -945,15 +943,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5372,
-      "importance": 0.5372,
-      "importance_score": 0.5372,
+      "score": 0.5314,
+      "importance": 0.5314,
+      "importance_score": 0.5314,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9523,
+        "recency": 0.9202,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -971,30 +969,30 @@
       }
     },
     {
-      "story_id": "story_356cb5adee51",
-      "title": "《宣言》——我们是谁，我们想要什么（2002） / Autistici/inventati: Manifesto – who we are and what do we want (2002)",
-      "url": "https://www.inventati.org/who/manifesto",
-      "primary_url": "https://www.inventati.org/who/manifesto",
+      "story_id": "story_dc0363ce3679",
+      "title": "腾讯发布并开源了 Tencent Hy4 Preview / Hy4 preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
+      "primary_url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
-          "title": "《宣言》——我们是谁，我们想要什么（2002） / Autistici/inventati: Manifesto – who we are and what do we want (2002)",
-          "url": "https://www.inventati.org/who/manifesto",
+          "id": "b096e66246435ff13e0333f093a2328ca5fba132",
+          "title": "腾讯发布并开源了 Tencent Hy4 Preview / Hy4 preview",
+          "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-29T07:38:31Z"
+          "published_at": "2026-08-29T19:33:23Z"
         },
         {
-          "id": "1b4538a74c8cc494e3074f226f077d120748ebca",
-          "title": "《宣言》——我们是谁，我们想要什么（2002） / Manifesto – who we are and what do we want (2002)",
-          "url": "https://www.inventati.org/who/manifesto",
+          "id": "4148ce2fd2d6dd8d6cf3c582d9fd2f8621fb0e84",
+          "title": "腾讯发布并开源了 Tencent Hy4 Preview / Tencent Releases and Open-Sources Tencent Hy4 Preview",
+          "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-29T07:38:31Z"
+          "published_at": "2026-08-29T19:33:23Z"
         }
       ],
       "source_count": 2,
@@ -1003,128 +1001,49 @@
       ],
       "items": [
         {
-          "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
-          "title": "《宣言》——我们是谁，我们想要什么（2002） / Autistici/inventati: Manifesto – who we are and what do we want (2002)",
-          "url": "https://www.inventati.org/who/manifesto",
+          "id": "b096e66246435ff13e0333f093a2328ca5fba132",
+          "title": "腾讯发布并开源了 Tencent Hy4 Preview / Hy4 preview",
+          "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-29T07:38:31Z"
+          "published_at": "2026-08-29T19:33:23Z"
         },
         {
-          "id": "1b4538a74c8cc494e3074f226f077d120748ebca",
-          "title": "《宣言》——我们是谁，我们想要什么（2002） / Manifesto – who we are and what do we want (2002)",
-          "url": "https://www.inventati.org/who/manifesto",
+          "id": "4148ce2fd2d6dd8d6cf3c582d9fd2f8621fb0e84",
+          "title": "腾讯发布并开源了 Tencent Hy4 Preview / Tencent Releases and Open-Sources Tencent Hy4 Preview",
+          "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-29T07:38:31Z"
+          "published_at": "2026-08-29T19:33:23Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5096,
-      "importance": 0.5096,
-      "importance_score": 0.5096,
+      "score": 0.5308,
+      "importance": 0.5308,
+      "importance_score": 0.5308,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7989,
+        "recency": 0.9169,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T07:38:31Z",
-      "latest_at": "2026-08-29T07:38:31Z",
+      "earliest_at": "2026-08-29T19:33:23Z",
+      "latest_at": "2026-08-29T19:33:23Z",
       "primary_item": {
-        "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
-        "title": "《宣言》——我们是谁，我们想要什么（2002） / Autistici/inventati: Manifesto – who we are and what do we want (2002)",
-        "url": "https://www.inventati.org/who/manifesto",
+        "id": "b096e66246435ff13e0333f093a2328ca5fba132",
+        "title": "腾讯发布并开源了 Tencent Hy4 Preview / Hy4 preview",
+        "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_6f0715608976",
-      "title": "我不小心把LLM内存变成了程序分析",
-      "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-      "primary_url": "https://pwning.systems/posts/llm-memory-program-analysis",
-      "source": "pwning.systems",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f53cc7718c916a82ba7d2a5ffe22cee80d301975",
-          "title": "我不小心把LLM内存变成了程序分析",
-          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-          "source": "pwning.systems",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T06:44:16.846000Z"
-        },
-        {
-          "id": "b1cebf1e35b4c5fbb65bf31d62c84e57187ede67",
-          "title": "我不小心把LLM内存变成了程序分析 / I accidentally turned LLM memory into program analysis",
-          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T23:27:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "pwning.systems"
-      ],
-      "items": [
-        {
-          "id": "f53cc7718c916a82ba7d2a5ffe22cee80d301975",
-          "title": "我不小心把LLM内存变成了程序分析",
-          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-          "source": "pwning.systems",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T06:44:16.846000Z"
-        },
-        {
-          "id": "b1cebf1e35b4c5fbb65bf31d62c84e57187ede67",
-          "title": "我不小心把LLM内存变成了程序分析 / I accidentally turned LLM memory into program analysis",
-          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T23:27:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5077,
-      "importance": 0.5077,
-      "importance_score": 0.5077,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7886,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-28T23:27:45Z",
-      "latest_at": "2026-08-29T06:44:16.846000Z",
-      "primary_item": {
-        "id": "f53cc7718c916a82ba7d2a5ffe22cee80d301975",
-        "title": "我不小心把LLM内存变成了程序分析",
-        "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-        "source": "pwning.systems",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1181,15 +1100,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5067,
-      "importance": 0.5067,
-      "importance_score": 0.5067,
+      "score": 0.5019,
+      "importance": 0.5019,
+      "importance_score": 0.5019,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7825,
+        "recency": 0.7561,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1260,15 +1179,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5346,
-      "importance": 0.5346,
-      "importance_score": 0.5346,
+      "score": 0.5289,
+      "importance": 0.5289,
+      "importance_score": 0.5289,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9378,
+        "recency": 0.9062,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1282,6 +1201,85 @@
         "title": "Show HN: 一款AI工具，可让Codex和Claude的图结构相互通信",
         "url": "https://github.com/rysh-ai/rysh-cli-code",
         "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_092c8de02e8b",
+      "title": "关于Cursor被SpaceX收购后的决定",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "primary_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "openai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
+          "title": "关于Cursor被SpaceX收购后的决定",
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T03:16:20.612000Z"
+        },
+        {
+          "id": "b34fdb3d7e7fef53933ea8761c7c4705834c246d",
+          "title": "关于Cursor被SpaceX收购后的决定 / Our decision on Cursor following its acquisition by SpaceX",
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T01:47:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
+          "title": "关于Cursor被SpaceX收购后的决定",
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T03:16:20.612000Z"
+        },
+        {
+          "id": "b34fdb3d7e7fef53933ea8761c7c4705834c246d",
+          "title": "关于Cursor被SpaceX收购后的决定 / Our decision on Cursor following its acquisition by SpaceX",
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T01:47:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4963,
+      "importance": 0.4963,
+      "importance_score": 0.4963,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7248,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T01:47:53Z",
+      "latest_at": "2026-08-29T03:16:20.612000Z",
+      "primary_item": {
+        "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
+        "title": "关于Cursor被SpaceX收购后的决定",
+        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+        "source": "openai.com",
         "source_name": "Buzzing"
       }
     },
@@ -1339,15 +1337,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5319,
-      "importance": 0.5319,
-      "importance_score": 0.5319,
+      "score": 0.5263,
+      "importance": 0.5263,
+      "importance_score": 0.5263,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9226,
+        "recency": 0.8915,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1362,85 +1360,6 @@
         "url": "https://news.ycombinator.com/item?id=49491631",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_092c8de02e8b",
-      "title": "关于Cursor被SpaceX收购后的决定",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "primary_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "source": "openai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
-          "title": "关于Cursor被SpaceX收购后的决定",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:16:20.612000Z"
-        },
-        {
-          "id": "b34fdb3d7e7fef53933ea8761c7c4705834c246d",
-          "title": "关于Cursor被SpaceX收购后的决定 / Our decision on Cursor following its acquisition by SpaceX",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T01:47:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
-          "title": "关于Cursor被SpaceX收购后的决定",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:16:20.612000Z"
-        },
-        {
-          "id": "b34fdb3d7e7fef53933ea8761c7c4705834c246d",
-          "title": "关于Cursor被SpaceX收购后的决定 / Our decision on Cursor following its acquisition by SpaceX",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T01:47:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5008,
-      "importance": 0.5008,
-      "importance_score": 0.5008,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7501,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T01:47:53Z",
-      "latest_at": "2026-08-29T03:16:20.612000Z",
-      "primary_item": {
-        "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
-        "title": "关于Cursor被SpaceX收购后的决定",
-        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-        "source": "openai.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1497,15 +1416,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5003,
-      "importance": 0.5003,
-      "importance_score": 0.5003,
+      "score": 0.4958,
+      "importance": 0.4958,
+      "importance_score": 0.4958,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7472,
+        "recency": 0.722,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1576,15 +1495,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5002,
-      "importance": 0.5002,
-      "importance_score": 0.5002,
+      "score": 0.4957,
+      "importance": 0.4957,
+      "importance_score": 0.4957,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7466,
+        "recency": 0.7215,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1599,6 +1518,85 @@
         "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
         "source": "HN Algolia · AI 24h",
         "source_name": "Hacker News"
+      }
+    },
+    {
+      "story_id": "story_29a8261d3470",
+      "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+      "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+      "primary_url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T13:24:41.103000Z"
+        },
+        {
+          "id": "a6f59e8ba9a6f4aa9497a4c778b60c876a79ef3e",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。 / I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T13:05:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T13:24:41.103000Z"
+        },
+        {
+          "id": "a6f59e8ba9a6f4aa9497a4c778b60c876a79ef3e",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。 / I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T13:05:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5168,
+      "importance": 0.5168,
+      "importance_score": 0.5168,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8391,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T13:05:01Z",
+      "latest_at": "2026-08-29T13:24:41.103000Z",
+      "primary_item": {
+        "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
+        "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+        "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
