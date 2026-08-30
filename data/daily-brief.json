@@ -1,8 +1,89 @@
 {
-  "generated_at": "2026-08-30T08:10:35.239200Z",
+  "generated_at": "2026-08-30T13:57:15.174948Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 20,
   "items": [
+    {
+      "story_id": "story_ea92ab7ce270",
+      "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
+      "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
+      "primary_url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "af3bbf71543322f3e623729a8d02ff883b3000b3",
+          "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
+          "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-30T08:50:20Z"
+        },
+        {
+          "id": "62b5c6889312a5d3524397fec034ef37d4492211",
+          "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude / Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
+          "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-30T08:50:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "af3bbf71543322f3e623729a8d02ff883b3000b3",
+          "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
+          "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-30T08:50:20Z"
+        },
+        {
+          "id": "62b5c6889312a5d3524397fec034ef37d4492211",
+          "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude / Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
+          "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-30T08:50:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7918,
+      "importance": 0.7918,
+      "importance_score": 0.7918,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9288,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-30T08:50:20Z",
+      "latest_at": "2026-08-30T08:50:20Z",
+      "primary_item": {
+        "id": "af3bbf71543322f3e623729a8d02ff883b3000b3",
+        "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
+        "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_dba8baf1aeeb",
       "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
@@ -38,21 +119,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7617,
-      "importance": 0.7617,
-      "importance_score": 0.7617,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9003,
+        "recency": 0.8282,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-30T00:54:08Z",
       "latest_at": "2026-08-30T00:54:08Z",
@@ -99,21 +179,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
+      "score": 0.7443,
+      "importance": 0.7443,
+      "importance_score": 0.7443,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9463,
+        "recency": 0.8705,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-30T04:21:04Z",
       "latest_at": "2026-08-30T04:21:04Z",
@@ -179,15 +258,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8733,
+        "recency": 0.8034,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -294,15 +373,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6105,
-      "importance": 0.6105,
-      "importance_score": 0.6105,
+      "score": 0.5988,
+      "importance": 0.5988,
+      "importance_score": 0.5988,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.813,
+        "recency": 0.748,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -392,15 +471,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5644,
-      "importance": 0.5644,
-      "importance_score": 0.5644,
+      "score": 0.5505,
+      "importance": 0.5505,
+      "importance_score": 0.5505,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9645,
+        "recency": 0.8873,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -418,120 +497,240 @@
       }
     },
     {
-      "story_id": "story_2ee04de9ee75",
-      "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-      "url": "https://lwn.net/Articles/1091231",
-      "primary_url": "https://lwn.net/Articles/1091231",
-      "source": "lwn.net",
-      "source_name": "Buzzing",
+      "story_id": "story_773e61521fea",
+      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "url": "https://news.ycombinator.com/item?id=49498201",
+      "primary_url": "https://news.ycombinator.com/item?id=49498201",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "lwn.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T15:16:20.593000Z"
+          "id": "2734cb6546a34dd90570a299150efb3fd87af2cd",
+          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+          "url": "https://news.ycombinator.com/item?id=49498201",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T13:57:51.556000Z"
         },
         {
-          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T14:02:10Z"
-        },
-        {
-          "id": "70be66b58f1901c6150fbc5cf7465ecfe939f972",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-          "source": "www.phoronix.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T09:40:21.179000Z"
-        },
-        {
-          "id": "f0bf36014eefecc98ca45a466499e50b1eb467cb",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian Votes To Allow \"Responsible Use Of Generative AI\"",
-          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-          "source": "Lobsters (技术社区)",
+          "id": "f48aed7116c55743a2f57a09b62cd0c3641aeb04",
+          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+          "url": "https://github.com/anthropics/claude-code/issues/66504",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-29T08:19:22Z"
+          "published_at": "2026-08-30T12:50:54Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "lwn.net",
-        "www.phoronix.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "lwn.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T15:16:20.593000Z"
+          "id": "2734cb6546a34dd90570a299150efb3fd87af2cd",
+          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+          "url": "https://news.ycombinator.com/item?id=49498201",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T13:57:51.556000Z"
         },
         {
-          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T14:02:10Z"
-        },
-        {
-          "id": "70be66b58f1901c6150fbc5cf7465ecfe939f972",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-          "source": "www.phoronix.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T09:40:21.179000Z"
-        },
-        {
-          "id": "f0bf36014eefecc98ca45a466499e50b1eb467cb",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian Votes To Allow \"Responsible Use Of Generative AI\"",
-          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-          "source": "Lobsters (技术社区)",
+          "id": "f48aed7116c55743a2f57a09b62cd0c3641aeb04",
+          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+          "url": "https://github.com/anthropics/claude-code/issues/66504",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-29T08:19:22Z"
+          "published_at": "2026-08-30T12:50:54Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5568,
-      "importance": 0.5568,
-      "importance_score": 0.5568,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7834,
-        "story_heat": 0.75
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T08:19:22Z",
-      "latest_at": "2026-08-29T15:16:20.593000Z",
+      "earliest_at": "2026-08-30T12:50:54Z",
+      "latest_at": "2026-08-30T13:57:51.556000Z",
       "primary_item": {
-        "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
-        "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-        "url": "https://lwn.net/Articles/1091231",
-        "source": "lwn.net",
-        "source_name": "Buzzing"
+        "id": "2734cb6546a34dd90570a299150efb3fd87af2cd",
+        "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+        "url": "https://news.ycombinator.com/item?id=49498201",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_b1f15b8a23b7",
+      "title": "pollen-robotics / microduck_rl",
+      "url": "https://github.com/pollen-robotics/microduck_rl",
+      "primary_url": "https://github.com/pollen-robotics/microduck_rl",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "3dbde35b3d640487f63d2774fc0db0fe21bb9713",
+          "title": "pollen-robotics / microduck_rl",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ca3cdd670a243487039644b9926d0ad264c8cf86",
+          "title": "pollen-robotics /      microduck_rl",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T13:36:22.960000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "3dbde35b3d640487f63d2774fc0db0fe21bb9713",
+          "title": "pollen-robotics / microduck_rl",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ca3cdd670a243487039644b9926d0ad264c8cf86",
+          "title": "pollen-robotics /      microduck_rl",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T13:36:22.960000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T13:36:22.960000Z",
+      "latest_at": "2026-08-30T13:57:15.174948Z",
+      "primary_item": {
+        "id": "3dbde35b3d640487f63d2774fc0db0fe21bb9713",
+        "title": "pollen-robotics / microduck_rl",
+        "url": "https://github.com/pollen-robotics/microduck_rl",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_0b09c7b8916b",
+      "title": "华为云联合瑞金医院发布瑞智病理大模型 RuiPath 2.0",
+      "url": "https://www.ithome.com/0/996/195.htm",
+      "primary_url": "https://www.ithome.com/0/996/195.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "0e26fd95a93c9c63b9394bb50af86ec9fa5327e8",
+          "title": "华为云联合瑞金医院发布瑞智病理大模型 RuiPath 2.0",
+          "url": "https://www.ithome.com/0/996/195.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7d703b8ec17e4fee841f5c324e965d85affbddcb",
+          "title": "华为云联合瑞金医院发布瑞智病理大模型 RuiPath 2.0：7B 参数，覆盖 19 个常见癌种",
+          "url": "https://www.ithome.com/0/996/195.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-30T09:12:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0e26fd95a93c9c63b9394bb50af86ec9fa5327e8",
+          "title": "华为云联合瑞金医院发布瑞智病理大模型 RuiPath 2.0",
+          "url": "https://www.ithome.com/0/996/195.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7d703b8ec17e4fee841f5c324e965d85affbddcb",
+          "title": "华为云联合瑞金医院发布瑞智病理大模型 RuiPath 2.0：7B 参数，覆盖 19 个常见癌种",
+          "url": "https://www.ithome.com/0/996/195.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-30T09:12:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T09:12:57Z",
+      "latest_at": "2026-08-30T13:57:15.174948Z",
+      "primary_item": {
+        "id": "0e26fd95a93c9c63b9394bb50af86ec9fa5327e8",
+        "title": "华为云联合瑞金医院发布瑞智病理大模型 RuiPath 2.0",
+        "url": "https://www.ithome.com/0/996/195.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -607,15 +806,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
+      "score": 0.5304,
+      "importance": 0.5304,
+      "importance_score": 0.5304,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8429,
+        "recency": 0.7754,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -633,109 +832,30 @@
       }
     },
     {
-      "story_id": "story_eb0bc1242835",
-      "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
-      "url": "https://www.ithome.com/0/996/053.htm",
-      "primary_url": "https://www.ithome.com/0/996/053.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
-          "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
-          "url": "https://www.ithome.com/0/996/053.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ea6a6dd02bbe41541ea126afa51e10ed9c0de43a",
-          "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
-          "url": "https://www.ithome.com/0/996/053.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T22:44:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
-          "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
-          "url": "https://www.ithome.com/0/996/053.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ea6a6dd02bbe41541ea126afa51e10ed9c0de43a",
-          "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
-          "url": "https://www.ithome.com/0/996/053.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T22:44:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8783,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T22:44:37Z",
-      "latest_at": "2026-08-29T23:11:11.809053Z",
-      "primary_item": {
-        "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
-        "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
-        "url": "https://www.ithome.com/0/996/053.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_ce496cd82092",
-      "title": "Warp builds self-improving agents on Claude",
-      "url": "https://news.ycombinator.com/item?id=49492432",
-      "primary_url": "https://news.ycombinator.com/item?id=49492432",
+      "story_id": "story_1190010667fb",
+      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+      "url": "https://news.ycombinator.com/item?id=49497357",
+      "primary_url": "https://news.ycombinator.com/item?id=49497357",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
-          "title": "Warp builds self-improving agents on Claude",
-          "url": "https://news.ycombinator.com/item?id=49492432",
+          "id": "cc98c46ab141c1898aef1f5df458140fc8195a53",
+          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+          "url": "https://news.ycombinator.com/item?id=49497357",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-29T20:36:44.934000Z"
+          "published_at": "2026-08-30T13:57:51.556000Z"
         },
         {
-          "id": "c862d0cb60525518f6c826f9f2f31429b71ce174",
-          "title": "Warp builds self-improving agents on Claude",
-          "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+          "id": "6ea3712a57180478af38e676b2674ccbb84d049f",
+          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+          "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-29T19:09:33Z"
+          "published_at": "2026-08-30T10:20:11Z"
         }
       ],
       "source_count": 2,
@@ -745,49 +865,128 @@
       ],
       "items": [
         {
-          "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
-          "title": "Warp builds self-improving agents on Claude",
-          "url": "https://news.ycombinator.com/item?id=49492432",
+          "id": "cc98c46ab141c1898aef1f5df458140fc8195a53",
+          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+          "url": "https://news.ycombinator.com/item?id=49497357",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-29T20:36:44.934000Z"
+          "published_at": "2026-08-30T13:57:51.556000Z"
         },
         {
-          "id": "c862d0cb60525518f6c826f9f2f31429b71ce174",
-          "title": "Warp builds self-improving agents on Claude",
-          "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+          "id": "6ea3712a57180478af38e676b2674ccbb84d049f",
+          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+          "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-29T19:09:33Z"
+          "published_at": "2026-08-30T10:20:11Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5181,
-      "importance": 0.5181,
-      "importance_score": 0.5181,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8462,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T19:09:33Z",
-      "latest_at": "2026-08-29T20:36:44.934000Z",
+      "earliest_at": "2026-08-30T10:20:11Z",
+      "latest_at": "2026-08-30T13:57:51.556000Z",
       "primary_item": {
-        "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
-        "title": "Warp builds self-improving agents on Claude",
-        "url": "https://news.ycombinator.com/item?id=49492432",
+        "id": "cc98c46ab141c1898aef1f5df458140fc8195a53",
+        "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+        "url": "https://news.ycombinator.com/item?id=49497357",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_7d9153c0bf2c",
+      "title": "punkpeye / awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "primary_url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "d467d531b401a1a5c8882116ed0ddae8d9164a37",
+          "title": "punkpeye / awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "90118fc6419d480f2882f91491dbddae6f234c8a",
+          "title": "punkpeye /      awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T13:36:22.960000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "d467d531b401a1a5c8882116ed0ddae8d9164a37",
+          "title": "punkpeye / awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "90118fc6419d480f2882f91491dbddae6f234c8a",
+          "title": "punkpeye /      awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T13:36:22.960000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T13:36:22.960000Z",
+      "latest_at": "2026-08-30T13:57:15.174948Z",
+      "primary_item": {
+        "id": "d467d531b401a1a5c8882116ed0ddae8d9164a37",
+        "title": "punkpeye / awesome-mcp-servers",
+        "url": "https://github.com/punkpeye/awesome-mcp-servers",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
@@ -844,15 +1043,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5175,
-      "importance": 0.5175,
-      "importance_score": 0.5175,
+      "score": 0.5054,
+      "importance": 0.5054,
+      "importance_score": 0.5054,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8429,
+        "recency": 0.7754,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -923,15 +1122,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5164,
-      "importance": 0.5164,
-      "importance_score": 0.5164,
+      "score": 0.5043,
+      "importance": 0.5043,
+      "importance_score": 0.5043,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8364,
+        "recency": 0.7694,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1001,15 +1200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5158,
-      "importance": 0.5158,
-      "importance_score": 0.5158,
+      "score": 0.5038,
+      "importance": 0.5038,
+      "importance_score": 0.5038,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8334,
+        "recency": 0.7667,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1024,6 +1223,85 @@
         "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_eb0bc1242835",
+      "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
+      "url": "https://www.ithome.com/0/996/053.htm",
+      "primary_url": "https://www.ithome.com/0/996/053.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
+          "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
+          "url": "https://www.ithome.com/0/996/053.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ea6a6dd02bbe41541ea126afa51e10ed9c0de43a",
+          "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
+          "url": "https://www.ithome.com/0/996/053.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T22:44:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
+          "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
+          "url": "https://www.ithome.com/0/996/053.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ea6a6dd02bbe41541ea126afa51e10ed9c0de43a",
+          "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
+          "url": "https://www.ithome.com/0/996/053.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T22:44:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5112,
+      "importance": 0.5112,
+      "importance_score": 0.5112,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.808,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T22:44:37Z",
+      "latest_at": "2026-08-29T23:11:11.809053Z",
+      "primary_item": {
+        "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
+        "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
+        "url": "https://www.ithome.com/0/996/053.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1080,15 +1358,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.514,
-      "importance": 0.514,
-      "importance_score": 0.514,
+      "score": 0.5022,
+      "importance": 0.5022,
+      "importance_score": 0.5022,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8236,
+        "recency": 0.7577,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1103,85 +1381,6 @@
         "url": "https://github.com/rysh-ai/rysh-cli-code",
         "source": "github.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4d812cfbbce6",
-      "title": "Claude Code is going reduce limits by 25% from September 14",
-      "url": "https://news.ycombinator.com/item?id=49491631",
-      "primary_url": "https://news.ycombinator.com/item?id=49491631",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
-          "title": "Claude Code is going reduce limits by 25% from September 14",
-          "url": "https://news.ycombinator.com/item?id=49491631",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T17:36:29.303000Z"
-        },
-        {
-          "id": "9baf5b737e6c0bbe1153b05b0487e8f5cb21b7e3",
-          "title": "Claude Code is going reduce limits by 25% from September 14",
-          "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-29T17:27:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
-          "title": "Claude Code is going reduce limits by 25% from September 14",
-          "url": "https://news.ycombinator.com/item?id=49491631",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T17:36:29.303000Z"
-        },
-        {
-          "id": "9baf5b737e6c0bbe1153b05b0487e8f5cb21b7e3",
-          "title": "Claude Code is going reduce limits by 25% from September 14",
-          "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-29T17:27:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5117,
-      "importance": 0.5117,
-      "importance_score": 0.5117,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8103,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T17:27:31Z",
-      "latest_at": "2026-08-29T17:36:29.303000Z",
-      "primary_item": {
-        "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
-        "title": "Claude Code is going reduce limits by 25% from September 14",
-        "url": "https://news.ycombinator.com/item?id=49491631",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1238,15 +1437,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5114,
-      "importance": 0.5114,
-      "importance_score": 0.5114,
+      "score": 0.4997,
+      "importance": 0.4997,
+      "importance_score": 0.4997,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8088,
+        "recency": 0.7441,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1264,82 +1463,180 @@
       }
     },
     {
-      "story_id": "story_29a8261d3470",
-      "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-      "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-      "primary_url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_9b2727cbce15",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://news.ycombinator.com/item?id=49489982",
+      "primary_url": "https://news.ycombinator.com/item?id=49489982",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
-          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T13:24:41.103000Z"
+          "id": "530b878515479cfee39827671c67e698af01cd81",
+          "title": "Debian votes to allow \"responsible use of generative AI\"",
+          "url": "https://news.ycombinator.com/item?id=49489982",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T17:36:29.303000Z"
         },
         {
-          "id": "a6f59e8ba9a6f4aa9497a4c778b60c876a79ef3e",
-          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。 / I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
-          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T13:05:01Z"
+          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "lwn.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T15:16:20.593000Z"
+        },
+        {
+          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T14:02:10Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "lwn.net"
+      ],
+      "items": [
+        {
+          "id": "530b878515479cfee39827671c67e698af01cd81",
+          "title": "Debian votes to allow \"responsible use of generative AI\"",
+          "url": "https://news.ycombinator.com/item?id=49489982",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T17:36:29.303000Z"
+        },
+        {
+          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "lwn.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T15:16:20.593000Z"
+        },
+        {
+          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T14:02:10Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.525,
+      "importance": 0.525,
+      "importance_score": 0.525,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7454,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T14:02:10Z",
+      "latest_at": "2026-08-29T17:36:29.303000Z",
+      "primary_item": {
+        "id": "530b878515479cfee39827671c67e698af01cd81",
+        "title": "Debian votes to allow \"responsible use of generative AI\"",
+        "url": "https://news.ycombinator.com/item?id=49489982",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_ce496cd82092",
+      "title": "Warp builds self-improving agents on Claude",
+      "url": "https://news.ycombinator.com/item?id=49492432",
+      "primary_url": "https://news.ycombinator.com/item?id=49492432",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
+          "title": "Warp builds self-improving agents on Claude",
+          "url": "https://news.ycombinator.com/item?id=49492432",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T20:36:44.934000Z"
+        },
+        {
+          "id": "d3e94c2c56fc03c000128ec7a225cdf0d09698e5",
+          "title": "Warp builds self-improving agents on Claude",
+          "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T19:09:33Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
-          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T13:24:41.103000Z"
+          "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
+          "title": "Warp builds self-improving agents on Claude",
+          "url": "https://news.ycombinator.com/item?id=49492432",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T20:36:44.934000Z"
         },
         {
-          "id": "a6f59e8ba9a6f4aa9497a4c778b60c876a79ef3e",
-          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。 / I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
-          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T13:05:01Z"
+          "id": "d3e94c2c56fc03c000128ec7a225cdf0d09698e5",
+          "title": "Warp builds self-improving agents on Claude",
+          "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T19:09:33Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5031,
-      "importance": 0.5031,
-      "importance_score": 0.5031,
+      "score": 0.5059,
+      "importance": 0.5059,
+      "importance_score": 0.5059,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7626,
+        "recency": 0.7785,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T13:05:01Z",
-      "latest_at": "2026-08-29T13:24:41.103000Z",
+      "earliest_at": "2026-08-29T19:09:33Z",
+      "latest_at": "2026-08-29T20:36:44.934000Z",
       "primary_item": {
-        "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
-        "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-        "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
+        "title": "Warp builds self-improving agents on Claude",
+        "url": "https://news.ycombinator.com/item?id=49492432",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
