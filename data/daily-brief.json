@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T22:11:45.150007Z",
+  "generated_at": "2026-09-06T00:09:46.006397Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.8075,
+      "importance": 0.8075,
+      "importance_score": 0.8075,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9424,
+        "recency": 0.9161,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -138,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
+      "score": 0.798,
+      "importance": 0.798,
+      "importance_score": 0.798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.854,
+        "recency": 0.8301,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -219,15 +219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7943,
-      "importance": 0.7943,
-      "importance_score": 0.7943,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8596,
+        "recency": 0.8356,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -281,15 +281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7911,
-      "importance": 0.7911,
-      "importance_score": 0.7911,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9472,
+        "recency": 0.9207,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -361,15 +361,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7894,
-      "importance": 0.7894,
-      "importance_score": 0.7894,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8822,
+        "recency": 0.8575,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -423,15 +423,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9904,
+        "recency": 0.9627,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -503,15 +503,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.792,
-      "importance": 0.792,
-      "importance_score": 0.792,
+      "score": 0.7879,
+      "importance": 0.7879,
+      "importance_score": 0.7879,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8133,
+        "recency": 0.7905,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -584,15 +584,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7886,
-      "importance": 0.7886,
-      "importance_score": 0.7886,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8109,
+        "recency": 0.7882,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -646,15 +646,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8589,
+        "recency": 0.8349,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -707,15 +707,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.751,
+      "importance": 0.751,
+      "importance_score": 0.751,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.814,
+        "recency": 0.7912,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -730,187 +730,6 @@
         "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
         "url": "https://github.com/anthropics/fermats-last-theorem",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6503764be689",
-      "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
-      "url": "https://x.com/sama/status/2096008528834244741",
-      "primary_url": "https://x.com/sama/status/2096008528834244741",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c43da0a6aa7b58f4daeb4b4757c5baf76411a510",
-          "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
-          "url": "https://x.com/sama/status/2096008528834244741",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T22:52:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sam Altman (@sama)"
-      ],
-      "items": [
-        {
-          "id": "c43da0a6aa7b58f4daeb4b4757c5baf76411a510",
-          "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
-          "url": "https://x.com/sama/status/2096008528834244741",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T22:52:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7141,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-04T22:52:29Z",
-      "latest_at": "2026-09-04T22:52:29Z",
-      "primary_item": {
-        "id": "c43da0a6aa7b58f4daeb4b4757c5baf76411a510",
-        "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
-        "url": "https://x.com/sama/status/2096008528834244741",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_77e400aa5e24",
-      "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明",
-      "url": "https://x.com/kimmonismus/status/2096007967749349844",
-      "primary_url": "https://x.com/kimmonismus/status/2096007967749349844",
-      "source": "X：Kim (@kimmonismus)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ccab018b93a7090cf88ff9f3012a6a1eaffe4d2e",
-          "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明",
-          "url": "https://x.com/kimmonismus/status/2096007967749349844",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T22:50:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kim (@kimmonismus)"
-      ],
-      "items": [
-        {
-          "id": "ccab018b93a7090cf88ff9f3012a6a1eaffe4d2e",
-          "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明",
-          "url": "https://x.com/kimmonismus/status/2096007967749349844",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T22:50:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7137,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-04T22:50:16Z",
-      "latest_at": "2026-09-04T22:50:16Z",
-      "primary_item": {
-        "id": "ccab018b93a7090cf88ff9f3012a6a1eaffe4d2e",
-        "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明",
-        "url": "https://x.com/kimmonismus/status/2096007967749349844",
-        "source": "X：Kim (@kimmonismus)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_322e18fb1d1c",
-      "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
-      "url": "https://www.ithome.com/0/998/630.htm",
-      "primary_url": "https://www.ithome.com/0/998/630.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "99c5b5a748c4f9b82757c6efd65bbffa53d68f3f",
-          "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
-          "url": "https://www.ithome.com/0/998/630.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T22:52:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "99c5b5a748c4f9b82757c6efd65bbffa53d68f3f",
-          "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
-          "url": "https://www.ithome.com/0/998/630.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T22:52:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7141,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T22:52:38Z",
-      "latest_at": "2026-09-04T22:52:38Z",
-      "primary_item": {
-        "id": "99c5b5a748c4f9b82757c6efd65bbffa53d68f3f",
-        "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
-        "url": "https://www.ithome.com/0/998/630.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -949,15 +768,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7332,
+        "recency": 0.7127,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1063,15 +882,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6442,
-      "importance": 0.6442,
-      "importance_score": 0.6442,
+      "score": 0.6392,
+      "importance": 0.6392,
+      "importance_score": 0.6392,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.972,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1086,66 +905,6 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-09-05",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_291b98dc1607",
-      "title": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
-      "url": "https://www.ithome.com/0/998/638.htm",
-      "primary_url": "https://www.ithome.com/0/998/638.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ba3599c632e64a22de103d7b7daac52706c1f3fa",
-          "title": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
-          "url": "https://www.ithome.com/0/998/638.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T23:20:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ba3599c632e64a22de103d7b7daac52706c1f3fa",
-          "title": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
-          "url": "https://www.ithome.com/0/998/638.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T23:20:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7189,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-04T23:20:46Z",
-      "latest_at": "2026-09-04T23:20:46Z",
-      "primary_item": {
-        "id": "ba3599c632e64a22de103d7b7daac52706c1f3fa",
-        "title": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
-        "url": "https://www.ithome.com/0/998/638.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1238,15 +997,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5913,
-      "importance": 0.5913,
-      "importance_score": 0.5913,
+      "score": 0.5863,
+      "importance": 0.5863,
+      "importance_score": 0.5863,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9748,
+        "recency": 0.9475,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1261,6 +1020,182 @@
         "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_b6a75cdb30da",
+      "title": "大型语言模型作为认知病毒",
+      "url": "https://arxiv.org/abs/2609.03344",
+      "primary_url": "https://arxiv.org/abs/2609.03344",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ee960bc39612b0f42d0123d94fccbb52085cb023",
+          "title": "大型语言模型作为认知病毒",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T22:19:59.980000Z"
+        },
+        {
+          "id": "14d5f3d25a90a052a62873de13da4b3d36db8db5",
+          "title": "大语言模型作为认知病毒",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T22:19:59.965000Z"
+        },
+        {
+          "id": "ba7f752a88a436339b1d58b6f63d691f5816e129",
+          "title": "大语言模型作为认知病毒 / LLMs as a Cognitive Virus",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T20:02:35Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "arxiv.org"
+      ],
+      "items": [
+        {
+          "id": "ee960bc39612b0f42d0123d94fccbb52085cb023",
+          "title": "大型语言模型作为认知病毒",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T22:19:59.980000Z"
+        },
+        {
+          "id": "14d5f3d25a90a052a62873de13da4b3d36db8db5",
+          "title": "大语言模型作为认知病毒",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T22:19:59.965000Z"
+        },
+        {
+          "id": "ba7f752a88a436339b1d58b6f63d691f5816e129",
+          "title": "大语言模型作为认知病毒 / LLMs as a Cognitive Virus",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T20:02:35Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5661,
+      "importance": 0.5661,
+      "importance_score": 0.5661,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9739,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T20:02:35Z",
+      "latest_at": "2026-09-05T22:19:59.980000Z",
+      "primary_item": {
+        "id": "ee960bc39612b0f42d0123d94fccbb52085cb023",
+        "title": "大型语言模型作为认知病毒",
+        "url": "https://arxiv.org/abs/2609.03344",
+        "source": "arxiv.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7b7e5871aea3",
+      "title": "America's two largest school districts impose AI moratoriums",
+      "url": "https://news.ycombinator.com/item?id=49580980",
+      "primary_url": "https://news.ycombinator.com/item?id=49580980",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
+          "title": "America's two largest school districts impose AI moratoriums",
+          "url": "https://news.ycombinator.com/item?id=49580980",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T23:56:39.671000Z"
+        },
+        {
+          "id": "137de3428944d9b069466dd685f194a57994c0b8",
+          "title": "America's Two Largest School Districts Impose AI Moratoriums",
+          "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T21:43:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
+          "title": "America's two largest school districts impose AI moratoriums",
+          "url": "https://news.ycombinator.com/item?id=49580980",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T23:56:39.671000Z"
+        },
+        {
+          "id": "137de3428944d9b069466dd685f194a57994c0b8",
+          "title": "America's Two Largest School Districts Impose AI Moratoriums",
+          "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T21:43:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5452,
+      "importance": 0.5452,
+      "importance_score": 0.5452,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9969,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T21:43:22Z",
+      "latest_at": "2026-09-05T23:56:39.671000Z",
+      "primary_item": {
+        "id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
+        "title": "America's two largest school districts impose AI moratoriums",
+        "url": "https://news.ycombinator.com/item?id=49580980",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1317,15 +1252,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5408,
+      "importance": 0.5408,
+      "importance_score": 0.5408,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.972,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1396,15 +1331,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5408,
+      "importance": 0.5408,
+      "importance_score": 0.5408,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.972,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1493,15 +1428,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5441,
-      "importance": 0.5441,
-      "importance_score": 0.5441,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8519,
+        "recency": 0.8281,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1515,6 +1450,164 @@
         "title": "AI 处理事件，工程师与系统脱节",
         "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
         "source": "www.sylvainkalache.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_cc15feb485e7",
+      "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案",
+      "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+      "primary_url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+      "source": "www.theopenlake.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "af2a6cb05d3d44e853735d3a192957c0f5664202",
+          "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案",
+          "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+          "source": "www.theopenlake.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T17:35:49.695000Z"
+        },
+        {
+          "id": "8390f6866622ca297ba2ff53f8660c8f525a35d8",
+          "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案 / Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
+          "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T17:32:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.theopenlake.com"
+      ],
+      "items": [
+        {
+          "id": "af2a6cb05d3d44e853735d3a192957c0f5664202",
+          "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案",
+          "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+          "source": "www.theopenlake.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T17:35:49.695000Z"
+        },
+        {
+          "id": "8390f6866622ca297ba2ff53f8660c8f525a35d8",
+          "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案 / Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
+          "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T17:32:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5295,
+      "importance": 0.5295,
+      "importance_score": 0.5295,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9095,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T17:32:20Z",
+      "latest_at": "2026-09-05T17:35:49.695000Z",
+      "primary_item": {
+        "id": "af2a6cb05d3d44e853735d3a192957c0f5664202",
+        "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案",
+        "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+        "source": "www.theopenlake.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c28811eea145",
+      "title": "OpenAI 承认了“维基事件”，并表示需要就人工智能的意外行为提高透明度",
+      "url": "https://reut.rs/3ThCCCK",
+      "primary_url": "https://reut.rs/3ThCCCK",
+      "source": "reut.rs",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3cb54ac4ac52544f650ec7092267950dc02b99cc",
+          "title": "OpenAI 承认了“维基事件”，并表示需要就人工智能的意外行为提高透明度",
+          "url": "https://reut.rs/3ThCCCK",
+          "source": "reut.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T17:21:09.221000Z"
+        },
+        {
+          "id": "75766f7c30c151b30f43c944cab00e7e45558ce2",
+          "title": "OpenAI 承认了“维基事件”，并表示需要就人工智能的意外行为提高透明度 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T17:21:09.203000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com",
+        "reut.rs"
+      ],
+      "items": [
+        {
+          "id": "3cb54ac4ac52544f650ec7092267950dc02b99cc",
+          "title": "OpenAI 承认了“维基事件”，并表示需要就人工智能的意外行为提高透明度",
+          "url": "https://reut.rs/3ThCCCK",
+          "source": "reut.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T17:21:09.221000Z"
+        },
+        {
+          "id": "75766f7c30c151b30f43c944cab00e7e45558ce2",
+          "title": "OpenAI 承认了“维基事件”，并表示需要就人工智能的意外行为提高透明度 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T17:21:09.203000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5289,
+      "importance": 0.5289,
+      "importance_score": 0.5289,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9063,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T17:21:09.203000Z",
+      "latest_at": "2026-09-05T17:21:09.221000Z",
+      "primary_item": {
+        "id": "3cb54ac4ac52544f650ec7092267950dc02b99cc",
+        "title": "OpenAI 承认了“维基事件”，并表示需要就人工智能的意外行为提高透明度",
+        "url": "https://reut.rs/3ThCCCK",
+        "source": "reut.rs",
         "source_name": "Buzzing"
       }
     }
