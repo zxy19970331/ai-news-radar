@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-09-06T09:19:39.611489Z",
+  "generated_at": "2026-09-06T16:24:07.354575Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_19672c4832d4",
+      "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "primary_url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e711677302e79fe09b249f41566da77e02ec6e8d",
+          "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-06T08:00:00Z"
+        },
+        {
+          "id": "f5a8de608c35a9e40fd19ca0e5310a1a10493dae",
+          "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-06T08:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "e711677302e79fe09b249f41566da77e02ec6e8d",
+          "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-06T08:00:00Z"
+        },
+        {
+          "id": "f5a8de608c35a9e40fd19ca0e5310a1a10493dae",
+          "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-06T08:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8564,
+      "importance": 0.8564,
+      "importance_score": 0.8564,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8857,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-06T08:00:00Z",
+      "latest_at": "2026-09-06T08:00:00Z",
+      "primary_item": {
+        "id": "e711677302e79fe09b249f41566da77e02ec6e8d",
+        "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员 / Research acceleration: The view inside OpenAI",
+        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_ec06a66103fb",
       "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
@@ -57,15 +139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8011,
-      "importance": 0.8011,
-      "importance_score": 0.8011,
+      "score": 0.7842,
+      "importance": 0.7842,
+      "importance_score": 0.7842,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9638,
+        "recency": 0.8702,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -138,15 +220,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.787,
-      "importance": 0.787,
-      "importance_score": 0.787,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8025,
+        "recency": 0.7246,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -162,168 +244,6 @@
         "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
         "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
         "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ac5a64ceef28",
-      "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1a45d4c9bbc56daf07ebb121ef83df67aa80fb67",
-          "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:15:55Z"
-        },
-        {
-          "id": "bf56e38204fe5072d81300a4e5630ba736115791",
-          "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制 / OpenAI admits to German wiki ‘incident’",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-05T11:15:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1a45d4c9bbc56daf07ebb121ef83df67aa80fb67",
-          "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:15:55Z"
-        },
-        {
-          "id": "bf56e38204fe5072d81300a4e5630ba736115791",
-          "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制 / OpenAI admits to German wiki ‘incident’",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-05T11:15:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7795,
-      "importance": 0.7795,
-      "importance_score": 0.7795,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7272,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-05T11:15:55Z",
-      "latest_at": "2026-09-05T11:15:55Z",
-      "primary_item": {
-        "id": "1a45d4c9bbc56daf07ebb121ef83df67aa80fb67",
-        "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e2d719d60d77",
-      "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-      "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-      "primary_url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T13:31:04Z"
-        },
-        {
-          "id": "59a40120723ec5d866b59b8d9e1b8036f050434a",
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-05T13:31:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T13:31:04Z"
-        },
-        {
-          "id": "59a40120723ec5d866b59b8d9e1b8036f050434a",
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-05T13:31:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7658,
-      "importance": 0.7658,
-      "importance_score": 0.7658,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7512,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-05T13:31:04Z",
-      "latest_at": "2026-09-05T13:31:04Z",
-      "primary_item": {
-        "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
-        "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-        "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -362,15 +282,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7658,
-      "importance": 0.7658,
-      "importance_score": 0.7658,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8065,
+        "recency": 0.7282,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -385,87 +305,6 @@
         "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
         "url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
-          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:39:52Z"
-        },
-        {
-          "id": "f033073f5f9302d9922d2cd3ce433f07bbecf908",
-          "title": "谷歌让 AI 互怼几天！小模型竟复现 3 道博士级难题",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652723377&idx=2&sn=58fb4dbd0753589cf4e5b8d290062326",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
-          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:39:52Z"
-        },
-        {
-          "id": "f033073f5f9302d9922d2cd3ce433f07bbecf908",
-          "title": "谷歌让 AI 互怼几天！小模型竟复现 3 道博士级难题",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652723377&idx=2&sn=58fb4dbd0753589cf4e5b8d290062326",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7314,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-05T11:39:52Z",
-      "latest_at": "2026-09-06T04:59:24.374224Z",
-      "primary_item": {
-        "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
-        "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -504,21 +343,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8434,
+        "recency": 0.7615,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-05T21:31:52Z",
       "latest_at": "2026-09-05T21:31:52Z",
@@ -527,87 +365,6 @@
         "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
         "url": "https://x.com/testingcatalog/status/2096350628054176240",
         "source": "X：Testing Catalog (@testingcatalog)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fdab4dad7ac0",
-      "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-      "url": "https://www.ithome.com/0/998/814.htm",
-      "primary_url": "https://www.ithome.com/0/998/814.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
-          "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-          "url": "https://www.ithome.com/0/998/814.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:43:16Z"
-        },
-        {
-          "id": "c65181578f0b81966af424b1fc0ad36bb3b9d44c",
-          "title": "OpenAI 回应旗下智能体攻进德国网站：将彻底改革“AI 模型攻击”事件披露机制",
-          "url": "https://www.ithome.com/0/998/814.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T11:43:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
-          "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-          "url": "https://www.ithome.com/0/998/814.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:43:16Z"
-        },
-        {
-          "id": "c65181578f0b81966af424b1fc0ad36bb3b9d44c",
-          "title": "OpenAI 回应旗下智能体攻进德国网站：将彻底改革“AI 模型攻击”事件披露机制",
-          "url": "https://www.ithome.com/0/998/814.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T11:43:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7714,
-      "importance": 0.7714,
-      "importance_score": 0.7714,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.732,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-05T11:43:16Z",
-      "latest_at": "2026-09-05T11:43:16Z",
-      "primary_item": {
-        "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
-        "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-        "url": "https://www.ithome.com/0/998/814.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -700,15 +457,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6175,
-      "importance": 0.6175,
-      "importance_score": 0.6175,
+      "score": 0.6026,
+      "importance": 0.6026,
+      "importance_score": 0.6026,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8515,
+        "recency": 0.7688,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -723,6 +480,322 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-09-05",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_00143ffe2cbd",
+      "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
+      "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
+      "primary_url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "e58dbb57a567b35015def7aa2c8093185e4b8e87",
+          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
+          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "1609471a0c3c4e42099ed11bd509604107717edf",
+          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能 / Flock's AI search tool for police officers has been reverse engineered — here's what it shows",
+          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T12:30:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "TechRadar"
+      ],
+      "items": [
+        {
+          "id": "e58dbb57a567b35015def7aa2c8093185e4b8e87",
+          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
+          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "1609471a0c3c4e42099ed11bd509604107717edf",
+          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能 / Flock's AI search tool for police officers has been reverse engineered — here's what it shows",
+          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T12:30:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T12:30:00Z",
+      "latest_at": "2026-09-06T16:24:07.354575Z",
+      "primary_item": {
+        "id": "e58dbb57a567b35015def7aa2c8093185e4b8e87",
+        "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
+        "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_4aff7db928cd",
+      "title": "开放/技能 / openai / skills",
+      "url": "https://github.com/openai/skills",
+      "primary_url": "https://github.com/openai/skills",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "4e04c5e6eab294891ee4a6e2e96b1820e643b2b6",
+          "title": "开放/技能 / openai / skills",
+          "url": "https://github.com/openai/skills",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "9d44d96a47ea6070cdaf29b7b6da257b5f256161",
+          "title": "开放/技能 / openai /      skills",
+          "url": "https://github.com/openai/skills",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T16:00:49.405000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "4e04c5e6eab294891ee4a6e2e96b1820e643b2b6",
+          "title": "开放/技能 / openai / skills",
+          "url": "https://github.com/openai/skills",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "9d44d96a47ea6070cdaf29b7b6da257b5f256161",
+          "title": "开放/技能 / openai /      skills",
+          "url": "https://github.com/openai/skills",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T16:00:49.405000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T16:00:49.405000Z",
+      "latest_at": "2026-09-06T16:24:07.354575Z",
+      "primary_item": {
+        "id": "4e04c5e6eab294891ee4a6e2e96b1820e643b2b6",
+        "title": "开放/技能 / openai / skills",
+        "url": "https://github.com/openai/skills",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_38b7289f705e",
+      "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
+      "url": "https://www.36kr.com/p/3971642393686535",
+      "primary_url": "https://www.36kr.com/p/3971642393686535",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "715fcca80c272c064e8713c84bd8e356f4384384",
+          "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
+          "url": "https://www.36kr.com/p/3971642393686535",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "1f93016347757797b3ef2e08bd1cf296d13e020e",
+          "title": "谷歌十年画出果蝇大脑，硕士生用 GPT-6 两天让果蝇在沙盒中起飞",
+          "url": "https://www.36kr.com/p/3971642393686535",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 · 24小时热榜",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "715fcca80c272c064e8713c84bd8e356f4384384",
+          "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
+          "url": "https://www.36kr.com/p/3971642393686535",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "1f93016347757797b3ef2e08bd1cf296d13e020e",
+          "title": "谷歌十年画出果蝇大脑，硕士生用 GPT-6 两天让果蝇在沙盒中起飞",
+          "url": "https://www.36kr.com/p/3971642393686535",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T09:19:39.611489Z",
+      "latest_at": "2026-09-06T16:24:07.354575Z",
+      "primary_item": {
+        "id": "715fcca80c272c064e8713c84bd8e356f4384384",
+        "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
+        "url": "https://www.36kr.com/p/3971642393686535",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_5b887074ff6d",
+      "title": "我对人工智能的看法",
+      "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+      "primary_url": "https://beza1e1.tuxen.de/ai_feelings.html",
+      "source": "beza1e1.tuxen.de",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
+          "title": "我对人工智能的看法",
+          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+          "source": "beza1e1.tuxen.de",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T16:12:11.446000Z"
+        },
+        {
+          "id": "e5f21d2f11daf2a5349732d418f9116b6f4268d0",
+          "title": "我对人工智能的看法 / I Feel about AI",
+          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T15:00:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "beza1e1.tuxen.de"
+      ],
+      "items": [
+        {
+          "id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
+          "title": "我对人工智能的看法",
+          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+          "source": "beza1e1.tuxen.de",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T16:12:11.446000Z"
+        },
+        {
+          "id": "e5f21d2f11daf2a5349732d418f9116b6f4268d0",
+          "title": "我对人工智能的看法 / I Feel about AI",
+          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T15:00:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9971,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T15:00:19Z",
+      "latest_at": "2026-09-06T16:12:11.446000Z",
+      "primary_item": {
+        "id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
+        "title": "我对人工智能的看法",
+        "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+        "source": "beza1e1.tuxen.de",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -798,15 +871,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5599,
-      "importance": 0.5599,
-      "importance_score": 0.5599,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9395,
+        "recency": 0.8482,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -824,82 +897,161 @@
       }
     },
     {
-      "story_id": "story_7f7d5d336686",
-      "title": "索尼、华纳围剿 Anthropic，AI 时代的版权大战怎么打？",
-      "url": "https://www.huxiu.com/article/4888906.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4888906.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_7737bba1b986",
+      "title": "人工智能关机——保持人性",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+      "primary_url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+      "source": "keepitfree.ai",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "0d0e539f81a38011fd5c0a6f6cad2a473526deb4",
-          "title": "索尼、华纳围剿 Anthropic，AI 时代的版权大战怎么打？",
-          "url": "https://www.huxiu.com/article/4888906.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
+          "title": "人工智能关机——保持人性",
+          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+          "source": "keepitfree.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T15:26:17.429000Z"
         },
         {
-          "id": "3a62bb11befaac54efe99a806fec4e075126c864",
-          "title": "索尼、华纳围剿Anthropic，AI时代的版权大战怎么打？",
-          "url": "https://www.huxiu.com/article/4888906.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T07:30:15Z"
+          "id": "278cc6afca0b99a712745da288303508181ee01f",
+          "title": "人工智能关机——保持人性 / A/I shuts down – Stay human",
+          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T14:34:34Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "Hacker News",
+        "keepitfree.ai"
       ],
       "items": [
         {
-          "id": "0d0e539f81a38011fd5c0a6f6cad2a473526deb4",
-          "title": "索尼、华纳围剿 Anthropic，AI 时代的版权大战怎么打？",
-          "url": "https://www.huxiu.com/article/4888906.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
+          "title": "人工智能关机——保持人性",
+          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+          "source": "keepitfree.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T15:26:17.429000Z"
         },
         {
-          "id": "3a62bb11befaac54efe99a806fec4e075126c864",
-          "title": "索尼、华纳围剿Anthropic，AI时代的版权大战怎么打？",
-          "url": "https://www.huxiu.com/article/4888906.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T07:30:15Z"
+          "id": "278cc6afca0b99a712745da288303508181ee01f",
+          "title": "人工智能关机——保持人性 / A/I shuts down – Stay human",
+          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T14:34:34Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5433,
+      "importance": 0.5433,
+      "importance_score": 0.5433,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9862,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-06T07:30:15Z",
-      "latest_at": "2026-09-06T09:19:39.611489Z",
+      "earliest_at": "2026-09-06T14:34:34Z",
+      "latest_at": "2026-09-06T15:26:17.429000Z",
       "primary_item": {
-        "id": "0d0e539f81a38011fd5c0a6f6cad2a473526deb4",
-        "title": "索尼、华纳围剿 Anthropic，AI 时代的版权大战怎么打？",
-        "url": "https://www.huxiu.com/article/4888906.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
+        "title": "人工智能关机——保持人性",
+        "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+        "source": "keepitfree.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_bbc054e1f15a",
+      "title": "人工智能、工具与转型",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "primary_url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "source": "www.ben-evans.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1f0bb8bdd1648ad23bacbe1f79aa82804c561b52",
+          "title": "人工智能、工具与转型",
+          "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+          "source": "www.ben-evans.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T14:22:15.057000Z"
+        },
+        {
+          "id": "76ba457e09973ac9f9d2633d5f022bb5fbe4f9a9",
+          "title": "人工智能、工具与转型 / AI, Tools and Transformation",
+          "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T02:12:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "www.ben-evans.com"
+      ],
+      "items": [
+        {
+          "id": "1f0bb8bdd1648ad23bacbe1f79aa82804c561b52",
+          "title": "人工智能、工具与转型",
+          "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+          "source": "www.ben-evans.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T14:22:15.057000Z"
+        },
+        {
+          "id": "76ba457e09973ac9f9d2633d5f022bb5fbe4f9a9",
+          "title": "人工智能、工具与转型 / AI, Tools and Transformation",
+          "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T02:12:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5406,
+      "importance": 0.5406,
+      "importance_score": 0.5406,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9711,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T02:12:46Z",
+      "latest_at": "2026-09-06T14:22:15.057000Z",
+      "primary_item": {
+        "id": "1f0bb8bdd1648ad23bacbe1f79aa82804c561b52",
+        "title": "人工智能、工具与转型",
+        "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+        "source": "www.ben-evans.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -974,15 +1126,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5444,
-      "importance": 0.5444,
-      "importance_score": 0.5444,
+      "score": 0.5295,
+      "importance": 0.5295,
+      "importance_score": 0.5295,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8532,
+        "recency": 0.7703,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1053,15 +1205,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5248,
+      "importance": 0.5248,
+      "importance_score": 0.5248,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9784,
+        "recency": 0.8834,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1079,275 +1231,81 @@
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "Isar Aerospace成功入轨 [视频] / Isar Aerospace launch into orbit [video]",
-      "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
-      "primary_url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "ba5ebb699dc8bf5d724e83d9f7c960d1ae69f8d4",
-          "title": "Isar Aerospace成功入轨 [视频] / Isar Aerospace launch into orbit [video]",
-          "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T20:25:30Z"
-        },
-        {
-          "id": "bdd65f94339878103168417a32707a27748f002b",
-          "title": "OpenAI GPT-6 Astra is AGI? [video]",
-          "url": "https://www.youtube.com/watch?v=vuFYLqe3-xc",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-05T14:45:29Z"
-        },
-        {
-          "id": "ee571ae9ad7bf931bd9e2ecd8222a9c2e1b864f4",
-          "title": "LG TVs aren't the only ones spying on you [video]",
-          "url": "https://www.youtube.com/watch?v=IvFu343KNek",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T10:36:14Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "ba5ebb699dc8bf5d724e83d9f7c960d1ae69f8d4",
-          "title": "Isar Aerospace成功入轨 [视频] / Isar Aerospace launch into orbit [video]",
-          "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T20:25:30Z"
-        },
-        {
-          "id": "bdd65f94339878103168417a32707a27748f002b",
-          "title": "OpenAI GPT-6 Astra is AGI? [video]",
-          "url": "https://www.youtube.com/watch?v=vuFYLqe3-xc",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-05T14:45:29Z"
-        },
-        {
-          "id": "ee571ae9ad7bf931bd9e2ecd8222a9c2e1b864f4",
-          "title": "LG TVs aren't the only ones spying on you [video]",
-          "url": "https://www.youtube.com/watch?v=IvFu343KNek",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T10:36:14Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5402,
-      "importance": 0.5402,
-      "importance_score": 0.5402,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.83,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T10:36:14Z",
-      "latest_at": "2026-09-05T20:25:30Z",
-      "primary_item": {
-        "id": "ba5ebb699dc8bf5d724e83d9f7c960d1ae69f8d4",
-        "title": "Isar Aerospace成功入轨 [视频] / Isar Aerospace launch into orbit [video]",
-        "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_40d7d24c82bd",
-      "title": "AI 处理事件，工程师与系统脱节",
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "primary_url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "source": "www.sylvainkalache.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5a8e9f74ca12247563c50725057e5c3d858abe8c",
-          "title": "AI 处理事件，工程师与系统脱节",
-          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-          "source": "www.sylvainkalache.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T11:05:53.747000Z"
-        },
-        {
-          "id": "c0469deb46a8399d3027c29d218c6f94a4a18867",
-          "title": "AI 处理事件，工程师与系统失去联系 / AI handles incidents, engineers lose touch with their systems",
-          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T10:57:04Z"
-        },
-        {
-          "id": "b523761cf5b2991dd8ccc0ba2bc25d010ee84e1e",
-          "title": "AI 处理事件，工程师与系统失去联系",
-          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-          "source": "www.sylvainkalache.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T10:17:42.890000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.sylvainkalache.com"
-      ],
-      "items": [
-        {
-          "id": "5a8e9f74ca12247563c50725057e5c3d858abe8c",
-          "title": "AI 处理事件，工程师与系统脱节",
-          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-          "source": "www.sylvainkalache.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T11:05:53.747000Z"
-        },
-        {
-          "id": "c0469deb46a8399d3027c29d218c6f94a4a18867",
-          "title": "AI 处理事件，工程师与系统失去联系 / AI handles incidents, engineers lose touch with their systems",
-          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T10:57:04Z"
-        },
-        {
-          "id": "b523761cf5b2991dd8ccc0ba2bc25d010ee84e1e",
-          "title": "AI 处理事件，工程师与系统失去联系",
-          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-          "source": "www.sylvainkalache.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T10:17:42.890000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5214,
-      "importance": 0.5214,
-      "importance_score": 0.5214,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7254,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T10:17:42.890000Z",
-      "latest_at": "2026-09-05T11:05:53.747000Z",
-      "primary_item": {
-        "id": "5a8e9f74ca12247563c50725057e5c3d858abe8c",
-        "title": "AI 处理事件，工程师与系统脱节",
-        "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-        "source": "www.sylvainkalache.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_fc526c0c8fab",
-      "title": "WorldFlowAI / everything-claude-code",
-      "url": "https://github.com/WorldFlowAI/everything-claude-code",
-      "primary_url": "https://github.com/WorldFlowAI/everything-claude-code",
-      "source": "GitHub · Trending Today",
+      "story_id": "story_d23e2982639a",
+      "title": "微软重塑 Win11 AI 战略：「无计量智能」将让更多 AI 在 PC 本地运行",
+      "url": "https://www.ithome.com/0/999/014.htm",
+      "primary_url": "https://www.ithome.com/0/999/014.htm",
+      "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "7e821db20acc153f8588d6fb16c096ec36e5d013",
-          "title": "WorldFlowAI / everything-claude-code",
-          "url": "https://github.com/WorldFlowAI/everything-claude-code",
-          "source": "GitHub · Trending Today",
+          "id": "8b5e55a886e85d4ac3b3f39bc04ccdc1c40c06e0",
+          "title": "微软重塑 Win11 AI 战略：「无计量智能」将让更多 AI 在 PC 本地运行",
+          "url": "https://www.ithome.com/0/999/014.htm",
+          "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "db8325c704100ae0306275acc13c4421b60d2eff",
-          "title": "WorldFlowAI /      everything-claude-code",
-          "url": "https://github.com/WorldFlowAI/everything-claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T21:54:40.455000Z"
+          "id": "caa20886270988499beb1538247d5da585229a41",
+          "title": "微软重塑 Win11 AI 战略：“无计量智能”将让更多 AI 在 PC 本地运行",
+          "url": "https://www.ithome.com/0/999/014.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T10:51:36Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "GitHub · Trending Today",
-        "github"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "7e821db20acc153f8588d6fb16c096ec36e5d013",
-          "title": "WorldFlowAI / everything-claude-code",
-          "url": "https://github.com/WorldFlowAI/everything-claude-code",
-          "source": "GitHub · Trending Today",
+          "id": "8b5e55a886e85d4ac3b3f39bc04ccdc1c40c06e0",
+          "title": "微软重塑 Win11 AI 战略：「无计量智能」将让更多 AI 在 PC 本地运行",
+          "url": "https://www.ithome.com/0/999/014.htm",
+          "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "db8325c704100ae0306275acc13c4421b60d2eff",
-          "title": "WorldFlowAI /      everything-claude-code",
-          "url": "https://github.com/WorldFlowAI/everything-claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T21:54:40.455000Z"
+          "id": "caa20886270988499beb1538247d5da585229a41",
+          "title": "微软重塑 Win11 AI 战略：“无计量智能”将让更多 AI 在 PC 本地运行",
+          "url": "https://www.ithome.com/0/999/014.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T10:51:36Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5191,
-      "importance": 0.5191,
-      "importance_score": 0.5191,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8515,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-05T21:54:40.455000Z",
-      "latest_at": "2026-09-05T22:11:45.150007Z",
+      "earliest_at": "2026-09-06T10:51:36Z",
+      "latest_at": "2026-09-06T16:24:07.354575Z",
       "primary_item": {
-        "id": "7e821db20acc153f8588d6fb16c096ec36e5d013",
-        "title": "WorldFlowAI / everything-claude-code",
-        "url": "https://github.com/WorldFlowAI/everything-claude-code",
-        "source": "GitHub · Trending Today",
+        "id": "8b5e55a886e85d4ac3b3f39bc04ccdc1c40c06e0",
+        "title": "微软重塑 Win11 AI 战略：「无计量智能」将让更多 AI 在 PC 本地运行",
+        "url": "https://www.ithome.com/0/999/014.htm",
+        "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
@@ -1405,15 +1363,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5092,
-      "importance": 0.5092,
-      "importance_score": 0.5092,
+      "score": 0.4953,
+      "importance": 0.4953,
+      "importance_score": 0.4953,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7968,
+        "recency": 0.7194,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1484,15 +1442,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5087,
-      "importance": 0.5087,
-      "importance_score": 0.5087,
+      "score": 0.4948,
+      "importance": 0.4948,
+      "importance_score": 0.4948,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.794,
+        "recency": 0.7169,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1510,161 +1468,161 @@
       }
     },
     {
-      "story_id": "story_6993de6f2e8a",
-      "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式",
-      "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
-      "primary_url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_7d6bff4b18cf",
+      "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
+      "url": "https://www.ithome.com/0/999/001.htm",
+      "primary_url": "https://www.ithome.com/0/999/001.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "4e6c7327e3738359eff052733767c670dd48f81d",
-          "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式",
-          "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T16:18:47.467000Z"
+          "id": "fc4b67e27dec79e131d769c77cdde1898cb17cba",
+          "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
+          "url": "https://www.ithome.com/0/999/001.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "4e55fd6a71d454fdf05417e47d286e4ac4229daa",
-          "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式 / OpenAI says it will change how it informs the public when its AI agents go off the rails",
-          "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-05T16:09:59Z"
+          "id": "ae92636981b8e989516f05356118f8b623d2c809",
+          "title": "能识别花蕊、授粉、采集，我国智能育种机器人“吉儿”发布具身智能版本",
+          "url": "https://www.ithome.com/0/999/001.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T09:30:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "4e6c7327e3738359eff052733767c670dd48f81d",
-          "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式",
-          "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T16:18:47.467000Z"
+          "id": "fc4b67e27dec79e131d769c77cdde1898cb17cba",
+          "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
+          "url": "https://www.ithome.com/0/999/001.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "4e55fd6a71d454fdf05417e47d286e4ac4229daa",
-          "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式 / OpenAI says it will change how it informs the public when its AI agents go off the rails",
-          "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-05T16:09:59Z"
+          "id": "ae92636981b8e989516f05356118f8b623d2c809",
+          "title": "能识别花蕊、授粉、采集，我国智能育种机器人“吉儿”发布具身智能版本",
+          "url": "https://www.ithome.com/0/999/001.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T09:30:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5066,
-      "importance": 0.5066,
-      "importance_score": 0.5066,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7822,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-05T16:09:59Z",
-      "latest_at": "2026-09-05T16:18:47.467000Z",
+      "earliest_at": "2026-09-06T09:30:01Z",
+      "latest_at": "2026-09-06T16:24:07.354575Z",
       "primary_item": {
-        "id": "4e6c7327e3738359eff052733767c670dd48f81d",
-        "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式",
-        "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "fc4b67e27dec79e131d769c77cdde1898cb17cba",
+        "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
+        "url": "https://www.ithome.com/0/999/001.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_44c50944f9bd",
-      "title": "费马最后定理的形式化表述",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "primary_url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "source": "www.anthropic.com",
-      "source_name": "Buzzing",
+      "story_id": "story_7b7e5871aea3",
+      "title": "America's two largest school districts impose AI moratoriums",
+      "url": "https://news.ycombinator.com/item?id=49580980",
+      "primary_url": "https://news.ycombinator.com/item?id=49580980",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "5d7a48957e4e10cf0dda866b09736eb8fe3412c0",
-          "title": "费马最后定理的形式化表述",
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T16:18:46.923000Z"
+          "id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
+          "title": "America's two largest school districts impose AI moratoriums",
+          "url": "https://news.ycombinator.com/item?id=49580980",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T23:56:39.671000Z"
         },
         {
-          "id": "ec3e90eede4080deb0304c59f27b85c80b25094a",
-          "title": "费马最后定理的形式化表述 / Formalizing Fermat's Last Theorem",
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T12:54:53Z"
+          "id": "137de3428944d9b069466dd685f194a57994c0b8",
+          "title": "America's Two Largest School Districts Impose AI Moratoriums",
+          "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T21:43:22Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Lobsters (技术社区)",
-        "www.anthropic.com"
+        "Hacker News",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "5d7a48957e4e10cf0dda866b09736eb8fe3412c0",
-          "title": "费马最后定理的形式化表述",
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T16:18:46.923000Z"
+          "id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
+          "title": "America's two largest school districts impose AI moratoriums",
+          "url": "https://news.ycombinator.com/item?id=49580980",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T23:56:39.671000Z"
         },
         {
-          "id": "ec3e90eede4080deb0304c59f27b85c80b25094a",
-          "title": "费马最后定理的形式化表述 / Formalizing Fermat's Last Theorem",
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T12:54:53Z"
+          "id": "137de3428944d9b069466dd685f194a57994c0b8",
+          "title": "America's Two Largest School Districts Impose AI Moratoriums",
+          "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T21:43:22Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5066,
-      "importance": 0.5066,
-      "importance_score": 0.5066,
+      "score": 0.5077,
+      "importance": 0.5077,
+      "importance_score": 0.5077,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7822,
+        "recency": 0.7885,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-05T12:54:53Z",
-      "latest_at": "2026-09-05T16:18:46.923000Z",
+      "earliest_at": "2026-09-05T21:43:22Z",
+      "latest_at": "2026-09-05T23:56:39.671000Z",
       "primary_item": {
-        "id": "5d7a48957e4e10cf0dda866b09736eb8fe3412c0",
-        "title": "费马最后定理的形式化表述",
-        "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-        "source": "www.anthropic.com",
-        "source_name": "Buzzing"
+        "id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
+        "title": "America's two largest school districts impose AI moratoriums",
+        "url": "https://news.ycombinator.com/item?id=49580980",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
