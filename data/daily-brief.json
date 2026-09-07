@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T18:21:18.783594Z",
+  "generated_at": "2026-09-07T21:44:03.520260Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8101,
-      "importance": 0.8101,
-      "importance_score": 0.8101,
+      "score": 0.8035,
+      "importance": 0.8035,
+      "importance_score": 0.8035,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7672,
+        "recency": 0.7306,
         "story_heat": 0.0
       },
       "category": "official",
@@ -63,6 +63,87 @@
         "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_09f466e518b1",
+      "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
+      "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
+      "primary_url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "95c41e8a2290a22e2e6aa56dbf94af123d8c0335",
+          "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
+          "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-07T18:12:41Z"
+        },
+        {
+          "id": "283b6bd8933df0511b647de5a53aeeb29df7b39e",
+          "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力 / Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+          "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-07T18:12:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "95c41e8a2290a22e2e6aa56dbf94af123d8c0335",
+          "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
+          "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-07T18:12:41Z"
+        },
+        {
+          "id": "283b6bd8933df0511b647de5a53aeeb29df7b39e",
+          "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力 / Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+          "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-07T18:12:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7957,
+      "importance": 0.7957,
+      "importance_score": 0.7957,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9504,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T18:12:41Z",
+      "latest_at": "2026-09-07T18:12:41Z",
+      "primary_item": {
+        "id": "95c41e8a2290a22e2e6aa56dbf94af123d8c0335",
+        "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
+        "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -100,15 +181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.7574,
+      "importance": 0.7574,
+      "importance_score": 0.7574,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9904,
+        "recency": 0.9433,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -124,592 +205,6 @@
         "url": "https://www.aibase.com/news/30883",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6f9290dbd1a1",
-      "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-      "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
-          "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-          "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T18:23:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
-          "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-          "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T18:23:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7074,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-06T18:23:14Z",
-      "latest_at": "2026-09-06T18:23:14Z",
-      "primary_item": {
-        "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
-        "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-        "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_052fd9878162",
-      "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-      "url": "https://www.aibase.com/news/30882",
-      "primary_url": "https://www.aibase.com/news/30882",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a010f69c76ecf055f1f978bd518750a01712274a",
-          "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-          "url": "https://www.aibase.com/news/30882",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T17:29:18.783594Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a010f69c76ecf055f1f978bd518750a01712274a",
-          "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-          "url": "https://www.aibase.com/news/30882",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T17:29:18.783594Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9876,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T17:29:18.783594Z",
-      "latest_at": "2026-09-07T17:29:18.783594Z",
-      "primary_item": {
-        "id": "a010f69c76ecf055f1f978bd518750a01712274a",
-        "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-        "url": "https://www.aibase.com/news/30882",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2f0075a3b653",
-      "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "26157631ecd3780c0a05e7784709c5649e92ff89",
-          "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-09-07T03:26:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "26157631ecd3780c0a05e7784709c5649e92ff89",
-          "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-09-07T03:26:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8063,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-07T03:26:50Z",
-      "latest_at": "2026-09-07T03:26:50Z",
-      "primary_item": {
-        "id": "26157631ecd3780c0a05e7784709c5649e92ff89",
-        "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "729838c26f16f5e3ce99956ad2b014addedd79e2",
-          "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-07T00:08:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "729838c26f16f5e3ce99956ad2b014addedd79e2",
-          "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-07T00:08:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.723,
-      "importance": 0.723,
-      "importance_score": 0.723,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7686,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-07T00:08:00Z",
-      "latest_at": "2026-09-07T00:08:00Z",
-      "primary_item": {
-        "id": "729838c26f16f5e3ce99956ad2b014addedd79e2",
-        "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_92eddaa379a0",
-      "title": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
-      "url": "https://www.aibase.com/news/30881",
-      "primary_url": "https://www.aibase.com/news/30881",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3c40c29706fb30323afddb56caa52e9582732a54",
-          "title": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
-          "url": "https://www.aibase.com/news/30881",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T17:24:18.783594Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3c40c29706fb30323afddb56caa52e9582732a54",
-          "title": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
-          "url": "https://www.aibase.com/news/30881",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T17:24:18.783594Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9864,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T17:24:18.783594Z",
-      "latest_at": "2026-09-07T17:24:18.783594Z",
-      "primary_item": {
-        "id": "3c40c29706fb30323afddb56caa52e9582732a54",
-        "title": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
-        "url": "https://www.aibase.com/news/30881",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_872b6b4bd10d",
-      "title": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
-      "url": "https://www.aibase.com/news/30880",
-      "primary_url": "https://www.aibase.com/news/30880",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "61ff407de8bb0648f7e1868fafb80761e0e1fc06",
-          "title": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
-          "url": "https://www.aibase.com/news/30880",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T17:21:18.783594Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "61ff407de8bb0648f7e1868fafb80761e0e1fc06",
-          "title": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
-          "url": "https://www.aibase.com/news/30880",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T17:21:18.783594Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T17:21:18.783594Z",
-      "latest_at": "2026-09-07T17:21:18.783594Z",
-      "primary_item": {
-        "id": "61ff407de8bb0648f7e1868fafb80761e0e1fc06",
-        "title": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
-        "url": "https://www.aibase.com/news/30880",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？读懂这套层层堆砌的演化逻辑，能帮你看透Agent各类组件的存在意义，避开架构设计误区，更理性地做智能体方案选型与搭建。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-09-07",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "72b0bb3b0c4474fad3ee1ca68c723c49ea99f0fc",
-          "title": "从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？读懂这套层层堆砌的演化逻辑，能帮你看透Agent各类组件的存在意义，避开架构设计误区，更理性地做智能体方案选型与搭建。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-07",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-07T18:21:18.783594Z"
-        },
-        {
-          "id": "21f736b46f888a8e3ff89ceeb075ff69808a7e6e",
-          "title": "做SEO/GEO，最容易一上来盯着热词和流量：内容越写越散，AI 反而搞不清你的网站究竟解决什么问题，还可能引来一堆无效访问。在作者看来，核心是先做好网站 Entity 实体定义。先把身份定稳，后续SEO/GEO 才不会跑偏，收获真正有转化价值的流量。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-07",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-07T18:21:18.783594Z"
-        },
-        {
-          "id": "b21c5eb72c8707e8cfcf55567555242b96894c62",
-          "title": "很多人升级 GPT-6 Astra 后，最容易犯的错就是把旧的 AGENTS.md、超长的Skill继续塞进去，结果模型变强了，提示词反而拖后腿。作者把 Astra需要重新控制的点讲得很清楚：自主性、指令优先级、写作风格、子Agent委派、验证尺度。然后又用8个模块拆出了提示词框架——目标、上下文、优先级、自主边界、工具、输出、验证、停止条件。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-07",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-07T18:21:18.783594Z"
-        },
-        {
-          "id": "af8905b972ce6a5dcfe90ba9bd77bc452102d7eb",
-          "title": "最近GPT-6 Astra + 3D的玩法疯狂刷屏。如果你还不太清楚怎么玩儿，作者这篇文章可以带你入门GPT-6 Astra：怎么交代要求，怎么给材料，怎么看截图，答案不对时怎么改，最后拿到什么结果才算做完。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-07",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-07T18:21:18.783594Z"
-        },
-        {
-          "id": "df13d1932d93ad12aba35de7799680da25269a3f",
-          "title": "卡尔用 GPT-6 Astra 连续实测了外设快捷键配置、罗技鼠标工作流、Blender建模与运动镜头、3D 游戏、真人口播剪辑、PPT二次美化多个实战案例。快来看看效果如何！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:34:16.761694Z"
-        },
-        {
-          "id": "1f0452afdd98d4462ab967a3410879304d4b7074",
-          "title": "很多人用AI做 PPT，第一步就卡在“到底该用哪个工具”。作者把Codex 里常见的 PPT Skill 按场景进行了划分。经常做培训、汇报、演讲的人，可以直接拿它当选型清单，少踩一些“格式交不了、后期改不动”的坑。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:34:16.761694Z"
-        },
-        {
-          "id": "573eaefee7951dad0a0cbd71b3c2452c8d7e8fcc",
-          "title": "最近看Agent论文，很容易被一堆新名词绕晕；本周精选的10篇论文帮你把这一周真正值得关注的方向拎了出来。内容覆盖长上下文怎么降低成本，编码Agent如何连续性开发，Skill 怎么从运行经验里实现自我进化，长任务怎样用显式状态替代无限聊天记录，以及推荐系统、电商经营、研究类Agent、长期记忆和持久化Agent的新评测。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:34:16.761694Z"
-        },
-        {
-          "id": "c4f38f1044be95feafc8afcc24fc72c30f1da68b",
-          "title": "这篇文章把 KV 缓存工程拆成一张清晰的地图：从公式看成本来源，再对比GQA/MQA、跨层共享、滑动窗口、MLA、量化、驱逐、分页、前缀复用、CPU 卸载等12种方案，讲清楚了每种方式到底省了什么、代价是什么。做 LLM 推理部署、长上下文应用和成本优化的朋友，可以读一读。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:34:16.761694Z"
-        },
-        {
-          "id": "96a23166b98cdbade6ba095925ae987fc3f87b56",
-          "title": "这篇文章适合养宠人、智能家居玩家，以及想用WorkBuddy跑通第一个Agent项目的小白看。作者借助Agent对接家用监控摄像头，实现了自动查找宠物、定时巡检、生成宠物日记与异常提醒。项目已经开源，快来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:34:16.761694Z"
-        },
-        {
-          "id": "d619e2d9fa235e782d033b9501d69b8d41313b63",
-          "title": "这篇长文复盘了 2022‑2025 开源模型的发展历程。纵览 LLaMA 引爆社区、国产模型崛起、DeepSeek‑R1 搅动全球市场，直至 OpenAI 重新拥抱开放权重的行业转折。可以帮你从权重、代码、数据、许可证四个维度甄别模型的真实开放程度，跳出参数崇拜，看懂开源模型给普通开发者带来的机会与价值。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:34:16.761694Z"
-        }
-      ],
-      "source_count": 10,
-      "source_names": [
-        "社区更新 · 2026-09-06",
-        "社区更新 · 2026-09-07"
-      ],
-      "items": [
-        {
-          "id": "72b0bb3b0c4474fad3ee1ca68c723c49ea99f0fc",
-          "title": "从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？读懂这套层层堆砌的演化逻辑，能帮你看透Agent各类组件的存在意义，避开架构设计误区，更理性地做智能体方案选型与搭建。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-07",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-07T18:21:18.783594Z"
-        },
-        {
-          "id": "21f736b46f888a8e3ff89ceeb075ff69808a7e6e",
-          "title": "做SEO/GEO，最容易一上来盯着热词和流量：内容越写越散，AI 反而搞不清你的网站究竟解决什么问题，还可能引来一堆无效访问。在作者看来，核心是先做好网站 Entity 实体定义。先把身份定稳，后续SEO/GEO 才不会跑偏，收获真正有转化价值的流量。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-07",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-07T18:21:18.783594Z"
-        },
-        {
-          "id": "b21c5eb72c8707e8cfcf55567555242b96894c62",
-          "title": "很多人升级 GPT-6 Astra 后，最容易犯的错就是把旧的 AGENTS.md、超长的Skill继续塞进去，结果模型变强了，提示词反而拖后腿。作者把 Astra需要重新控制的点讲得很清楚：自主性、指令优先级、写作风格、子Agent委派、验证尺度。然后又用8个模块拆出了提示词框架——目标、上下文、优先级、自主边界、工具、输出、验证、停止条件。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-07",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-07T18:21:18.783594Z"
-        },
-        {
-          "id": "af8905b972ce6a5dcfe90ba9bd77bc452102d7eb",
-          "title": "最近GPT-6 Astra + 3D的玩法疯狂刷屏。如果你还不太清楚怎么玩儿，作者这篇文章可以带你入门GPT-6 Astra：怎么交代要求，怎么给材料，怎么看截图，答案不对时怎么改，最后拿到什么结果才算做完。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-07",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-07T18:21:18.783594Z"
-        },
-        {
-          "id": "df13d1932d93ad12aba35de7799680da25269a3f",
-          "title": "卡尔用 GPT-6 Astra 连续实测了外设快捷键配置、罗技鼠标工作流、Blender建模与运动镜头、3D 游戏、真人口播剪辑、PPT二次美化多个实战案例。快来看看效果如何！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:34:16.761694Z"
-        },
-        {
-          "id": "1f0452afdd98d4462ab967a3410879304d4b7074",
-          "title": "很多人用AI做 PPT，第一步就卡在“到底该用哪个工具”。作者把Codex 里常见的 PPT Skill 按场景进行了划分。经常做培训、汇报、演讲的人，可以直接拿它当选型清单，少踩一些“格式交不了、后期改不动”的坑。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:34:16.761694Z"
-        },
-        {
-          "id": "573eaefee7951dad0a0cbd71b3c2452c8d7e8fcc",
-          "title": "最近看Agent论文，很容易被一堆新名词绕晕；本周精选的10篇论文帮你把这一周真正值得关注的方向拎了出来。内容覆盖长上下文怎么降低成本，编码Agent如何连续性开发，Skill 怎么从运行经验里实现自我进化，长任务怎样用显式状态替代无限聊天记录，以及推荐系统、电商经营、研究类Agent、长期记忆和持久化Agent的新评测。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:34:16.761694Z"
-        },
-        {
-          "id": "c4f38f1044be95feafc8afcc24fc72c30f1da68b",
-          "title": "这篇文章把 KV 缓存工程拆成一张清晰的地图：从公式看成本来源，再对比GQA/MQA、跨层共享、滑动窗口、MLA、量化、驱逐、分页、前缀复用、CPU 卸载等12种方案，讲清楚了每种方式到底省了什么、代价是什么。做 LLM 推理部署、长上下文应用和成本优化的朋友，可以读一读。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:34:16.761694Z"
-        },
-        {
-          "id": "96a23166b98cdbade6ba095925ae987fc3f87b56",
-          "title": "这篇文章适合养宠人、智能家居玩家，以及想用WorkBuddy跑通第一个Agent项目的小白看。作者借助Agent对接家用监控摄像头，实现了自动查找宠物、定时巡检、生成宠物日记与异常提醒。项目已经开源，快来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:34:16.761694Z"
-        },
-        {
-          "id": "d619e2d9fa235e782d033b9501d69b8d41313b63",
-          "title": "这篇长文复盘了 2022‑2025 开源模型的发展历程。纵览 LLaMA 引爆社区、国产模型崛起、DeepSeek‑R1 搅动全球市场，直至 OpenAI 重新拥抱开放权重的行业转折。可以帮你从权重、代码、数据、许可证四个维度甄别模型的真实开放程度，跳出参数崇拜，看懂开源模型给普通开发者带来的机会与价值。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-06T18:34:16.761694Z"
-        }
-      ],
-      "item_count": 10,
-      "duplicate_count": 10,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T18:34:16.761694Z",
-      "latest_at": "2026-09-07T18:21:18.783594Z",
-      "primary_item": {
-        "id": "72b0bb3b0c4474fad3ee1ca68c723c49ea99f0fc",
-        "title": "从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？读懂这套层层堆砌的演化逻辑，能帮你看透Agent各类组件的存在意义，避开架构设计误区，更理性地做智能体方案选型与搭建。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-09-07",
-        "source_name": "WaytoAGI"
       }
     },
     {
@@ -766,15 +261,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8436,
+        "recency": 0.8034,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -791,6 +286,66 @@
         "url": "https://www.aibase.com/news/30863",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2f0075a3b653",
+      "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "26157631ecd3780c0a05e7784709c5649e92ff89",
+          "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-07T03:26:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "26157631ecd3780c0a05e7784709c5649e92ff89",
+          "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-07T03:26:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7679,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-07T03:26:50Z",
+      "latest_at": "2026-09-07T03:26:50Z",
+      "primary_item": {
+        "id": "26157631ecd3780c0a05e7784709c5649e92ff89",
+        "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
       }
     },
     {
@@ -847,15 +402,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8436,
+        "recency": 0.8034,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -872,84 +427,6 @@
         "url": "https://www.aibase.com/news/30861",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c552c9e7d810",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
-      "primary_url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "9156bccd37bbb6f4cc3c4cf4c5fa1013555cc5e1",
-          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-          "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-06T20:47:37Z"
-        },
-        {
-          "id": "2bec63158bcad43639c716bcc34f9a875b309235",
-          "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
-          "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-06T20:47:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "9156bccd37bbb6f4cc3c4cf4c5fa1013555cc5e1",
-          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-          "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-06T20:47:37Z"
-        },
-        {
-          "id": "2bec63158bcad43639c716bcc34f9a875b309235",
-          "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
-          "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-06T20:47:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6131,
-      "importance": 0.6131,
-      "importance_score": 0.6131,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.7324,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T20:47:37Z",
-      "latest_at": "2026-09-06T20:47:37Z",
-      "primary_item": {
-        "id": "9156bccd37bbb6f4cc3c4cf4c5fa1013555cc5e1",
-        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-        "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
       }
     },
     {
@@ -1006,15 +483,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8436,
+        "recency": 0.8034,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1087,15 +564,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8436,
+        "recency": 0.8034,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1112,6 +589,442 @@
         "url": "https://www.aibase.com/news/30869",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？读懂这套层层堆砌的演化逻辑，能帮你看透Agent各类组件的存在意义，避开架构设计误区，更理性地做智能体方案选型与搭建。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-09-07",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "72b0bb3b0c4474fad3ee1ca68c723c49ea99f0fc",
+          "title": "从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？读懂这套层层堆砌的演化逻辑，能帮你看透Agent各类组件的存在意义，避开架构设计误区，更理性地做智能体方案选型与搭建。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-07T18:21:18.783594Z"
+        },
+        {
+          "id": "21f736b46f888a8e3ff89ceeb075ff69808a7e6e",
+          "title": "做SEO/GEO，最容易一上来盯着热词和流量：内容越写越散，AI 反而搞不清你的网站究竟解决什么问题，还可能引来一堆无效访问。在作者看来，核心是先做好网站 Entity 实体定义。先把身份定稳，后续SEO/GEO 才不会跑偏，收获真正有转化价值的流量。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-07T18:21:18.783594Z"
+        },
+        {
+          "id": "b21c5eb72c8707e8cfcf55567555242b96894c62",
+          "title": "很多人升级 GPT-6 Astra 后，最容易犯的错就是把旧的 AGENTS.md、超长的Skill继续塞进去，结果模型变强了，提示词反而拖后腿。作者把 Astra需要重新控制的点讲得很清楚：自主性、指令优先级、写作风格、子Agent委派、验证尺度。然后又用8个模块拆出了提示词框架——目标、上下文、优先级、自主边界、工具、输出、验证、停止条件。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-07T18:21:18.783594Z"
+        },
+        {
+          "id": "af8905b972ce6a5dcfe90ba9bd77bc452102d7eb",
+          "title": "最近GPT-6 Astra + 3D的玩法疯狂刷屏。如果你还不太清楚怎么玩儿，作者这篇文章可以带你入门GPT-6 Astra：怎么交代要求，怎么给材料，怎么看截图，答案不对时怎么改，最后拿到什么结果才算做完。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-07T18:21:18.783594Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "社区更新 · 2026-09-07"
+      ],
+      "items": [
+        {
+          "id": "72b0bb3b0c4474fad3ee1ca68c723c49ea99f0fc",
+          "title": "从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？读懂这套层层堆砌的演化逻辑，能帮你看透Agent各类组件的存在意义，避开架构设计误区，更理性地做智能体方案选型与搭建。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-07T18:21:18.783594Z"
+        },
+        {
+          "id": "21f736b46f888a8e3ff89ceeb075ff69808a7e6e",
+          "title": "做SEO/GEO，最容易一上来盯着热词和流量：内容越写越散，AI 反而搞不清你的网站究竟解决什么问题，还可能引来一堆无效访问。在作者看来，核心是先做好网站 Entity 实体定义。先把身份定稳，后续SEO/GEO 才不会跑偏，收获真正有转化价值的流量。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-07T18:21:18.783594Z"
+        },
+        {
+          "id": "b21c5eb72c8707e8cfcf55567555242b96894c62",
+          "title": "很多人升级 GPT-6 Astra 后，最容易犯的错就是把旧的 AGENTS.md、超长的Skill继续塞进去，结果模型变强了，提示词反而拖后腿。作者把 Astra需要重新控制的点讲得很清楚：自主性、指令优先级、写作风格、子Agent委派、验证尺度。然后又用8个模块拆出了提示词框架——目标、上下文、优先级、自主边界、工具、输出、验证、停止条件。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-07T18:21:18.783594Z"
+        },
+        {
+          "id": "af8905b972ce6a5dcfe90ba9bd77bc452102d7eb",
+          "title": "最近GPT-6 Astra + 3D的玩法疯狂刷屏。如果你还不太清楚怎么玩儿，作者这篇文章可以带你入门GPT-6 Astra：怎么交代要求，怎么给材料，怎么看截图，答案不对时怎么改，最后拿到什么结果才算做完。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-07T18:21:18.783594Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6356,
+      "importance": 0.6356,
+      "importance_score": 0.6356,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9524,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T18:21:18.783594Z",
+      "latest_at": "2026-09-07T18:21:18.783594Z",
+      "primary_item": {
+        "id": "72b0bb3b0c4474fad3ee1ca68c723c49ea99f0fc",
+        "title": "从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？读懂这套层层堆砌的演化逻辑，能帮你看透Agent各类组件的存在意义，避开架构设计误区，更理性地做智能体方案选型与搭建。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-09-07",
+        "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_a21ca5497d73",
+      "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
+      "url": "https://www.aibase.com/news/30866",
+      "primary_url": "https://www.aibase.com/news/30866",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e0ff566020e35871055507058e039095e3752046",
+          "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
+          "url": "https://www.aibase.com/news/30866",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T06:34:25.736446Z"
+        },
+        {
+          "id": "ec51d35b9035e63c894698b97ebc9b2fecdfca1b",
+          "title": "微信视觉团队开源通用多模态嵌入模型 WeMM-Embedding，日调用量突破十亿量级",
+          "url": "https://www.aibase.com/zh/news/30866",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e0ff566020e35871055507058e039095e3752046",
+          "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
+          "url": "https://www.aibase.com/news/30866",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T06:34:25.736446Z"
+        },
+        {
+          "id": "ec51d35b9035e63c894698b97ebc9b2fecdfca1b",
+          "title": "微信视觉团队开源通用多模态嵌入模型 WeMM-Embedding，日调用量突破十亿量级",
+          "url": "https://www.aibase.com/zh/news/30866",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8034,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T06:34:25.736446Z",
+      "latest_at": "2026-09-07T06:34:25.736446Z",
+      "primary_item": {
+        "id": "e0ff566020e35871055507058e039095e3752046",
+        "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
+        "url": "https://www.aibase.com/news/30866",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3f80dfabd70a",
+      "title": "火山引擎内测 AI 版权平台，Seedance 从“防侵权”转向“IP 商业化”",
+      "url": "https://www.aibase.com/news/30868",
+      "primary_url": "https://www.aibase.com/news/30868",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "dde32a231427b94cfc302fcbb7255dc5ae17f7fd",
+          "title": "火山引擎内测 AI 版权平台，Seedance 从“防侵权”转向“IP 商业化”",
+          "url": "https://www.aibase.com/news/30868",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T06:34:25.736446Z"
+        },
+        {
+          "id": "be05c75c106c29970a1cde43e4b895842745e2e2",
+          "title": "火山引擎内测 AI 版权平台，Seedance 从「防侵权」转向「IP 商业化」",
+          "url": "https://www.aibase.com/zh/news/30868",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "dde32a231427b94cfc302fcbb7255dc5ae17f7fd",
+          "title": "火山引擎内测 AI 版权平台，Seedance 从“防侵权”转向“IP 商业化”",
+          "url": "https://www.aibase.com/news/30868",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T06:34:25.736446Z"
+        },
+        {
+          "id": "be05c75c106c29970a1cde43e4b895842745e2e2",
+          "title": "火山引擎内测 AI 版权平台，Seedance 从「防侵权」转向「IP 商业化」",
+          "url": "https://www.aibase.com/zh/news/30868",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8034,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T06:34:25.736446Z",
+      "latest_at": "2026-09-07T06:34:25.736446Z",
+      "primary_item": {
+        "id": "dde32a231427b94cfc302fcbb7255dc5ae17f7fd",
+        "title": "火山引擎内测 AI 版权平台，Seedance 从“防侵权”转向“IP 商业化”",
+        "url": "https://www.aibase.com/news/30868",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_525a07da9b94",
+      "title": "讯飞星火 X2.5 正式发布：MoE 架构 293B，代码与智能体能力大幅提升",
+      "url": "https://www.aibase.com/news/30867",
+      "primary_url": "https://www.aibase.com/news/30867",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "da1800b534a9701e92db2697f3ee5442d3f6d2a1",
+          "title": "讯飞星火 X2.5 正式发布：MoE 架构 293B，代码与智能体能力大幅提升",
+          "url": "https://www.aibase.com/news/30867",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T06:34:25.736446Z"
+        },
+        {
+          "id": "e3cf2baa095ed849144867cc95bfa3283e94f184",
+          "title": "讯飞星火 X2.5 正式发布：MoE 架构 293B，代码与智能体能力大幅提升",
+          "url": "https://www.aibase.com/zh/news/30867",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "da1800b534a9701e92db2697f3ee5442d3f6d2a1",
+          "title": "讯飞星火 X2.5 正式发布：MoE 架构 293B，代码与智能体能力大幅提升",
+          "url": "https://www.aibase.com/news/30867",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T06:34:25.736446Z"
+        },
+        {
+          "id": "e3cf2baa095ed849144867cc95bfa3283e94f184",
+          "title": "讯飞星火 X2.5 正式发布：MoE 架构 293B，代码与智能体能力大幅提升",
+          "url": "https://www.aibase.com/zh/news/30867",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8034,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T06:34:25.736446Z",
+      "latest_at": "2026-09-07T06:34:25.736446Z",
+      "primary_item": {
+        "id": "da1800b534a9701e92db2697f3ee5442d3f6d2a1",
+        "title": "讯飞星火 X2.5 正式发布：MoE 架构 293B，代码与智能体能力大幅提升",
+        "url": "https://www.aibase.com/news/30867",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dff51e11afc1",
+      "title": "Scientists develop ultrafast magnetic-field pulses memory system that could cut AI data center energy use by 100x",
+      "url": "https://www.techradar.com/computing/scientists-develop-ultrafast-magnetic-field-pulses-memory-system-that-could-cut-ai-data-center-energy-use-by-100x-and-even-get-close-to-hitting-thermodynamic-limits",
+      "primary_url": "https://www.techradar.com/computing/scientists-develop-ultrafast-magnetic-field-pulses-memory-system-that-could-cut-ai-data-center-energy-use-by-100x-and-even-get-close-to-hitting-thermodynamic-limits",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "7209c0845fa09a51fa2c05e8df94c2bd67b236a8",
+          "title": "Scientists develop ultrafast magnetic-field pulses memory system that could cut AI data center energy use by 100x",
+          "url": "https://www.techradar.com/computing/scientists-develop-ultrafast-magnetic-field-pulses-memory-system-that-could-cut-ai-data-center-energy-use-by-100x-and-even-get-close-to-hitting-thermodynamic-limits",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "70e414a9beeb1a95383eb383459ce1065fdfeea8",
+          "title": "Scientists develop ‘ultrafast magnetic-field pulses’ memory system that could cut AI data center energy use by 100x — and even get close to hitting thermodynamic limits",
+          "url": "https://www.techradar.com/computing/scientists-develop-ultrafast-magnetic-field-pulses-memory-system-that-could-cut-ai-data-center-energy-use-by-100x-and-even-get-close-to-hitting-thermodynamic-limits",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T19:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "TechRadar"
+      ],
+      "items": [
+        {
+          "id": "7209c0845fa09a51fa2c05e8df94c2bd67b236a8",
+          "title": "Scientists develop ultrafast magnetic-field pulses memory system that could cut AI data center energy use by 100x",
+          "url": "https://www.techradar.com/computing/scientists-develop-ultrafast-magnetic-field-pulses-memory-system-that-could-cut-ai-data-center-energy-use-by-100x-and-even-get-close-to-hitting-thermodynamic-limits",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "70e414a9beeb1a95383eb383459ce1065fdfeea8",
+          "title": "Scientists develop ‘ultrafast magnetic-field pulses’ memory system that could cut AI data center energy use by 100x — and even get close to hitting thermodynamic limits",
+          "url": "https://www.techradar.com/computing/scientists-develop-ultrafast-magnetic-field-pulses-memory-system-that-could-cut-ai-data-center-energy-use-by-100x-and-even-get-close-to-hitting-thermodynamic-limits",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T19:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T19:00:00Z",
+      "latest_at": "2026-09-07T21:44:03.520260Z",
+      "primary_item": {
+        "id": "7209c0845fa09a51fa2c05e8df94c2bd67b236a8",
+        "title": "Scientists develop ultrafast magnetic-field pulses memory system that could cut AI data center energy use by 100x",
+        "url": "https://www.techradar.com/computing/scientists-develop-ultrafast-magnetic-field-pulses-memory-system-that-could-cut-ai-data-center-energy-use-by-100x-and-even-get-close-to-hitting-thermodynamic-limits",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1168,15 +1081,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9525,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1247,15 +1160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5441,
-      "importance": 0.5441,
-      "importance_score": 0.5441,
+      "score": 0.5356,
+      "importance": 0.5356,
+      "importance_score": 0.5356,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9903,
+        "recency": 0.9432,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1326,15 +1239,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
+      "score": 0.5268,
+      "importance": 0.5268,
+      "importance_score": 0.5268,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9389,
+        "recency": 0.8942,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1405,15 +1318,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
+      "score": 0.5268,
+      "importance": 0.5268,
+      "importance_score": 0.5268,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.939,
+        "recency": 0.8942,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1431,82 +1344,141 @@
       }
     },
     {
-      "story_id": "story_a21ca5497d73",
-      "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
-      "url": "https://www.aibase.com/news/30866",
-      "primary_url": "https://www.aibase.com/news/30866",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_64868ada1cab",
+      "title": "Initial effects of AI technology on employment look positive",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "primary_url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "e0ff566020e35871055507058e039095e3752046",
-          "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
-          "url": "https://www.aibase.com/news/30866",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T06:34:25.736446Z"
+          "id": "d8549658f0d39ce72a79065fe3e86fe27f62679f",
+          "title": "Initial effects of AI technology on employment look positive",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T10:38:32Z"
         },
         {
-          "id": "ec51d35b9035e63c894698b97ebc9b2fecdfca1b",
-          "title": "微信视觉团队开源通用多模态嵌入模型 WeMM-Embedding，日调用量突破十亿量级",
-          "url": "https://www.aibase.com/zh/news/30866",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "1deac515e4f630342fcf5d6d2b218a5b1c0cf8d6",
+          "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T10:38:32Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Hacker News",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "e0ff566020e35871055507058e039095e3752046",
-          "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
-          "url": "https://www.aibase.com/news/30866",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T06:34:25.736446Z"
+          "id": "d8549658f0d39ce72a79065fe3e86fe27f62679f",
+          "title": "Initial effects of AI technology on employment look positive",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T10:38:32Z"
         },
         {
-          "id": "ec51d35b9035e63c894698b97ebc9b2fecdfca1b",
-          "title": "微信视觉团队开源通用多模态嵌入模型 WeMM-Embedding，日调用量突破十亿量级",
-          "url": "https://www.aibase.com/zh/news/30866",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "1deac515e4f630342fcf5d6d2b218a5b1c0cf8d6",
+          "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T10:38:32Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.5192,
+      "importance": 0.5192,
+      "importance_score": 0.5192,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.852,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T10:38:32Z",
+      "latest_at": "2026-09-07T10:38:32Z",
+      "primary_item": {
+        "id": "d8549658f0d39ce72a79065fe3e86fe27f62679f",
+        "title": "Initial effects of AI technology on employment look positive",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_052fd9878162",
+      "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
+      "url": "https://www.aibase.com/news/30882",
+      "primary_url": "https://www.aibase.com/news/30882",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a010f69c76ecf055f1f978bd518750a01712274a",
+          "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
+          "url": "https://www.aibase.com/news/30882",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T17:29:18.783594Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a010f69c76ecf055f1f978bd518750a01712274a",
+          "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
+          "url": "https://www.aibase.com/news/30882",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T17:29:18.783594Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8436,
-        "story_heat": 0.25
+        "recency": 0.9405,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-07T06:34:25.736446Z",
-      "latest_at": "2026-09-07T06:34:25.736446Z",
+      "earliest_at": "2026-09-07T17:29:18.783594Z",
+      "latest_at": "2026-09-07T17:29:18.783594Z",
       "primary_item": {
-        "id": "e0ff566020e35871055507058e039095e3752046",
-        "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
-        "url": "https://www.aibase.com/news/30866",
+        "id": "a010f69c76ecf055f1f978bd518750a01712274a",
+        "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
+        "url": "https://www.aibase.com/news/30882",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1565,15 +1537,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5161,
-      "importance": 0.5161,
-      "importance_score": 0.5161,
+      "score": 0.5089,
+      "importance": 0.5089,
+      "importance_score": 0.5089,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8348,
+        "recency": 0.7951,
         "story_heat": 0.25
       },
       "category": "watch",
