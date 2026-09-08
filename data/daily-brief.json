@@ -1,8 +1,555 @@
 {
-  "generated_at": "2026-09-08T00:07:34.728344Z",
+  "generated_at": "2026-09-08T14:43:46.261693Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_4f420d1c5cd0",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
+          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:23:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
+          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:23:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8591,
+      "importance": 0.8591,
+      "importance_score": 0.8591,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.995,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T14:23:07Z",
+      "latest_at": "2026-09-08T14:23:07Z",
+      "primary_item": {
+        "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
+        "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6d05cbe635d4",
+      "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "primary_url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ab134c36a54fea581c80987fa5900787b6c80ef1",
+          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T07:20:02.739000Z"
+        },
+        {
+          "id": "639547c5fc1f628ec8abf934114ed368bbfc0175",
+          "title": "关于受迫三维欧拉方程有限时间爆发现象的声明，以及OpenAI的行为",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "cims.nyu.edu",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T08:23:46.610000Z"
+        },
+        {
+          "id": "0867d943437cf9a5e6c76f8c4fa848f034552b6d",
+          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过 / Statement on finite-time blowup for forced 3D Euler, and OpenAI's conduct",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T08:14:40Z"
+        },
+        {
+          "id": "f70db481dd26494940be8fb91f2bd9140238aac7",
+          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过 / Navier-Stokes – Tristan Buckmaster [pdf]",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T05:42:28Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Lobsters (技术社区)",
+        "cims.nyu.edu"
+      ],
+      "items": [
+        {
+          "id": "ab134c36a54fea581c80987fa5900787b6c80ef1",
+          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T07:20:02.739000Z"
+        },
+        {
+          "id": "639547c5fc1f628ec8abf934114ed368bbfc0175",
+          "title": "关于受迫三维欧拉方程有限时间爆发现象的声明，以及OpenAI的行为",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "cims.nyu.edu",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T08:23:46.610000Z"
+        },
+        {
+          "id": "0867d943437cf9a5e6c76f8c4fa848f034552b6d",
+          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过 / Statement on finite-time blowup for forced 3D Euler, and OpenAI's conduct",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T08:14:40Z"
+        },
+        {
+          "id": "f70db481dd26494940be8fb91f2bd9140238aac7",
+          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过 / Navier-Stokes – Tristan Buckmaster [pdf]",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T05:42:28Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8544,
+      "importance": 0.8544,
+      "importance_score": 0.8544,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8987,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T05:42:28Z",
+      "latest_at": "2026-09-08T08:23:46.610000Z",
+      "primary_item": {
+        "id": "ab134c36a54fea581c80987fa5900787b6c80ef1",
+        "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
+        "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_aaada63e998e",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "primary_url": "https://openai.com/index/the-work-now-within-reach",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0c225103d8bbdb274acb89884cf1925952614089",
+          "title": "The Work Now Within Reach",
+          "url": "https://openai.com/index/the-work-now-within-reach",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "0c225103d8bbdb274acb89884cf1925952614089",
+          "title": "The Work Now Within Reach",
+          "url": "https://openai.com/index/the-work-now-within-reach",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8476,
+      "importance": 0.8476,
+      "importance_score": 0.8476,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9753,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T13:00:00Z",
+      "latest_at": "2026-09-08T13:00:00Z",
+      "primary_item": {
+        "id": "0c225103d8bbdb274acb89884cf1925952614089",
+        "title": "The Work Now Within Reach",
+        "url": "https://openai.com/index/the-work-now-within-reach",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f7dd334d631a",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+      "primary_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:00:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:00:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8421,
+      "importance": 0.8421,
+      "importance_score": 0.8421,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9896,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T14:00:15Z",
+      "latest_at": "2026-09-08T14:00:15Z",
+      "primary_item": {
+        "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
+        "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_55085dd14800",
+      "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+      "primary_url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+      "source": "Mistral AI：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f8b48d2f2bbcd06f7f26f01950712a2702b75663",
+          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "Mistral AI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T05:58:27.839000Z"
+        },
+        {
+          "id": "c29c64c5acf58ef412fc779d4311fea3d8c8b34f",
+          "title": "Mistral 筹集 30 亿欧元，力图将主权、无权重限制的人工智能打造为技术前沿",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T06:48:43.523000Z"
+        },
+        {
+          "id": "f334cccbcaea5049296537c60a694c156e76b8aa",
+          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T05:06:23Z"
+        },
+        {
+          "id": "8e190181b6c1c5d04ece2e4e2a266e969ad1d7b7",
+          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T05:06:23Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "Mistral AI：News（网页）",
+        "mistral.ai"
+      ],
+      "items": [
+        {
+          "id": "f8b48d2f2bbcd06f7f26f01950712a2702b75663",
+          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "Mistral AI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T05:58:27.839000Z"
+        },
+        {
+          "id": "c29c64c5acf58ef412fc779d4311fea3d8c8b34f",
+          "title": "Mistral 筹集 30 亿欧元，力图将主权、无权重限制的人工智能打造为技术前沿",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T06:48:43.523000Z"
+        },
+        {
+          "id": "f334cccbcaea5049296537c60a694c156e76b8aa",
+          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T05:06:23Z"
+        },
+        {
+          "id": "8e190181b6c1c5d04ece2e4e2a266e969ad1d7b7",
+          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T05:06:23Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8212,
+      "importance": 0.8212,
+      "importance_score": 0.8212,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8812,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T05:06:23Z",
+      "latest_at": "2026-09-08T06:48:43.523000Z",
+      "primary_item": {
+        "id": "f8b48d2f2bbcd06f7f26f01950712a2702b75663",
+        "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
+        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+        "source": "Mistral AI：News（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_671a9fed35e2",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "primary_url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "93b14de03a3f2eafbd624b721df4b902bc60f879",
+          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "93b14de03a3f2eafbd624b721df4b902bc60f879",
+          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8084,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T00:00:00Z",
+      "latest_at": "2026-09-08T00:00:00Z",
+      "primary_item": {
+        "id": "93b14de03a3f2eafbd624b721df4b902bc60f879",
+        "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+        "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_96ac2e7248ef",
+      "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+      "url": "https://www.aibase.com/news/30908",
+      "primary_url": "https://www.aibase.com/news/30908",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
+          "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "url": "https://www.aibase.com/news/30908",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T14:43:46.261693Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
+          "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "url": "https://www.aibase.com/news/30908",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T14:43:46.261693Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T14:43:46.261693Z",
+      "latest_at": "2026-09-08T14:43:46.261693Z",
+      "primary_item": {
+        "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
+        "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+        "url": "https://www.aibase.com/news/30908",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
     {
       "story_id": "story_09f466e518b1",
       "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
@@ -57,15 +604,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7899,
-      "importance": 0.7899,
-      "importance_score": 0.7899,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9181,
+        "recency": 0.7436,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -85,466 +632,366 @@
       }
     },
     {
-      "story_id": "story_21d43493cdd1",
-      "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
-      "url": "https://www.aibase.com/news/30863",
-      "primary_url": "https://www.aibase.com/news/30863",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_6cbde97d8260",
+      "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5cdc5c20823f86dee9823f7e709e0d8cf36a6c97",
-          "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
-          "url": "https://www.aibase.com/news/30863",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T06:34:25.736446Z"
-        },
-        {
-          "id": "219f6d38c256f339acd846b77eae1a38d7bedb6a",
-          "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 元跌至几百元，行业转向拼内容",
-          "url": "https://www.aibase.com/zh/news/30863",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "5cdc5c20823f86dee9823f7e709e0d8cf36a6c97",
-          "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
-          "url": "https://www.aibase.com/news/30863",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T06:34:25.736446Z"
-        },
-        {
-          "id": "219f6d38c256f339acd846b77eae1a38d7bedb6a",
-          "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 元跌至几百元，行业转向拼内容",
-          "url": "https://www.aibase.com/zh/news/30863",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7761,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T06:34:25.736446Z",
-      "latest_at": "2026-09-07T06:34:25.736446Z",
-      "primary_item": {
-        "id": "5cdc5c20823f86dee9823f7e709e0d8cf36a6c97",
-        "title": "AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容",
-        "url": "https://www.aibase.com/news/30863",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a8f23d61db73",
-      "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
-      "url": "https://www.aibase.com/news/30861",
-      "primary_url": "https://www.aibase.com/news/30861",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ad4904e56c60902647d39aa587dbfbad9136973e",
-          "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
-          "url": "https://www.aibase.com/news/30861",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T06:34:25.736446Z"
-        },
-        {
-          "id": "e896806147c7e9210a8502971ab7396d7c2a4e94",
-          "title": "努比亚 NaviX Ultra 定档 9 月 16 日发布，搭载豆包手机助手",
-          "url": "https://www.aibase.com/zh/news/30861",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ad4904e56c60902647d39aa587dbfbad9136973e",
-          "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
-          "url": "https://www.aibase.com/news/30861",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T06:34:25.736446Z"
-        },
-        {
-          "id": "e896806147c7e9210a8502971ab7396d7c2a4e94",
-          "title": "努比亚 NaviX Ultra 定档 9 月 16 日发布，搭载豆包手机助手",
-          "url": "https://www.aibase.com/zh/news/30861",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7761,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T06:34:25.736446Z",
-      "latest_at": "2026-09-07T06:34:25.736446Z",
-      "primary_item": {
-        "id": "ad4904e56c60902647d39aa587dbfbad9136973e",
-        "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
-        "url": "https://www.aibase.com/news/30861",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2f0075a3b653",
-      "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "26157631ecd3780c0a05e7784709c5649e92ff89",
-          "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-09-07T03:26:50Z"
+          "id": "1d18c2369bbc6958848b9af98310580002d1fcf7",
+          "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T00:17:23Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Daily Digest"
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "26157631ecd3780c0a05e7784709c5649e92ff89",
-          "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-09-07T03:26:50Z"
+          "id": "1d18c2369bbc6958848b9af98310580002d1fcf7",
+          "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T00:17:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7211,
-      "importance": 0.7211,
-      "importance_score": 0.7211,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7418,
+        "recency": 0.8118,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-07T03:26:50Z",
-      "latest_at": "2026-09-07T03:26:50Z",
+      "earliest_at": "2026-09-08T00:17:23Z",
+      "latest_at": "2026-09-08T00:17:23Z",
       "primary_item": {
-        "id": "26157631ecd3780c0a05e7784709c5649e92ff89",
-        "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
+        "id": "1d18c2369bbc6958848b9af98310580002d1fcf7",
+        "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_e7fc2c23cd20",
-      "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
-      "url": "https://www.aibase.com/news/30864",
-      "primary_url": "https://www.aibase.com/news/30864",
+      "story_id": "story_3cdfb928c5d3",
+      "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+      "url": "https://www.aibase.com/news/30905",
+      "primary_url": "https://www.aibase.com/news/30905",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "476df4c2f4de29dc392a9f9b62a380cd73548322",
-          "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
-          "url": "https://www.aibase.com/news/30864",
+          "id": "f813c706b0c65860122151300c79e21147e3b6b6",
+          "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+          "url": "https://www.aibase.com/news/30905",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:34:25.736446Z"
-        },
-        {
-          "id": "7e5b2fcce2ce53792145dee33071d4457944619a",
-          "title": "千亿算力大战背后：OpenAI Astra 暴烧百亿美元，国产大模型与美企差距在哪",
-          "url": "https://www.aibase.com/zh/news/30864",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-08T14:43:46.261693Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "476df4c2f4de29dc392a9f9b62a380cd73548322",
-          "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
-          "url": "https://www.aibase.com/news/30864",
+          "id": "f813c706b0c65860122151300c79e21147e3b6b6",
+          "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+          "url": "https://www.aibase.com/news/30905",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:34:25.736446Z"
-        },
-        {
-          "id": "7e5b2fcce2ce53792145dee33071d4457944619a",
-          "title": "千亿算力大战背后：OpenAI Astra 暴烧百亿美元，国产大模型与美企差距在哪",
-          "url": "https://www.aibase.com/zh/news/30864",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-08T14:43:46.261693Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7761,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-07T06:34:25.736446Z",
-      "latest_at": "2026-09-07T06:34:25.736446Z",
+      "earliest_at": "2026-09-08T14:43:46.261693Z",
+      "latest_at": "2026-09-08T14:43:46.261693Z",
       "primary_item": {
-        "id": "476df4c2f4de29dc392a9f9b62a380cd73548322",
-        "title": "千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪",
-        "url": "https://www.aibase.com/news/30864",
+        "id": "f813c706b0c65860122151300c79e21147e3b6b6",
+        "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+        "url": "https://www.aibase.com/news/30905",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_b43417b69def",
-      "title": "微信内测“小微AI社交”新功能 支持原生AI助手跨账号代理沟通",
-      "url": "https://www.aibase.com/news/30869",
-      "primary_url": "https://www.aibase.com/news/30869",
+      "story_id": "story_fe3179d00c3d",
+      "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+      "url": "https://www.aibase.com/news/30911",
+      "primary_url": "https://www.aibase.com/news/30911",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5a8b4794fd659159bb8bbd0315e6972862801359",
-          "title": "微信内测“小微AI社交”新功能 支持原生AI助手跨账号代理沟通",
-          "url": "https://www.aibase.com/news/30869",
+          "id": "fca343610ea50224e783418e5186b3f2329bff06",
+          "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+          "url": "https://www.aibase.com/news/30911",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:34:25.736446Z"
-        },
-        {
-          "id": "0e30baab9075996ed2e640d5a684d7e2ab755206",
-          "title": "微信内测「小微 AI 社交」新功能，支持原生 AI 助手跨账号代理沟通",
-          "url": "https://www.aibase.com/zh/news/30869",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-08T14:43:46.261693Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "5a8b4794fd659159bb8bbd0315e6972862801359",
-          "title": "微信内测“小微AI社交”新功能 支持原生AI助手跨账号代理沟通",
-          "url": "https://www.aibase.com/news/30869",
+          "id": "fca343610ea50224e783418e5186b3f2329bff06",
+          "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+          "url": "https://www.aibase.com/news/30911",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:34:25.736446Z"
-        },
-        {
-          "id": "0e30baab9075996ed2e640d5a684d7e2ab755206",
-          "title": "微信内测「小微 AI 社交」新功能，支持原生 AI 助手跨账号代理沟通",
-          "url": "https://www.aibase.com/zh/news/30869",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-08T14:43:46.261693Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7761,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-07T06:34:25.736446Z",
-      "latest_at": "2026-09-07T06:34:25.736446Z",
+      "earliest_at": "2026-09-08T14:43:46.261693Z",
+      "latest_at": "2026-09-08T14:43:46.261693Z",
       "primary_item": {
-        "id": "5a8b4794fd659159bb8bbd0315e6972862801359",
-        "title": "微信内测“小微AI社交”新功能 支持原生AI助手跨账号代理沟通",
-        "url": "https://www.aibase.com/news/30869",
+        "id": "fca343610ea50224e783418e5186b3f2329bff06",
+        "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+        "url": "https://www.aibase.com/news/30911",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_a21ca5497d73",
-      "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
-      "url": "https://www.aibase.com/news/30866",
-      "primary_url": "https://www.aibase.com/news/30866",
+      "story_id": "story_e283f466ff4c",
+      "title": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
+      "url": "https://www.aibase.com/news/30906",
+      "primary_url": "https://www.aibase.com/news/30906",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e0ff566020e35871055507058e039095e3752046",
-          "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
-          "url": "https://www.aibase.com/news/30866",
+          "id": "547a898a428bde7c6214d47235a5d3149578eec7",
+          "title": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
+          "url": "https://www.aibase.com/news/30906",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:34:25.736446Z"
-        },
-        {
-          "id": "ec51d35b9035e63c894698b97ebc9b2fecdfca1b",
-          "title": "微信视觉团队开源通用多模态嵌入模型 WeMM-Embedding，日调用量突破十亿量级",
-          "url": "https://www.aibase.com/zh/news/30866",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-08T14:43:46.261693Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "e0ff566020e35871055507058e039095e3752046",
-          "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
-          "url": "https://www.aibase.com/news/30866",
+          "id": "547a898a428bde7c6214d47235a5d3149578eec7",
+          "title": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
+          "url": "https://www.aibase.com/news/30906",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:34:25.736446Z"
-        },
-        {
-          "id": "ec51d35b9035e63c894698b97ebc9b2fecdfca1b",
-          "title": "微信视觉团队开源通用多模态嵌入模型 WeMM-Embedding，日调用量突破十亿量级",
-          "url": "https://www.aibase.com/zh/news/30866",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-08T14:43:46.261693Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7761,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-07T06:34:25.736446Z",
-      "latest_at": "2026-09-07T06:34:25.736446Z",
+      "earliest_at": "2026-09-08T14:43:46.261693Z",
+      "latest_at": "2026-09-08T14:43:46.261693Z",
       "primary_item": {
-        "id": "e0ff566020e35871055507058e039095e3752046",
-        "title": "微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级",
-        "url": "https://www.aibase.com/news/30866",
+        "id": "547a898a428bde7c6214d47235a5d3149578eec7",
+        "title": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
+        "url": "https://www.aibase.com/news/30906",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_907a8994dd42",
+      "title": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
+      "url": "https://www.aibase.com/news/30909",
+      "primary_url": "https://www.aibase.com/news/30909",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "62aa0f196288f1b64101b2c2a1fc76d4fa5685ae",
+          "title": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
+          "url": "https://www.aibase.com/news/30909",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T14:43:46.261693Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "62aa0f196288f1b64101b2c2a1fc76d4fa5685ae",
+          "title": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
+          "url": "https://www.aibase.com/news/30909",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T14:43:46.261693Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T14:43:46.261693Z",
+      "latest_at": "2026-09-08T14:43:46.261693Z",
+      "primary_item": {
+        "id": "62aa0f196288f1b64101b2c2a1fc76d4fa5685ae",
+        "title": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
+        "url": "https://www.aibase.com/news/30909",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_325a0ec1e3d3",
+      "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+      "url": "https://www.aibase.com/news/30907",
+      "primary_url": "https://www.aibase.com/news/30907",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7e5ca1e93371e3375cbee5740ef14012670f4600",
+          "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+          "url": "https://www.aibase.com/news/30907",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T14:43:46.261693Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7e5ca1e93371e3375cbee5740ef14012670f4600",
+          "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+          "url": "https://www.aibase.com/news/30907",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T14:43:46.261693Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T14:43:46.261693Z",
+      "latest_at": "2026-09-08T14:43:46.261693Z",
+      "primary_item": {
+        "id": "7e5ca1e93371e3375cbee5740ef14012670f4600",
+        "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
+        "url": "https://www.aibase.com/news/30907",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -638,15 +1085,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6298,
-      "importance": 0.6298,
-      "importance_score": 0.6298,
+      "score": 0.5983,
+      "importance": 0.5983,
+      "importance_score": 0.5983,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.92,
+        "recency": 0.7451,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -664,217 +1111,275 @@
       }
     },
     {
-      "story_id": "story_3f80dfabd70a",
-      "title": "火山引擎内测 AI 版权平台，Seedance 从“防侵权”转向“IP 商业化”",
-      "url": "https://www.aibase.com/news/30868",
-      "primary_url": "https://www.aibase.com/news/30868",
+      "story_id": "story_fb3d8f3a2541",
+      "title": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
+      "url": "https://www.aibase.com/news/30904",
+      "primary_url": "https://www.aibase.com/news/30904",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "dde32a231427b94cfc302fcbb7255dc5ae17f7fd",
-          "title": "火山引擎内测 AI 版权平台，Seedance 从“防侵权”转向“IP 商业化”",
-          "url": "https://www.aibase.com/news/30868",
+          "id": "dc832ff9a37af0980f7c26ba41b71593ca695b6a",
+          "title": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
+          "url": "https://www.aibase.com/news/30904",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:34:25.736446Z"
-        },
-        {
-          "id": "be05c75c106c29970a1cde43e4b895842745e2e2",
-          "title": "火山引擎内测 AI 版权平台，Seedance 从「防侵权」转向「IP 商业化」",
-          "url": "https://www.aibase.com/zh/news/30868",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-08T14:28:46.261693Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "dde32a231427b94cfc302fcbb7255dc5ae17f7fd",
-          "title": "火山引擎内测 AI 版权平台，Seedance 从“防侵权”转向“IP 商业化”",
-          "url": "https://www.aibase.com/news/30868",
+          "id": "dc832ff9a37af0980f7c26ba41b71593ca695b6a",
+          "title": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
+          "url": "https://www.aibase.com/news/30904",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:34:25.736446Z"
-        },
-        {
-          "id": "be05c75c106c29970a1cde43e4b895842745e2e2",
-          "title": "火山引擎内测 AI 版权平台，Seedance 从「防侵权」转向「IP 商业化」",
-          "url": "https://www.aibase.com/zh/news/30868",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-08T14:28:46.261693Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7761,
-        "story_heat": 0.25
+        "recency": 0.9964,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-07T06:34:25.736446Z",
-      "latest_at": "2026-09-07T06:34:25.736446Z",
+      "earliest_at": "2026-09-08T14:28:46.261693Z",
+      "latest_at": "2026-09-08T14:28:46.261693Z",
       "primary_item": {
-        "id": "dde32a231427b94cfc302fcbb7255dc5ae17f7fd",
-        "title": "火山引擎内测 AI 版权平台，Seedance 从“防侵权”转向“IP 商业化”",
-        "url": "https://www.aibase.com/news/30868",
+        "id": "dc832ff9a37af0980f7c26ba41b71593ca695b6a",
+        "title": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
+        "url": "https://www.aibase.com/news/30904",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_525a07da9b94",
-      "title": "讯飞星火 X2.5 正式发布：MoE 架构 293B，代码与智能体能力大幅提升",
-      "url": "https://www.aibase.com/news/30867",
-      "primary_url": "https://www.aibase.com/news/30867",
+      "story_id": "story_af5a9540264b",
+      "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI will cure cancer in our lifetime, claims boss of UK chip giant",
+      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News (世界新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "d0ff29d34fc249f6f8350859ad93f125543860ba",
+          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI will cure cancer in our lifetime, claims boss of UK chip giant",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T09:17:48Z"
+        },
+        {
+          "id": "71c1de7086564e9d2cce2fc491db2737d07260f6",
+          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T23:57:48.244000Z"
+        },
+        {
+          "id": "bb6843d6b4c746ca5fb1430d1879f271c903fa0d",
+          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T23:05:12Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "BBC News",
+        "BBC News (世界新闻)",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "d0ff29d34fc249f6f8350859ad93f125543860ba",
+          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI will cure cancer in our lifetime, claims boss of UK chip giant",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T09:17:48Z"
+        },
+        {
+          "id": "71c1de7086564e9d2cce2fc491db2737d07260f6",
+          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T23:57:48.244000Z"
+        },
+        {
+          "id": "bb6843d6b4c746ca5fb1430d1879f271c903fa0d",
+          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T23:05:12Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5572,
+      "importance": 0.5572,
+      "importance_score": 0.5572,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9245,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T23:05:12Z",
+      "latest_at": "2026-09-08T09:17:48Z",
+      "primary_item": {
+        "id": "d0ff29d34fc249f6f8350859ad93f125543860ba",
+        "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI will cure cancer in our lifetime, claims boss of UK chip giant",
+        "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News (世界新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_3cd9031d643a",
+      "title": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
+      "url": "https://www.aibase.com/news/30903",
+      "primary_url": "https://www.aibase.com/news/30903",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "da1800b534a9701e92db2697f3ee5442d3f6d2a1",
-          "title": "讯飞星火 X2.5 正式发布：MoE 架构 293B，代码与智能体能力大幅提升",
-          "url": "https://www.aibase.com/news/30867",
+          "id": "f36efbb93e3ab573792fe68dcd7400da8ee75096",
+          "title": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
+          "url": "https://www.aibase.com/news/30903",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:34:25.736446Z"
-        },
-        {
-          "id": "e3cf2baa095ed849144867cc95bfa3283e94f184",
-          "title": "讯飞星火 X2.5 正式发布：MoE 架构 293B，代码与智能体能力大幅提升",
-          "url": "https://www.aibase.com/zh/news/30867",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-08T14:05:46.261693Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "da1800b534a9701e92db2697f3ee5442d3f6d2a1",
-          "title": "讯飞星火 X2.5 正式发布：MoE 架构 293B，代码与智能体能力大幅提升",
-          "url": "https://www.aibase.com/news/30867",
+          "id": "f36efbb93e3ab573792fe68dcd7400da8ee75096",
+          "title": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
+          "url": "https://www.aibase.com/news/30903",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T06:34:25.736446Z"
-        },
-        {
-          "id": "e3cf2baa095ed849144867cc95bfa3283e94f184",
-          "title": "讯飞星火 X2.5 正式发布：MoE 架构 293B，代码与智能体能力大幅提升",
-          "url": "https://www.aibase.com/zh/news/30867",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-09-08T14:05:46.261693Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7761,
-        "story_heat": 0.25
+        "recency": 0.9909,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-07T06:34:25.736446Z",
-      "latest_at": "2026-09-07T06:34:25.736446Z",
+      "earliest_at": "2026-09-08T14:05:46.261693Z",
+      "latest_at": "2026-09-08T14:05:46.261693Z",
       "primary_item": {
-        "id": "da1800b534a9701e92db2697f3ee5442d3f6d2a1",
-        "title": "讯飞星火 X2.5 正式发布：MoE 架构 293B，代码与智能体能力大幅提升",
-        "url": "https://www.aibase.com/news/30867",
+        "id": "f36efbb93e3ab573792fe68dcd7400da8ee75096",
+        "title": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
+        "url": "https://www.aibase.com/news/30903",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_b955b0a7b48a",
-      "title": "Intel报告：工作场所机器人即将达到“关键临界点”，人机协作或成常态",
-      "url": "https://www.techradar.com/pro/robot-co-workers-could-soon-be-a-common-sight-as-intel-report-claims-workplace-robotics-are-approaching-a-critical-threshold",
-      "primary_url": "https://www.techradar.com/pro/robot-co-workers-could-soon-be-a-common-sight-as-intel-report-claims-workplace-robotics-are-approaching-a-critical-threshold",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_1936484a24f4",
+      "title": "openai/插件 / openai /      plugins",
+      "url": "https://github.com/openai/plugins",
+      "primary_url": "https://github.com/openai/plugins",
+      "source": "github",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "957976db4049d26a771faf292673d589cffe4010",
-          "title": "Intel报告：工作场所机器人即将达到“关键临界点”，人机协作或成常态",
-          "url": "https://www.techradar.com/pro/robot-co-workers-could-soon-be-a-common-sight-as-intel-report-claims-workplace-robotics-are-approaching-a-critical-threshold",
-          "source": "Readhub · AI",
+          "id": "5c8c9c242defeba8e85fb442d350aa8117ab9b08",
+          "title": "openai/插件 / openai /      plugins",
+          "url": "https://github.com/openai/plugins",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-08T14:44:32.413000Z"
+        },
+        {
+          "id": "fa828145e4bc618a2d5310eed9994469d1be5f06",
+          "title": "openai/插件 / openai / plugins",
+          "url": "https://github.com/openai/plugins",
+          "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
-        },
-        {
-          "id": "4bca2e6b8494ff509d68b14259bcae96e7a3b330",
-          "title": "Intel报告：工作场所机器人即将达到“关键临界点”，人机协作或成常态 / Robot co-workers could soon be a common sight, as Intel report claims workplace robotics are approaching a 'critical threshold'",
-          "url": "https://www.techradar.com/pro/robot-co-workers-could-soon-be-a-common-sight-as-intel-report-claims-workplace-robotics-are-approaching-a-critical-threshold",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T23:20:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "TechRadar"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "957976db4049d26a771faf292673d589cffe4010",
-          "title": "Intel报告：工作场所机器人即将达到“关键临界点”，人机协作或成常态",
-          "url": "https://www.techradar.com/pro/robot-co-workers-could-soon-be-a-common-sight-as-intel-report-claims-workplace-robotics-are-approaching-a-critical-threshold",
-          "source": "Readhub · AI",
+          "id": "5c8c9c242defeba8e85fb442d350aa8117ab9b08",
+          "title": "openai/插件 / openai /      plugins",
+          "url": "https://github.com/openai/plugins",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-08T14:44:32.413000Z"
+        },
+        {
+          "id": "fa828145e4bc618a2d5310eed9994469d1be5f06",
+          "title": "openai/插件 / openai / plugins",
+          "url": "https://github.com/openai/plugins",
+          "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
-        },
-        {
-          "id": "4bca2e6b8494ff509d68b14259bcae96e7a3b330",
-          "title": "Intel报告：工作场所机器人即将达到“关键临界点”，人机协作或成常态 / Robot co-workers could soon be a common sight, as Intel report claims workplace robotics are approaching a 'critical threshold'",
-          "url": "https://www.techradar.com/pro/robot-co-workers-could-soon-be-a-common-sight-as-intel-report-claims-workplace-robotics-are-approaching-a-critical-threshold",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T23:20:00Z"
         }
       ],
       "item_count": 2,
@@ -894,689 +1399,111 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-07T23:20:00Z",
-      "latest_at": "2026-09-08T00:07:34.728344Z",
+      "earliest_at": "2026-09-08T14:43:46.261693Z",
+      "latest_at": "2026-09-08T14:44:32.413000Z",
       "primary_item": {
-        "id": "957976db4049d26a771faf292673d589cffe4010",
-        "title": "Intel报告：工作场所机器人即将达到“关键临界点”，人机协作或成常态",
-        "url": "https://www.techradar.com/pro/robot-co-workers-could-soon-be-a-common-sight-as-intel-report-claims-workplace-robotics-are-approaching-a-critical-threshold",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_af5a9540264b",
-      "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
-      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "71c1de7086564e9d2cce2fc491db2737d07260f6",
-          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
-          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T23:57:48.244000Z"
-        },
-        {
-          "id": "bb6843d6b4c746ca5fb1430d1879f271c903fa0d",
-          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T23:05:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "71c1de7086564e9d2cce2fc491db2737d07260f6",
-          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
-          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T23:57:48.244000Z"
-        },
-        {
-          "id": "bb6843d6b4c746ca5fb1430d1879f271c903fa0d",
-          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T23:05:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5454,
-      "importance": 0.5454,
-      "importance_score": 0.5454,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9977,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T23:05:12Z",
-      "latest_at": "2026-09-07T23:57:48.244000Z",
-      "primary_item": {
-        "id": "71c1de7086564e9d2cce2fc491db2737d07260f6",
-        "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
-        "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e984e0578aa3",
-      "title": "李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语",
-      "url": "https://www.aibase.com/news/30883",
-      "primary_url": "https://www.aibase.com/news/30883",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "075e270fa2368e00db90f91a931e9a32fb1b37d2",
-          "title": "李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语",
-          "url": "https://www.aibase.com/news/30883",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T17:41:18.783594Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "075e270fa2368e00db90f91a931e9a32fb1b37d2",
-          "title": "李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语",
-          "url": "https://www.aibase.com/news/30883",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T17:41:18.783594Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9112,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T17:41:18.783594Z",
-      "latest_at": "2026-09-07T17:41:18.783594Z",
-      "primary_item": {
-        "id": "075e270fa2368e00db90f91a931e9a32fb1b37d2",
-        "title": "李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语",
-        "url": "https://www.aibase.com/news/30883",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3e2a3cc93cad",
-      "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制 / Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-      "url": "https://news.ycombinator.com/item?id=49600233",
-      "primary_url": "https://news.ycombinator.com/item?id=49600233",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "0b672d8f831c07be6a9d87b6f492d1fdf8a2335b",
-          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制 / Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-          "url": "https://news.ycombinator.com/item?id=49600233",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T18:21:58.621000Z"
-        },
-        {
-          "id": "cb9c787070b7baa0c02b7b923d1b553f350b9b9a",
-          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "url": "https://news.ycombinator.com/item?id=49600233",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T16:52:53.640000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "hackernews",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "0b672d8f831c07be6a9d87b6f492d1fdf8a2335b",
-          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制 / Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-          "url": "https://news.ycombinator.com/item?id=49600233",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T18:21:58.621000Z"
-        },
-        {
-          "id": "cb9c787070b7baa0c02b7b923d1b553f350b9b9a",
-          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "url": "https://news.ycombinator.com/item?id=49600233",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T16:52:53.640000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5314,
-      "importance": 0.5314,
-      "importance_score": 0.5314,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9202,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T16:52:53.640000Z",
-      "latest_at": "2026-09-07T18:21:58.621000Z",
-      "primary_item": {
-        "id": "0b672d8f831c07be6a9d87b6f492d1fdf8a2335b",
-        "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制 / Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-        "url": "https://news.ycombinator.com/item?id=49600233",
-        "source": "hackernews",
+        "id": "5c8c9c242defeba8e85fb442d350aa8117ab9b08",
+        "title": "openai/插件 / openai /      plugins",
+        "url": "https://github.com/openai/plugins",
+        "source": "github",
         "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_8fb31a39b25a",
-      "title": "基于AMD GPU的vLLM中的推测性解码",
-      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "primary_url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "source": "vllm.ai",
+      "story_id": "story_7dca434f16ba",
+      "title": "我已经对一份证书颁发机构（CA）的RSA密钥进行了因式分解……这份证书颁发机构可追溯至90年代",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "primary_url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "source": "mcpherrin.ca",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "0896a888caca86c87227f711221bfe4a5d303f25",
-          "title": "基于AMD GPU的vLLM中的推测性解码",
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-          "source": "vllm.ai",
+          "id": "101411cdb72941ad71eba2c98f802aee1cfde80c",
+          "title": "我已经对一份证书颁发机构（CA）的RSA密钥进行了因式分解……这份证书颁发机构可追溯至90年代",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "mcpherrin.ca",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-07T17:40:59.747000Z"
+          "published_at": "2026-09-08T04:11:44.229000Z"
         },
         {
-          "id": "9942feece18a40a37cb253f83db06755e1388c43",
-          "title": "基于AMD GPU的vLLM中的推测性解码 / Speculative Decoding in vLLM on AMD GPUs",
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "id": "ddcf367323ae23486eadd57d59dc6db09a037139",
+          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "mcpherrin.ca",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T02:51:51.808000Z"
+        },
+        {
+          "id": "f45666775f0a948fe3f9adfb43e1628d7ddd2bff",
+          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-07T09:26:41Z"
+          "published_at": "2026-09-08T01:16:59Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "vllm.ai"
+        "mcpherrin.ca"
       ],
       "items": [
         {
-          "id": "0896a888caca86c87227f711221bfe4a5d303f25",
-          "title": "基于AMD GPU的vLLM中的推测性解码",
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-          "source": "vllm.ai",
+          "id": "101411cdb72941ad71eba2c98f802aee1cfde80c",
+          "title": "我已经对一份证书颁发机构（CA）的RSA密钥进行了因式分解……这份证书颁发机构可追溯至90年代",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "mcpherrin.ca",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-07T17:40:59.747000Z"
+          "published_at": "2026-09-08T04:11:44.229000Z"
         },
         {
-          "id": "9942feece18a40a37cb253f83db06755e1388c43",
-          "title": "基于AMD GPU的vLLM中的推测性解码 / Speculative Decoding in vLLM on AMD GPUs",
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "id": "ddcf367323ae23486eadd57d59dc6db09a037139",
+          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "mcpherrin.ca",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T02:51:51.808000Z"
+        },
+        {
+          "id": "f45666775f0a948fe3f9adfb43e1628d7ddd2bff",
+          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-07T09:26:41Z"
+          "published_at": "2026-09-08T01:16:59Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5298,
-      "importance": 0.5298,
-      "importance_score": 0.5298,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9112,
-        "story_heat": 0.25
+        "recency": 0.8589,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-07T09:26:41Z",
-      "latest_at": "2026-09-07T17:40:59.747000Z",
+      "earliest_at": "2026-09-08T01:16:59Z",
+      "latest_at": "2026-09-08T04:11:44.229000Z",
       "primary_item": {
-        "id": "0896a888caca86c87227f711221bfe4a5d303f25",
-        "title": "基于AMD GPU的vLLM中的推测性解码",
-        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-        "source": "vllm.ai",
+        "id": "101411cdb72941ad71eba2c98f802aee1cfde80c",
+        "title": "我已经对一份证书颁发机构（CA）的RSA密钥进行了因式分解……这份证书颁发机构可追溯至90年代",
+        "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+        "source": "mcpherrin.ca",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_56e608b540ff",
-      "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？",
-      "url": "https://news.ycombinator.com/item?id=49598441",
-      "primary_url": "https://news.ycombinator.com/item?id=49598441",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "edc0eadfe478e4799081115df691094d17673972",
-          "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？",
-          "url": "https://news.ycombinator.com/item?id=49598441",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T13:59:27.293000Z"
-        },
-        {
-          "id": "e68a33ed00c5a8f4b63f8d442b67054b806fd3f5",
-          "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？ / Is OpenAI silently routing GPT‑6 requests to GPT‑4o?",
-          "url": "https://news.ycombinator.com/item?id=49598441",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-07T13:49:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "edc0eadfe478e4799081115df691094d17673972",
-          "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？",
-          "url": "https://news.ycombinator.com/item?id=49598441",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T13:59:27.293000Z"
-        },
-        {
-          "id": "e68a33ed00c5a8f4b63f8d442b67054b806fd3f5",
-          "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？ / Is OpenAI silently routing GPT‑6 requests to GPT‑4o?",
-          "url": "https://news.ycombinator.com/item?id=49598441",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-07T13:49:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5213,
-      "importance": 0.5213,
-      "importance_score": 0.5213,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8638,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T13:49:22Z",
-      "latest_at": "2026-09-07T13:59:27.293000Z",
-      "primary_item": {
-        "id": "edc0eadfe478e4799081115df691094d17673972",
-        "title": "OpenAI 是否正在悄悄地将 GPT‑6 的请求重定向到 GPT‑4o？",
-        "url": "https://news.ycombinator.com/item?id=49598441",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d8552f3c7c0d",
-      "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
-      "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
-      "primary_url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c8405f58b3b6999e0a5f06a7ed7e9b888bba387c",
-          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
-          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T13:59:38.134000Z"
-        },
-        {
-          "id": "10c04c69ec59b2037efdc757e6baff48366c1478",
-          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵 / Ukrainian and US teams are building AI tools for wounded troops with no medic nearby",
-          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T13:30:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "c8405f58b3b6999e0a5f06a7ed7e9b888bba387c",
-          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
-          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T13:59:38.134000Z"
-        },
-        {
-          "id": "10c04c69ec59b2037efdc757e6baff48366c1478",
-          "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵 / Ukrainian and US teams are building AI tools for wounded troops with no medic nearby",
-          "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T13:30:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5213,
-      "importance": 0.5213,
-      "importance_score": 0.5213,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8639,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T13:30:01Z",
-      "latest_at": "2026-09-07T13:59:38.134000Z",
-      "primary_item": {
-        "id": "c8405f58b3b6999e0a5f06a7ed7e9b888bba387c",
-        "title": "乌克兰和美国的开发人员正在开发人工智能工具，用于协助单独处理战场伤口的士兵",
-        "url": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_64868ada1cab",
-      "title": "Initial effects of AI technology on employment look positive",
-      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "primary_url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "d8549658f0d39ce72a79065fe3e86fe27f62679f",
-          "title": "Initial effects of AI technology on employment look positive",
-          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T10:38:32Z"
-        },
-        {
-          "id": "1deac515e4f630342fcf5d6d2b218a5b1c0cf8d6",
-          "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T10:38:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "d8549658f0d39ce72a79065fe3e86fe27f62679f",
-          "title": "Initial effects of AI technology on employment look positive",
-          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T10:38:32Z"
-        },
-        {
-          "id": "1deac515e4f630342fcf5d6d2b218a5b1c0cf8d6",
-          "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T10:38:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.514,
-      "importance": 0.514,
-      "importance_score": 0.514,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8231,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T10:38:32Z",
-      "latest_at": "2026-09-07T10:38:32Z",
-      "primary_item": {
-        "id": "d8549658f0d39ce72a79065fe3e86fe27f62679f",
-        "title": "Initial effects of AI technology on employment look positive",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_052fd9878162",
-      "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-      "url": "https://www.aibase.com/news/30882",
-      "primary_url": "https://www.aibase.com/news/30882",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a010f69c76ecf055f1f978bd518750a01712274a",
-          "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-          "url": "https://www.aibase.com/news/30882",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T17:29:18.783594Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a010f69c76ecf055f1f978bd518750a01712274a",
-          "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-          "url": "https://www.aibase.com/news/30882",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T17:29:18.783594Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9086,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T17:29:18.783594Z",
-      "latest_at": "2026-09-07T17:29:18.783594Z",
-      "primary_item": {
-        "id": "a010f69c76ecf055f1f978bd518750a01712274a",
-        "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-        "url": "https://www.aibase.com/news/30882",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_dff51e11afc1",
-      "title": "Scientists develop ultrafast magnetic-field pulses memory system that could cut AI data center energy use by 100x",
-      "url": "https://www.techradar.com/computing/scientists-develop-ultrafast-magnetic-field-pulses-memory-system-that-could-cut-ai-data-center-energy-use-by-100x-and-even-get-close-to-hitting-thermodynamic-limits",
-      "primary_url": "https://www.techradar.com/computing/scientists-develop-ultrafast-magnetic-field-pulses-memory-system-that-could-cut-ai-data-center-energy-use-by-100x-and-even-get-close-to-hitting-thermodynamic-limits",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "7209c0845fa09a51fa2c05e8df94c2bd67b236a8",
-          "title": "Scientists develop ultrafast magnetic-field pulses memory system that could cut AI data center energy use by 100x",
-          "url": "https://www.techradar.com/computing/scientists-develop-ultrafast-magnetic-field-pulses-memory-system-that-could-cut-ai-data-center-energy-use-by-100x-and-even-get-close-to-hitting-thermodynamic-limits",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "70e414a9beeb1a95383eb383459ce1065fdfeea8",
-          "title": "Scientists develop ‘ultrafast magnetic-field pulses’ memory system that could cut AI data center energy use by 100x — and even get close to hitting thermodynamic limits",
-          "url": "https://www.techradar.com/computing/scientists-develop-ultrafast-magnetic-field-pulses-memory-system-that-could-cut-ai-data-center-energy-use-by-100x-and-even-get-close-to-hitting-thermodynamic-limits",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T19:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "TechRadar"
-      ],
-      "items": [
-        {
-          "id": "7209c0845fa09a51fa2c05e8df94c2bd67b236a8",
-          "title": "Scientists develop ultrafast magnetic-field pulses memory system that could cut AI data center energy use by 100x",
-          "url": "https://www.techradar.com/computing/scientists-develop-ultrafast-magnetic-field-pulses-memory-system-that-could-cut-ai-data-center-energy-use-by-100x-and-even-get-close-to-hitting-thermodynamic-limits",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "70e414a9beeb1a95383eb383459ce1065fdfeea8",
-          "title": "Scientists develop ‘ultrafast magnetic-field pulses’ memory system that could cut AI data center energy use by 100x — and even get close to hitting thermodynamic limits",
-          "url": "https://www.techradar.com/computing/scientists-develop-ultrafast-magnetic-field-pulses-memory-system-that-could-cut-ai-data-center-energy-use-by-100x-and-even-get-close-to-hitting-thermodynamic-limits",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T19:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.966,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T19:00:00Z",
-      "latest_at": "2026-09-07T21:44:03.520260Z",
-      "primary_item": {
-        "id": "7209c0845fa09a51fa2c05e8df94c2bd67b236a8",
-        "title": "Scientists develop ultrafast magnetic-field pulses memory system that could cut AI data center energy use by 100x",
-        "url": "https://www.techradar.com/computing/scientists-develop-ultrafast-magnetic-field-pulses-memory-system-that-could-cut-ai-data-center-energy-use-by-100x-and-even-get-close-to-hitting-thermodynamic-limits",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
