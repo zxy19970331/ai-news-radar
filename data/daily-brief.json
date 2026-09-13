@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T22:07:29.459054Z",
+  "generated_at": "2026-09-13T00:10:38.313864Z",
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 20,
   "items": [
     {
       "story_id": "story_12e9dd685180",
@@ -63,106 +63,6 @@
         "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_59326c036955",
-      "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-      "url": "https://www.rubyhack.ai",
-      "primary_url": "https://www.rubyhack.ai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b7e23e6fc7f12a692719217a64c3f1a5fbdd7046",
-          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-          "url": "https://www.rubyhack.ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T00:24:20.561000Z"
-        },
-        {
-          "id": "ea73d76d91a6ad8f4589edb7ff2d05cd43cd61b5",
-          "title": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
-          "url": "https://www.rubyhack.ai",
-          "source": "www.rubyhack.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T00:24:20.561000Z"
-        },
-        {
-          "id": "fbf3ff376bfc93627bc7a0634eb6984c11e35017",
-          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析 / OpenAI agents carried out an undisclosed attack on RubyGems",
-          "url": "https://www.rubyhack.ai",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-11T23:41:50Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Lobsters (技术社区)",
-        "www.rubyhack.ai"
-      ],
-      "items": [
-        {
-          "id": "b7e23e6fc7f12a692719217a64c3f1a5fbdd7046",
-          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-          "url": "https://www.rubyhack.ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T00:24:20.561000Z"
-        },
-        {
-          "id": "ea73d76d91a6ad8f4589edb7ff2d05cd43cd61b5",
-          "title": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
-          "url": "https://www.rubyhack.ai",
-          "source": "www.rubyhack.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T00:24:20.561000Z"
-        },
-        {
-          "id": "fbf3ff376bfc93627bc7a0634eb6984c11e35017",
-          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析 / OpenAI agents carried out an undisclosed attack on RubyGems",
-          "url": "https://www.rubyhack.ai",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-11T23:41:50Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7961,
-      "importance": 0.7961,
-      "importance_score": 0.7961,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7308,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-11T23:41:50Z",
-      "latest_at": "2026-09-12T00:24:20.561000Z",
-      "primary_item": {
-        "id": "b7e23e6fc7f12a692719217a64c3f1a5fbdd7046",
-        "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-        "url": "https://www.rubyhack.ai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -238,15 +138,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7855,
-      "importance": 0.7855,
-      "importance_score": 0.7855,
+      "score": 0.7815,
+      "importance": 0.7815,
+      "importance_score": 0.7815,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.755,
+        "recency": 0.7329,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -300,15 +200,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7752,
+      "importance": 0.7752,
+      "importance_score": 0.7752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9362,
+        "recency": 0.9088,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -323,6 +223,87 @@
         "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
         "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
         "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_59326c036955",
+      "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+      "url": "https://www.rubyhack.ai",
+      "primary_url": "https://www.rubyhack.ai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b7e23e6fc7f12a692719217a64c3f1a5fbdd7046",
+          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+          "url": "https://www.rubyhack.ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T00:24:20.561000Z"
+        },
+        {
+          "id": "ea73d76d91a6ad8f4589edb7ff2d05cd43cd61b5",
+          "title": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
+          "url": "https://www.rubyhack.ai",
+          "source": "www.rubyhack.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T00:24:20.561000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.rubyhack.ai"
+      ],
+      "items": [
+        {
+          "id": "b7e23e6fc7f12a692719217a64c3f1a5fbdd7046",
+          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+          "url": "https://www.rubyhack.ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T00:24:20.561000Z"
+        },
+        {
+          "id": "ea73d76d91a6ad8f4589edb7ff2d05cd43cd61b5",
+          "title": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
+          "url": "https://www.rubyhack.ai",
+          "source": "www.rubyhack.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T00:24:20.561000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7673,
+      "importance": 0.7673,
+      "importance_score": 0.7673,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7094,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T00:24:20.561000Z",
+      "latest_at": "2026-09-12T00:24:20.561000Z",
+      "primary_item": {
+        "id": "b7e23e6fc7f12a692719217a64c3f1a5fbdd7046",
+        "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+        "url": "https://www.rubyhack.ai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -361,15 +342,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9222,
+        "recency": 0.8952,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -422,15 +403,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9667,
+        "recency": 0.9385,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -483,15 +464,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9742,
+        "recency": 0.9457,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -544,15 +525,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9241,
+        "recency": 0.8971,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -570,62 +551,63 @@
       }
     },
     {
-      "story_id": "story_98125bd58fad",
-      "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
-      "url": "https://www.ithome.com/1/001/488.htm",
-      "primary_url": "https://www.ithome.com/1/001/488.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_907498d8ada4",
+      "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
+      "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
+      "primary_url": "https://x.com/OpenAIDevs/status/2098913661993603215",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "bf0a75fa9aa3ca49462a0a9dd5d8c3c786336fc9",
-          "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
-          "url": "https://www.ithome.com/1/001/488.htm",
-          "source": "IT之家（RSS）",
+          "id": "23601fca23fa8ec5df7c7426cb61458c2d8f4b0a",
+          "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
+          "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-11T23:22:39Z"
+          "published_at": "2026-09-12T23:16:27Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "X：OpenAI Developers (@OpenAIDevs)"
       ],
       "items": [
         {
-          "id": "bf0a75fa9aa3ca49462a0a9dd5d8c3c786336fc9",
-          "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
-          "url": "https://www.ithome.com/1/001/488.htm",
-          "source": "IT之家（RSS）",
+          "id": "23601fca23fa8ec5df7c7426cb61458c2d8f4b0a",
+          "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
+          "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-11T23:22:39Z"
+          "published_at": "2026-09-12T23:16:27Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7322,
-      "importance": 0.7322,
-      "importance_score": 0.7322,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.72,
+        "recency": 0.987,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-11T23:22:39Z",
-      "latest_at": "2026-09-11T23:22:39Z",
+      "earliest_at": "2026-09-12T23:16:27Z",
+      "latest_at": "2026-09-12T23:16:27Z",
       "primary_item": {
-        "id": "bf0a75fa9aa3ca49462a0a9dd5d8c3c786336fc9",
-        "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
-        "url": "https://www.ithome.com/1/001/488.htm",
-        "source": "IT之家（RSS）",
+        "id": "23601fca23fa8ec5df7c7426cb61458c2d8f4b0a",
+        "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
+        "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
         "source_name": "AI HOT"
       }
     },
@@ -736,15 +718,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6877,
-      "importance": 0.6877,
-      "importance_score": 0.6877,
+      "score": 0.6826,
+      "importance": 0.6826,
+      "importance_score": 0.6826,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.9642,
+        "recency": 0.936,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -815,15 +797,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6566,
-      "importance": 0.6566,
-      "importance_score": 0.6566,
+      "score": 0.6515,
+      "importance": 0.6515,
+      "importance_score": 0.6515,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.9743,
+        "recency": 0.9458,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -894,15 +876,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6547,
-      "importance": 0.6547,
-      "importance_score": 0.6547,
+      "score": 0.6497,
+      "importance": 0.6497,
+      "importance_score": 0.6497,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.9639,
+        "recency": 0.9358,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -917,6 +899,163 @@
         "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_7528306ec91b",
+      "title": "育儿博主曝光 Meta AI 可抓取日常数据汇总生成隐私家庭信息，官方紧急修复",
+      "url": "https://www.ithome.com/1/001/685.htm",
+      "primary_url": "https://www.ithome.com/1/001/685.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "051da9b38dcaccf6c22e0265fe008adec256a6ca",
+          "title": "育儿博主曝光 Meta AI 可抓取日常数据汇总生成隐私家庭信息，官方紧急修复",
+          "url": "https://www.ithome.com/1/001/685.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "1244772aeac55e80158cc4780b2ecc460b7cdf78",
+          "title": "育儿博主曝光 Meta AI 可抓取日常数据“汇总生成隐私家庭信息”，官方紧急修复",
+          "url": "https://www.ithome.com/1/001/685.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T23:40:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "051da9b38dcaccf6c22e0265fe008adec256a6ca",
+          "title": "育儿博主曝光 Meta AI 可抓取日常数据汇总生成隐私家庭信息，官方紧急修复",
+          "url": "https://www.ithome.com/1/001/685.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "1244772aeac55e80158cc4780b2ecc460b7cdf78",
+          "title": "育儿博主曝光 Meta AI 可抓取日常数据“汇总生成隐私家庭信息”，官方紧急修复",
+          "url": "https://www.ithome.com/1/001/685.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T23:40:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T23:40:32Z",
+      "latest_at": "2026-09-13T00:10:38.313864Z",
+      "primary_item": {
+        "id": "051da9b38dcaccf6c22e0265fe008adec256a6ca",
+        "title": "育儿博主曝光 Meta AI 可抓取日常数据汇总生成隐私家庭信息，官方紧急修复",
+        "url": "https://www.ithome.com/1/001/685.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "LG Says We're Fake News [video]",
+      "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+      "primary_url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "bfadcb88e87ad0b722983f6b1be1b33d7f349d71",
+          "title": "LG Says We're Fake News [video]",
+          "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T19:35:36Z"
+        },
+        {
+          "id": "329a1ab880c276331f5758b54e6875309f8814f6",
+          "title": "Jimmy Kimmel Interviews James Talarico",
+          "url": "https://www.youtube.com/watch?v=WLDE9LrGpNk",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T19:28:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "bfadcb88e87ad0b722983f6b1be1b33d7f349d71",
+          "title": "LG Says We're Fake News [video]",
+          "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T19:35:36Z"
+        },
+        {
+          "id": "329a1ab880c276331f5758b54e6875309f8814f6",
+          "title": "Jimmy Kimmel Interviews James Talarico",
+          "url": "https://www.youtube.com/watch?v=WLDE9LrGpNk",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T19:28:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9359,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T19:28:24Z",
+      "latest_at": "2026-09-12T19:35:36Z",
+      "primary_item": {
+        "id": "bfadcb88e87ad0b722983f6b1be1b33d7f349d71",
+        "title": "LG Says We're Fake News [video]",
+        "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -973,15 +1112,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5394,
-      "importance": 0.5394,
-      "importance_score": 0.5394,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9642,
+        "recency": 0.936,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1052,15 +1191,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.5307,
+      "importance": 0.5307,
+      "importance_score": 0.5307,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9438,
+        "recency": 0.9162,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1131,15 +1270,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
+      "score": 0.5298,
+      "importance": 0.5298,
+      "importance_score": 0.5298,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9382,
+        "recency": 0.9108,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1210,15 +1349,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9236,
+        "recency": 0.8966,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1289,15 +1428,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5283,
-      "importance": 0.5283,
-      "importance_score": 0.5283,
+      "score": 0.5236,
+      "importance": 0.5236,
+      "importance_score": 0.5236,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9028,
+        "recency": 0.8765,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1368,15 +1507,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5394,
-      "importance": 0.5394,
-      "importance_score": 0.5394,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9642,
+        "recency": 0.936,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1389,85 +1528,6 @@
         "id": "d15f3fa07e293d048b3378fa162ea173f37bc504",
         "title": "SnailSploit / 克劳德-雷德 / SnailSploit / Claude-Red",
         "url": "https://github.com/SnailSploit/Claude-Red",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_a699cca17620",
-      "title": "asgeirtj / system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "primary_url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "2fa4d188d72c83942d8eda61541a4bf7f9cd6c7d",
-          "title": "asgeirtj / system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "baa9d03b16ed38aed33577d7ed876031205e6795",
-          "title": "asgeirtj /      system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-12T19:09:56.338000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "2fa4d188d72c83942d8eda61541a4bf7f9cd6c7d",
-          "title": "asgeirtj / system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "baa9d03b16ed38aed33577d7ed876031205e6795",
-          "title": "asgeirtj /      system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-12T19:09:56.338000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5394,
-      "importance": 0.5394,
-      "importance_score": 0.5394,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9642,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T19:09:56.338000Z",
-      "latest_at": "2026-09-12T19:35:56.506385Z",
-      "primary_item": {
-        "id": "2fa4d188d72c83942d8eda61541a4bf7f9cd6c7d",
-        "title": "asgeirtj / system_prompts_leaks",
-        "url": "https://github.com/asgeirtj/system_prompts_leaks",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
       }
