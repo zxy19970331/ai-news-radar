@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T21:04:09.917092Z",
+  "generated_at": "2026-09-13T23:24:20.788240Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8147,
-      "importance": 0.8147,
-      "importance_score": 0.8147,
+      "score": 0.8093,
+      "importance": 0.8093,
+      "importance_score": 0.8093,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9064,
+        "recency": 0.8763,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -181,21 +181,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8037,
+        "recency": 0.777,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-13T05:56:03Z",
       "latest_at": "2026-09-13T05:56:03Z",
@@ -242,15 +241,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7312,
-      "importance": 0.7312,
-      "importance_score": 0.7312,
+      "score": 0.7255,
+      "importance": 0.7255,
+      "importance_score": 0.7255,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9646,
+        "recency": 0.9326,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -310,29 +309,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-09-13T18:02:30.131197Z"
-        },
-        {
-          "id": "31ec6ccacb3f6a5e5e89576d7ebaedcd1f4198ae",
-          "title": "作者结合 OpenAI 的最新指南，拆解了“少写提示词”的具体做法：删掉无用的 Skill，让描述只保留精确触发条件，主文件做路由、按需加载细节；任务里少规定每一步，多写清完成标准、可自主操作和必须询问的边界。作者还给了一段提示词，能让 Astra 盘点机器级和项目级配置。一起上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-12T22:07:29.459054Z"
-        },
-        {
-          "id": "af434e8073a4851d891a7ce068afc624228b894c",
-          "title": "关于GPT-6 Astra，OpenAI 发布了来自其社区的一些开发者案例合集，一起来看看！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-12T22:07:29.459054Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 4,
       "source_names": [
-        "社区更新 · 2026-09-12",
         "社区更新 · 2026-09-13"
       ],
       "items": [
@@ -371,44 +351,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-09-13T18:02:30.131197Z"
-        },
-        {
-          "id": "31ec6ccacb3f6a5e5e89576d7ebaedcd1f4198ae",
-          "title": "作者结合 OpenAI 的最新指南，拆解了“少写提示词”的具体做法：删掉无用的 Skill，让描述只保留精确触发条件，主文件做路由、按需加载细节；任务里少规定每一步，多写清完成标准、可自主操作和必须询问的边界。作者还给了一段提示词，能让 Astra 盘点机器级和项目级配置。一起上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-12T22:07:29.459054Z"
-        },
-        {
-          "id": "af434e8073a4851d891a7ce068afc624228b894c",
-          "title": "关于GPT-6 Astra，OpenAI 发布了来自其社区的一些开发者案例合集，一起来看看！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-12T22:07:29.459054Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6382,
+      "importance": 0.6382,
+      "importance_score": 0.6382,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 1.0
+        "recency": 0.9668,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-12T22:07:29.459054Z",
+      "earliest_at": "2026-09-13T18:02:30.131197Z",
       "latest_at": "2026-09-13T21:04:09.917092Z",
       "primary_item": {
         "id": "17836e027d343f1805d62755db6f94cf3bdfa6b1",
@@ -416,6 +378,104 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-09-13",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_0fa77dcd1de2",
+      "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "primary_url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "source": "www.vals.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "www.vals.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T22:25:23.276000Z"
+        },
+        {
+          "id": "133070f52c443570d309dc7e350c34d0afdbaf82",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T21:06:13Z"
+        },
+        {
+          "id": "609bba8476226084de8142261dadb3ef6c29e187",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T21:06:13Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "www.vals.ai"
+      ],
+      "items": [
+        {
+          "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "www.vals.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T22:25:23.276000Z"
+        },
+        {
+          "id": "133070f52c443570d309dc7e350c34d0afdbaf82",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T21:06:13Z"
+        },
+        {
+          "id": "609bba8476226084de8142261dadb3ef6c29e187",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T21:06:13Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5683,
+      "importance": 0.5683,
+      "importance_score": 0.5683,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9859,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T21:06:13Z",
+      "latest_at": "2026-09-13T22:25:23.276000Z",
+      "primary_item": {
+        "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
+        "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+        "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+        "source": "www.vals.ai",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -491,15 +551,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5651,
-      "importance": 0.5651,
-      "importance_score": 0.5651,
+      "score": 0.5593,
+      "importance": 0.5593,
+      "importance_score": 0.5593,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9681,
+        "recency": 0.936,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -588,15 +648,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.565,
-      "importance": 0.565,
-      "importance_score": 0.565,
+      "score": 0.5592,
+      "importance": 0.5592,
+      "importance_score": 0.5592,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9676,
+        "recency": 0.9355,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -686,15 +746,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5548,
-      "importance": 0.5548,
-      "importance_score": 0.5548,
+      "score": 0.5493,
+      "importance": 0.5493,
+      "importance_score": 0.5493,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9109,
+        "recency": 0.8807,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -708,6 +768,164 @@
         "title": "关于人工智能的惊人内部警告在硅谷部分人士中未引起重视",
         "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
         "source": "www.bbc.co.uk",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c121eaf78a25",
+      "title": "AI recursive self-improvement might not come so quickly after all",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+      "primary_url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "59a37a7c608f31022bc13c35638f8340e893659b",
+          "title": "AI recursive self-improvement might not come so quickly after all",
+          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f94d2b63a95a1fa4ec4da18eafb9e90221965c6e",
+          "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T18:49:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "59a37a7c608f31022bc13c35638f8340e893659b",
+          "title": "AI recursive self-improvement might not come so quickly after all",
+          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f94d2b63a95a1fa4ec4da18eafb9e90221965c6e",
+          "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T18:49:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T18:49:44Z",
+      "latest_at": "2026-09-13T23:24:20.788240Z",
+      "primary_item": {
+        "id": "59a37a7c608f31022bc13c35638f8340e893659b",
+        "title": "AI recursive self-improvement might not come so quickly after all",
+        "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_58e536e7446d",
+      "title": "智者们如何看待“AI末日”以及放缓一切的呼吁",
+      "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
+      "primary_url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "31bb9360175cce9c9d66b96639eb6a880242af0e",
+          "title": "智者们如何看待“AI末日”以及放缓一切的呼吁",
+          "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T21:23:31.600000Z"
+        },
+        {
+          "id": "89c8bb768c51acd230757f7daf2c09652ea4984c",
+          "title": "智者们如何看待“AI末日”以及放缓一切的呼吁 / What smart people are saying about the AI apocalypse and calls to slow everything down",
+          "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T20:55:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "31bb9360175cce9c9d66b96639eb6a880242af0e",
+          "title": "智者们如何看待“AI末日”以及放缓一切的呼吁",
+          "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T21:23:31.600000Z"
+        },
+        {
+          "id": "89c8bb768c51acd230757f7daf2c09652ea4984c",
+          "title": "智者们如何看待“AI末日”以及放缓一切的呼吁 / What smart people are saying about the AI apocalypse and calls to slow everything down",
+          "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T20:55:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5406,
+      "importance": 0.5406,
+      "importance_score": 0.5406,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9713,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T20:55:24Z",
+      "latest_at": "2026-09-13T21:23:31.600000Z",
+      "primary_item": {
+        "id": "31bb9360175cce9c9d66b96639eb6a880242af0e",
+        "title": "智者们如何看待“AI末日”以及放缓一切的呼吁",
+        "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -765,15 +983,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
+      "score": 0.5341,
+      "importance": 0.5341,
+      "importance_score": 0.5341,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9671,
+        "recency": 0.935,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -787,85 +1005,6 @@
         "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
         "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
         "source": "twitter.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ee8a008297ce",
-      "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
-      "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-      "primary_url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b45aa0b9cae0fe186f4eab392d8afca76803ef62",
-          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
-          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T17:42:39.759000Z"
-        },
-        {
-          "id": "1464c9a4840dd4c3754bb95b2996f3a33822eca0",
-          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面” / Really? Palantir cofounder on AI's threat: 'We’re on top of it’",
-          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T17:10:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "b45aa0b9cae0fe186f4eab392d8afca76803ef62",
-          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
-          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T17:42:39.759000Z"
-        },
-        {
-          "id": "1464c9a4840dd4c3754bb95b2996f3a33822eca0",
-          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面” / Really? Palantir cofounder on AI's threat: 'We’re on top of it’",
-          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T17:10:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5373,
-      "importance": 0.5373,
-      "importance_score": 0.5373,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9527,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T17:10:40Z",
-      "latest_at": "2026-09-13T17:42:39.759000Z",
-      "primary_item": {
-        "id": "b45aa0b9cae0fe186f4eab392d8afca76803ef62",
-        "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
-        "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -923,15 +1062,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5373,
-      "importance": 0.5373,
-      "importance_score": 0.5373,
+      "score": 0.5316,
+      "importance": 0.5316,
+      "importance_score": 0.5316,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9527,
+        "recency": 0.9211,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1001,15 +1140,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5329,
-      "importance": 0.5329,
-      "importance_score": 0.5329,
+      "score": 0.5273,
+      "importance": 0.5273,
+      "importance_score": 0.5273,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9282,
+        "recency": 0.8974,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1024,85 +1163,6 @@
         "url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology",
         "source": "www.bloomberg.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_fca275d6d6bc",
-      "title": "“全华班”打造的AI程序员，估值480亿美元",
-      "url": "https://www.36kr.com/p/3981230650522630",
-      "primary_url": "https://www.36kr.com/p/3981230650522630",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "f65bf55a86f774b76d837701da21c334e6b0ada0",
-          "title": "“全华班”打造的AI程序员，估值480亿美元",
-          "url": "https://www.36kr.com/p/3981230650522630",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f38c68ddc9d5745b81a0a0de9bb7946333caf916",
-          "title": "全华班打造的 AI 程序员，估值 480 亿美元",
-          "url": "https://www.36kr.com/p/3981230650522630",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 · 24小时热榜",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f65bf55a86f774b76d837701da21c334e6b0ada0",
-          "title": "“全华班”打造的AI程序员，估值480亿美元",
-          "url": "https://www.36kr.com/p/3981230650522630",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f38c68ddc9d5745b81a0a0de9bb7946333caf916",
-          "title": "全华班打造的 AI 程序员，估值 480 亿美元",
-          "url": "https://www.36kr.com/p/3981230650522630",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5304,
-      "importance": 0.5304,
-      "importance_score": 0.5304,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9145,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T05:15:53.835962Z",
-      "latest_at": "2026-09-13T14:52:43.045753Z",
-      "primary_item": {
-        "id": "f65bf55a86f774b76d837701da21c334e6b0ada0",
-        "title": "“全华班”打造的AI程序员，估值480亿美元",
-        "url": "https://www.36kr.com/p/3981230650522630",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1159,15 +1219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5304,
-      "importance": 0.5304,
-      "importance_score": 0.5304,
+      "score": 0.525,
+      "importance": 0.525,
+      "importance_score": 0.525,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9146,
+        "recency": 0.8843,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1182,6 +1242,85 @@
         "url": "https://github.com/huggingface/transformers",
         "source": "github",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_fca275d6d6bc",
+      "title": "“全华班”打造的AI程序员，估值480亿美元",
+      "url": "https://www.36kr.com/p/3981230650522630",
+      "primary_url": "https://www.36kr.com/p/3981230650522630",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "f65bf55a86f774b76d837701da21c334e6b0ada0",
+          "title": "“全华班”打造的AI程序员，估值480亿美元",
+          "url": "https://www.36kr.com/p/3981230650522630",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f38c68ddc9d5745b81a0a0de9bb7946333caf916",
+          "title": "全华班打造的 AI 程序员，估值 480 亿美元",
+          "url": "https://www.36kr.com/p/3981230650522630",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 · 24小时热榜",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f65bf55a86f774b76d837701da21c334e6b0ada0",
+          "title": "“全华班”打造的AI程序员，估值480亿美元",
+          "url": "https://www.36kr.com/p/3981230650522630",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f38c68ddc9d5745b81a0a0de9bb7946333caf916",
+          "title": "全华班打造的 AI 程序员，估值 480 亿美元",
+          "url": "https://www.36kr.com/p/3981230650522630",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8841,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T05:15:53.835962Z",
+      "latest_at": "2026-09-13T14:52:43.045753Z",
+      "primary_item": {
+        "id": "f65bf55a86f774b76d837701da21c334e6b0ada0",
+        "title": "“全华班”打造的AI程序员，估值480亿美元",
+        "url": "https://www.36kr.com/p/3981230650522630",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1256,15 +1395,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5276,
-      "importance": 0.5276,
-      "importance_score": 0.5276,
+      "score": 0.5231,
+      "importance": 0.5231,
+      "importance_score": 0.5231,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7602,
+        "recency": 0.735,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1335,15 +1474,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5133,
-      "importance": 0.5133,
-      "importance_score": 0.5133,
+      "score": 0.5084,
+      "importance": 0.5084,
+      "importance_score": 0.5084,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8195,
+        "recency": 0.7924,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1414,15 +1553,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
+      "score": 0.5341,
+      "importance": 0.5341,
+      "importance_score": 0.5341,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9671,
+        "recency": 0.935,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1440,30 +1579,30 @@
       }
     },
     {
-      "story_id": "story_106d06eb2624",
-      "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO）",
-      "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
-      "primary_url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
+      "story_id": "story_ee8a008297ce",
+      "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
+      "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
+      "primary_url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "66627fae641c5b9491ecd3218d7137fde7241bc4",
-          "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO）",
-          "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
+          "id": "b45aa0b9cae0fe186f4eab392d8afca76803ef62",
+          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
+          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-13T16:10:27.930000Z"
+          "published_at": "2026-09-13T17:42:39.759000Z"
         },
         {
-          "id": "63da3751edf1939a47e1df9cab0b3a5403517093",
-          "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO） / Anthropic has chosen the Nasdaq for its IPO listing",
-          "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
+          "id": "1464c9a4840dd4c3754bb95b2996f3a33822eca0",
+          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面” / Really? Palantir cofounder on AI's threat: 'We’re on top of it’",
+          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-13T16:01:38Z"
+          "published_at": "2026-09-13T17:10:40Z"
         }
       ],
       "source_count": 2,
@@ -1473,207 +1612,49 @@
       ],
       "items": [
         {
-          "id": "66627fae641c5b9491ecd3218d7137fde7241bc4",
-          "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO）",
-          "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
+          "id": "b45aa0b9cae0fe186f4eab392d8afca76803ef62",
+          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
+          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-13T16:10:27.930000Z"
+          "published_at": "2026-09-13T17:42:39.759000Z"
         },
         {
-          "id": "63da3751edf1939a47e1df9cab0b3a5403517093",
-          "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO） / Anthropic has chosen the Nasdaq for its IPO listing",
-          "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
+          "id": "1464c9a4840dd4c3754bb95b2996f3a33822eca0",
+          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面” / Really? Palantir cofounder on AI's threat: 'We’re on top of it’",
+          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-13T16:01:38Z"
+          "published_at": "2026-09-13T17:10:40Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5335,
-      "importance": 0.5335,
-      "importance_score": 0.5335,
+      "score": 0.5316,
+      "importance": 0.5316,
+      "importance_score": 0.5316,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9318,
+        "recency": 0.9211,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-13T16:01:38Z",
-      "latest_at": "2026-09-13T16:10:27.930000Z",
+      "earliest_at": "2026-09-13T17:10:40Z",
+      "latest_at": "2026-09-13T17:42:39.759000Z",
       "primary_item": {
-        "id": "66627fae641c5b9491ecd3218d7137fde7241bc4",
-        "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO）",
-        "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
+        "id": "b45aa0b9cae0fe186f4eab392d8afca76803ef62",
+        "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
+        "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4ee70cea304a",
-      "title": "Anthropic 首席执行官 Dario Amodei 呼吁放慢人工智能速度 / Anthropic CEO Dario Amodei Calls For AI Slowdown",
-      "url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
-      "primary_url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
-      "source": "Slashdot",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "6d52570d503fcabdbc87b76760d586a2bea816ab",
-          "title": "Anthropic 首席执行官 Dario Amodei 呼吁放慢人工智能速度 / Anthropic CEO Dario Amodei Calls For AI Slowdown",
-          "url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T01:00:00Z"
-        },
-        {
-          "id": "939dd9ee8507e1e147b22ed962e594468aa13f5f",
-          "title": "人类首席执行官达里奥·阿莫代呼吁人工智能减速 / Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
-          "url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
-          "source": "NYTimes (纽约时报热榜)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T00:15:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "NYTimes (纽约时报热榜)",
-        "Slashdot"
-      ],
-      "items": [
-        {
-          "id": "6d52570d503fcabdbc87b76760d586a2bea816ab",
-          "title": "Anthropic 首席执行官 Dario Amodei 呼吁放慢人工智能速度 / Anthropic CEO Dario Amodei Calls For AI Slowdown",
-          "url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T01:00:00Z"
-        },
-        {
-          "id": "939dd9ee8507e1e147b22ed962e594468aa13f5f",
-          "title": "人类首席执行官达里奥·阿莫代呼吁人工智能减速 / Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
-          "url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
-          "source": "NYTimes (纽约时报热榜)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T00:15:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5005,
-      "importance": 0.5005,
-      "importance_score": 0.5005,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7484,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T00:15:54Z",
-      "latest_at": "2026-09-13T01:00:00Z",
-      "primary_item": {
-        "id": "6d52570d503fcabdbc87b76760d586a2bea816ab",
-        "title": "Anthropic 首席执行官 Dario Amodei 呼吁放慢人工智能速度 / Anthropic CEO Dario Amodei Calls For AI Slowdown",
-        "url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
-        "source": "Slashdot",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_7528306ec91b",
-      "title": "育儿博主曝光 Meta AI 可抓取日常数据汇总生成隐私家庭信息，官方紧急修复",
-      "url": "https://www.ithome.com/1/001/685.htm",
-      "primary_url": "https://www.ithome.com/1/001/685.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "051da9b38dcaccf6c22e0265fe008adec256a6ca",
-          "title": "育儿博主曝光 Meta AI 可抓取日常数据汇总生成隐私家庭信息，官方紧急修复",
-          "url": "https://www.ithome.com/1/001/685.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1244772aeac55e80158cc4780b2ecc460b7cdf78",
-          "title": "育儿博主曝光 Meta AI 可抓取日常数据“汇总生成隐私家庭信息”，官方紧急修复",
-          "url": "https://www.ithome.com/1/001/685.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T23:40:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "051da9b38dcaccf6c22e0265fe008adec256a6ca",
-          "title": "育儿博主曝光 Meta AI 可抓取日常数据汇总生成隐私家庭信息，官方紧急修复",
-          "url": "https://www.ithome.com/1/001/685.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1244772aeac55e80158cc4780b2ecc460b7cdf78",
-          "title": "育儿博主曝光 Meta AI 可抓取日常数据“汇总生成隐私家庭信息”，官方紧急修复",
-          "url": "https://www.ithome.com/1/001/685.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T23:40:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4989,
-      "importance": 0.4989,
-      "importance_score": 0.4989,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7396,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T23:40:32Z",
-      "latest_at": "2026-09-13T00:10:38.313864Z",
-      "primary_item": {
-        "id": "051da9b38dcaccf6c22e0265fe008adec256a6ca",
-        "title": "育儿博主曝光 Meta AI 可抓取日常数据汇总生成隐私家庭信息，官方紧急修复",
-        "url": "https://www.ithome.com/1/001/685.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
