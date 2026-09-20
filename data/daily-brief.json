@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-09-20T17:36:40.884441Z",
+  "generated_at": "2026-09-20T20:38:04.096122Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_dc8b1f74b838",
-      "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "story_id": "story_c14c68917721",
+      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "primary_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "34e7b5ab86917cef138ec6aa4edbe0dad8b9c08e",
-          "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-19T23:58:19.151000Z"
+          "published_at": "2026-09-20T18:05:38.317000Z"
         },
         {
-          "id": "d8ca7c66fdf0de89083765a6bd0fa4d72bcd54ab",
-          "title": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-          "source": "www.tomshardware.com",
+          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
+          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "www.buchodi.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-19T23:58:19.151000Z"
+          "published_at": "2026-09-20T18:05:38.317000Z"
         },
         {
-          "id": "db0a741db6728ddf6a35dfb6c2ac2c45b97669c6",
-          "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用 / Microsoft director: AI scraping 'the largest theft of labor in human history'",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-19T18:21:30Z"
+          "id": "4b57c8fb05258bd4822a5db427680cde377eb344",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T17:43:10Z"
         },
         {
-          "id": "9b707e023bfb6980eadf5a2eba935d9f3c00ede9",
-          "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
-          "url": "https://news.ycombinator.com/item?id=49768921",
+          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
+          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
+          "url": "https://news.ycombinator.com/item?id=49776729",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-19T18:21:30Z"
+          "published_at": "2026-09-20T15:18:44Z"
         }
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Lobsters (技术社区)",
         "hackernews",
-        "www.tomshardware.com"
+        "www.buchodi.com"
       ],
       "items": [
         {
-          "id": "34e7b5ab86917cef138ec6aa4edbe0dad8b9c08e",
-          "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-19T23:58:19.151000Z"
+          "published_at": "2026-09-20T18:05:38.317000Z"
         },
         {
-          "id": "d8ca7c66fdf0de89083765a6bd0fa4d72bcd54ab",
-          "title": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-          "source": "www.tomshardware.com",
+          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
+          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "www.buchodi.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-19T23:58:19.151000Z"
+          "published_at": "2026-09-20T18:05:38.317000Z"
         },
         {
-          "id": "db0a741db6728ddf6a35dfb6c2ac2c45b97669c6",
-          "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用 / Microsoft director: AI scraping 'the largest theft of labor in human history'",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-19T18:21:30Z"
+          "id": "4b57c8fb05258bd4822a5db427680cde377eb344",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T17:43:10Z"
         },
         {
-          "id": "9b707e023bfb6980eadf5a2eba935d9f3c00ede9",
-          "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
-          "url": "https://news.ycombinator.com/item?id=49768921",
+          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
+          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
+          "url": "https://news.ycombinator.com/item?id=49776729",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-19T18:21:30Z"
+          "published_at": "2026-09-20T15:18:44Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8171,
-      "importance": 0.8171,
-      "importance_score": 0.8171,
+      "score": 0.8481,
+      "importance": 0.8481,
+      "importance_score": 0.8481,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7751,
+        "recency": 0.964,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -112,12 +112,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-19T18:21:30Z",
-      "latest_at": "2026-09-19T23:58:19.151000Z",
+      "earliest_at": "2026-09-20T15:18:44Z",
+      "latest_at": "2026-09-20T18:05:38.317000Z",
       "primary_item": {
-        "id": "34e7b5ab86917cef138ec6aa4edbe0dad8b9c08e",
-        "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+        "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+        "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
@@ -149,18 +149,27 @@
           "published_at": "2026-09-20T14:40:14.401000Z"
         },
         {
-          "id": "01966d29e917cd153e00cd550d8728eb60f8fe1e",
+          "id": "9f5e3621a5271eb86e036a8d0a08c719b98c9ba1",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen Image 2.1",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T13:09:25Z"
+        },
+        {
+          "id": "aab421d5ea2118e7efff30044fa8b9703ebea7d6",
           "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1: Compact, efficient, and unified image creation",
           "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-20T13:09:25Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Qwen：Blog Retrieval（API）",
         "qwen.ai"
       ],
@@ -184,27 +193,36 @@
           "published_at": "2026-09-20T14:40:14.401000Z"
         },
         {
-          "id": "01966d29e917cd153e00cd550d8728eb60f8fe1e",
+          "id": "9f5e3621a5271eb86e036a8d0a08c719b98c9ba1",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen Image 2.1",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T13:09:25Z"
+        },
+        {
+          "id": "aab421d5ea2118e7efff30044fa8b9703ebea7d6",
           "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1: Compact, efficient, and unified image creation",
           "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-20T13:09:25Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8036,
-      "importance": 0.8036,
-      "importance_score": 0.8036,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8215,
+      "importance": 0.8215,
+      "importance_score": 0.8215,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9222,
-        "story_heat": 0.5
+        "recency": 0.8828,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
@@ -276,15 +294,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8961,
+        "recency": 0.8578,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -338,15 +356,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9475,
+        "recency": 0.907,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -417,15 +435,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8961,
+        "recency": 0.8578,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -442,6 +460,87 @@
         "url": "https://www.aibase.com/news/31201",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dc8b1f74b838",
+      "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "34e7b5ab86917cef138ec6aa4edbe0dad8b9c08e",
+          "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-19T23:58:19.151000Z"
+        },
+        {
+          "id": "d8ca7c66fdf0de89083765a6bd0fa4d72bcd54ab",
+          "title": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "www.tomshardware.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T23:58:19.151000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.tomshardware.com"
+      ],
+      "items": [
+        {
+          "id": "34e7b5ab86917cef138ec6aa4edbe0dad8b9c08e",
+          "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-19T23:58:19.151000Z"
+        },
+        {
+          "id": "d8ca7c66fdf0de89083765a6bd0fa4d72bcd54ab",
+          "title": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "www.tomshardware.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T23:58:19.151000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.742,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-19T23:58:19.151000Z",
+      "latest_at": "2026-09-19T23:58:19.151000Z",
+      "primary_item": {
+        "id": "34e7b5ab86917cef138ec6aa4edbe0dad8b9c08e",
+        "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -498,15 +597,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8961,
+        "recency": 0.8578,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -523,6 +622,211 @@
         "url": "https://www.aibase.com/news/31203",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-09-20",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "cd7ee9459a646148a7117f5f7e8cb8a44d011578",
+          "title": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-20T20:38:04.096122Z"
+        },
+        {
+          "id": "24e982dcfea31d62a0cc733438475777db3af0b4",
+          "title": "宝玉用 GPT 6 Astra 做了 3D 版《桃花源记》，把原文拆成 20 幕，从坐船入桃林到进村做客、辞别离开，都做成可交互网页体验。更值得看的是完整流程：用提示词约束文学理解、空间连通和叙事镜头，再用真人朗诵＋SRT 做时间同步，最后交给 Codex 拆资源、换环境音、压缩文件。你也可以直接复用这套思路，把文本变成能“循文入境”的作品。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-20T20:38:04.096122Z"
+        },
+        {
+          "id": "a5308e8f13ab9f3c877e6f0de5f8953822456b9c",
+          "title": "本周精选的10篇论文，覆盖了几个很值得关注的方向：字节级模型重新挑战分词器，Agent Harness 开始自动优化成本，LLM Judge 评估暴露偏差，Bash 工具接口反而赢过复杂类型化工具，还有企业模型训练、安全攻击、多智能体选型和实时评测方法。做 Agent、模型应用和 AI 基础设施的，可以快速扫到本周最值得深挖的研究线索。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-20T20:38:04.096122Z"
+        },
+        {
+          "id": "71525edee0accab8f61e7eef3e62c9e731896a81",
+          "title": "这篇文章带你复现Jev风格的LLM决策能力，不用训练，借助SGLang的打分接口，就能在本地开源模型上实现选项概率输出。它区分了打分机制与结构化输出的本质差异，给出完整可跑Python代码，还做了基准对比。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-20T20:38:04.096122Z"
+        },
+        {
+          "id": "3a285cdf868234059297077601a1dcca69f67838",
+          "title": "Jev 发布不到一周，网上已经满是“快 200 倍”“永不出错”“LLM 要被取代”。作者这篇文章只做三件事：说清 Jev 是什么、不是什么；把真正跑通的案例按用途分类；把水分讲明白。想追 Jev 热点前，建议先读这份清醒清单。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-19T21:39:18.746252Z"
+        },
+        {
+          "id": "2d0e779ffecc5ef99e1dabba68b5a764caf73983",
+          "title": "如果你还把 AI 创业理解成“做个 Agent 应用”，可能就有点落后了。作者梳理了 YC 2026 夏季批次 236 家公司：AI 相关仍占 91%，但应用层比例下降，算力、芯片、数据中心、训练环境、推理成本、机器人和工业方向明显升温。更有意思的是，一批 AI-native firm 不再只卖软件，而是亲自完成会计、保险、医疗、物流等工作并按结果收费。来一起看看下一个机会到底在应用包装，还是在更难被复制的基础设施和真实业务里。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-19T21:39:18.746252Z"
+        },
+        {
+          "id": "e43402f14249ce5749e0b2edc088e078aaa1912a",
+          "title": "想把陌生领域的方法论做成 Skill，最难的常常不是写规则，而是不知道该从哪本靠谱的知识源开始。卡尔分享了一个很实用的 QBS 方法：先把问题说清楚，让 GPT-6 找到能解决问题的书，阅读相关章节，再把方法提炼成可执行 Skill，并用新场景试跑验证。可以上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-19T21:39:18.746252Z"
+        },
+        {
+          "id": "fc7e6a27150e5ade9d79148b55a32834de0fbb9a",
+          "title": "我们一直把大语言模型（LLM）当作解决所有 AI 问题的万能锤子，即便是简单的决策也是如此。Jev 能在毫秒级处理这些决策，成本仅为传统方法的一小部分。让我们来理解它的工作原理及其适用场景。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-19T21:39:18.746252Z"
+        },
+        {
+          "id": "615dffdbcd9630391c6d0241fe28e3184003d6cb",
+          "title": "这篇把 Trading Agent 拆成一条量化流水线：扫描层找异常，推理层生成假设和回测脚本，证伪层用多重检验、滑点手续费、point-in-time 数据筛掉假策略，执行层只允许确定性代码和模拟盘。文中还梳理了统计套利、期权波动率、因子残差、内部人交易四类方向。想用 AI 做交易系统、策略研究或风控自动化的，建议先看看这套“先证伪，再自动化”的工程思路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-19T21:39:18.746252Z"
+        }
+      ],
+      "source_count": 9,
+      "source_names": [
+        "社区更新 · 2026-09-19",
+        "社区更新 · 2026-09-20"
+      ],
+      "items": [
+        {
+          "id": "cd7ee9459a646148a7117f5f7e8cb8a44d011578",
+          "title": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-20T20:38:04.096122Z"
+        },
+        {
+          "id": "24e982dcfea31d62a0cc733438475777db3af0b4",
+          "title": "宝玉用 GPT 6 Astra 做了 3D 版《桃花源记》，把原文拆成 20 幕，从坐船入桃林到进村做客、辞别离开，都做成可交互网页体验。更值得看的是完整流程：用提示词约束文学理解、空间连通和叙事镜头，再用真人朗诵＋SRT 做时间同步，最后交给 Codex 拆资源、换环境音、压缩文件。你也可以直接复用这套思路，把文本变成能“循文入境”的作品。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-20T20:38:04.096122Z"
+        },
+        {
+          "id": "a5308e8f13ab9f3c877e6f0de5f8953822456b9c",
+          "title": "本周精选的10篇论文，覆盖了几个很值得关注的方向：字节级模型重新挑战分词器，Agent Harness 开始自动优化成本，LLM Judge 评估暴露偏差，Bash 工具接口反而赢过复杂类型化工具，还有企业模型训练、安全攻击、多智能体选型和实时评测方法。做 Agent、模型应用和 AI 基础设施的，可以快速扫到本周最值得深挖的研究线索。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-20T20:38:04.096122Z"
+        },
+        {
+          "id": "71525edee0accab8f61e7eef3e62c9e731896a81",
+          "title": "这篇文章带你复现Jev风格的LLM决策能力，不用训练，借助SGLang的打分接口，就能在本地开源模型上实现选项概率输出。它区分了打分机制与结构化输出的本质差异，给出完整可跑Python代码，还做了基准对比。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-20T20:38:04.096122Z"
+        },
+        {
+          "id": "3a285cdf868234059297077601a1dcca69f67838",
+          "title": "Jev 发布不到一周，网上已经满是“快 200 倍”“永不出错”“LLM 要被取代”。作者这篇文章只做三件事：说清 Jev 是什么、不是什么；把真正跑通的案例按用途分类；把水分讲明白。想追 Jev 热点前，建议先读这份清醒清单。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-19T21:39:18.746252Z"
+        },
+        {
+          "id": "2d0e779ffecc5ef99e1dabba68b5a764caf73983",
+          "title": "如果你还把 AI 创业理解成“做个 Agent 应用”，可能就有点落后了。作者梳理了 YC 2026 夏季批次 236 家公司：AI 相关仍占 91%，但应用层比例下降，算力、芯片、数据中心、训练环境、推理成本、机器人和工业方向明显升温。更有意思的是，一批 AI-native firm 不再只卖软件，而是亲自完成会计、保险、医疗、物流等工作并按结果收费。来一起看看下一个机会到底在应用包装，还是在更难被复制的基础设施和真实业务里。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-19T21:39:18.746252Z"
+        },
+        {
+          "id": "e43402f14249ce5749e0b2edc088e078aaa1912a",
+          "title": "想把陌生领域的方法论做成 Skill，最难的常常不是写规则，而是不知道该从哪本靠谱的知识源开始。卡尔分享了一个很实用的 QBS 方法：先把问题说清楚，让 GPT-6 找到能解决问题的书，阅读相关章节，再把方法提炼成可执行 Skill，并用新场景试跑验证。可以上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-19T21:39:18.746252Z"
+        },
+        {
+          "id": "fc7e6a27150e5ade9d79148b55a32834de0fbb9a",
+          "title": "我们一直把大语言模型（LLM）当作解决所有 AI 问题的万能锤子，即便是简单的决策也是如此。Jev 能在毫秒级处理这些决策，成本仅为传统方法的一小部分。让我们来理解它的工作原理及其适用场景。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-19T21:39:18.746252Z"
+        },
+        {
+          "id": "615dffdbcd9630391c6d0241fe28e3184003d6cb",
+          "title": "这篇把 Trading Agent 拆成一条量化流水线：扫描层找异常，推理层生成假设和回测脚本，证伪层用多重检验、滑点手续费、point-in-time 数据筛掉假策略，执行层只允许确定性代码和模拟盘。文中还梳理了统计套利、期权波动率、因子残差、内部人交易四类方向。想用 AI 做交易系统、策略研究或风控自动化的，建议先看看这套“先证伪，再自动化”的工程思路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-19T21:39:18.746252Z"
+        }
+      ],
+      "item_count": 9,
+      "duplicate_count": 9,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T21:39:18.746252Z",
+      "latest_at": "2026-09-20T20:38:04.096122Z",
+      "primary_item": {
+        "id": "cd7ee9459a646148a7117f5f7e8cb8a44d011578",
+        "title": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-09-20",
+        "source_name": "WaytoAGI"
       }
     },
     {
@@ -579,15 +883,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8368,
+        "recency": 0.8011,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -660,15 +964,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8368,
+        "recency": 0.8011,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -688,135 +992,81 @@
       }
     },
     {
-      "story_id": "story_2df82173bb28",
-      "title": "如果你还把 AI 创业理解成“做个 Agent 应用”，可能就有点落后了。作者梳理了 YC 2026 夏季批次 236 家公司：AI 相关仍占 91%，但应用层比例下降，算力、芯片、数据中心、训练环境、推理成本、机器人和工业方向明显升温。更有意思的是，一批 AI-native firm 不再只卖软件，而是亲自完成会计、保险、医疗、物流等工作并按结果收费。来一起看看下一个机会到底在应用包装，还是在更难被复制的基础设施和真实业务里。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-09-19",
-      "source_name": "WaytoAGI",
+      "story_id": "story_cb03d7f13be9",
+      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "source": "The Verge",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "3a285cdf868234059297077601a1dcca69f67838",
-          "title": "Jev 发布不到一周，网上已经满是“快 200 倍”“永不出错”“LLM 要被取代”。作者这篇文章只做三件事：说清 Jev 是什么、不是什么；把真正跑通的案例按用途分类；把水分讲明白。想追 Jev 热点前，建议先读这份清醒清单。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-19T21:39:18.746252Z"
+          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
+          "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T18:50:18Z"
         },
         {
-          "id": "2d0e779ffecc5ef99e1dabba68b5a764caf73983",
-          "title": "如果你还把 AI 创业理解成“做个 Agent 应用”，可能就有点落后了。作者梳理了 YC 2026 夏季批次 236 家公司：AI 相关仍占 91%，但应用层比例下降，算力、芯片、数据中心、训练环境、推理成本、机器人和工业方向明显升温。更有意思的是，一批 AI-native firm 不再只卖软件，而是亲自完成会计、保险、医疗、物流等工作并按结果收费。来一起看看下一个机会到底在应用包装，还是在更难被复制的基础设施和真实业务里。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-19T21:39:18.746252Z"
-        },
-        {
-          "id": "e43402f14249ce5749e0b2edc088e078aaa1912a",
-          "title": "想把陌生领域的方法论做成 Skill，最难的常常不是写规则，而是不知道该从哪本靠谱的知识源开始。卡尔分享了一个很实用的 QBS 方法：先把问题说清楚，让 GPT-6 找到能解决问题的书，阅读相关章节，再把方法提炼成可执行 Skill，并用新场景试跑验证。可以上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-19T21:39:18.746252Z"
-        },
-        {
-          "id": "fc7e6a27150e5ade9d79148b55a32834de0fbb9a",
-          "title": "我们一直把大语言模型（LLM）当作解决所有 AI 问题的万能锤子，即便是简单的决策也是如此。Jev 能在毫秒级处理这些决策，成本仅为传统方法的一小部分。让我们来理解它的工作原理及其适用场景。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-19T21:39:18.746252Z"
-        },
-        {
-          "id": "615dffdbcd9630391c6d0241fe28e3184003d6cb",
-          "title": "这篇把 Trading Agent 拆成一条量化流水线：扫描层找异常，推理层生成假设和回测脚本，证伪层用多重检验、滑点手续费、point-in-time 数据筛掉假策略，执行层只允许确定性代码和模拟盘。文中还梳理了统计套利、期权波动率、因子残差、内部人交易四类方向。想用 AI 做交易系统、策略研究或风控自动化的，建议先看看这套“先证伪，再自动化”的工程思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-19T21:39:18.746252Z"
+          "id": "4c2db2373e60e802256489099a61485b7afa431a",
+          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T18:50:18Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 2,
       "source_names": [
-        "社区更新 · 2026-09-19"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "3a285cdf868234059297077601a1dcca69f67838",
-          "title": "Jev 发布不到一周，网上已经满是“快 200 倍”“永不出错”“LLM 要被取代”。作者这篇文章只做三件事：说清 Jev 是什么、不是什么；把真正跑通的案例按用途分类；把水分讲明白。想追 Jev 热点前，建议先读这份清醒清单。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-19T21:39:18.746252Z"
+          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
+          "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T18:50:18Z"
         },
         {
-          "id": "2d0e779ffecc5ef99e1dabba68b5a764caf73983",
-          "title": "如果你还把 AI 创业理解成“做个 Agent 应用”，可能就有点落后了。作者梳理了 YC 2026 夏季批次 236 家公司：AI 相关仍占 91%，但应用层比例下降，算力、芯片、数据中心、训练环境、推理成本、机器人和工业方向明显升温。更有意思的是，一批 AI-native firm 不再只卖软件，而是亲自完成会计、保险、医疗、物流等工作并按结果收费。来一起看看下一个机会到底在应用包装，还是在更难被复制的基础设施和真实业务里。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-19T21:39:18.746252Z"
-        },
-        {
-          "id": "e43402f14249ce5749e0b2edc088e078aaa1912a",
-          "title": "想把陌生领域的方法论做成 Skill，最难的常常不是写规则，而是不知道该从哪本靠谱的知识源开始。卡尔分享了一个很实用的 QBS 方法：先把问题说清楚，让 GPT-6 找到能解决问题的书，阅读相关章节，再把方法提炼成可执行 Skill，并用新场景试跑验证。可以上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-19T21:39:18.746252Z"
-        },
-        {
-          "id": "fc7e6a27150e5ade9d79148b55a32834de0fbb9a",
-          "title": "我们一直把大语言模型（LLM）当作解决所有 AI 问题的万能锤子，即便是简单的决策也是如此。Jev 能在毫秒级处理这些决策，成本仅为传统方法的一小部分。让我们来理解它的工作原理及其适用场景。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-19T21:39:18.746252Z"
-        },
-        {
-          "id": "615dffdbcd9630391c6d0241fe28e3184003d6cb",
-          "title": "这篇把 Trading Agent 拆成一条量化流水线：扫描层找异常，推理层生成假设和回测脚本，证伪层用多重检验、滑点手续费、point-in-time 数据筛掉假策略，执行层只允许确定性代码和模拟盘。文中还梳理了统计套利、期权波动率、因子残差、内部人交易四类方向。想用 AI 做交易系统、策略研究或风控自动化的，建议先看看这套“先证伪，再自动化”的工程思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-19T21:39:18.746252Z"
+          "id": "4c2db2373e60e802256489099a61485b7afa431a",
+          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T18:50:18Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6408,
-      "importance": 0.6408,
-      "importance_score": 0.6408,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6109,
+      "importance": 0.6109,
+      "importance_score": 0.6109,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.4968,
-        "source_tier": 0.54,
-        "ai_relevance": 0.69,
-        "recency": 0.7496,
-        "story_heat": 1.0
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9744,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-19T21:39:18.746252Z",
-      "latest_at": "2026-09-19T21:39:18.746252Z",
+      "earliest_at": "2026-09-20T18:50:18Z",
+      "latest_at": "2026-09-20T18:50:18Z",
       "primary_item": {
-        "id": "2d0e779ffecc5ef99e1dabba68b5a764caf73983",
-        "title": "如果你还把 AI 创业理解成“做个 Agent 应用”，可能就有点落后了。作者梳理了 YC 2026 夏季批次 236 家公司：AI 相关仍占 91%，但应用层比例下降，算力、芯片、数据中心、训练环境、推理成本、机器人和工业方向明显升温。更有意思的是，一批 AI-native firm 不再只卖软件，而是亲自完成会计、保险、医疗、物流等工作并按结果收费。来一起看看下一个机会到底在应用包装，还是在更难被复制的基础设施和真实业务里。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-09-19",
-        "source_name": "WaytoAGI"
+        "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
+        "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -873,15 +1123,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8368,
+        "recency": 0.8011,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -898,85 +1148,6 @@
         "url": "https://www.aibase.com/news/31188",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6cd029fa2ffe",
-      "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-      "primary_url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
-          "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-19T19:57:47Z"
-        },
-        {
-          "id": "9c9aded36e1ae0b6ae6bde1e2de0d646be86958f",
-          "title": "特朗普建议用新名称重新命名人工智能，并表示他还将创建一支人工智能部队 / Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T19:57:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
-          "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-19T19:57:47Z"
-        },
-        {
-          "id": "9c9aded36e1ae0b6ae6bde1e2de0d646be86958f",
-          "title": "特朗普建议用新名称重新命名人工智能，并表示他还将创建一支人工智能部队 / Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T19:57:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6004,
-      "importance": 0.6004,
-      "importance_score": 0.6004,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7315,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T19:57:47Z",
-      "latest_at": "2026-09-19T19:57:47Z",
-      "primary_item": {
-        "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
-        "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-        "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
       }
     },
     {
@@ -1033,15 +1204,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8368,
+        "recency": 0.8011,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1133,15 +1304,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5694,
-      "importance": 0.5694,
-      "importance_score": 0.5694,
+      "score": 0.5617,
+      "importance": 0.5617,
+      "importance_score": 0.5617,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.992,
+        "recency": 0.9496,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1231,15 +1402,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.566,
-      "importance": 0.566,
-      "importance_score": 0.566,
+      "score": 0.5585,
+      "importance": 0.5585,
+      "importance_score": 0.5585,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9733,
+        "recency": 0.9317,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1274,12 +1445,12 @@
           "published_at": "2026-09-20T12:50:12.972000Z"
         },
         {
-          "id": "510bc5f41a64af0dcb1125f4de5b403c68eed0c3",
+          "id": "c3d6b1a7c9be9799bda91fd866e9e2214ea3f055",
           "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
           "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-20T10:07:51Z"
         },
         {
@@ -1294,7 +1465,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.chesterwisniewski.com"
       ],
@@ -1309,12 +1480,12 @@
           "published_at": "2026-09-20T12:50:12.972000Z"
         },
         {
-          "id": "510bc5f41a64af0dcb1125f4de5b403c68eed0c3",
+          "id": "c3d6b1a7c9be9799bda91fd866e9e2214ea3f055",
           "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
           "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-20T10:07:51Z"
         },
         {
@@ -1329,15 +1500,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5588,
-      "importance": 0.5588,
-      "importance_score": 0.5588,
+      "score": 0.5516,
+      "importance": 0.5516,
+      "importance_score": 0.5516,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9334,
+        "recency": 0.8935,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1408,15 +1579,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8368,
+        "recency": 0.8011,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1436,109 +1607,109 @@
       }
     },
     {
-      "story_id": "story_60f379c3b3ff",
-      "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-      "url": "https://softwarecrisis.dev/letters/llmentalist",
-      "primary_url": "https://softwarecrisis.dev/letters/llmentalist",
-      "source": "softwarecrisis.dev",
+      "story_id": "story_df407510d6b3",
+      "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
+      "url": "https://github.com/marciob/openmsg",
+      "primary_url": "https://github.com/marciob/openmsg",
+      "source": "github.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "softwarecrisis.dev",
+          "id": "d0cc68106b560836c0498079914fb9e186255f6a",
+          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
+          "url": "https://github.com/marciob/openmsg",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-20T15:28:23.669000Z"
+          "published_at": "2026-09-20T20:25:27.018000Z"
         },
         {
-          "id": "e833e45361cefdae5e3786311631db75df845e8d",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T12:20:13Z"
+          "id": "a4c32f8fc2ab4ffd6259d09474f59c31b8f2ae7d",
+          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode / Show HN: Openmsg, agent-to-agent talk while they run, Claude<>Codex<>OpenCode",
+          "url": "https://github.com/marciob/openmsg",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-20T20:10:39Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "softwarecrisis.dev"
+        "HN Algolia · AI 24h",
+        "github.com"
       ],
       "items": [
         {
-          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "softwarecrisis.dev",
+          "id": "d0cc68106b560836c0498079914fb9e186255f6a",
+          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
+          "url": "https://github.com/marciob/openmsg",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-20T15:28:23.669000Z"
+          "published_at": "2026-09-20T20:25:27.018000Z"
         },
         {
-          "id": "e833e45361cefdae5e3786311631db75df845e8d",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T12:20:13Z"
+          "id": "a4c32f8fc2ab4ffd6259d09474f59c31b8f2ae7d",
+          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode / Show HN: Openmsg, agent-to-agent talk while they run, Claude<>Codex<>OpenCode",
+          "url": "https://github.com/marciob/openmsg",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-20T20:10:39Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9696,
+        "recency": 0.997,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-20T12:20:13Z",
-      "latest_at": "2026-09-20T15:28:23.669000Z",
+      "earliest_at": "2026-09-20T20:10:39Z",
+      "latest_at": "2026-09-20T20:25:27.018000Z",
       "primary_item": {
-        "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
-        "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-        "url": "https://softwarecrisis.dev/letters/llmentalist",
-        "source": "softwarecrisis.dev",
+        "id": "d0cc68106b560836c0498079914fb9e186255f6a",
+        "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
+        "url": "https://github.com/marciob/openmsg",
+        "source": "github.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_81b3da03dd64",
-      "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "primary_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "story_id": "story_ef6362531a2e",
+      "title": "Why MCP Was Always a Bad Idea",
+      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+      "primary_url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
       "source": "Hacker News",
       "source_name": "TechURLs",
       "sources": [
         {
-          "id": "ab4dd49f01223a9b4cce0964a27827350d8692f4",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+          "title": "Why MCP Was Always a Bad Idea",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-20T15:18:44Z"
+          "published_at": "2026-09-20T19:44:40Z"
         },
         {
-          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "url": "https://news.ycombinator.com/item?id=49776729",
+          "id": "2149610d8f15e4ea172f60188b1af67746f92c92",
+          "title": "Why MCP Was Always a Bad Idea",
+          "url": "https://news.ycombinator.com/item?id=49779329",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-20T15:18:44Z"
+          "published_at": "2026-09-20T19:44:40Z"
         }
       ],
       "source_count": 2,
@@ -1548,205 +1719,127 @@
       ],
       "items": [
         {
-          "id": "ab4dd49f01223a9b4cce0964a27827350d8692f4",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+          "title": "Why MCP Was Always a Bad Idea",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-20T15:18:44Z"
+          "published_at": "2026-09-20T19:44:40Z"
         },
         {
-          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "url": "https://news.ycombinator.com/item?id=49776729",
+          "id": "2149610d8f15e4ea172f60188b1af67746f92c92",
+          "title": "Why MCP Was Always a Bad Idea",
+          "url": "https://news.ycombinator.com/item?id=49779329",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-20T15:18:44Z"
+          "published_at": "2026-09-20T19:44:40Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9673,
+        "recency": 0.9872,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-20T15:18:44Z",
-      "latest_at": "2026-09-20T15:18:44Z",
+      "earliest_at": "2026-09-20T19:44:40Z",
+      "latest_at": "2026-09-20T19:44:40Z",
       "primary_item": {
-        "id": "ab4dd49f01223a9b4cce0964a27827350d8692f4",
-        "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+        "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+        "title": "Why MCP Was Always a Bad Idea",
+        "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
         "source": "Hacker News",
         "source_name": "TechURLs"
       }
     },
     {
-      "story_id": "story_6e9a00bdff8c",
-      "title": "人类学/金融服务 / anthropics / financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "primary_url": "https://github.com/anthropics/financial-services",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "a81c4ba315c0731bb4afdb4c8f9bffac26d8c349",
-          "title": "人类学/金融服务 / anthropics / financial-services",
-          "url": "https://github.com/anthropics/financial-services",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c4d0dbdf230889f7d8c7162f0145632c019b0eec",
-          "title": "人类学/金融服务 / anthropics /      financial-services",
-          "url": "https://github.com/anthropics/financial-services",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T14:01:22.428000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "a81c4ba315c0731bb4afdb4c8f9bffac26d8c349",
-          "title": "人类学/金融服务 / anthropics / financial-services",
-          "url": "https://github.com/anthropics/financial-services",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c4d0dbdf230889f7d8c7162f0145632c019b0eec",
-          "title": "人类学/金融服务 / anthropics /      financial-services",
-          "url": "https://github.com/anthropics/financial-services",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T14:01:22.428000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9535,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T14:01:22.428000Z",
-      "latest_at": "2026-09-20T14:18:58.045847Z",
-      "primary_item": {
-        "id": "a81c4ba315c0731bb4afdb4c8f9bffac26d8c349",
-        "title": "人类学/金融服务 / anthropics / financial-services",
-        "url": "https://github.com/anthropics/financial-services",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_26586092ac59",
-      "title": "诉讼称，Anthropic、OpenAI、SpaceXAI和谷歌就放缓人工智能发展达成非法协议 - PBS",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM004SUlSWllLZDZJYVJFUnpDek0tb25KZ2I3S0UtRWl0NXRIeHpWblkxakRuT2ZOV1llSGEwNHNmQm5jSGZHbjZYd0V4OFNCMmZNSzMxck5tbUV6Wm4wM1lGeFVIZVhleHFWWWpCWUtGOUtqdVFKYVlYcHFlQWk4a3pPNEtWVHNia1VJNzZOMFlTdHE1QnpVSE5rQVNFSmpFelhBeExDRFZFMjVQUEdOS2VoZ3U4U1hwM0FqQzE1bjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM004SUlSWllLZDZJYVJFUnpDek0tb25KZ2I3S0UtRWl0NXRIeHpWblkxakRuT2ZOV1llSGEwNHNmQm5jSGZHbjZYd0V4OFNCMmZNSzMxck5tbUV6Wm4wM1lGeFVIZVhleHFWWWpCWUtGOUtqdVFKYVlYcHFlQWk4a3pPNEtWVHNia1VJNzZOMFlTdHE1QnpVSE5rQVNFSmpFelhBeExDRFZFMjVQUEdOS2VoZ3U4U1hwM0FqQzE1bjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
+      "story_id": "story_bb4fbf2e9746",
+      "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心”",
+      "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
+      "primary_url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
+      "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "9837404c625ca16399a2264d0df4ae1cb15c0d4c",
-          "title": "诉讼称，Anthropic、OpenAI、SpaceXAI和谷歌就放缓人工智能发展达成非法协议 - PBS",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM004SUlSWllLZDZJYVJFUnpDek0tb25KZ2I3S0UtRWl0NXRIeHpWblkxakRuT2ZOV1llSGEwNHNmQm5jSGZHbjZYd0V4OFNCMmZNSzMxck5tbUV6Wm4wM1lGeFVIZVhleHFWWWpCWUtGOUtqdVFKYVlYcHFlQWk4a3pPNEtWVHNia1VJNzZOMFlTdHE1QnpVSE5rQVNFSmpFelhBeExDRFZFMjVQUEdOS2VoZ3U4U1hwM0FqQzE1bjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
+          "id": "ca6e4df44e87e07f1311885613987efb2205a158",
+          "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心”",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-20T12:19:27.784000Z"
+          "published_at": "2026-09-20T19:38:16.749000Z"
         },
         {
-          "id": "26789a19bbadd03679aa2221861335892c3282a5",
-          "title": "诉讼称，Anthropic、OpenAI、SpaceXAI和谷歌就放缓人工智能发展达成了非法协议 - abcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUQ2b2EtNnVIUWU5YlJwMEVkXzBHQzZJaTZvN2wzQ3kwMDVnQlpjd1VDY2xPLWFBV1JURFNFV29ZQTU1WWhaZ0Y1UzBTYW1yb2RsZXhQaTd6cmhQWk5OeWdNSjc3ekZYaDBCT3hwM0VrZ1Z2Wm9VdktYUUU4azExWmR4OE1NRXBoUkxiUkZ4MXdOOU9iZllxM1k5N3RBTW0wWk9DRnNOa2Ywc0dmWWgtalNudTDSAboBQVVfeXFMTTRMWDkydU5KWmppbDJDckFmQmdHSkdWXy1LRjZtX0ZKTmNfWmVvSDhXQmgyV1h1WDFLR0g4emVRcXp2ODdRTnk3VTNUREo5aHd4M0pTdnVMSUlFOVBBOVJ2aGlmV1RxX1FHem1SS291MDFET0NaM3NDeWtrYURoOTkyNUx4SU5rU3c2cjk0Slc2Z2NiYlJEOWc0UE9DWVI0VnZONjB3WEhxVFNpT1ZIQTRlSk5Yd2lDN2ZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T07:19:35.279000Z"
+          "id": "243d66521b28cc5a360de1439b511103c2b3e91a",
+          "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心” / Nvidia's Jensen Huang says AI CEOs have 'ulterior reasons' for warning about doomsday",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T19:17:13Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "news.google.com"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "9837404c625ca16399a2264d0df4ae1cb15c0d4c",
-          "title": "诉讼称，Anthropic、OpenAI、SpaceXAI和谷歌就放缓人工智能发展达成非法协议 - PBS",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM004SUlSWllLZDZJYVJFUnpDek0tb25KZ2I3S0UtRWl0NXRIeHpWblkxakRuT2ZOV1llSGEwNHNmQm5jSGZHbjZYd0V4OFNCMmZNSzMxck5tbUV6Wm4wM1lGeFVIZVhleHFWWWpCWUtGOUtqdVFKYVlYcHFlQWk4a3pPNEtWVHNia1VJNzZOMFlTdHE1QnpVSE5rQVNFSmpFelhBeExDRFZFMjVQUEdOS2VoZ3U4U1hwM0FqQzE1bjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
+          "id": "ca6e4df44e87e07f1311885613987efb2205a158",
+          "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心”",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-20T12:19:27.784000Z"
+          "published_at": "2026-09-20T19:38:16.749000Z"
         },
         {
-          "id": "26789a19bbadd03679aa2221861335892c3282a5",
-          "title": "诉讼称，Anthropic、OpenAI、SpaceXAI和谷歌就放缓人工智能发展达成了非法协议 - abcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUQ2b2EtNnVIUWU5YlJwMEVkXzBHQzZJaTZvN2wzQ3kwMDVnQlpjd1VDY2xPLWFBV1JURFNFV29ZQTU1WWhaZ0Y1UzBTYW1yb2RsZXhQaTd6cmhQWk5OeWdNSjc3ekZYaDBCT3hwM0VrZ1Z2Wm9VdktYUUU4azExWmR4OE1NRXBoUkxiUkZ4MXdOOU9iZllxM1k5N3RBTW0wWk9DRnNOa2Ywc0dmWWgtalNudTDSAboBQVVfeXFMTTRMWDkydU5KWmppbDJDckFmQmdHSkdWXy1LRjZtX0ZKTmNfWmVvSDhXQmgyV1h1WDFLR0g4emVRcXp2ODdRTnk3VTNUREo5aHd4M0pTdnVMSUlFOVBBOVJ2aGlmV1RxX1FHem1SS291MDFET0NaM3NDeWtrYURoOTkyNUx4SU5rU3c2cjk0Slc2Z2NiYlJEOWc0UE9DWVI0VnZONjB3WEhxVFNpT1ZIQTRlSk5Yd2lDN2ZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T07:19:35.279000Z"
+          "id": "243d66521b28cc5a360de1439b511103c2b3e91a",
+          "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心” / Nvidia's Jensen Huang says AI CEOs have 'ulterior reasons' for warning about doomsday",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T19:17:13Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5326,
-      "importance": 0.5326,
-      "importance_score": 0.5326,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9265,
+        "recency": 0.9857,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-20T07:19:35.279000Z",
-      "latest_at": "2026-09-20T12:19:27.784000Z",
+      "earliest_at": "2026-09-20T19:17:13Z",
+      "latest_at": "2026-09-20T19:38:16.749000Z",
       "primary_item": {
-        "id": "9837404c625ca16399a2264d0df4ae1cb15c0d4c",
-        "title": "诉讼称，Anthropic、OpenAI、SpaceXAI和谷歌就放缓人工智能发展达成非法协议 - PBS",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM004SUlSWllLZDZJYVJFUnpDek0tb25KZ2I3S0UtRWl0NXRIeHpWblkxakRuT2ZOV1llSGEwNHNmQm5jSGZHbjZYd0V4OFNCMmZNSzMxck5tbUV6Wm4wM1lGeFVIZVhleHFWWWpCWUtGOUtqdVFKYVlYcHFlQWk4a3pPNEtWVHNia1VJNzZOMFlTdHE1QnpVSE5rQVNFSmpFelhBeExDRFZFMjVQUEdOS2VoZ3U4U1hwM0FqQzE1bjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
+        "id": "ca6e4df44e87e07f1311885613987efb2205a158",
+        "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心”",
+        "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
