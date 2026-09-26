@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T21:27:22.894852Z",
+  "generated_at": "2026-09-26T23:48:53.673699Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.818,
-      "importance": 0.818,
-      "importance_score": 0.818,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7336,
+        "recency": 0.709,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8164,
-      "importance": 0.8164,
-      "importance_score": 0.8164,
+      "score": 0.811,
+      "importance": 0.811,
+      "importance_score": 0.811,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8988,
+        "recency": 0.8687,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -147,82 +147,62 @@
       }
     },
     {
-      "story_id": "story_eb055a4409b6",
-      "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-      "url": "https://www.ithome.com/1/007/444.htm",
-      "primary_url": "https://www.ithome.com/1/007/444.htm",
+      "story_id": "story_5f69ca3f6ecb",
+      "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+      "url": "https://www.ithome.com/1/007/447.htm",
+      "primary_url": "https://www.ithome.com/1/007/447.htm",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
-          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "url": "https://www.ithome.com/1/007/444.htm",
+          "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
+          "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "url": "https://www.ithome.com/1/007/447.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-26T15:44:10Z"
-        },
-        {
-          "id": "1ebd21dbee1c41c2053f39d65a1cf59ce4b444c4",
-          "title": "Anthropic Claude 刷新物理学世界纪录：单挑基于杨振宁理论 9 圈难题",
-          "url": "https://www.ithome.com/1/007/444.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T15:44:10Z"
+          "published_at": "2026-09-26T23:12:53Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "IT之家 (ITHome)",
         "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
-          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "url": "https://www.ithome.com/1/007/444.htm",
+          "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
+          "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "url": "https://www.ithome.com/1/007/447.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-26T15:44:10Z"
-        },
-        {
-          "id": "1ebd21dbee1c41c2053f39d65a1cf59ce4b444c4",
-          "title": "Anthropic Claude 刷新物理学世界纪录：单挑基于杨振宁理论 9 圈难题",
-          "url": "https://www.ithome.com/1/007/444.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T15:44:10Z"
+          "published_at": "2026-09-26T23:12:53Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.808,
+      "importance": 0.808,
+      "importance_score": 0.808,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.8,
+        "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9207,
-        "story_heat": 0.25
+        "recency": 0.9914,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-26T15:44:10Z",
-      "latest_at": "2026-09-26T15:44:10Z",
+      "earliest_at": "2026-09-26T23:12:53Z",
+      "latest_at": "2026-09-26T23:12:53Z",
       "primary_item": {
-        "id": "9279fb40dd812920f93b7be74e145079d81085ab",
-        "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-        "url": "https://www.ithome.com/1/007/444.htm",
+        "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
+        "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+        "url": "https://www.ithome.com/1/007/447.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
@@ -281,15 +261,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
+      "score": 0.7972,
+      "importance": 0.7972,
+      "importance_score": 0.7972,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8367,
+        "recency": 0.8087,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -381,15 +361,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
+      "score": 0.7952,
+      "importance": 0.7952,
+      "importance_score": 0.7952,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7335,
+        "recency": 0.709,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -406,68 +386,6 @@
         "url": "https://swarmtraces.org",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_123d8dcecccf",
-      "title": "Enterprise managed settings in-product validator",
-      "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
-      "primary_url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
-          "title": "Enterprise managed settings in-product validator",
-          "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T23:24:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
-          "title": "Enterprise managed settings in-product validator",
-          "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T23:24:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7949,
-      "importance": 0.7949,
-      "importance_score": 0.7949,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7274,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T23:24:57Z",
-      "latest_at": "2026-09-25T23:24:57Z",
-      "primary_item": {
-        "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
-        "title": "Enterprise managed settings in-product validator",
-        "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -505,15 +423,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7745,
-      "importance": 0.7745,
-      "importance_score": 0.7745,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9383,
+        "recency": 0.9068,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -528,6 +446,87 @@
         "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
         "url": "https://x.com/arena/status/2103893011164017018",
         "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_eb055a4409b6",
+      "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+      "url": "https://www.ithome.com/1/007/444.htm",
+      "primary_url": "https://www.ithome.com/1/007/444.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
+          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "url": "https://www.ithome.com/1/007/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T15:44:10Z"
+        },
+        {
+          "id": "1ebd21dbee1c41c2053f39d65a1cf59ce4b444c4",
+          "title": "Anthropic Claude 刷新物理学世界纪录：单挑基于杨振宁理论 9 圈难题",
+          "url": "https://www.ithome.com/1/007/444.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T15:44:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
+          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "url": "https://www.ithome.com/1/007/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T15:44:10Z"
+        },
+        {
+          "id": "1ebd21dbee1c41c2053f39d65a1cf59ce4b444c4",
+          "title": "Anthropic Claude 刷新物理学世界纪录：单挑基于杨振宁理论 9 圈难题",
+          "url": "https://www.ithome.com/1/007/444.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T15:44:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7968,
+      "importance": 0.7968,
+      "importance_score": 0.7968,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8899,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-26T15:44:10Z",
+      "latest_at": "2026-09-26T15:44:10Z",
+      "primary_item": {
+        "id": "9279fb40dd812920f93b7be74e145079d81085ab",
+        "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+        "url": "https://www.ithome.com/1/007/444.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -566,15 +565,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7473,
-      "importance": 0.7473,
-      "importance_score": 0.7473,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7874,
+        "recency": 0.761,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -589,6 +588,104 @@
         "url": "https://x.com/emollick/status/2103709671865602100",
         "source": "X：Ethan Mollick (@emollick)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_755e3dc914b2",
+      "title": "DeepSeek 弹性计算 (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "primary_url": "https://arxiv.org/abs/2609.22978",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
+          "title": "DeepSeek 弹性计算 (DSec)",
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T22:58:22.682000Z"
+        },
+        {
+          "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
+          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T18:22:41Z"
+        },
+        {
+          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
+          "title": "DeepSeek Elastic Compute (DSec)",
+          "url": "https://news.ycombinator.com/item?id=49859112",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T18:22:41Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "arxiv.org",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
+          "title": "DeepSeek 弹性计算 (DSec)",
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T22:58:22.682000Z"
+        },
+        {
+          "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
+          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T18:22:41Z"
+        },
+        {
+          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
+          "title": "DeepSeek Elastic Compute (DSec)",
+          "url": "https://news.ycombinator.com/item?id=49859112",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T18:22:41Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5686,
+      "importance": 0.5686,
+      "importance_score": 0.5686,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9879,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T18:22:41Z",
+      "latest_at": "2026-09-26T22:58:22.682000Z",
+      "primary_item": {
+        "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
+        "title": "DeepSeek 弹性计算 (DSec)",
+        "url": "https://arxiv.org/abs/2609.22978",
+        "source": "arxiv.org",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -610,7 +707,7 @@
         },
         {
           "id": "fddb3519635d9d28ba5cd4e1b0c1c545096d41b2",
-          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的乐趣 / How to keep enjoying programming in a world of LLMs",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情 / How to keep enjoying programming in a world of LLMs",
           "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -618,19 +715,20 @@
           "published_at": "2026-09-26T09:41:58Z"
         },
         {
-          "id": "d6933e824d8eb6bb8932fafc73e7fdb92dfa1633",
-          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的乐趣",
-          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-          "source": "discourse.haskell.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T23:44:26.283000Z"
+          "id": "a930782ee90bb6dcb0e88a39ed0039db7883b922",
+          "title": "How to keep enjoying programming in a world of LLMs",
+          "url": "https://news.ycombinator.com/item?id=49854875",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T09:41:58Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "discourse.haskell.org"
+        "discourse.haskell.org",
+        "hackernews"
       ],
       "items": [
         {
@@ -644,7 +742,7 @@
         },
         {
           "id": "fddb3519635d9d28ba5cd4e1b0c1c545096d41b2",
-          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的乐趣 / How to keep enjoying programming in a world of LLMs",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情 / How to keep enjoying programming in a world of LLMs",
           "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -652,33 +750,33 @@
           "published_at": "2026-09-26T09:41:58Z"
         },
         {
-          "id": "d6933e824d8eb6bb8932fafc73e7fdb92dfa1633",
-          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的乐趣",
-          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-          "source": "discourse.haskell.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T23:44:26.283000Z"
+          "id": "a930782ee90bb6dcb0e88a39ed0039db7883b922",
+          "title": "How to keep enjoying programming in a world of LLMs",
+          "url": "https://news.ycombinator.com/item?id=49854875",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T09:41:58Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.568,
-      "importance": 0.568,
-      "importance_score": 0.568,
+      "score": 0.5621,
+      "importance": 0.5621,
+      "importance_score": 0.5621,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9844,
+        "recency": 0.9514,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-25T23:44:26.283000Z",
+      "earliest_at": "2026-09-26T09:41:58Z",
       "latest_at": "2026-09-26T20:22:03.489000Z",
       "primary_item": {
         "id": "b35db09005f0ab7fd2b83aef53bde3a713de80c7",
@@ -706,12 +804,12 @@
           "published_at": "2026-09-26T13:01:20.496000Z"
         },
         {
-          "id": "ffed7b9f1bb18bb3870ec3301731a0f3b4892cc3",
+          "id": "508e7bcbb48cbe6bee75bc66c699150f90ec10fd",
           "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
           "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-26T04:20:58Z"
         },
         {
@@ -726,7 +824,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "allanrbo.blogspot.com",
         "hackernews"
       ],
@@ -741,12 +839,12 @@
           "published_at": "2026-09-26T13:01:20.496000Z"
         },
         {
-          "id": "ffed7b9f1bb18bb3870ec3301731a0f3b4892cc3",
+          "id": "508e7bcbb48cbe6bee75bc66c699150f90ec10fd",
           "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
           "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-26T04:20:58Z"
         },
         {
@@ -761,15 +859,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5502,
-      "importance": 0.5502,
-      "importance_score": 0.5502,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8853,
+        "recency": 0.8557,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -783,6 +881,164 @@
         "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
         "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
         "source": "allanrbo.blogspot.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_26436e3a4f21",
+      "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元",
+      "url": "https://news.ycombinator.com/item?id=49861047",
+      "primary_url": "https://news.ycombinator.com/item?id=49861047",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1776f6143b2404018defabf393ed60e0dc228d8e",
+          "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元",
+          "url": "https://news.ycombinator.com/item?id=49861047",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T22:26:55.052000Z"
+        },
+        {
+          "id": "ee32606a5cfb278917e675a9877f7fbd38f1f7cc",
+          "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元 / OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
+          "url": "https://news.ycombinator.com/item?id=49861047",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T22:15:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "1776f6143b2404018defabf393ed60e0dc228d8e",
+          "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元",
+          "url": "https://news.ycombinator.com/item?id=49861047",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T22:26:55.052000Z"
+        },
+        {
+          "id": "ee32606a5cfb278917e675a9877f7fbd38f1f7cc",
+          "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元 / OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
+          "url": "https://news.ycombinator.com/item?id=49861047",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T22:15:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9805,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T22:15:32Z",
+      "latest_at": "2026-09-26T22:26:55.052000Z",
+      "primary_item": {
+        "id": "1776f6143b2404018defabf393ed60e0dc228d8e",
+        "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元",
+        "url": "https://news.ycombinator.com/item?id=49861047",
+        "source": "news.ycombinator.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4692bb4bba3b",
+      "title": "Copilot 电脑品牌已不复存在",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "primary_url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "source": "www.windowscentral.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "718a8eb6c33ddb07652d5067add1882bdd022836",
+          "title": "Copilot 电脑品牌已不复存在",
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "www.windowscentral.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T21:55:10.332000Z"
+        },
+        {
+          "id": "31c0591852d46da3b0845519adcd6cdfa5ce8c8b",
+          "title": "Copilot 电脑品牌已不复存在 / The Copilot+ PC brand is dead",
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T09:55:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.windowscentral.com"
+      ],
+      "items": [
+        {
+          "id": "718a8eb6c33ddb07652d5067add1882bdd022836",
+          "title": "Copilot 电脑品牌已不复存在",
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "www.windowscentral.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T21:55:10.332000Z"
+        },
+        {
+          "id": "31c0591852d46da3b0845519adcd6cdfa5ce8c8b",
+          "title": "Copilot 电脑品牌已不复存在 / The Copilot+ PC brand is dead",
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T09:55:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.973,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T09:55:38Z",
+      "latest_at": "2026-09-26T21:55:10.332000Z",
+      "primary_item": {
+        "id": "718a8eb6c33ddb07652d5067add1882bdd022836",
+        "title": "Copilot 电脑品牌已不复存在",
+        "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+        "source": "www.windowscentral.com",
         "source_name": "Buzzing"
       }
     },
@@ -840,15 +1096,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9665,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -863,164 +1119,6 @@
         "url": "https://github.com/anthropics/claude-code-action",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_d1c9c2119b74",
-      "title": "人工智能代理将人类排除在决策循环之外",
-      "url": "https://arxiv.org/abs/2608.23642",
-      "primary_url": "https://arxiv.org/abs/2608.23642",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "104ac66a9ec2dfa132aa394419796937917021de",
-          "title": "人工智能代理将人类排除在决策循环之外",
-          "url": "https://arxiv.org/abs/2608.23642",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T20:22:04.648000Z"
-        },
-        {
-          "id": "3a2e70131058c9657da21b011df458dabb1991f8",
-          "title": "人工智能代理将人类排除在决策循环之外 / AI Agents Push Humans Out of the Loop",
-          "url": "https://arxiv.org/abs/2608.23642",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T19:21:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "arxiv.org"
-      ],
-      "items": [
-        {
-          "id": "104ac66a9ec2dfa132aa394419796937917021de",
-          "title": "人工智能代理将人类排除在决策循环之外",
-          "url": "https://arxiv.org/abs/2608.23642",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T20:22:04.648000Z"
-        },
-        {
-          "id": "3a2e70131058c9657da21b011df458dabb1991f8",
-          "title": "人工智能代理将人类排除在决策循环之外 / AI Agents Push Humans Out of the Loop",
-          "url": "https://arxiv.org/abs/2608.23642",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T19:21:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9844,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T19:21:56Z",
-      "latest_at": "2026-09-26T20:22:04.648000Z",
-      "primary_item": {
-        "id": "104ac66a9ec2dfa132aa394419796937917021de",
-        "title": "人工智能代理将人类排除在决策循环之外",
-        "url": "https://arxiv.org/abs/2608.23642",
-        "source": "arxiv.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_755e3dc914b2",
-      "title": "DeepSeek Elastic Compute (DSec)",
-      "url": "https://arxiv.org/abs/2609.22978",
-      "primary_url": "https://arxiv.org/abs/2609.22978",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
-          "title": "DeepSeek Elastic Compute (DSec)",
-          "url": "https://arxiv.org/abs/2609.22978",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-26T18:22:41Z"
-        },
-        {
-          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
-          "title": "DeepSeek Elastic Compute (DSec)",
-          "url": "https://news.ycombinator.com/item?id=49859112",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T18:22:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
-          "title": "DeepSeek Elastic Compute (DSec)",
-          "url": "https://arxiv.org/abs/2609.22978",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-26T18:22:41Z"
-        },
-        {
-          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
-          "title": "DeepSeek Elastic Compute (DSec)",
-          "url": "https://news.ycombinator.com/item?id=49859112",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T18:22:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9565,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T18:22:41Z",
-      "latest_at": "2026-09-26T18:22:41Z",
-      "primary_item": {
-        "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
-        "title": "DeepSeek Elastic Compute (DSec)",
-        "url": "https://arxiv.org/abs/2609.22978",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
       }
     },
     {
@@ -1076,15 +1174,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5364,
-      "importance": 0.5364,
-      "importance_score": 0.5364,
+      "score": 0.5307,
+      "importance": 0.5307,
+      "importance_score": 0.5307,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9479,
+        "recency": 0.9162,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1102,82 +1200,160 @@
       }
     },
     {
-      "story_id": "story_fc201052ac82",
-      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "primary_url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "story_id": "story_464712ef80ec",
+      "title": "Japan moves to tighten rules for foreigners",
+      "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+      "primary_url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "f4792ebf48addf9095de2f5e6ae36f978f2980df",
-          "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "id": "36a50a7fab5a28200a7bb207f310c7d0a8e2901a",
+          "title": "Japan moves to tighten rules for foreigners",
+          "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-26T15:56:34Z"
+          "published_at": "2026-09-26T17:43:11Z"
         },
         {
-          "id": "bfab012ef044fb1c921c4ff8933eb12f1fab02b4",
-          "title": "Make Claude your assistant in excalidraw",
-          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-26T15:56:34Z"
+          "id": "4d0b9b11f19edf00776ae5f28db23fd20abe6b12",
+          "title": "Japan moves to tighten rules for foreigners, throwing futures into doubt",
+          "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T17:43:11Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
         "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "f4792ebf48addf9095de2f5e6ae36f978f2980df",
-          "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "id": "36a50a7fab5a28200a7bb207f310c7d0a8e2901a",
+          "title": "Japan moves to tighten rules for foreigners",
+          "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-26T15:56:34Z"
+          "published_at": "2026-09-26T17:43:11Z"
         },
         {
-          "id": "bfab012ef044fb1c921c4ff8933eb12f1fab02b4",
-          "title": "Make Claude your assistant in excalidraw",
-          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-26T15:56:34Z"
+          "id": "4d0b9b11f19edf00776ae5f28db23fd20abe6b12",
+          "title": "Japan moves to tighten rules for foreigners, throwing futures into doubt",
+          "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T17:43:11Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.532,
-      "importance": 0.532,
-      "importance_score": 0.532,
+      "score": 0.5306,
+      "importance": 0.5306,
+      "importance_score": 0.5306,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9235,
+        "recency": 0.9157,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T15:56:34Z",
-      "latest_at": "2026-09-26T15:56:34Z",
+      "earliest_at": "2026-09-26T17:43:11Z",
+      "latest_at": "2026-09-26T17:43:11Z",
       "primary_item": {
-        "id": "f4792ebf48addf9095de2f5e6ae36f978f2980df",
-        "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-        "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+        "id": "36a50a7fab5a28200a7bb207f310c7d0a8e2901a",
+        "title": "Japan moves to tighten rules for foreigners",
+        "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_a922caa29d65",
+      "title": "An OpenAI agent used DNS to reach an external chatbot",
+      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+      "primary_url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+      "source": "HN Algolia · AI 24h",
+      "source_name": "Hacker News",
+      "sources": [
+        {
+          "id": "3baec2e6d9110d8b0dc712121e297d87bde301de",
+          "title": "An OpenAI agent used DNS to reach an external chatbot",
+          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-26T15:43:46Z"
+        },
+        {
+          "id": "c55d937f20afbd34161ed7a3420a89d5a13a2760",
+          "title": "An agent used DNS to reach an external chatbot",
+          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T04:14:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "3baec2e6d9110d8b0dc712121e297d87bde301de",
+          "title": "An OpenAI agent used DNS to reach an external chatbot",
+          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-26T15:43:46Z"
+        },
+        {
+          "id": "c55d937f20afbd34161ed7a3420a89d5a13a2760",
+          "title": "An agent used DNS to reach an external chatbot",
+          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T04:14:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.526,
+      "importance": 0.526,
+      "importance_score": 0.526,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8898,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T04:14:11Z",
+      "latest_at": "2026-09-26T15:43:46Z",
+      "primary_item": {
+        "id": "3baec2e6d9110d8b0dc712121e297d87bde301de",
+        "title": "An OpenAI agent used DNS to reach an external chatbot",
+        "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+        "source": "HN Algolia · AI 24h",
+        "source_name": "Hacker News"
       }
     },
     {
@@ -1252,15 +1428,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5284,
-      "importance": 0.5284,
-      "importance_score": 0.5284,
+      "score": 0.5238,
+      "importance": 0.5238,
+      "importance_score": 0.5238,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7644,
+        "recency": 0.7388,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1275,104 +1451,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News (世界新闻)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_26c3af843986",
-      "title": "法院裁定，特朗普可因Anthropic拒绝启用Claude功能而将其列入黑名单",
-      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cb52982fcc590ff32dca4a0b842e7b60c57666d5",
-          "title": "法院裁定，特朗普可因Anthropic拒绝启用Claude功能而将其列入黑名单",
-          "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T02:21:16.404000Z"
-        },
-        {
-          "id": "154b9f1b54fd15ccd9ab39ed949331bdcccf485d",
-          "title": "法院裁定，特朗普可因Anthropic拒绝启用Claude功能而将其列入黑名单 / Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-          "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-25T21:36:20Z"
-        },
-        {
-          "id": "730e2304431ba197021dae19c1c02fff35af96fd",
-          "title": "法院裁定，特朗普可因Anthropic拒绝启用Claude功能而将其列入黑名单 / Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
-          "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T21:36:20Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Ars Technica",
-        "Ars Technica (科技媒体)",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "cb52982fcc590ff32dca4a0b842e7b60c57666d5",
-          "title": "法院裁定，特朗普可因Anthropic拒绝启用Claude功能而将其列入黑名单",
-          "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T02:21:16.404000Z"
-        },
-        {
-          "id": "154b9f1b54fd15ccd9ab39ed949331bdcccf485d",
-          "title": "法院裁定，特朗普可因Anthropic拒绝启用Claude功能而将其列入黑名单 / Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-          "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-25T21:36:20Z"
-        },
-        {
-          "id": "730e2304431ba197021dae19c1c02fff35af96fd",
-          "title": "法院裁定，特朗普可因Anthropic拒绝启用Claude功能而将其列入黑名单 / Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
-          "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T21:36:20Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5274,
-      "importance": 0.5274,
-      "importance_score": 0.5274,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7589,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-25T21:36:20Z",
-      "latest_at": "2026-09-26T02:21:16.404000Z",
-      "primary_item": {
-        "id": "cb52982fcc590ff32dca4a0b842e7b60c57666d5",
-        "title": "法院裁定，特朗普可因Anthropic拒绝启用Claude功能而将其列入黑名单",
-        "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1429,15 +1507,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.527,
-      "importance": 0.527,
-      "importance_score": 0.527,
+      "score": 0.5216,
+      "importance": 0.5216,
+      "importance_score": 0.5216,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8953,
+        "recency": 0.8654,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1508,15 +1586,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.527,
-      "importance": 0.527,
-      "importance_score": 0.527,
+      "score": 0.5216,
+      "importance": 0.5216,
+      "importance_score": 0.5216,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8953,
+        "recency": 0.8654,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1530,85 +1608,6 @@
         "title": "没有AI的一个月",
         "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
         "source": "blog.bustikiller.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_acfc96639e2e",
-      "title": "在人工智能紧张局势下，中美双方同意开展“超级智能”对话",
-      "url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal",
-      "primary_url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal",
-      "source": "www.axios.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3b9bcba83df54ba66685a9c78387a9238e1ac502",
-          "title": "在人工智能紧张局势下，中美双方同意开展“超级智能”对话",
-          "url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal",
-          "source": "www.axios.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T11:28:03.444000Z"
-        },
-        {
-          "id": "f604cfd3bcdd7b71693fa66f13f7e8f2a4aa580c",
-          "title": "在人工智能紧张局势下，中美双方同意开展“超级智能”对话 - Axios",
-          "url": "https://news.google.com/read/CBMiYkFVX3lxTFBGNEZLMlBlMDlkamtycGhtQS1obGR1WUxFWVhIdVdqYjNqX2JTRmN0bjd3MFVobEhMdWtaRjdmV1VMX1hSbTVaUVZzRVdIcUpraXpRUmN0d0t2aVdScElDZGZ3?hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T11:21:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com",
-        "www.axios.com"
-      ],
-      "items": [
-        {
-          "id": "3b9bcba83df54ba66685a9c78387a9238e1ac502",
-          "title": "在人工智能紧张局势下，中美双方同意开展“超级智能”对话",
-          "url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal",
-          "source": "www.axios.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T11:28:03.444000Z"
-        },
-        {
-          "id": "f604cfd3bcdd7b71693fa66f13f7e8f2a4aa580c",
-          "title": "在人工智能紧张局势下，中美双方同意开展“超级智能”对话 - Axios",
-          "url": "https://news.google.com/read/CBMiYkFVX3lxTFBGNEZLMlBlMDlkamtycGhtQS1obGR1WUxFWVhIdVdqYjNqX2JTRmN0bjd3MFVobEhMdWtaRjdmV1VMX1hSbTVaUVZzRVdIcUpraXpRUmN0d0t2aVdScElDZGZ3?hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T11:21:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5216,
-      "importance": 0.5216,
-      "importance_score": 0.5216,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8657,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T11:21:12Z",
-      "latest_at": "2026-09-26T11:28:03.444000Z",
-      "primary_item": {
-        "id": "3b9bcba83df54ba66685a9c78387a9238e1ac502",
-        "title": "在人工智能紧张局势下，中美双方同意开展“超级智能”对话",
-        "url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal",
-        "source": "www.axios.com",
         "source_name": "Buzzing"
       }
     }
