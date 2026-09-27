@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T19:12:39.644027Z",
+  "generated_at": "2026-09-27T22:30:46.607290Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,17 +48,17 @@
           "published_at": "2026-09-27T06:19:33Z"
         },
         {
-          "id": "295a64ccf8e3e99dec9960ecbd0136f20e3e281a",
+          "id": "120aa6c9b41c158041fc7b6b65162c388bf36bcc",
           "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
           "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-27T06:19:33Z"
         },
         {
           "id": "048fb6691c0da77149ae52e9601c25ffc1d4254d",
-          "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "title": "作者诉微软/OpenAI 案中未密封的内情 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
           "url": "https://news.ycombinator.com/item?id=49863864",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -69,7 +69,7 @@
       "source_count": 6,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "authorsguild.org",
         "hackernews"
@@ -112,17 +112,17 @@
           "published_at": "2026-09-27T06:19:33Z"
         },
         {
-          "id": "295a64ccf8e3e99dec9960ecbd0136f20e3e281a",
+          "id": "120aa6c9b41c158041fc7b6b65162c388bf36bcc",
           "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
           "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-27T06:19:33Z"
         },
         {
           "id": "048fb6691c0da77149ae52e9601c25ffc1d4254d",
-          "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "title": "作者诉微软/OpenAI 案中未密封的内情 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
           "url": "https://news.ycombinator.com/item?id=49863864",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -132,15 +132,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8589,
-      "importance": 0.8589,
-      "importance_score": 0.8589,
+      "score": 0.8517,
+      "importance": 0.8517,
+      "importance_score": 0.8517,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8686,
+        "recency": 0.8281,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -213,15 +213,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
+      "score": 0.7656,
+      "importance": 0.7656,
+      "importance_score": 0.7656,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8215,
+        "recency": 0.7832,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -275,15 +275,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7645,
-      "importance": 0.7645,
-      "importance_score": 0.7645,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7492,
+        "recency": 0.7143,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -409,15 +409,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6858,
-      "importance": 0.6858,
-      "importance_score": 0.6858,
+      "score": 0.6775,
+      "importance": 0.6775,
+      "importance_score": 0.6775,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4968,
         "source_tier": 0.54,
         "ai_relevance": 0.69,
-        "recency": 1.0,
+        "recency": 0.9534,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -452,6 +452,15 @@
           "published_at": "2026-09-27T18:54:12.868000Z"
         },
         {
+          "id": "221233d15f416eef397070c5cc84e201c5520703",
+          "title": "FM 合成发明者 John Chowning 的口述历史 [视频] / Oral history of John Chowning, inventor of FM synthesis [video]",
+          "url": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T18:02:43Z"
+        },
+        {
           "id": "d0bf0ce11d3d34263d0a9f7b5aeeccfb66771f3b",
           "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
           "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
@@ -462,7 +471,7 @@
         },
         {
           "id": "d84543bbd312af259efa18cd4630cae532fe5a89",
-          "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+          "title": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
           "url": "https://news.ycombinator.com/item?id=49868831",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -470,9 +479,10 @@
           "published_at": "2026-09-27T17:32:02Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.youtube.com"
       ],
@@ -487,6 +497,15 @@
           "published_at": "2026-09-27T18:54:12.868000Z"
         },
         {
+          "id": "221233d15f416eef397070c5cc84e201c5520703",
+          "title": "FM 合成发明者 John Chowning 的口述历史 [视频] / Oral history of John Chowning, inventor of FM synthesis [video]",
+          "url": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T18:02:43Z"
+        },
+        {
           "id": "d0bf0ce11d3d34263d0a9f7b5aeeccfb66771f3b",
           "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
           "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
@@ -497,7 +516,7 @@
         },
         {
           "id": "d84543bbd312af259efa18cd4630cae532fe5a89",
-          "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+          "title": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
           "url": "https://news.ycombinator.com/item?id=49868831",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -505,18 +524,18 @@
           "published_at": "2026-09-27T17:32:02Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.57,
-      "importance": 0.57,
-      "importance_score": 0.57,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5867,
+      "importance": 0.5867,
+      "importance_score": 0.5867,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9956,
-        "story_heat": 0.5
+        "recency": 0.9492,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
@@ -560,7 +579,7 @@
         },
         {
           "id": "09acbafe4487509079a6b2b33c03f792c5aec3aa",
-          "title": "There are no \"rogue\" AI agents",
+          "title": "不存在“流氓”人工智能代理 / There are no \"rogue\" AI agents",
           "url": "https://news.ycombinator.com/item?id=49868083",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -595,7 +614,7 @@
         },
         {
           "id": "09acbafe4487509079a6b2b33c03f792c5aec3aa",
-          "title": "There are no \"rogue\" AI agents",
+          "title": "不存在“流氓”人工智能代理 / There are no \"rogue\" AI agents",
           "url": "https://news.ycombinator.com/item?id=49868083",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -605,15 +624,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5673,
-      "importance": 0.5673,
-      "importance_score": 0.5673,
+      "score": 0.5591,
+      "importance": 0.5591,
+      "importance_score": 0.5591,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9806,
+        "recency": 0.9349,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -658,7 +677,7 @@
         },
         {
           "id": "0d2ec493a74f10e587a746aa965482cf9b293acf",
-          "title": "Show HN: TinyAIArena watch AI agents battle it out",
+          "title": "Show HN：TinyAIArena 观看 AI 代理决一胜负 / Show HN: TinyAIArena watch AI agents battle it out",
           "url": "https://news.ycombinator.com/item?id=49867775",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -693,7 +712,7 @@
         },
         {
           "id": "0d2ec493a74f10e587a746aa965482cf9b293acf",
-          "title": "Show HN: TinyAIArena watch AI agents battle it out",
+          "title": "Show HN：TinyAIArena 观看 AI 代理决一胜负 / Show HN: TinyAIArena watch AI agents battle it out",
           "url": "https://news.ycombinator.com/item?id=49867775",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -703,15 +722,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5626,
-      "importance": 0.5626,
-      "importance_score": 0.5626,
+      "score": 0.5546,
+      "importance": 0.5546,
+      "importance_score": 0.5546,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9547,
+        "recency": 0.9102,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -726,6 +745,85 @@
         "url": "https://tinyaiarena.com",
         "source": "tinyaiarena.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9c046be3cf17",
+      "title": "Asus ExpertCenter Pro ET900N G3 工作站发布：搭载 Nvidia GB300 Grace Blackwell Ultra 超级芯片，被评「我们桌上见过的最强设备」",
+      "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
+      "primary_url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "f803ac781da10ffaaa621c5461882b375d92b5fa",
+          "title": "Asus ExpertCenter Pro ET900N G3 工作站发布：搭载 Nvidia GB300 Grace Blackwell Ultra 超级芯片，被评「我们桌上见过的最强设备」",
+          "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "a6cf0040780a57358bc767c2064e65a24b2f8f0d",
+          "title": "Asus ExpertCenter Pro ET900N G3 工作站发布：搭载 Nvidia GB300 Grace Blackwell Ultra 超级芯片，被评「我们桌上见过的最强设备」 / An Asus homage to legendary Apple Mac Pro: GB300 DGX workstation gets two thumbs up from reviewer who calls $120,000 AI supercomputer 'the most capable thing we’ve ever put on a desk'",
+          "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T19:20:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "TechRadar"
+      ],
+      "items": [
+        {
+          "id": "f803ac781da10ffaaa621c5461882b375d92b5fa",
+          "title": "Asus ExpertCenter Pro ET900N G3 工作站发布：搭载 Nvidia GB300 Grace Blackwell Ultra 超级芯片，被评「我们桌上见过的最强设备」",
+          "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "a6cf0040780a57358bc767c2064e65a24b2f8f0d",
+          "title": "Asus ExpertCenter Pro ET900N G3 工作站发布：搭载 Nvidia GB300 Grace Blackwell Ultra 超级芯片，被评「我们桌上见过的最强设备」 / An Asus homage to legendary Apple Mac Pro: GB300 DGX workstation gets two thumbs up from reviewer who calls $120,000 AI supercomputer 'the most capable thing we’ve ever put on a desk'",
+          "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T19:20:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T19:20:00Z",
+      "latest_at": "2026-09-27T22:30:46.607290Z",
+      "primary_item": {
+        "id": "f803ac781da10ffaaa621c5461882b375d92b5fa",
+        "title": "Asus ExpertCenter Pro ET900N G3 工作站发布：搭载 Nvidia GB300 Grace Blackwell Ultra 超级芯片，被评「我们桌上见过的最强设备」",
+        "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -800,15 +898,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5519,
-      "importance": 0.5519,
-      "importance_score": 0.5519,
+      "score": 0.5444,
+      "importance": 0.5444,
+      "importance_score": 0.5444,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8951,
+        "recency": 0.8534,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -827,7 +925,7 @@
     },
     {
       "story_id": "story_b04934350ff5",
-      "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+      "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
       "url": "https://earnanhonestdollar.com/bench",
       "primary_url": "https://earnanhonestdollar.com/bench",
       "source": "Hacker News · 24h最热",
@@ -835,7 +933,7 @@
       "sources": [
         {
           "id": "e9c8dc545434c7b36887a6db6bd566b6d9501295",
-          "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+          "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
           "url": "https://earnanhonestdollar.com/bench",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -844,7 +942,7 @@
         },
         {
           "id": "330618c59ae0d8634153906de4a6207254685661",
-          "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
+          "title": "揭开人工智能的虚张声势：添加“请勿猜测”将虚构字段从 71% 削减至 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
           "url": "https://earnanhonestdollar.com/bench",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -860,7 +958,7 @@
       "items": [
         {
           "id": "e9c8dc545434c7b36887a6db6bd566b6d9501295",
-          "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+          "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
           "url": "https://earnanhonestdollar.com/bench",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -869,7 +967,7 @@
         },
         {
           "id": "330618c59ae0d8634153906de4a6207254685661",
-          "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
+          "title": "揭开人工智能的虚张声势：添加“请勿猜测”将虚构字段从 71% 削减至 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
           "url": "https://earnanhonestdollar.com/bench",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -879,15 +977,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5412,
-      "importance": 0.5412,
-      "importance_score": 0.5412,
+      "score": 0.533,
+      "importance": 0.533,
+      "importance_score": 0.533,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9743,
+        "recency": 0.9289,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -898,7 +996,7 @@
       "latest_at": "2026-09-27T17:24:17Z",
       "primary_item": {
         "id": "e9c8dc545434c7b36887a6db6bd566b6d9501295",
-        "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+        "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
         "url": "https://earnanhonestdollar.com/bench",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
@@ -958,15 +1056,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
+      "score": 0.5328,
+      "importance": 0.5328,
+      "importance_score": 0.5328,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.973,
+        "recency": 0.9277,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1037,15 +1135,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5389,
-      "importance": 0.5389,
-      "importance_score": 0.5389,
+      "score": 0.5308,
+      "importance": 0.5308,
+      "importance_score": 0.5308,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9615,
+        "recency": 0.9168,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1116,15 +1214,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5158,
-      "importance": 0.5158,
-      "importance_score": 0.5158,
+      "score": 0.5088,
+      "importance": 0.5088,
+      "importance_score": 0.5088,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8333,
+        "recency": 0.7945,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1139,85 +1237,6 @@
         "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
         "source": "blog.bustikiller.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_851529e75223",
-      "title": "PCB 行业定增潮：293 亿元投向 AI，扩产新周期开启",
-      "url": "https://www.huxiu.com/article/4894090.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4894090.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "36174a8a1c32c597b7d66fd96969f03904d97be4",
-          "title": "PCB 行业定增潮：293 亿元投向 AI，扩产新周期开启",
-          "url": "https://www.huxiu.com/article/4894090.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f0e4d76958bc317322a2d42925b18aec4f33c3fb",
-          "title": "PCB行业定增潮：293亿元投向AI，扩产新周期开启",
-          "url": "https://www.huxiu.com/article/4894090.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T03:09:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "36174a8a1c32c597b7d66fd96969f03904d97be4",
-          "title": "PCB 行业定增潮：293 亿元投向 AI，扩产新周期开启",
-          "url": "https://www.huxiu.com/article/4894090.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f0e4d76958bc317322a2d42925b18aec4f33c3fb",
-          "title": "PCB行业定增潮：293亿元投向AI，扩产新周期开启",
-          "url": "https://www.huxiu.com/article/4894090.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T03:09:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5122,
-      "importance": 0.5122,
-      "importance_score": 0.5122,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8132,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T03:09:09Z",
-      "latest_at": "2026-09-27T04:53:43.798732Z",
-      "primary_item": {
-        "id": "36174a8a1c32c597b7d66fd96969f03904d97be4",
-        "title": "PCB 行业定增潮：293 亿元投向 AI，扩产新周期开启",
-        "url": "https://www.huxiu.com/article/4894090.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1273,15 +1292,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5084,
-      "importance": 0.5084,
-      "importance_score": 0.5084,
+      "score": 0.5018,
+      "importance": 0.5018,
+      "importance_score": 0.5018,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7923,
+        "recency": 0.7554,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1352,15 +1371,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.537,
-      "importance": 0.537,
-      "importance_score": 0.537,
+      "score": 0.5291,
+      "importance": 0.5291,
+      "importance_score": 0.5291,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9513,
+        "recency": 0.907,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1430,15 +1449,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5346,
-      "importance": 0.5346,
-      "importance_score": 0.5346,
+      "score": 0.5267,
+      "importance": 0.5267,
+      "importance_score": 0.5267,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9376,
+        "recency": 0.894,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1456,319 +1475,318 @@
       }
     },
     {
-      "story_id": "story_26436e3a4f21",
-      "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元",
-      "url": "https://news.ycombinator.com/item?id=49861047",
-      "primary_url": "https://news.ycombinator.com/item?id=49861047",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1776f6143b2404018defabf393ed60e0dc228d8e",
-          "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元",
-          "url": "https://news.ycombinator.com/item?id=49861047",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T22:26:55.052000Z"
-        },
-        {
-          "id": "ee32606a5cfb278917e675a9877f7fbd38f1f7cc",
-          "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元 / OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
-          "url": "https://news.ycombinator.com/item?id=49861047",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-26T22:15:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "1776f6143b2404018defabf393ed60e0dc228d8e",
-          "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元",
-          "url": "https://news.ycombinator.com/item?id=49861047",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T22:26:55.052000Z"
-        },
-        {
-          "id": "ee32606a5cfb278917e675a9877f7fbd38f1f7cc",
-          "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元 / OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
-          "url": "https://news.ycombinator.com/item?id=49861047",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-26T22:15:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4992,
-      "importance": 0.4992,
-      "importance_score": 0.4992,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.741,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T22:15:32Z",
-      "latest_at": "2026-09-26T22:26:55.052000Z",
-      "primary_item": {
-        "id": "1776f6143b2404018defabf393ed60e0dc228d8e",
-        "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元",
-        "url": "https://news.ycombinator.com/item?id=49861047",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_890d693f27fb",
-      "title": "mobile-next / mobile-mcp",
-      "url": "https://github.com/mobile-next/mobile-mcp",
-      "primary_url": "https://github.com/mobile-next/mobile-mcp",
-      "source": "GitHub · Trending Today",
+      "story_id": "story_851529e75223",
+      "title": "PCB 行业定增潮：293 亿元投向 AI，扩产新周期开启",
+      "url": "https://www.huxiu.com/article/4894090.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4894090.html?f=rss",
+      "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "772ea7f73094f82fd60c4825914e651a4688c675",
-          "title": "mobile-next / mobile-mcp",
-          "url": "https://github.com/mobile-next/mobile-mcp",
-          "source": "GitHub · Trending Today",
+          "id": "36174a8a1c32c597b7d66fd96969f03904d97be4",
+          "title": "PCB 行业定增潮：293 亿元投向 AI，扩产新周期开启",
+          "url": "https://www.huxiu.com/article/4894090.html?f=rss",
+          "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "d4e17936f31903f88bcd813c53dd56fc63e7b6d9",
-          "title": "mobile-next /      mobile-mcp",
-          "url": "https://github.com/mobile-next/mobile-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T21:10:23.718000Z"
+          "id": "f0e4d76958bc317322a2d42925b18aec4f33c3fb",
+          "title": "PCB行业定增潮：293亿元投向AI，扩产新周期开启",
+          "url": "https://www.huxiu.com/article/4894090.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T03:09:09Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "GitHub · Trending Today",
-        "github"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "772ea7f73094f82fd60c4825914e651a4688c675",
-          "title": "mobile-next / mobile-mcp",
-          "url": "https://github.com/mobile-next/mobile-mcp",
-          "source": "GitHub · Trending Today",
+          "id": "36174a8a1c32c597b7d66fd96969f03904d97be4",
+          "title": "PCB 行业定增潮：293 亿元投向 AI，扩产新周期开启",
+          "url": "https://www.huxiu.com/article/4894090.html?f=rss",
+          "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "d4e17936f31903f88bcd813c53dd56fc63e7b6d9",
-          "title": "mobile-next /      mobile-mcp",
-          "url": "https://github.com/mobile-next/mobile-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T21:10:23.718000Z"
+          "id": "f0e4d76958bc317322a2d42925b18aec4f33c3fb",
+          "title": "PCB行业定增潮：293亿元投向AI，扩产新周期开启",
+          "url": "https://www.huxiu.com/article/4894090.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T03:09:09Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4973,
-      "importance": 0.4973,
-      "importance_score": 0.4973,
+      "score": 0.5054,
+      "importance": 0.5054,
+      "importance_score": 0.5054,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7304,
+        "recency": 0.7754,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T21:10:23.718000Z",
-      "latest_at": "2026-09-26T21:27:22.894852Z",
+      "earliest_at": "2026-09-27T03:09:09Z",
+      "latest_at": "2026-09-27T04:53:43.798732Z",
       "primary_item": {
-        "id": "772ea7f73094f82fd60c4825914e651a4688c675",
-        "title": "mobile-next / mobile-mcp",
-        "url": "https://github.com/mobile-next/mobile-mcp",
-        "source": "GitHub · Trending Today",
+        "id": "36174a8a1c32c597b7d66fd96969f03904d97be4",
+        "title": "PCB 行业定增潮：293 亿元投向 AI，扩产新周期开启",
+        "url": "https://www.huxiu.com/article/4894090.html?f=rss",
+        "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_d1c9c2119b74",
-      "title": "人工智能代理将人类排除在决策循环之外",
-      "url": "https://arxiv.org/abs/2608.23642",
-      "primary_url": "https://arxiv.org/abs/2608.23642",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
+      "story_id": "story_c219fe8f6b6a",
+      "title": "粗制滥造的用户界面的10个迹象 / 10 Tells of a Slop UI",
+      "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+      "primary_url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "104ac66a9ec2dfa132aa394419796937917021de",
-          "title": "人工智能代理将人类排除在决策循环之外",
-          "url": "https://arxiv.org/abs/2608.23642",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T20:22:04.648000Z"
+          "id": "627c68d3b254b0339a80b7a16f5f32f88dbecbf3",
+          "title": "粗制滥造的用户界面的10个迹象 / 10 Tells of a Slop UI",
+          "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T14:41:26Z"
         },
         {
-          "id": "3a2e70131058c9657da21b011df458dabb1991f8",
-          "title": "人工智能代理将人类排除在决策循环之外 / AI Agents Push Humans Out of the Loop",
-          "url": "https://arxiv.org/abs/2608.23642",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T19:21:56Z"
+          "id": "dd81550d2e15aa40b4894f62f8d8ca6ad2339b0a",
+          "title": "粗制滥造的用户界面的10个迹象 / Tells of a Slop UI",
+          "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T14:41:26Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Lobsters (技术社区)",
-        "arxiv.org"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "104ac66a9ec2dfa132aa394419796937917021de",
-          "title": "人工智能代理将人类排除在决策循环之外",
-          "url": "https://arxiv.org/abs/2608.23642",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T20:22:04.648000Z"
+          "id": "627c68d3b254b0339a80b7a16f5f32f88dbecbf3",
+          "title": "粗制滥造的用户界面的10个迹象 / 10 Tells of a Slop UI",
+          "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T14:41:26Z"
         },
         {
-          "id": "3a2e70131058c9657da21b011df458dabb1991f8",
-          "title": "人工智能代理将人类排除在决策循环之外 / AI Agents Push Humans Out of the Loop",
-          "url": "https://arxiv.org/abs/2608.23642",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T19:21:56Z"
+          "id": "dd81550d2e15aa40b4894f62f8d8ca6ad2339b0a",
+          "title": "粗制滥造的用户界面的10个迹象 / Tells of a Slop UI",
+          "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T14:41:26Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4952,
-      "importance": 0.4952,
-      "importance_score": 0.4952,
+      "score": 0.5266,
+      "importance": 0.5266,
+      "importance_score": 0.5266,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.719,
+        "recency": 0.8932,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T19:21:56Z",
-      "latest_at": "2026-09-26T20:22:04.648000Z",
+      "earliest_at": "2026-09-27T14:41:26Z",
+      "latest_at": "2026-09-27T14:41:26Z",
       "primary_item": {
-        "id": "104ac66a9ec2dfa132aa394419796937917021de",
-        "title": "人工智能代理将人类排除在决策循环之外",
-        "url": "https://arxiv.org/abs/2608.23642",
-        "source": "arxiv.org",
+        "id": "627c68d3b254b0339a80b7a16f5f32f88dbecbf3",
+        "title": "粗制滥造的用户界面的10个迹象 / 10 Tells of a Slop UI",
+        "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_fa0a47e1b5bd",
+      "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
+      "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+      "primary_url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6e8a72db35aa150e337602a81210a750676285f7",
+          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
+          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T10:45:08.393000Z"
+        },
+        {
+          "id": "cd86d94722144a85171a58d7dc631c0eb742a1a3",
+          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。 / AI is prompting these Gen Zers to learn how to type",
+          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T10:00:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "6e8a72db35aa150e337602a81210a750676285f7",
+          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
+          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T10:45:08.393000Z"
+        },
+        {
+          "id": "cd86d94722144a85171a58d7dc631c0eb742a1a3",
+          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。 / AI is prompting these Gen Zers to learn how to type",
+          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T10:00:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5177,
+      "importance": 0.5177,
+      "importance_score": 0.5177,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8438,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T10:00:01Z",
+      "latest_at": "2026-09-27T10:45:08.393000Z",
+      "primary_item": {
+        "id": "6e8a72db35aa150e337602a81210a750676285f7",
+        "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
+        "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_e6f2eebb259b",
-      "title": "Faster prompt lookup drafting in llama.cpp",
-      "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
-      "primary_url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_9412b001c712",
+      "title": "如何与亲人告别，是 AI 也学不会的人生课题",
+      "url": "https://www.huxiu.com/article/4894091.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4894091.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "306cc5f2bf894d806aad31ad7ffc09856b15c7b9",
-          "title": "Faster prompt lookup drafting in llama.cpp",
-          "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T19:57:24Z"
+          "id": "c7873ad8e2a33bba8e0f92dfc29081ba2082b9bb",
+          "title": "如何与亲人告别，是 AI 也学不会的人生课题",
+          "url": "https://www.huxiu.com/article/4894091.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "4bd3e6692d7fb02f466d28a15bccd6d36c44d652",
-          "title": "Faster prompt lookup drafting in llama.cpp",
-          "url": "https://news.ycombinator.com/item?id=49859982",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T19:57:24Z"
+          "id": "8a862d74bea7e973241ec02e39950f364796bec3",
+          "title": "如何与亲人告别，是AI 也学不会的人生课题",
+          "url": "https://www.huxiu.com/article/4894091.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T03:09:40Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "306cc5f2bf894d806aad31ad7ffc09856b15c7b9",
-          "title": "Faster prompt lookup drafting in llama.cpp",
-          "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T19:57:24Z"
+          "id": "c7873ad8e2a33bba8e0f92dfc29081ba2082b9bb",
+          "title": "如何与亲人告别，是 AI 也学不会的人生课题",
+          "url": "https://www.huxiu.com/article/4894091.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "4bd3e6692d7fb02f466d28a15bccd6d36c44d652",
-          "title": "Faster prompt lookup drafting in llama.cpp",
-          "url": "https://news.ycombinator.com/item?id=49859982",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T19:57:24Z"
+          "id": "8a862d74bea7e973241ec02e39950f364796bec3",
+          "title": "如何与亲人告别，是AI 也学不会的人生课题",
+          "url": "https://www.huxiu.com/article/4894091.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T03:09:40Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4945,
-      "importance": 0.4945,
-      "importance_score": 0.4945,
+      "score": 0.5054,
+      "importance": 0.5054,
+      "importance_score": 0.5054,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7148,
+        "recency": 0.7754,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T19:57:24Z",
-      "latest_at": "2026-09-26T19:57:24Z",
+      "earliest_at": "2026-09-27T03:09:40Z",
+      "latest_at": "2026-09-27T04:53:43.798732Z",
       "primary_item": {
-        "id": "306cc5f2bf894d806aad31ad7ffc09856b15c7b9",
-        "title": "Faster prompt lookup drafting in llama.cpp",
-        "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "id": "c7873ad8e2a33bba8e0f92dfc29081ba2082b9bb",
+        "title": "如何与亲人告别，是 AI 也学不会的人生课题",
+        "url": "https://www.huxiu.com/article/4894091.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
