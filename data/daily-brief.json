@@ -1,88 +1,66 @@
 {
-  "generated_at": "2026-10-04T22:56:40.839425Z",
+  "generated_at": "2026-10-05T01:49:02.765540Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_89764eae0099",
-      "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "primary_url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_ff878e799710",
+      "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
+      "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
+      "primary_url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
+      "source": "PromptArmor：Threat Intelligence",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "57fbd355307716cbcf330127a1ee6632b8a5238b",
-          "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
-          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-03T22:56:48Z"
-        },
-        {
-          "id": "7cb78c863282e2dbe8ca7086c0f0695c1eef290b",
-          "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
-          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-          "source": "Hugging Face：Blog（RSS）",
+          "id": "06be24552591ac18a92e2ce2d2535b549e19817d",
+          "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
+          "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
+          "source": "PromptArmor：Threat Intelligence",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-03T22:56:48Z"
+          "published_at": "2026-10-05T00:24:02Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
+        "PromptArmor：Threat Intelligence"
       ],
       "items": [
         {
-          "id": "57fbd355307716cbcf330127a1ee6632b8a5238b",
-          "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
-          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-03T22:56:48Z"
-        },
-        {
-          "id": "7cb78c863282e2dbe8ca7086c0f0695c1eef290b",
-          "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
-          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-          "source": "Hugging Face：Blog（RSS）",
+          "id": "06be24552591ac18a92e2ce2d2535b549e19817d",
+          "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
+          "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
+          "source": "PromptArmor：Threat Intelligence",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-03T22:56:48Z"
+          "published_at": "2026-10-05T00:24:02Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
-      "importance_label": "官方更新",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7071,
-        "story_heat": 0.25
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9797,
+        "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-03T22:56:48Z",
-      "latest_at": "2026-10-03T22:56:48Z",
+      "earliest_at": "2026-10-05T00:24:02Z",
+      "latest_at": "2026-10-05T00:24:02Z",
       "primary_item": {
-        "id": "57fbd355307716cbcf330127a1ee6632b8a5238b",
-        "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
-        "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "id": "06be24552591ac18a92e2ce2d2535b549e19817d",
+        "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
+        "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
+        "source": "PromptArmor：Threat Intelligence",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -157,15 +135,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5626,
-      "importance": 0.5626,
-      "importance_score": 0.5626,
+      "score": 0.5556,
+      "importance": 0.5556,
+      "importance_score": 0.5556,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9543,
+        "recency": 0.9155,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -180,6 +158,164 @@
         "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_26c664897667",
+      "title": "michael-denyer /      pstack-claude",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "primary_url": "https://github.com/michael-denyer/pstack-claude",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "371e55aee4fef35ddb7feb5df4130ca7c17d8781",
+          "title": "michael-denyer /      pstack-claude",
+          "url": "https://github.com/michael-denyer/pstack-claude",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T01:49:49.052000Z"
+        },
+        {
+          "id": "1a723581782a918446b0d68d55ffb7a4b205b052",
+          "title": "michael-denyer / pstack-claude",
+          "url": "https://github.com/michael-denyer/pstack-claude",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "371e55aee4fef35ddb7feb5df4130ca7c17d8781",
+          "title": "michael-denyer /      pstack-claude",
+          "url": "https://github.com/michael-denyer/pstack-claude",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T01:49:49.052000Z"
+        },
+        {
+          "id": "1a723581782a918446b0d68d55ffb7a4b205b052",
+          "title": "michael-denyer / pstack-claude",
+          "url": "https://github.com/michael-denyer/pstack-claude",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T01:49:02.765540Z",
+      "latest_at": "2026-10-05T01:49:49.052000Z",
+      "primary_item": {
+        "id": "371e55aee4fef35ddb7feb5df4130ca7c17d8781",
+        "title": "michael-denyer /      pstack-claude",
+        "url": "https://github.com/michael-denyer/pstack-claude",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_abb66a69506b",
+      "title": "英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元",
+      "url": "https://finance.jrj.com.cn/2026/10/05075458615289.shtml",
+      "primary_url": "https://finance.jrj.com.cn/2026/10/05075458615289.shtml",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "f50bd9cc5129f78a183274b07842837dffccdb60",
+          "title": "英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元",
+          "url": "https://finance.jrj.com.cn/2026/10/05075458615289.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "cba2b9da87900d67c550594aa546aad030ad5132",
+          "title": "英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元",
+          "url": "https://www.ithome.com/1/009/741.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T23:40:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f50bd9cc5129f78a183274b07842837dffccdb60",
+          "title": "英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元",
+          "url": "https://finance.jrj.com.cn/2026/10/05075458615289.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "cba2b9da87900d67c550594aa546aad030ad5132",
+          "title": "英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元",
+          "url": "https://www.ithome.com/1/009/741.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T23:40:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T23:40:33Z",
+      "latest_at": "2026-10-05T01:49:02.765540Z",
+      "primary_item": {
+        "id": "f50bd9cc5129f78a183274b07842837dffccdb60",
+        "title": "英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元",
+        "url": "https://finance.jrj.com.cn/2026/10/05075458615289.shtml",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -255,15 +391,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5466,
-      "importance": 0.5466,
-      "importance_score": 0.5466,
+      "score": 0.5403,
+      "importance": 0.5403,
+      "importance_score": 0.5403,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8656,
+        "recency": 0.8305,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -334,15 +470,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5376,
+      "importance": 0.5376,
+      "importance_score": 0.5376,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.995,
+        "recency": 0.9546,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -413,15 +549,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5416,
-      "importance": 0.5416,
-      "importance_score": 0.5416,
+      "score": 0.5344,
+      "importance": 0.5344,
+      "importance_score": 0.5344,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9765,
+        "recency": 0.9368,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -511,15 +647,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8267,
+        "recency": 0.7931,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -534,85 +670,6 @@
         "url": "https://github.com/allenv0/SCM",
         "source": "github.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_45fceba848ec",
-      "title": "AI 数据中心成本每 12 个月就会翻一番——行业需要 6 万亿美元的年收入才能避免严重崩溃 / AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse",
-      "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
-      "primary_url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "e0cb8c31c3d3d8e1896f6afbce4723e7329866d6",
-          "title": "AI 数据中心成本每 12 个月就会翻一番——行业需要 6 万亿美元的年收入才能避免严重崩溃 / AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse",
-          "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2e5e04c3ce70912147666339342f07dcd66078fe",
-          "title": "年收入达 6 万亿美元，否则将面临重大崩溃——AI 数据中心成本每 12 个月翻一番 / Generate $6 trillion in annual revenue or face a major collapse — AI data center costs are doubling every 12 months",
-          "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-04T18:05:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "TechRadar"
-      ],
-      "items": [
-        {
-          "id": "e0cb8c31c3d3d8e1896f6afbce4723e7329866d6",
-          "title": "AI 数据中心成本每 12 个月就会翻一番——行业需要 6 万亿美元的年收入才能避免严重崩溃 / AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse",
-          "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2e5e04c3ce70912147666339342f07dcd66078fe",
-          "title": "年收入达 6 万亿美元，否则将面临重大崩溃——AI 数据中心成本每 12 个月翻一番 / Generate $6 trillion in annual revenue or face a major collapse — AI data center costs are doubling every 12 months",
-          "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-04T18:05:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9517,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T18:05:00Z",
-      "latest_at": "2026-10-04T19:30:56.328191Z",
-      "primary_item": {
-        "id": "e0cb8c31c3d3d8e1896f6afbce4723e7329866d6",
-        "title": "AI 数据中心成本每 12 个月就会翻一番——行业需要 6 万亿美元的年收入才能避免严重崩溃 / AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse",
-        "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -668,15 +725,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5246,
-      "importance": 0.5246,
-      "importance_score": 0.5246,
+      "score": 0.5181,
+      "importance": 0.5181,
+      "importance_score": 0.5181,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.882,
+        "recency": 0.8462,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -746,15 +803,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5234,
-      "importance": 0.5234,
-      "importance_score": 0.5234,
+      "score": 0.517,
+      "importance": 0.517,
+      "importance_score": 0.517,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8754,
+        "recency": 0.8398,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -769,6 +826,84 @@
         "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
         "source": "www.reuters.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_1eb686e134b7",
+      "title": "[奇思妙想] 我觉得的 AI 未来的应用",
+      "url": "https://www.v2ex.com/t/1246400",
+      "primary_url": "https://www.v2ex.com/t/1246400",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "67fef08c870edee48ff06480676ae1c8d029d612",
+          "title": "[奇思妙想] 我觉得的 AI 未来的应用",
+          "url": "https://www.v2ex.com/t/1246400",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T10:30:30Z"
+        },
+        {
+          "id": "f218ae94452e6133d5f3e2782b476cd9ee3f9036",
+          "title": "[随想] 我觉得的 AI 未来的应用",
+          "url": "https://www.v2ex.com/t/1246400",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T10:30:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "67fef08c870edee48ff06480676ae1c8d029d612",
+          "title": "[奇思妙想] 我觉得的 AI 未来的应用",
+          "url": "https://www.v2ex.com/t/1246400",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T10:30:30Z"
+        },
+        {
+          "id": "f218ae94452e6133d5f3e2782b476cd9ee3f9036",
+          "title": "[随想] 我觉得的 AI 未来的应用",
+          "url": "https://www.v2ex.com/t/1246400",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T10:30:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5101,
+      "importance": 0.5101,
+      "importance_score": 0.5101,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8017,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T10:30:30Z",
+      "latest_at": "2026-10-04T10:30:30Z",
+      "primary_item": {
+        "id": "67fef08c870edee48ff06480676ae1c8d029d612",
+        "title": "[奇思妙想] 我觉得的 AI 未来的应用",
+        "url": "https://www.v2ex.com/t/1246400",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -825,15 +960,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5146,
-      "importance": 0.5146,
-      "importance_score": 0.5146,
+      "score": 0.5086,
+      "importance": 0.5086,
+      "importance_score": 0.5086,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8267,
+        "recency": 0.7931,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -903,15 +1038,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5128,
-      "importance": 0.5128,
-      "importance_score": 0.5128,
+      "score": 0.5069,
+      "importance": 0.5069,
+      "importance_score": 0.5069,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8169,
+        "recency": 0.7837,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -982,15 +1117,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9581,
+        "recency": 0.9192,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1003,6 +1138,243 @@
         "id": "7df4a6e48845478bc733fdc73ca06d45f751052c",
         "title": "来认识一下大卫·罗宾逊——这位OpenAI的安全负责人已辞职，并警告称该公司不够谨慎",
         "url": "https://www.businessinsider.com/david-robinson-the-openai-safety-leader-who-quit-the-company-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_45fceba848ec",
+      "title": "AI 数据中心成本每 12 个月就会翻一番——行业需要 6 万亿美元的年收入才能避免严重崩溃 / AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse",
+      "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+      "primary_url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "e0cb8c31c3d3d8e1896f6afbce4723e7329866d6",
+          "title": "AI 数据中心成本每 12 个月就会翻一番——行业需要 6 万亿美元的年收入才能避免严重崩溃 / AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse",
+          "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2e5e04c3ce70912147666339342f07dcd66078fe",
+          "title": "年收入达 6 万亿美元，否则将面临重大崩溃——AI 数据中心成本每 12 个月翻一番 / Generate $6 trillion in annual revenue or face a major collapse — AI data center costs are doubling every 12 months",
+          "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-04T18:05:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "TechRadar"
+      ],
+      "items": [
+        {
+          "id": "e0cb8c31c3d3d8e1896f6afbce4723e7329866d6",
+          "title": "AI 数据中心成本每 12 个月就会翻一番——行业需要 6 万亿美元的年收入才能避免严重崩溃 / AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse",
+          "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2e5e04c3ce70912147666339342f07dcd66078fe",
+          "title": "年收入达 6 万亿美元，否则将面临重大崩溃——AI 数据中心成本每 12 个月翻一番 / Generate $6 trillion in annual revenue or face a major collapse — AI data center costs are doubling every 12 months",
+          "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-04T18:05:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5301,
+      "importance": 0.5301,
+      "importance_score": 0.5301,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.913,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T18:05:00Z",
+      "latest_at": "2026-10-04T19:30:56.328191Z",
+      "primary_item": {
+        "id": "e0cb8c31c3d3d8e1896f6afbce4723e7329866d6",
+        "title": "AI 数据中心成本每 12 个月就会翻一番——行业需要 6 万亿美元的年收入才能避免严重崩溃 / AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse",
+        "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_e6dc84249acd",
+      "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
+      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
+      "primary_url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "7fdda745d47b3a3603395b623b51468705002d09",
+          "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
+          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T07:53:45Z"
+        },
+        {
+          "id": "e0107a07192b52e623f73e779a90b98fe272f119",
+          "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
+          "url": "https://news.ycombinator.com/item?id=49951641",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T07:53:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7fdda745d47b3a3603395b623b51468705002d09",
+          "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
+          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T07:53:45Z"
+        },
+        {
+          "id": "e0107a07192b52e623f73e779a90b98fe272f119",
+          "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
+          "url": "https://news.ycombinator.com/item?id=49951641",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T07:53:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5048,
+      "importance": 0.5048,
+      "importance_score": 0.5048,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.772,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T07:53:45Z",
+      "latest_at": "2026-10-04T07:53:45Z",
+      "primary_item": {
+        "id": "7fdda745d47b3a3603395b623b51468705002d09",
+        "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
+        "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_9e41744d0e37",
+      "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路",
+      "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
+      "primary_url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "da6f1529917d43e3fe8371c082528a865ee39522",
+          "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路",
+          "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T18:24:00.451000Z"
+        },
+        {
+          "id": "2d35945f6b3b2d3bf8e7321c21c04d518885a96a",
+          "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路 / Lina Khan says AI companies are following the same playbook that got Big Tech into trouble",
+          "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-04T18:03:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "da6f1529917d43e3fe8371c082528a865ee39522",
+          "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路",
+          "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T18:24:00.451000Z"
+        },
+        {
+          "id": "2d35945f6b3b2d3bf8e7321c21c04d518885a96a",
+          "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路 / Lina Khan says AI companies are following the same playbook that got Big Tech into trouble",
+          "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-04T18:03:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5275,
+      "importance": 0.5275,
+      "importance_score": 0.5275,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8984,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T18:03:27Z",
+      "latest_at": "2026-10-04T18:24:00.451000Z",
+      "primary_item": {
+        "id": "da6f1529917d43e3fe8371c082528a865ee39522",
+        "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路",
+        "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -1061,15 +1433,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5285,
-      "importance": 0.5285,
-      "importance_score": 0.5285,
+      "score": 0.5219,
+      "importance": 0.5219,
+      "importance_score": 0.5219,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9039,
+        "recency": 0.8672,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1084,243 +1456,6 @@
         "url": "https://www.techradar.com/pro/phone-communications/the-agent-itself-has-become-its-own-entity-to-secure-bitdefenders-new-free-mac-tool-goes-after-flaws-that-let-attackers-fool-ai-models",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9dd1927e63f0",
-      "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
-      "url": "https://getjpm.sh",
-      "primary_url": "https://getjpm.sh",
-      "source": "getjpm.sh",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
-          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
-          "url": "https://getjpm.sh",
-          "source": "getjpm.sh",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T00:36:52.982000Z"
-        },
-        {
-          "id": "add12be6da1864ce4936e3937a27451d8330d778",
-          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写 / Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
-          "url": "https://getjpm.sh",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T00:11:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "getjpm.sh"
-      ],
-      "items": [
-        {
-          "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
-          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
-          "url": "https://getjpm.sh",
-          "source": "getjpm.sh",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T00:36:52.982000Z"
-        },
-        {
-          "id": "add12be6da1864ce4936e3937a27451d8330d778",
-          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写 / Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
-          "url": "https://getjpm.sh",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T00:11:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4962,
-      "importance": 0.4962,
-      "importance_score": 0.4962,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7244,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T00:11:58Z",
-      "latest_at": "2026-10-04T00:36:52.982000Z",
-      "primary_item": {
-        "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
-        "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
-        "url": "https://getjpm.sh",
-        "source": "getjpm.sh",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e6dc84249acd",
-      "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
-      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-      "primary_url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
-          "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
-          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T07:53:45Z"
-        },
-        {
-          "id": "e0107a07192b52e623f73e779a90b98fe272f119",
-          "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
-          "url": "https://news.ycombinator.com/item?id=49951641",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T07:53:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
-          "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
-          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T07:53:45Z"
-        },
-        {
-          "id": "e0107a07192b52e623f73e779a90b98fe272f119",
-          "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
-          "url": "https://news.ycombinator.com/item?id=49951641",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T07:53:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5106,
-      "importance": 0.5106,
-      "importance_score": 0.5106,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8047,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T07:53:45Z",
-      "latest_at": "2026-10-04T07:53:45Z",
-      "primary_item": {
-        "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
-        "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
-        "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_9e41744d0e37",
-      "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路",
-      "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
-      "primary_url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "da6f1529917d43e3fe8371c082528a865ee39522",
-          "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路",
-          "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T18:24:00.451000Z"
-        },
-        {
-          "id": "2d35945f6b3b2d3bf8e7321c21c04d518885a96a",
-          "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路 / Lina Khan says AI companies are following the same playbook that got Big Tech into trouble",
-          "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-04T18:03:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "da6f1529917d43e3fe8371c082528a865ee39522",
-          "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路",
-          "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T18:24:00.451000Z"
-        },
-        {
-          "id": "2d35945f6b3b2d3bf8e7321c21c04d518885a96a",
-          "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路 / Lina Khan says AI companies are following the same playbook that got Big Tech into trouble",
-          "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-04T18:03:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9365,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T18:03:27Z",
-      "latest_at": "2026-10-04T18:24:00.451000Z",
-      "primary_item": {
-        "id": "da6f1529917d43e3fe8371c082528a865ee39522",
-        "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路",
-        "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1377,15 +1512,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5285,
-      "importance": 0.5285,
-      "importance_score": 0.5285,
+      "score": 0.5219,
+      "importance": 0.5219,
+      "importance_score": 0.5219,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9039,
+        "recency": 0.8672,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1456,15 +1591,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5205,
-      "importance": 0.5205,
-      "importance_score": 0.5205,
+      "score": 0.5142,
+      "importance": 0.5142,
+      "importance_score": 0.5142,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8592,
+        "recency": 0.8243,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1479,164 +1614,6 @@
         "url": "https://www.businessinsider.com/tested-limits-of-chatgpts-new-try-it-on-shopping-function-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_998f37525252",
-      "title": "System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交 AI 辅助完成的代码",
-      "url": "https://www.ithome.com/1/009/669.htm",
-      "primary_url": "https://www.ithome.com/1/009/669.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "42087b2d7661f2a1b5c645d9c41161aa8b60d19b",
-          "title": "System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交 AI 辅助完成的代码",
-          "url": "https://www.ithome.com/1/009/669.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "40f2b37088e0965325e758b79019e74d3413eee5",
-          "title": "System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交利用 AI 辅助完成的代码",
-          "url": "https://www.ithome.com/1/009/669.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T08:35:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "42087b2d7661f2a1b5c645d9c41161aa8b60d19b",
-          "title": "System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交 AI 辅助完成的代码",
-          "url": "https://www.ithome.com/1/009/669.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "40f2b37088e0965325e758b79019e74d3413eee5",
-          "title": "System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交利用 AI 辅助完成的代码",
-          "url": "https://www.ithome.com/1/009/669.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T08:35:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5178,
-      "importance": 0.5178,
-      "importance_score": 0.5178,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8447,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T08:35:59Z",
-      "latest_at": "2026-10-04T11:15:17.749559Z",
-      "primary_item": {
-        "id": "42087b2d7661f2a1b5c645d9c41161aa8b60d19b",
-        "title": "System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交 AI 辅助完成的代码",
-        "url": "https://www.ithome.com/1/009/669.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_597ec4ea88c9",
-      "title": "大量 AI「幻觉」报告压垮维护团队，谷歌暂停部分开源漏洞奖励计划",
-      "url": "https://www.ithome.com/1/009/673.htm",
-      "primary_url": "https://www.ithome.com/1/009/673.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "d8cb5363e55cf10e628e25a805851028100006b0",
-          "title": "大量 AI「幻觉」报告压垮维护团队，谷歌暂停部分开源漏洞奖励计划",
-          "url": "https://www.ithome.com/1/009/673.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "75fb89412b3681e6b9de3c2c2e948454085eb1f6",
-          "title": "大量 AI“幻觉”报告压垮维护团队，谷歌暂停部分开源漏洞奖励计划",
-          "url": "https://www.ithome.com/1/009/673.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T08:46:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d8cb5363e55cf10e628e25a805851028100006b0",
-          "title": "大量 AI「幻觉」报告压垮维护团队，谷歌暂停部分开源漏洞奖励计划",
-          "url": "https://www.ithome.com/1/009/673.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "75fb89412b3681e6b9de3c2c2e948454085eb1f6",
-          "title": "大量 AI“幻觉”报告压垮维护团队，谷歌暂停部分开源漏洞奖励计划",
-          "url": "https://www.ithome.com/1/009/673.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T08:46:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5178,
-      "importance": 0.5178,
-      "importance_score": 0.5178,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8447,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T08:46:29Z",
-      "latest_at": "2026-10-04T11:15:17.749559Z",
-      "primary_item": {
-        "id": "d8cb5363e55cf10e628e25a805851028100006b0",
-        "title": "大量 AI「幻觉」报告压垮维护团队，谷歌暂停部分开源漏洞奖励计划",
-        "url": "https://www.ithome.com/1/009/673.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
