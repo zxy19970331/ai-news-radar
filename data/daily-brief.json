@@ -1,70 +1,8 @@
 {
-  "generated_at": "2026-10-06T06:46:10.337529Z",
+  "generated_at": "2026-10-06T14:04:44.193132Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_085f7195b66f",
-      "title": "猎鹰阿联酋：当法学硕士学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "primary_url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "03f053f578c9bfdad44131e1587b66ce636bcc64",
-          "title": "猎鹰阿联酋：当法学硕士学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T06:44:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "03f053f578c9bfdad44131e1587b66ce636bcc64",
-          "title": "猎鹰阿联酋：当法学硕士学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T06:44:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8679,
-      "importance": 0.8679,
-      "importance_score": 0.8679,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.9996,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T06:44:39Z",
-      "latest_at": "2026-10-06T06:44:39Z",
-      "primary_item": {
-        "id": "03f053f578c9bfdad44131e1587b66ce636bcc64",
-        "title": "猎鹰阿联酋：当法学硕士学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-        "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
     {
       "story_id": "story_78ad53815846",
       "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印 / Our approach to EU text provenance rules",
@@ -138,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8653,
-      "importance": 0.8653,
-      "importance_score": 0.8653,
+      "score": 0.851,
+      "importance": 0.851,
+      "importance_score": 0.851,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7963,
+        "recency": 0.7166,
         "story_heat": 0.5
       },
       "category": "official",
@@ -167,103 +105,269 @@
       }
     },
     {
-      "story_id": "story_3cbec84de8bf",
-      "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "primary_url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "source": "OpenAI News",
+      "story_id": "story_085f7195b66f",
+      "title": "猎鹰阿联酋：当法学硕士学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "primary_url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "45fb4b2a7cbdba9b5e57a8e18c394834d442c661",
-          "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
-          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-          "source": "OpenAI News",
+          "id": "03f053f578c9bfdad44131e1587b66ce636bcc64",
+          "title": "猎鹰阿联酋：当法学硕士学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+          "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-05T10:00:00Z"
-        },
-        {
-          "id": "482a94c9a2f5ac0861875dee9f7762bffeb78af5",
-          "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
-          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-05T10:00:00Z"
-        },
-        {
-          "id": "d151d9421c1a5d0ee339a004743b10c8eb02dcc3",
-          "title": "OpenAI 在 ChatGPT 中推出全新视觉广告形式",
-          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-10-06T06:44:39Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "Readhub · AI"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "45fb4b2a7cbdba9b5e57a8e18c394834d442c661",
-          "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
-          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-          "source": "OpenAI News",
+          "id": "03f053f578c9bfdad44131e1587b66ce636bcc64",
+          "title": "猎鹰阿联酋：当法学硕士学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+          "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-05T10:00:00Z"
-        },
-        {
-          "id": "482a94c9a2f5ac0861875dee9f7762bffeb78af5",
-          "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
-          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-05T10:00:00Z"
-        },
-        {
-          "id": "d151d9421c1a5d0ee339a004743b10c8eb02dcc3",
-          "title": "OpenAI 在 ChatGPT 中推出全新视觉广告形式",
-          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-10-06T06:44:39Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8554,
-      "importance": 0.8554,
-      "importance_score": 0.8554,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8499,
+      "importance": 0.8499,
+      "importance_score": 0.8499,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7409,
-        "story_heat": 0.5
+        "ai_relevance": 0.99,
+        "recency": 0.8995,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T06:44:39Z",
+      "latest_at": "2026-10-06T06:44:39Z",
+      "primary_item": {
+        "id": "03f053f578c9bfdad44131e1587b66ce636bcc64",
+        "title": "猎鹰阿联酋：当法学硕士学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+        "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_eb3084bd9723",
+      "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
+      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+      "primary_url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+          "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
+          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T10:23:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+          "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
+          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T10:23:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8347,
+      "importance": 0.8347,
+      "importance_score": 0.8347,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9482,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T10:23:38Z",
+      "latest_at": "2026-10-06T10:23:38Z",
+      "primary_item": {
+        "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+        "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
+        "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_820bd24a41c4",
+      "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
+      "url": "https://mistral.ai/news/mistral-large-4",
+      "primary_url": "https://mistral.ai/news/mistral-large-4",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6c25b6630b5c4256ac31216f468f913d6b760714",
+          "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
+          "url": "https://mistral.ai/news/mistral-large-4",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T13:25:50Z"
+        },
+        {
+          "id": "ba758d56c1d93aac93908ec57d1fcd002d11c26e",
+          "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4: \"Le Chonk\"",
+          "url": "https://mistral.ai/news/mistral-large-4",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-06T13:25:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News：AI 热帖"
+      ],
+      "items": [
+        {
+          "id": "6c25b6630b5c4256ac31216f468f913d6b760714",
+          "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
+          "url": "https://mistral.ai/news/mistral-large-4",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T13:25:50Z"
+        },
+        {
+          "id": "ba758d56c1d93aac93908ec57d1fcd002d11c26e",
+          "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4: \"Le Chonk\"",
+          "url": "https://mistral.ai/news/mistral-large-4",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-06T13:25:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9907,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-05T10:00:00Z",
-      "latest_at": "2026-10-05T18:13:39.001373Z",
+      "earliest_at": "2026-10-06T13:25:50Z",
+      "latest_at": "2026-10-06T13:25:50Z",
       "primary_item": {
-        "id": "45fb4b2a7cbdba9b5e57a8e18c394834d442c661",
-        "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
-        "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-        "source": "OpenAI News",
+        "id": "6c25b6630b5c4256ac31216f468f913d6b760714",
+        "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
+        "url": "https://mistral.ai/news/mistral-large-4",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e4f96ea3e7c3",
+      "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
+      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+          "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
+          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:59:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+          "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
+          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:59:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.9,
+        "recency": 0.7269,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T15:59:40Z",
+      "latest_at": "2026-10-05T15:59:40Z",
+      "primary_item": {
+        "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+        "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
+        "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -302,15 +406,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8242,
-      "importance": 0.8242,
-      "importance_score": 0.8242,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8901,
+        "recency": 0.8009,
         "story_heat": 0.0
       },
       "category": "official",
@@ -330,65 +434,125 @@
       }
     },
     {
-      "story_id": "story_e4f96ea3e7c3",
-      "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
-      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
+      "story_id": "story_9bac19027c44",
+      "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+      "url": "https://www.ithome.com/1/009/990.htm",
+      "primary_url": "https://www.ithome.com/1/009/990.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
-          "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
-          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T15:59:40Z"
+          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
+          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "url": "https://www.ithome.com/1/009/990.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T06:25:15Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub AI & ML"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
-          "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
-          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T15:59:40Z"
+          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
+          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "url": "https://www.ithome.com/1/009/990.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T06:25:15Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8154,
-      "importance": 0.8154,
-      "importance_score": 0.8154,
-      "importance_label": "官方更新",
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.9,
-        "recency": 0.8079,
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8953,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-05T15:59:40Z",
-      "latest_at": "2026-10-05T15:59:40Z",
+      "earliest_at": "2026-10-06T06:25:15Z",
+      "latest_at": "2026-10-06T06:25:15Z",
       "primary_item": {
-        "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
-        "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
-        "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
+        "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
+        "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+        "url": "https://www.ithome.com/1/009/990.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f4d22d610773",
+      "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
+      "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
+          "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
+          "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T05:47:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
+          "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
+          "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T05:47:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8871,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T05:47:05Z",
+      "latest_at": "2026-10-06T05:47:05Z",
+      "primary_item": {
+        "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
+        "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
+        "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -464,15 +628,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
+      "score": 0.7901,
+      "importance": 0.7901,
+      "importance_score": 0.7901,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8303,
+        "recency": 0.7471,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -488,128 +652,6 @@
         "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
         "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
         "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9bac19027c44",
-      "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-      "url": "https://www.ithome.com/1/009/990.htm",
-      "primary_url": "https://www.ithome.com/1/009/990.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
-          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "url": "https://www.ithome.com/1/009/990.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T06:25:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
-          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "url": "https://www.ithome.com/1/009/990.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T06:25:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7907,
-      "importance": 0.7907,
-      "importance_score": 0.7907,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.995,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T06:25:15Z",
-      "latest_at": "2026-10-06T06:25:15Z",
-      "primary_item": {
-        "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
-        "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-        "url": "https://www.ithome.com/1/009/990.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f4d22d610773",
-      "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
-      "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
-          "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
-          "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T05:47:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
-          "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
-          "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T05:47:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9859,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T05:47:05Z",
-      "latest_at": "2026-10-06T05:47:05Z",
-      "primary_item": {
-        "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
-        "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
-        "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -631,18 +673,18 @@
           "published_at": "2026-10-05T20:01:09Z"
         },
         {
-          "id": "539723ae370c4e3ff112321bee8d539ee4a84d52",
+          "id": "03b6147524e903c22cd2df034b994431b5c531a3",
           "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
           "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-05T20:06:53Z"
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T07:29:50Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "HN Algolia · AI 24h",
+        "Hacker News · 24h最热",
         "SemiAnalysis 长文 RSS（RSS）"
       ],
       "items": [
@@ -656,36 +698,35 @@
           "published_at": "2026-10-05T20:01:09Z"
         },
         {
-          "id": "539723ae370c4e3ff112321bee8d539ee4a84d52",
+          "id": "03b6147524e903c22cd2df034b994431b5c531a3",
           "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
           "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-05T20:06:53Z"
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T07:29:50Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8562,
+        "recency": 0.7704,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-05T20:01:09Z",
-      "latest_at": "2026-10-05T20:06:53Z",
+      "latest_at": "2026-10-06T07:29:50Z",
       "primary_item": {
         "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
         "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
@@ -729,21 +770,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.74,
+      "importance": 0.74,
+      "importance_score": 0.74,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9406,
+        "recency": 0.8464,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-06T02:31:56Z",
       "latest_at": "2026-10-06T02:31:56Z",
@@ -790,15 +830,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7321,
+      "importance": 0.7321,
+      "importance_score": 0.7321,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9108,
+        "recency": 0.8196,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -812,6 +852,66 @@
         "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
         "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
         "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_75046b1c8fed",
+      "title": "Reflection 发布 501B-A23B 开源编码模型 Beam",
+      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "primary_url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "source": "Latent Space（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3e5236252ad5fe9feb7411f79fb2ff4fe5fb1b64",
+          "title": "Reflection 发布 501B-A23B 开源编码模型 Beam",
+          "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+          "source": "Latent Space（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T06:28:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Latent Space（RSS）"
+      ],
+      "items": [
+        {
+          "id": "3e5236252ad5fe9feb7411f79fb2ff4fe5fb1b64",
+          "title": "Reflection 发布 501B-A23B 开源编码模型 Beam",
+          "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+          "source": "Latent Space（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T06:28:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7309,
+      "importance": 0.7309,
+      "importance_score": 0.7309,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8961,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-06T06:28:43Z",
+      "latest_at": "2026-10-06T06:28:43Z",
+      "primary_item": {
+        "id": "3e5236252ad5fe9feb7411f79fb2ff4fe5fb1b64",
+        "title": "Reflection 发布 501B-A23B 开源编码模型 Beam",
+        "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+        "source": "Latent Space（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -869,15 +969,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9062,
+        "recency": 0.8154,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -893,85 +993,6 @@
         "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
         "source": "Simon Willison 博客",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8869fe719edb",
-      "title": "Safeworld 能否让人们相信 GenAI 机器人不会伤害他们？ / Can Safeworld convince people that GenAI robots won’t hurt them?",
-      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
-      "primary_url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "e90c6facaa12056e5a7805164db61157c4a303e7",
-          "title": "Safeworld 能否让人们相信 GenAI 机器人不会伤害他们？ / Can Safeworld convince people that GenAI robots won’t hurt them?",
-          "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-05T12:00:00Z"
-        },
-        {
-          "id": "e5a9794ad1e9d588c4395cf1cc8ecf37de4a2043",
-          "title": "Safeworld 能否让人们相信新一代人工智能机器人不会伤害他们？ / Can Safeworld convince people that gen AI robots won’t hurt them?",
-          "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T12:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "e90c6facaa12056e5a7805164db61157c4a303e7",
-          "title": "Safeworld 能否让人们相信 GenAI 机器人不会伤害他们？ / Can Safeworld convince people that GenAI robots won’t hurt them?",
-          "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-05T12:00:00Z"
-        },
-        {
-          "id": "e5a9794ad1e9d588c4395cf1cc8ecf37de4a2043",
-          "title": "Safeworld 能否让人们相信新一代人工智能机器人不会伤害他们？ / Can Safeworld convince people that gen AI robots won’t hurt them?",
-          "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T12:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6143,
-      "importance": 0.6143,
-      "importance_score": 0.6143,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.7626,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T12:00:00Z",
-      "latest_at": "2026-10-05T12:00:00Z",
-      "primary_item": {
-        "id": "e90c6facaa12056e5a7805164db61157c4a303e7",
-        "title": "Safeworld 能否让人们相信 GenAI 机器人不会伤害他们？ / Can Safeworld convince people that GenAI robots won’t hurt them?",
-        "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
       }
     },
     {
@@ -1027,15 +1048,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6092,
-      "importance": 0.6092,
-      "importance_score": 0.6092,
+      "score": 0.5931,
+      "importance": 0.5931,
+      "importance_score": 0.5931,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.896,
+        "recency": 0.8062,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1053,553 +1074,397 @@
       }
     },
     {
-      "story_id": "story_ec6a33d8c160",
-      "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-      "source": "The Verge",
-      "source_name": "Curated Media",
+      "story_id": "story_fe3b64d1c15a",
+      "title": "deepseek-ai /      DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "primary_url": "https://github.com/deepseek-ai/DeepGEMM",
+      "source": "github",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
-          "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-05T13:09:48Z"
+          "id": "682d9462209e46e934568c71afd25c98eec7d7c4",
+          "title": "deepseek-ai /      DeepGEMM",
+          "url": "https://github.com/deepseek-ai/DeepGEMM",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-06T14:05:48.996000Z"
         },
         {
-          "id": "b4e193360f4f349951d9bd8fd059a31e76865917",
-          "title": "OpenAI 正在 ChatGPT 中测试更多广告 / OpenAI is testing more ads in ChatGPT",
-          "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt",
-          "source": "Engadget",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T14:38:31Z"
+          "id": "6fdc32cb4c1a274f793d2733802206131e750bb6",
+          "title": "deepseek-ai / DeepGEMM",
+          "url": "https://github.com/deepseek-ai/DeepGEMM",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Engadget",
-        "The Verge"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
-          "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-05T13:09:48Z"
+          "id": "682d9462209e46e934568c71afd25c98eec7d7c4",
+          "title": "deepseek-ai /      DeepGEMM",
+          "url": "https://github.com/deepseek-ai/DeepGEMM",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-06T14:05:48.996000Z"
         },
         {
-          "id": "b4e193360f4f349951d9bd8fd059a31e76865917",
-          "title": "OpenAI 正在 ChatGPT 中测试更多广告 / OpenAI is testing more ads in ChatGPT",
-          "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt",
-          "source": "Engadget",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T14:38:31Z"
+          "id": "6fdc32cb4c1a274f793d2733802206131e750bb6",
+          "title": "deepseek-ai / DeepGEMM",
+          "url": "https://github.com/deepseek-ai/DeepGEMM",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6,
-      "importance": 0.6,
-      "importance_score": 0.6,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5328,
-        "source_tier": 0.58,
-        "ai_relevance": 0.74,
-        "recency": 0.7755,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-05T13:09:48Z",
-      "latest_at": "2026-10-05T14:38:31Z",
+      "earliest_at": "2026-10-06T14:04:44.193132Z",
+      "latest_at": "2026-10-06T14:05:48.996000Z",
       "primary_item": {
-        "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
-        "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "id": "682d9462209e46e934568c71afd25c98eec7d7c4",
+        "title": "deepseek-ai /      DeepGEMM",
+        "url": "https://github.com/deepseek-ai/DeepGEMM",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_2ac688ca159f",
-      "title": "Dust：无需反向传播的Transformer预训练",
-      "url": "https://qlabs.sh/research/dust",
-      "primary_url": "https://qlabs.sh/research/dust",
-      "source": "qlabs.sh",
+      "story_id": "story_774f7412d1a3",
+      "title": "Show HN: ChatGPT 通过普通 SIM 卡接听电话。无需 Twilio，只需一块 6 美元的 ESP32 芯片",
+      "url": "https://www.youtube.com/watch?v=zIVXu6g8qdY",
+      "primary_url": "https://www.youtube.com/watch?v=zIVXu6g8qdY",
+      "source": "www.youtube.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "6abc950411f12d66528f0bb68255022157286bbb",
-          "title": "Dust：无需反向传播的Transformer预训练",
-          "url": "https://qlabs.sh/research/dust",
-          "source": "qlabs.sh",
+          "id": "4244b6207dc2252500dd8a7c8b689a19c6c35513",
+          "title": "Show HN: ChatGPT 通过普通 SIM 卡接听电话。无需 Twilio，只需一块 6 美元的 ESP32 芯片",
+          "url": "https://www.youtube.com/watch?v=zIVXu6g8qdY",
+          "source": "www.youtube.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-06T02:07:52.842000Z"
+          "published_at": "2026-10-06T13:48:01.923000Z"
         },
         {
-          "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
-          "title": "Dust：无需反向传播的Transformer预训练 / Dust: Pretraining Transformers Without Backpropagation",
-          "url": "https://qlabs.sh/research/dust",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T21:15:07Z"
-        },
-        {
-          "id": "7389c431f138003ff1424c3abc0027a58665a484",
-          "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
-          "url": "https://news.ycombinator.com/item?id=49970871",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T21:15:07Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "qlabs.sh"
-      ],
-      "items": [
-        {
-          "id": "6abc950411f12d66528f0bb68255022157286bbb",
-          "title": "Dust：无需反向传播的Transformer预训练",
-          "url": "https://qlabs.sh/research/dust",
-          "source": "qlabs.sh",
+          "id": "59895d6319686064f8cc507080f6b17ce1ff689d",
+          "title": "人工智能已成为人类面临的最大威胁",
+          "url": "https://www.youtube.com/watch?v=ujkD4SxPKOI",
+          "source": "www.youtube.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-06T02:07:52.842000Z"
-        },
-        {
-          "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
-          "title": "Dust：无需反向传播的Transformer预训练 / Dust: Pretraining Transformers Without Backpropagation",
-          "url": "https://qlabs.sh/research/dust",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T21:15:07Z"
-        },
-        {
-          "id": "7389c431f138003ff1424c3abc0027a58665a484",
-          "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
-          "url": "https://news.ycombinator.com/item?id=49970871",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T21:15:07Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5591,
-      "importance": 0.5591,
-      "importance_score": 0.5591,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9352,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T21:15:07Z",
-      "latest_at": "2026-10-06T02:07:52.842000Z",
-      "primary_item": {
-        "id": "6abc950411f12d66528f0bb68255022157286bbb",
-        "title": "Dust：无需反向传播的Transformer预训练",
-        "url": "https://qlabs.sh/research/dust",
-        "source": "qlabs.sh",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_cf509067bcf9",
-      "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
-      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
-      "primary_url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
-      "source": "www.niemanlab.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1318638ce556ac31bceb2a87eda81988b5311701",
-          "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
-          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
-          "source": "www.niemanlab.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T00:19:39.500000Z"
-        },
-        {
-          "id": "b01db7403fc715c7d7920fbea41774cf3146fac8",
-          "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T22:46:45Z"
-        },
-        {
-          "id": "2cb70f077d555c7fa7caf48e06b154d6a1751555",
-          "title": "ChatGPT 正在将真正的漫画家签名添加到假《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-          "url": "https://news.ycombinator.com/item?id=49971846",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T22:46:45Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.niemanlab.org"
-      ],
-      "items": [
-        {
-          "id": "1318638ce556ac31bceb2a87eda81988b5311701",
-          "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
-          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
-          "source": "www.niemanlab.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T00:19:39.500000Z"
-        },
-        {
-          "id": "b01db7403fc715c7d7920fbea41774cf3146fac8",
-          "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T22:46:45Z"
-        },
-        {
-          "id": "2cb70f077d555c7fa7caf48e06b154d6a1751555",
-          "title": "ChatGPT 正在将真正的漫画家签名添加到假《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-          "url": "https://news.ycombinator.com/item?id=49971846",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T22:46:45Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5548,
-      "importance": 0.5548,
-      "importance_score": 0.5548,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9112,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T22:46:45Z",
-      "latest_at": "2026-10-06T00:19:39.500000Z",
-      "primary_item": {
-        "id": "1318638ce556ac31bceb2a87eda81988b5311701",
-        "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
-        "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
-        "source": "www.niemanlab.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ec9915c4fbdd",
-      "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "primary_url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "source": "www.vals.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f3eac503aa67042b174a6f86849c1975352cea15",
-          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-          "source": "www.vals.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T22:12:05.081000Z"
-        },
-        {
-          "id": "59eb8333c9559d98d3ce3c22f939e80069c7862f",
-          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T21:00:21Z"
-        },
-        {
-          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
-          "title": "Opus 5.5 特工发现两种室温磁性半导体候选物 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "url": "https://news.ycombinator.com/item?id=49970667",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T21:00:21Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.vals.ai"
-      ],
-      "items": [
-        {
-          "id": "f3eac503aa67042b174a6f86849c1975352cea15",
-          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-          "source": "www.vals.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T22:12:05.081000Z"
-        },
-        {
-          "id": "59eb8333c9559d98d3ce3c22f939e80069c7862f",
-          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T21:00:21Z"
-        },
-        {
-          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
-          "title": "Opus 5.5 特工发现两种室温磁性半导体候选物 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "url": "https://news.ycombinator.com/item?id=49970667",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T21:00:21Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5499,
-      "importance": 0.5499,
-      "importance_score": 0.5499,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8836,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T21:00:21Z",
-      "latest_at": "2026-10-05T22:12:05.081000Z",
-      "primary_item": {
-        "id": "f3eac503aa67042b174a6f86849c1975352cea15",
-        "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-        "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-        "source": "www.vals.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e0fecada5899",
-      "title": "OpenAI承认对澳大利亚政府黑客攻击事件的应对“不够好”",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1f0dc42561415124bab43cb6716493cc4f1f41c1",
-          "title": "OpenAI承认对澳大利亚政府黑客攻击事件的应对“不够好”",
-          "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T06:22:15.872000Z"
-        },
-        {
-          "id": "54da330ee2a8b4110deb1b9015435b7b4b68e81c",
-          "title": "OpenAI承认对澳大利亚政府黑客攻击事件的应对“不够好” / OpenAI admits response to Australian government hacks 'not good enough'",
-          "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-06T06:00:53Z"
+          "published_at": "2026-10-06T11:25:06.273000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "BBC News (世界新闻)",
-        "www.bbc.co.uk"
+        "www.youtube.com"
       ],
       "items": [
         {
-          "id": "1f0dc42561415124bab43cb6716493cc4f1f41c1",
-          "title": "OpenAI承认对澳大利亚政府黑客攻击事件的应对“不够好”",
-          "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
+          "id": "4244b6207dc2252500dd8a7c8b689a19c6c35513",
+          "title": "Show HN: ChatGPT 通过普通 SIM 卡接听电话。无需 Twilio，只需一块 6 美元的 ESP32 芯片",
+          "url": "https://www.youtube.com/watch?v=zIVXu6g8qdY",
+          "source": "www.youtube.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-06T06:22:15.872000Z"
+          "published_at": "2026-10-06T13:48:01.923000Z"
         },
         {
-          "id": "54da330ee2a8b4110deb1b9015435b7b4b68e81c",
-          "title": "OpenAI承认对澳大利亚政府黑客攻击事件的应对“不够好” / OpenAI admits response to Australian government hacks 'not good enough'",
-          "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-06T06:00:53Z"
+          "id": "59895d6319686064f8cc507080f6b17ce1ff689d",
+          "title": "人工智能已成为人类面临的最大威胁",
+          "url": "https://www.youtube.com/watch?v=ujkD4SxPKOI",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T11:25:06.273000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9943,
+        "recency": 0.996,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-06T06:00:53Z",
-      "latest_at": "2026-10-06T06:22:15.872000Z",
+      "earliest_at": "2026-10-06T11:25:06.273000Z",
+      "latest_at": "2026-10-06T13:48:01.923000Z",
       "primary_item": {
-        "id": "1f0dc42561415124bab43cb6716493cc4f1f41c1",
-        "title": "OpenAI承认对澳大利亚政府黑客攻击事件的应对“不够好”",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
+        "id": "4244b6207dc2252500dd8a7c8b689a19c6c35513",
+        "title": "Show HN: ChatGPT 通过普通 SIM 卡接听电话。无需 Twilio，只需一块 6 美元的 ESP32 芯片",
+        "url": "https://www.youtube.com/watch?v=zIVXu6g8qdY",
+        "source": "www.youtube.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_732b4103dd14",
-      "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-      "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
-      "primary_url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_7514ad06d88b",
+      "title": "甲骨文引发了人工智能泡沫的破裂 / Oracle Triggered the Implosion of the AI Bubble",
+      "url": "https://medium.com/predict/what-everyone-had-been-waiting-for-and-fearing-oracle-just-triggered-the-implosion-of-the-ai-121e0c8d368e",
+      "primary_url": "https://medium.com/predict/what-everyone-had-been-waiting-for-and-fearing-oracle-just-triggered-the-implosion-of-the-ai-121e0c8d368e",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "eac00cc5c34397209550ab29883d539daf7546b6",
-          "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-          "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T15:06:27Z"
+          "id": "b4ee70768d6997ce58a1398eec6b3197b9dd8c5c",
+          "title": "甲骨文引发了人工智能泡沫的破裂 / Oracle Triggered the Implosion of the AI Bubble",
+          "url": "https://medium.com/predict/what-everyone-had-been-waiting-for-and-fearing-oracle-just-triggered-the-implosion-of-the-ai-121e0c8d368e",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-06T13:42:56Z"
         },
         {
-          "id": "065180f367197696a797f227ee30c27a5e0f0ec0",
-          "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-          "url": "https://news.ycombinator.com/item?id=49965833",
+          "id": "1508bbaf5b2b967c8b3710eb6065a869ee6be85e",
+          "title": "甲骨文引发了人工智能泡沫的破裂 / Oracle Triggered the Implosion of the AI Bubble",
+          "url": "https://news.ycombinator.com/item?id=49978367",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-05T15:06:27Z"
-        },
-        {
-          "id": "bfe2150c777cd87631161420d58652649ca7ddcb",
-          "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-          "url": "https://www.reddit.com/r/nottheonion/comments/1wy7x58/people_are_asking_chatgpt_to_help_them_decide_how",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T12:59:37Z"
+          "published_at": "2026-10-06T13:42:56Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Reddit (热门)",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "eac00cc5c34397209550ab29883d539daf7546b6",
-          "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-          "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T15:06:27Z"
+          "id": "b4ee70768d6997ce58a1398eec6b3197b9dd8c5c",
+          "title": "甲骨文引发了人工智能泡沫的破裂 / Oracle Triggered the Implosion of the AI Bubble",
+          "url": "https://medium.com/predict/what-everyone-had-been-waiting-for-and-fearing-oracle-just-triggered-the-implosion-of-the-ai-121e0c8d368e",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-06T13:42:56Z"
         },
         {
-          "id": "065180f367197696a797f227ee30c27a5e0f0ec0",
-          "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-          "url": "https://news.ycombinator.com/item?id=49965833",
+          "id": "1508bbaf5b2b967c8b3710eb6065a869ee6be85e",
+          "title": "甲骨文引发了人工智能泡沫的破裂 / Oracle Triggered the Implosion of the AI Bubble",
+          "url": "https://news.ycombinator.com/item?id=49978367",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-05T15:06:27Z"
-        },
-        {
-          "id": "bfe2150c777cd87631161420d58652649ca7ddcb",
-          "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-          "url": "https://www.reddit.com/r/nottheonion/comments/1wy7x58/people_are_asking_chatgpt_to_help_them_decide_how",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T12:59:37Z"
+          "published_at": "2026-10-06T13:42:56Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7976,
-        "story_heat": 0.5
+        "recency": 0.9948,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-05T12:59:37Z",
-      "latest_at": "2026-10-05T15:06:27Z",
+      "earliest_at": "2026-10-06T13:42:56Z",
+      "latest_at": "2026-10-06T13:42:56Z",
       "primary_item": {
-        "id": "eac00cc5c34397209550ab29883d539daf7546b6",
-        "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-        "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "b4ee70768d6997ce58a1398eec6b3197b9dd8c5c",
+        "title": "甲骨文引发了人工智能泡沫的破裂 / Oracle Triggered the Implosion of the AI Bubble",
+        "url": "https://medium.com/predict/what-everyone-had-been-waiting-for-and-fearing-oracle-just-triggered-the-implosion-of-the-ai-121e0c8d368e",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_98921737f929",
+      "title": "Ask HN: 除了Claude和Codex之外，你还在使用哪些模型和训练集？",
+      "url": "https://news.ycombinator.com/item?id=49978163",
+      "primary_url": "https://news.ycombinator.com/item?id=49978163",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b5f040af42597cf074333b7a8d92258e4bca718c",
+          "title": "Ask HN: 除了Claude和Codex之外，你还在使用哪些模型和训练集？",
+          "url": "https://news.ycombinator.com/item?id=49978163",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T13:32:16.986000Z"
+        },
+        {
+          "id": "6e604e9468e5973f1a58377bcac883b0bca19b67",
+          "title": "Ask HN: 除了Claude和Codex之外，你还在使用哪些模型和训练集？ / Ask HN: What models and harnesses are you using that are not Claude or Codex?",
+          "url": "https://news.ycombinator.com/item?id=49978163",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-06T13:30:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "b5f040af42597cf074333b7a8d92258e4bca718c",
+          "title": "Ask HN: 除了Claude和Codex之外，你还在使用哪些模型和训练集？",
+          "url": "https://news.ycombinator.com/item?id=49978163",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T13:32:16.986000Z"
+        },
+        {
+          "id": "6e604e9468e5973f1a58377bcac883b0bca19b67",
+          "title": "Ask HN: 除了Claude和Codex之外，你还在使用哪些模型和训练集？ / Ask HN: What models and harnesses are you using that are not Claude or Codex?",
+          "url": "https://news.ycombinator.com/item?id=49978163",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-06T13:30:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5444,
+      "importance": 0.5444,
+      "importance_score": 0.5444,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9922,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T13:30:15Z",
+      "latest_at": "2026-10-06T13:32:16.986000Z",
+      "primary_item": {
+        "id": "b5f040af42597cf074333b7a8d92258e4bca718c",
+        "title": "Ask HN: 除了Claude和Codex之外，你还在使用哪些模型和训练集？",
+        "url": "https://news.ycombinator.com/item?id=49978163",
+        "source": "news.ycombinator.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5888c276693c",
+      "title": "米斯特拉尔 大号 4",
+      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "primary_url": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "source": "docs.mistral.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "dbdb4937d5f8c1e956634626c8da8bfc0f1ee446",
+          "title": "米斯特拉尔 大号 4",
+          "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+          "source": "docs.mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T13:32:16.752000Z"
+        },
+        {
+          "id": "dc7f51974ef354539b8acffae39346b181215590",
+          "title": "米斯特拉尔 大号 4 / Mistral Large 4",
+          "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-06T13:15:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "docs.mistral.ai"
+      ],
+      "items": [
+        {
+          "id": "dbdb4937d5f8c1e956634626c8da8bfc0f1ee446",
+          "title": "米斯特拉尔 大号 4",
+          "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+          "source": "docs.mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T13:32:16.752000Z"
+        },
+        {
+          "id": "dc7f51974ef354539b8acffae39346b181215590",
+          "title": "米斯特拉尔 大号 4 / Mistral Large 4",
+          "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-06T13:15:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5444,
+      "importance": 0.5444,
+      "importance_score": 0.5444,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9922,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T13:15:49Z",
+      "latest_at": "2026-10-06T13:32:16.752000Z",
+      "primary_item": {
+        "id": "dbdb4937d5f8c1e956634626c8da8bfc0f1ee446",
+        "title": "米斯特拉尔 大号 4",
+        "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+        "source": "docs.mistral.ai",
+        "source_name": "Buzzing"
       }
     }
   ]
