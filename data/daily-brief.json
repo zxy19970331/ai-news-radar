@@ -1,8 +1,354 @@
 {
-  "generated_at": "2026-10-07T11:58:01.205116Z",
+  "generated_at": "2026-10-07T18:50:17.338187Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_0ca1450969b5",
+      "title": "OpenAI 向所有 ChatGPT 用户开放 GPT-6，并推出 Intelligent UI / GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "primary_url": "https://openai.com/index/gpt-6-for-everyone",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "aa1be73cdc1c440199f2a700f12559fa44e39511",
+          "title": "OpenAI 向所有 ChatGPT 用户开放 GPT-6，并推出 Intelligent UI / GPT-6 and Intelligent UI for everyone",
+          "url": "https://openai.com/index/gpt-6-for-everyone",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T00:00:00Z"
+        },
+        {
+          "id": "3d17c4da4e6f42b643e72e0749f72ec0f16f2c43",
+          "title": "OpenAI 向所有 ChatGPT 用户开放 GPT-6，并推出 Intelligent UI",
+          "url": "https://openai.com/index/gpt-6-for-everyone",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:00:58Z"
+        },
+        {
+          "id": "e2823ef39574320f4468e7848ed6e55fbe258413",
+          "title": "GPT-6 面向所有人推出，带来智能 UI",
+          "url": "https://openai.com/index/gpt-6-for-everyone",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7b1e6f0f5837f043c2d13e7d352e9c0bc543d662",
+          "title": "OpenAI 向所有 ChatGPT 用户开放 GPT-6，并推出 Intelligent UI / GPT‑6 and Intelligent UI for everyone",
+          "url": "https://openai.com/index/gpt-6-for-everyone",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-07T18:00:58Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "aa1be73cdc1c440199f2a700f12559fa44e39511",
+          "title": "OpenAI 向所有 ChatGPT 用户开放 GPT-6，并推出 Intelligent UI / GPT-6 and Intelligent UI for everyone",
+          "url": "https://openai.com/index/gpt-6-for-everyone",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T00:00:00Z"
+        },
+        {
+          "id": "3d17c4da4e6f42b643e72e0749f72ec0f16f2c43",
+          "title": "OpenAI 向所有 ChatGPT 用户开放 GPT-6，并推出 Intelligent UI",
+          "url": "https://openai.com/index/gpt-6-for-everyone",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:00:58Z"
+        },
+        {
+          "id": "e2823ef39574320f4468e7848ed6e55fbe258413",
+          "title": "GPT-6 面向所有人推出，带来智能 UI",
+          "url": "https://openai.com/index/gpt-6-for-everyone",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7b1e6f0f5837f043c2d13e7d352e9c0bc543d662",
+          "title": "OpenAI 向所有 ChatGPT 用户开放 GPT-6，并推出 Intelligent UI / GPT‑6 and Intelligent UI for everyone",
+          "url": "https://openai.com/index/gpt-6-for-everyone",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-07T18:00:58Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8921,
+      "importance": 0.8921,
+      "importance_score": 0.8921,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7618,
+        "story_heat": 0.75
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T00:00:00Z",
+      "latest_at": "2026-10-07T18:50:17.338187Z",
+      "primary_item": {
+        "id": "aa1be73cdc1c440199f2a700f12559fa44e39511",
+        "title": "OpenAI 向所有 ChatGPT 用户开放 GPT-6，并推出 Intelligent UI / GPT-6 and Intelligent UI for everyone",
+        "url": "https://openai.com/index/gpt-6-for-everyone",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5bdd694c6290",
+      "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
+          "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T12:45:31Z"
+        },
+        {
+          "id": "e604890092b2b3e860f6a73a9463552f349d2f3d",
+          "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+          "source": "Hugging Face 社区博客（混合发现）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T12:45:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Hugging Face 社区博客（混合发现）"
+      ],
+      "items": [
+        {
+          "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
+          "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T12:45:31Z"
+        },
+        {
+          "id": "e604890092b2b3e860f6a73a9463552f349d2f3d",
+          "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+          "source": "Hugging Face 社区博客（混合发现）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T12:45:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8699,
+      "importance": 0.8699,
+      "importance_score": 0.8699,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.916,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T12:45:31Z",
+      "latest_at": "2026-10-07T12:45:31Z",
+      "primary_item": {
+        "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
+        "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ea4f899dc8df",
+      "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
+          "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T12:00:00Z"
+        },
+        {
+          "id": "61c14a01e0333dd09aa20b3d42db2b7bc47adc2d",
+          "title": "Google Playground：创建和玩自定义游戏 / Google Playground: Create and play custom games",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-07T12:28:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google AI Blog",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
+          "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T12:00:00Z"
+        },
+        {
+          "id": "61c14a01e0333dd09aa20b3d42db2b7bc47adc2d",
+          "title": "Google Playground：创建和玩自定义游戏 / Google Playground: Create and play custom games",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-07T12:28:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8521,
+      "importance": 0.8521,
+      "importance_score": 0.8521,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.906,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T12:00:00Z",
+      "latest_at": "2026-10-07T12:28:36Z",
+      "primary_item": {
+        "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
+        "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_87f43b6934de",
+      "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
+      "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
+          "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
+          "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T15:46:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
+          "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
+          "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T15:46:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8502,
+      "importance": 0.8502,
+      "importance_score": 0.8502,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.9567,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T15:46:17Z",
+      "latest_at": "2026-10-07T15:46:17Z",
+      "primary_item": {
+        "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
+        "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
+        "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_0a7d6e8e8b6e",
       "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
@@ -76,15 +422,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8568,
-      "importance": 0.8568,
-      "importance_score": 0.8568,
+      "score": 0.8433,
+      "importance": 0.8433,
+      "importance_score": 0.8433,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7935,
+        "recency": 0.7186,
         "story_heat": 0.5
       },
       "category": "official",
@@ -105,103 +451,64 @@
       }
     },
     {
-      "story_id": "story_47b9255d8fa0",
-      "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "primary_url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "source": "OpenAI News",
+      "story_id": "story_b96448f5a552",
+      "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
+      "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d5265641b5ae86813b271a1107948f3fc033e728",
-          "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
-          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-          "source": "OpenAI News",
+          "id": "02228483c26c0e348ca6cc525c33d8d6d485fa1c",
+          "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
+          "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-06T12:00:00Z"
-        },
-        {
-          "id": "02b12876fb3eb437aec169fe451761ddd907d8ac",
-          "title": "OpenAI 发布内部前沿模型产出的数学研究成果",
-          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T23:01:09.228000Z"
-        },
-        {
-          "id": "6868abd919243a6ee9a41be56fbf208804417bfb",
-          "title": "分享人工智能在数学领域的进展",
-          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T23:01:09.228000Z"
+          "published_at": "2026-10-07T17:45:34Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "d5265641b5ae86813b271a1107948f3fc033e728",
-          "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
-          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-          "source": "OpenAI News",
+          "id": "02228483c26c0e348ca6cc525c33d8d6d485fa1c",
+          "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
+          "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-06T12:00:00Z"
-        },
-        {
-          "id": "02b12876fb3eb437aec169fe451761ddd907d8ac",
-          "title": "OpenAI 发布内部前沿模型产出的数学研究成果",
-          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T23:01:09.228000Z"
-        },
-        {
-          "id": "6868abd919243a6ee9a41be56fbf208804417bfb",
-          "title": "分享人工智能在数学领域的进展",
-          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T23:01:09.228000Z"
+          "published_at": "2026-10-07T17:45:34Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8493,
-      "importance": 0.8493,
-      "importance_score": 0.8493,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7074,
-        "story_heat": 0.5
+        "ai_relevance": 0.87,
+        "recency": 0.9845,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-06T12:00:00Z",
-      "latest_at": "2026-10-06T23:01:09.228000Z",
+      "earliest_at": "2026-10-07T17:45:34Z",
+      "latest_at": "2026-10-07T17:45:34Z",
       "primary_item": {
-        "id": "d5265641b5ae86813b271a1107948f3fc033e728",
-        "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
-        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-        "source": "OpenAI News",
+        "id": "02228483c26c0e348ca6cc525c33d8d6d485fa1c",
+        "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
+        "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -240,15 +547,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8414,
-      "importance": 0.8414,
-      "importance_score": 0.8414,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8413,
+        "recency": 0.7618,
         "story_heat": 0.0
       },
       "category": "official",
@@ -265,6 +572,740 @@
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0825a4897dea",
+      "title": "边缘的多模态开放 d1 决策模型 / Multimodal open d1 decision models for the edge",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "primary_url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3b76b7e104965e4445c3db517168d5090ab13a54",
+          "title": "边缘的多模态开放 d1 决策模型 / Multimodal open d1 decision models for the edge",
+          "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T16:54:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "3b76b7e104965e4445c3db517168d5090ab13a54",
+          "title": "边缘的多模态开放 d1 决策模型 / Multimodal open d1 decision models for the edge",
+          "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T16:54:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8551,
+      "importance": 0.8551,
+      "importance_score": 0.8551,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9725,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T16:54:33Z",
+      "latest_at": "2026-10-07T16:54:33Z",
+      "primary_item": {
+        "id": "3b76b7e104965e4445c3db517168d5090ab13a54",
+        "title": "边缘的多模态开放 d1 决策模型 / Multimodal open d1 decision models for the edge",
+        "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5260e9d19f4f",
+      "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
+      "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+      "primary_url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
+          "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
+          "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T16:13:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
+          "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
+          "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T16:13:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8374,
+      "importance": 0.8374,
+      "importance_score": 0.8374,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9631,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T16:13:56Z",
+      "latest_at": "2026-10-07T16:13:56Z",
+      "primary_item": {
+        "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
+        "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
+        "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ad4e14640e35",
+      "title": "帮助青少年学习、规划和塑造人工智能的未来 / Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "primary_url": "https://openai.com/index/teens-learn-and-plan",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "57120d1b9ceca62656fc674714584e893f2a5e73",
+          "title": "帮助青少年学习、规划和塑造人工智能的未来 / Helping teens learn, plan, and shape the future of AI",
+          "url": "https://openai.com/index/teens-learn-and-plan",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "57120d1b9ceca62656fc674714584e893f2a5e73",
+          "title": "帮助青少年学习、规划和塑造人工智能的未来 / Helping teens learn, plan, and shape the future of AI",
+          "url": "https://openai.com/index/teens-learn-and-plan",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8351,
+      "importance": 0.8351,
+      "importance_score": 0.8351,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.906,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T12:00:00Z",
+      "latest_at": "2026-10-07T12:00:00Z",
+      "primary_item": {
+        "id": "57120d1b9ceca62656fc674714584e893f2a5e73",
+        "title": "帮助青少年学习、规划和塑造人工智能的未来 / Helping teens learn, plan, and shape the future of AI",
+        "url": "https://openai.com/index/teens-learn-and-plan",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_00344543d22c",
+      "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
+      "url": "https://www.404media.co/undue-emotional-weight",
+      "primary_url": "https://www.404media.co/undue-emotional-weight",
+      "source": "404 Media（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "03ecaddb9ea7906c1f5f4c067391fc1423327117",
+          "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
+          "url": "https://www.404media.co/undue-emotional-weight",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T14:46:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "404 Media（RSS）"
+      ],
+      "items": [
+        {
+          "id": "03ecaddb9ea7906c1f5f4c067391fc1423327117",
+          "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
+          "url": "https://www.404media.co/undue-emotional-weight",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T14:46:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.943,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T14:46:15Z",
+      "latest_at": "2026-10-07T14:46:15Z",
+      "primary_item": {
+        "id": "03ecaddb9ea7906c1f5f4c067391fc1423327117",
+        "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
+        "url": "https://www.404media.co/undue-emotional-weight",
+        "source": "404 Media（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_04e9dc3828b5",
+      "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "primary_url": "https://openai.com/index/radisson",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c578cd61b355d43d82030df84d48a64b5415b5a3",
+          "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
+          "url": "https://openai.com/index/radisson",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c578cd61b355d43d82030df84d48a64b5415b5a3",
+          "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
+          "url": "https://openai.com/index/radisson",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8429,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T07:00:00Z",
+      "latest_at": "2026-10-07T07:00:00Z",
+      "primary_item": {
+        "id": "c578cd61b355d43d82030df84d48a64b5415b5a3",
+        "title": "丽笙酒店集团将酒店发现带入 ChatGPT / Radisson Hotel Group brings hotel discovery into ChatGPT",
+        "url": "https://openai.com/index/radisson",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_47b9255d8fa0",
+      "title": "OpenAI 发布内部前沿模型产出的数学研究成果",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "primary_url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "02b12876fb3eb437aec169fe451761ddd907d8ac",
+          "title": "OpenAI 发布内部前沿模型产出的数学研究成果",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T23:01:09.228000Z"
+        },
+        {
+          "id": "5dafa34c0f3b685ee17b7091f4f4cb94fee1eaf6",
+          "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6868abd919243a6ee9a41be56fbf208804417bfb",
+          "title": "分享人工智能在数学领域的进展",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T23:01:09.228000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "Readhub · AI",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "02b12876fb3eb437aec169fe451761ddd907d8ac",
+          "title": "OpenAI 发布内部前沿模型产出的数学研究成果",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T23:01:09.228000Z"
+        },
+        {
+          "id": "5dafa34c0f3b685ee17b7091f4f4cb94fee1eaf6",
+          "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6868abd919243a6ee9a41be56fbf208804417bfb",
+          "title": "分享人工智能在数学领域的进展",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T23:01:09.228000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7698,
+      "importance": 0.7698,
+      "importance_score": 0.7698,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7511,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T23:01:09.228000Z",
+      "latest_at": "2026-10-06T23:42:27.656241Z",
+      "primary_item": {
+        "id": "02b12876fb3eb437aec169fe451761ddd907d8ac",
+        "title": "OpenAI 发布内部前沿模型产出的数学研究成果",
+        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_566daffb0c84",
+      "title": "a16z 解析德州为何让数据中心排队等电",
+      "url": "https://www.a16z.news/p/why-texas-is-making-data-centers",
+      "primary_url": "https://www.a16z.news/p/why-texas-is-making-data-centers",
+      "source": "a16z：News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "24652cdfe96cc0b3052d6e1e362e94e382208125",
+          "title": "a16z 解析德州为何让数据中心排队等电",
+          "url": "https://www.a16z.news/p/why-texas-is-making-data-centers",
+          "source": "a16z：News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T14:01:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "a16z：News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "24652cdfe96cc0b3052d6e1e362e94e382208125",
+          "title": "a16z 解析德州为何让数据中心排队等电",
+          "url": "https://www.a16z.news/p/why-texas-is-making-data-centers",
+          "source": "a16z：News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T14:01:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9329,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T14:01:44Z",
+      "latest_at": "2026-10-07T14:01:44Z",
+      "primary_item": {
+        "id": "24652cdfe96cc0b3052d6e1e362e94e382208125",
+        "title": "a16z 解析德州为何让数据中心排队等电",
+        "url": "https://www.a16z.news/p/why-texas-is-making-data-centers",
+        "source": "a16z：News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1c5b8d547c1a",
+      "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
+      "url": "https://x.com/cursor_ai/status/2107897257651769464",
+      "primary_url": "https://x.com/cursor_ai/status/2107897257651769464",
+      "source": "X：Cursor (@cursor_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "53355e489f229621f1e8889e7bc47861aa900a2a",
+          "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
+          "url": "https://x.com/cursor_ai/status/2107897257651769464",
+          "source": "X：Cursor (@cursor_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:14:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Cursor (@cursor_ai)"
+      ],
+      "items": [
+        {
+          "id": "53355e489f229621f1e8889e7bc47861aa900a2a",
+          "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
+          "url": "https://x.com/cursor_ai/status/2107897257651769464",
+          "source": "X：Cursor (@cursor_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:14:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9913,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T18:14:03Z",
+      "latest_at": "2026-10-07T18:14:03Z",
+      "primary_item": {
+        "id": "53355e489f229621f1e8889e7bc47861aa900a2a",
+        "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
+        "url": "https://x.com/cursor_ai/status/2107897257651769464",
+        "source": "X：Cursor (@cursor_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_dc38a9e38395",
+      "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
+      "url": "https://x.com/ClaudeDevs/status/2107895957933408429",
+      "primary_url": "https://x.com/ClaudeDevs/status/2107895957933408429",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e61ba62b2c702585858363c034d3d4f396b2775a",
+          "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
+          "url": "https://x.com/ClaudeDevs/status/2107895957933408429",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:08:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)"
+      ],
+      "items": [
+        {
+          "id": "e61ba62b2c702585858363c034d3d4f396b2775a",
+          "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
+          "url": "https://x.com/ClaudeDevs/status/2107895957933408429",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:08:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9901,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T18:08:53Z",
+      "latest_at": "2026-10-07T18:08:53Z",
+      "primary_item": {
+        "id": "e61ba62b2c702585858363c034d3d4f396b2775a",
+        "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
+        "url": "https://x.com/ClaudeDevs/status/2107895957933408429",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4250e365b896",
+      "title": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
+      "primary_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "af806127f0c12c9d81388cad25dcf95b334e1a89",
+          "title": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:10:20Z"
+        },
+        {
+          "id": "a50d0cc054be486bcbe85db257ed84080580ee8a",
+          "title": "v2.1.293",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
+          "source": "Claude Code Releases",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-07T18:10:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Claude Code Releases",
+        "Claude Code：GitHub Releases（RSS）"
+      ],
+      "items": [
+        {
+          "id": "af806127f0c12c9d81388cad25dcf95b334e1a89",
+          "title": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:10:20Z"
+        },
+        {
+          "id": "a50d0cc054be486bcbe85db257ed84080580ee8a",
+          "title": "v2.1.293",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
+          "source": "Claude Code Releases",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-07T18:10:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9904,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T18:10:20Z",
+      "latest_at": "2026-10-07T18:10:20Z",
+      "primary_item": {
+        "id": "af806127f0c12c9d81388cad25dcf95b334e1a89",
+        "title": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
+        "source": "Claude Code：GitHub Releases（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c7de22c7db25",
+      "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
+      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
+      "primary_url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
+      "source": "Microsoft Research 博客（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "74ccba7acc445f10a7295fa2758bf445780c47b6",
+          "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
+          "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
+          "source": "Microsoft Research 博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Microsoft Research 博客（RSS）"
+      ],
+      "items": [
+        {
+          "id": "74ccba7acc445f10a7295fa2758bf445780c47b6",
+          "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
+          "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
+          "source": "Microsoft Research 博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9598,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T16:00:00Z",
+      "latest_at": "2026-10-07T16:00:00Z",
+      "primary_item": {
+        "id": "74ccba7acc445f10a7295fa2758bf445780c47b6",
+        "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
+        "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
+        "source": "Microsoft Research 博客（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -302,15 +1343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8228,
-      "importance": 0.8228,
-      "importance_score": 0.8228,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8379,
+        "recency": 0.7587,
         "story_heat": 0.0
       },
       "category": "official",
@@ -330,1296 +1371,63 @@
       }
     },
     {
-      "story_id": "story_820bd24a41c4",
-      "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
-      "url": "https://mistral.ai/news/mistral-large-4",
-      "primary_url": "https://mistral.ai/news/mistral-large-4",
-      "source": "Hacker News：AI 热帖",
+      "story_id": "story_778cbc36b006",
+      "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
+      "url": "https://x.com/claudeai/status/2107894060229034197",
+      "primary_url": "https://x.com/claudeai/status/2107894060229034197",
+      "source": "X：Claude (@claudeai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6c25b6630b5c4256ac31216f468f913d6b760714",
-          "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
-          "url": "https://mistral.ai/news/mistral-large-4",
-          "source": "Hacker News：AI 热帖",
+          "id": "6c786561686de448551f4ac828051ffb1cf3cacf",
+          "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
+          "url": "https://x.com/claudeai/status/2107894060229034197",
+          "source": "X：Claude (@claudeai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-06T13:25:50Z"
-        },
-        {
-          "id": "ba946f5e6f5310fd7ec7e7cc0db1471f401f243f",
-          "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4：“Le Chonk”",
-          "url": "https://mistral.ai/news/mistral-large-4",
-          "source": "mistral.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T14:19:10.507000Z"
-        },
-        {
-          "id": "7f1b9c93603f92556e5345281a6250da21523e03",
-          "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4: \"Le Chonk\"",
-          "url": "https://mistral.ai/news/mistral-large-4",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T13:25:50Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News：AI 热帖",
-        "mistral.ai"
-      ],
-      "items": [
-        {
-          "id": "6c25b6630b5c4256ac31216f468f913d6b760714",
-          "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
-          "url": "https://mistral.ai/news/mistral-large-4",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T13:25:50Z"
-        },
-        {
-          "id": "ba946f5e6f5310fd7ec7e7cc0db1471f401f243f",
-          "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4：“Le Chonk”",
-          "url": "https://mistral.ai/news/mistral-large-4",
-          "source": "mistral.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T14:19:10.507000Z"
-        },
-        {
-          "id": "7f1b9c93603f92556e5345281a6250da21523e03",
-          "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4: \"Le Chonk\"",
-          "url": "https://mistral.ai/news/mistral-large-4",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T13:25:50Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7826,
-      "importance": 0.7826,
-      "importance_score": 0.7826,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7222,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T13:25:50Z",
-      "latest_at": "2026-10-06T14:19:10.507000Z",
-      "primary_item": {
-        "id": "6c25b6630b5c4256ac31216f468f913d6b760714",
-        "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
-        "url": "https://mistral.ai/news/mistral-large-4",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9e014a3c4af1",
-      "title": "Stacked pull requests generally available",
-      "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
-          "title": "Stacked pull requests generally available",
-          "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T20:16:41Z"
+          "published_at": "2026-10-07T18:01:21Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：Claude (@claudeai)"
       ],
       "items": [
         {
-          "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
-          "title": "Stacked pull requests generally available",
-          "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T20:16:41Z"
+          "id": "6c786561686de448551f4ac828051ffb1cf3cacf",
+          "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
+          "url": "https://x.com/claudeai/status/2107894060229034197",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:01:21Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7973,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T20:16:41Z",
-      "latest_at": "2026-10-06T20:16:41Z",
-      "primary_item": {
-        "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
-        "title": "Stacked pull requests generally available",
-        "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_342677ae7ead",
-      "title": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
-      "url": "https://openai.com/index/jump-trading",
-      "primary_url": "https://openai.com/index/jump-trading",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
-          "title": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
-          "url": "https://openai.com/index/jump-trading",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
-          "title": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
-          "url": "https://openai.com/index/jump-trading",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7074,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T12:00:00Z",
-      "latest_at": "2026-10-06T12:00:00Z",
-      "primary_item": {
-        "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
-        "title": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
-        "url": "https://openai.com/index/jump-trading",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
-      "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
-      "primary_url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
-      "source": "Claude：YouTube（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c540239301bf1b32a1c7a206dc6db87208c2c739",
-          "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
-          "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
-          "source": "Claude：YouTube（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T17:02:37Z"
-        },
-        {
-          "id": "cae906b22b9fa4d487554a8238bfbc1fce2ff39d",
-          "title": "您是专家软件工程师 [Krazam] [视频] / You Are an Expert Software Engineer [Krazam] [video]",
-          "url": "https://www.youtube.com/watch?v=0otdTJa9IUc",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T22:26:29Z"
-        },
-        {
-          "id": "4244b6207dc2252500dd8a7c8b689a19c6c35513",
-          "title": "Show HN: ChatGPT 通过普通 SIM 卡接听电话。无需 Twilio，只需一块 6 美元的 ESP32 芯片",
-          "url": "https://www.youtube.com/watch?v=zIVXu6g8qdY",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T13:48:01.923000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Claude：YouTube（RSS）",
-        "Hacker News · 24h最热",
-        "www.youtube.com"
-      ],
-      "items": [
-        {
-          "id": "c540239301bf1b32a1c7a206dc6db87208c2c739",
-          "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
-          "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
-          "source": "Claude：YouTube（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T17:02:37Z"
-        },
-        {
-          "id": "cae906b22b9fa4d487554a8238bfbc1fce2ff39d",
-          "title": "您是专家软件工程师 [Krazam] [视频] / You Are an Expert Software Engineer [Krazam] [video]",
-          "url": "https://www.youtube.com/watch?v=0otdTJa9IUc",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T22:26:29Z"
-        },
-        {
-          "id": "4244b6207dc2252500dd8a7c8b689a19c6c35513",
-          "title": "Show HN: ChatGPT 通过普通 SIM 卡接听电话。无需 Twilio，只需一块 6 美元的 ESP32 芯片",
-          "url": "https://www.youtube.com/watch?v=zIVXu6g8qdY",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T13:48:01.923000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7609,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T13:48:01.923000Z",
-      "latest_at": "2026-10-06T22:26:29Z",
-      "primary_item": {
-        "id": "c540239301bf1b32a1c7a206dc6db87208c2c739",
-        "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
-        "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
-        "source": "Claude：YouTube（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_43092d6d6065",
-      "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
-      "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
-      "primary_url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
-      "source": "404 Media（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6d37fe2fb1db87f8e31fd7ae89bc86b0e459e4ac",
-          "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
-          "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T19:26:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "404 Media（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6d37fe2fb1db87f8e31fd7ae89bc86b0e459e4ac",
-          "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
-          "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T19:26:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.7445,
+      "importance": 0.7445,
+      "importance_score": 0.7445,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.84,
+        "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7876,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T19:26:09Z",
-      "latest_at": "2026-10-06T19:26:09Z",
-      "primary_item": {
-        "id": "6d37fe2fb1db87f8e31fd7ae89bc86b0e459e4ac",
-        "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
-        "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
-        "source": "404 Media（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_28276ed93094",
-      "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
-      "url": "https://x.com/thexpin/status/2107524306058289533",
-      "primary_url": "https://x.com/thexpin/status/2107524306058289533",
-      "source": "X：X.PIN (@thexpin)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "94c5884fa3bb345a8c1f794d8e09a67a9485ffcd",
-          "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
-          "url": "https://x.com/thexpin/status/2107524306058289533",
-          "source": "X：X.PIN (@thexpin)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T17:32:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：X.PIN (@thexpin)"
-      ],
-      "items": [
-        {
-          "id": "94c5884fa3bb345a8c1f794d8e09a67a9485ffcd",
-          "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
-          "url": "https://x.com/thexpin/status/2107524306058289533",
-          "source": "X：X.PIN (@thexpin)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T17:32:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7663,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T17:32:05Z",
-      "latest_at": "2026-10-06T17:32:05Z",
-      "primary_item": {
-        "id": "94c5884fa3bb345a8c1f794d8e09a67a9485ffcd",
-        "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
-        "url": "https://x.com/thexpin/status/2107524306058289533",
-        "source": "X：X.PIN (@thexpin)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_60ef2af305e7",
-      "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "primary_url": "https://openai.com/index/atlassian-partnership",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
-          "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "url": "https://openai.com/index/atlassian-partnership",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
-          "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "url": "https://openai.com/index/atlassian-partnership",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7495,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T16:00:00Z",
-      "latest_at": "2026-10-06T16:00:00Z",
-      "primary_item": {
-        "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
-        "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-        "url": "https://openai.com/index/atlassian-partnership",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_efe52b80d045",
-      "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾",
-      "url": "https://claude.dev/blog/claude-code-in-the-cloud",
-      "primary_url": "https://claude.dev/blog/claude-code-in-the-cloud",
-      "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "273d73c99464cb7256dd93c7451d2e7d65976d36",
-          "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾",
-          "url": "https://claude.dev/blog/claude-code-in-the-cloud",
-          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Claude.dev 开发者博客（RSS）"
-      ],
-      "items": [
-        {
-          "id": "273d73c99464cb7256dd93c7451d2e7d65976d36",
-          "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾",
-          "url": "https://claude.dev/blog/claude-code-in-the-cloud",
-          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7074,
+        "recency": 0.9883,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-06T12:00:00Z",
-      "latest_at": "2026-10-06T12:00:00Z",
+      "earliest_at": "2026-10-07T18:01:21Z",
+      "latest_at": "2026-10-07T18:01:21Z",
       "primary_item": {
-        "id": "273d73c99464cb7256dd93c7451d2e7d65976d36",
-        "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾",
-        "url": "https://claude.dev/blog/claude-code-in-the-cloud",
-        "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+        "id": "6c786561686de448551f4ac828051ffb1cf3cacf",
+        "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
+        "url": "https://x.com/claudeai/status/2107894060229034197",
+        "source": "X：Claude (@claudeai)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5d9e73b2647b",
-      "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
-      "url": "https://x.com/arena/status/2107717155374727602",
-      "primary_url": "https://x.com/arena/status/2107717155374727602",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "98a54ceab16397206eb29f21fd3ba89a3afaad15",
-          "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
-          "url": "https://x.com/arena/status/2107717155374727602",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T06:18:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "98a54ceab16397206eb29f21fd3ba89a3afaad15",
-          "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
-          "url": "https://x.com/arena/status/2107717155374727602",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T06:18:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9215,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-07T06:18:23Z",
-      "latest_at": "2026-10-07T06:18:23Z",
-      "primary_item": {
-        "id": "98a54ceab16397206eb29f21fd3ba89a3afaad15",
-        "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
-        "url": "https://x.com/arena/status/2107717155374727602",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f2c9898c912c",
-      "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says ‘no AI’ is now a software feature",
-      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
-      "primary_url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "476e6b2de47c3ca196f15a5ee3c4d8c835d0fbea",
-          "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says ‘no AI’ is now a software feature",
-          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-06T15:25:00Z"
-        },
-        {
-          "id": "04042a191b2faf900e3cde9dd7325262638f7c38",
-          "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says 'no AI' is now a software feature",
-          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T16:40:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "476e6b2de47c3ca196f15a5ee3c4d8c835d0fbea",
-          "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says ‘no AI’ is now a software feature",
-          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-06T15:25:00Z"
-        },
-        {
-          "id": "04042a191b2faf900e3cde9dd7325262638f7c38",
-          "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says 'no AI' is now a software feature",
-          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T16:40:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6025,
-      "importance": 0.6025,
-      "importance_score": 0.6025,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7432,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-06T15:25:00Z",
-      "latest_at": "2026-10-06T16:40:58Z",
-      "primary_item": {
-        "id": "476e6b2de47c3ca196f15a5ee3c4d8c835d0fbea",
-        "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says ‘no AI’ is now a software feature",
-        "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_50e357203d2a",
-      "title": "维基媒体项目中发现 OpenAI“流氓”代理活动 / OpenAI “rogue” agent activities found on Wikimedia projects",
-      "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia",
-      "primary_url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia",
-      "source": "Simon Willison",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "f4eabed32a0c0da8ffe335e188ebe50ba2b23b40",
-          "title": "维基媒体项目中发现 OpenAI“流氓”代理活动 / OpenAI “rogue” agent activities found on Wikimedia projects",
-          "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-07T00:16:45Z"
-        },
-        {
-          "id": "5809612693b4544f40c88792282fc8b38fb964fc",
-          "title": "维基媒体项目中发现 OpenAI「流氓」代理活动 / OpenAI「rogue」agent activities found on Wikimedia projects",
-          "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "Simon Willison"
-      ],
-      "items": [
-        {
-          "id": "f4eabed32a0c0da8ffe335e188ebe50ba2b23b40",
-          "title": "维基媒体项目中发现 OpenAI“流氓”代理活动 / OpenAI “rogue” agent activities found on Wikimedia projects",
-          "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-07T00:16:45Z"
-        },
-        {
-          "id": "5809612693b4544f40c88792282fc8b38fb964fc",
-          "title": "维基媒体项目中发现 OpenAI「流氓」代理活动 / OpenAI「rogue」agent activities found on Wikimedia projects",
-          "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5824,
-      "importance": 0.5824,
-      "importance_score": 0.5824,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.8447,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-07T00:16:45Z",
-      "latest_at": "2026-10-07T05:29:10.668369Z",
-      "primary_item": {
-        "id": "f4eabed32a0c0da8ffe335e188ebe50ba2b23b40",
-        "title": "维基媒体项目中发现 OpenAI“流氓”代理活动 / OpenAI “rogue” agent activities found on Wikimedia projects",
-        "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia",
-        "source": "Simon Willison",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_dabfa79f68b8",
-      "title": "人工智能现已具备自主开发推理硬件的能力",
-      "url": "https://github.com/FeSens/openTPU",
-      "primary_url": "https://github.com/FeSens/openTPU",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3ede777bc6d0b520f5ec5d83137837e17d982673",
-          "title": "人工智能现已具备自主开发推理硬件的能力",
-          "url": "https://github.com/FeSens/openTPU",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T18:01:39.389000Z"
-        },
-        {
-          "id": "877792e418fbd125a9760b281187aa7a73e044b1",
-          "title": "人工智能现已具备自主开发推理硬件的能力 / AI is now capable of developing its own inference hardware",
-          "url": "https://github.com/FeSens/openTPU",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-06T16:23:25Z"
-        },
-        {
-          "id": "0037790cff8d48387ebf03de29405516e8ea6128",
-          "title": "人工智能现在能够开发自己的推理硬件 / AI is now capable of developing its own inference hardware",
-          "url": "https://news.ycombinator.com/item?id=49980715",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T16:23:25Z"
-        },
-        {
-          "id": "731d73c763c63e5b5ecfa6fdbc9e0a62d06c3d38",
-          "title": "人工智能现已具备自主开发推理硬件的能力 / OpenTPU – An open-source AI accelerator, developed by AI",
-          "url": "https://github.com/FeSens/openTPU",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-06T16:23:25Z"
-        },
-        {
-          "id": "c5bb1d457e33ae23c569768bcaff837dd8bd1191",
-          "title": "OpenTPU – 开源人工智能加速器，由 AI 开发 / OpenTPU – An open-source AI accelerator, developed by AI",
-          "url": "https://news.ycombinator.com/item?id=49980715",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T16:23:25Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3ede777bc6d0b520f5ec5d83137837e17d982673",
-          "title": "人工智能现已具备自主开发推理硬件的能力",
-          "url": "https://github.com/FeSens/openTPU",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T18:01:39.389000Z"
-        },
-        {
-          "id": "877792e418fbd125a9760b281187aa7a73e044b1",
-          "title": "人工智能现已具备自主开发推理硬件的能力 / AI is now capable of developing its own inference hardware",
-          "url": "https://github.com/FeSens/openTPU",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-06T16:23:25Z"
-        },
-        {
-          "id": "0037790cff8d48387ebf03de29405516e8ea6128",
-          "title": "人工智能现在能够开发自己的推理硬件 / AI is now capable of developing its own inference hardware",
-          "url": "https://news.ycombinator.com/item?id=49980715",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T16:23:25Z"
-        },
-        {
-          "id": "731d73c763c63e5b5ecfa6fdbc9e0a62d06c3d38",
-          "title": "人工智能现已具备自主开发推理硬件的能力 / OpenTPU – An open-source AI accelerator, developed by AI",
-          "url": "https://github.com/FeSens/openTPU",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-06T16:23:25Z"
-        },
-        {
-          "id": "c5bb1d457e33ae23c569768bcaff837dd8bd1191",
-          "title": "OpenTPU – 开源人工智能加速器，由 AI 开发 / OpenTPU – An open-source AI accelerator, developed by AI",
-          "url": "https://news.ycombinator.com/item?id=49980715",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T16:23:25Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5797,
-      "importance": 0.5797,
-      "importance_score": 0.5797,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7718,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-06T16:23:25Z",
-      "latest_at": "2026-10-06T18:01:39.389000Z",
-      "primary_item": {
-        "id": "3ede777bc6d0b520f5ec5d83137837e17d982673",
-        "title": "人工智能现已具备自主开发推理硬件的能力",
-        "url": "https://github.com/FeSens/openTPU",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_86340792f978",
-      "title": "Erdosproblems.com 难敌人工智能的猛攻",
-      "url": "https://www.erdosproblems.com/forum/thread/blog:9",
-      "primary_url": "https://www.erdosproblems.com/forum/thread/blog:9",
-      "source": "www.erdosproblems.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2ab60b9f427bfd62f143facdbb386807c7c1fe57",
-          "title": "Erdosproblems.com 难敌人工智能的猛攻",
-          "url": "https://www.erdosproblems.com/forum/thread/blog:9",
-          "source": "www.erdosproblems.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-07T07:26:00.436000Z"
-        },
-        {
-          "id": "b4583ae5ea2f87b762ed259d4873e4e3faf186ed",
-          "title": "Erdosproblems.com 难敌人工智能的猛攻 / Erdosproblems.com Succumbs to the AI Onslaught",
-          "url": "https://www.erdosproblems.com/forum/thread/blog:9",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T12:53:58Z"
-        },
-        {
-          "id": "ebb58990df77031c3411dcf4cd4c7744e101ef3a",
-          "title": "Erdosproblems.com 屈服于人工智能的攻击 / Erdosproblems.com Succumbs to the AI Onslaught",
-          "url": "https://news.ycombinator.com/item?id=49977689",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T12:53:58Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.erdosproblems.com"
-      ],
-      "items": [
-        {
-          "id": "2ab60b9f427bfd62f143facdbb386807c7c1fe57",
-          "title": "Erdosproblems.com 难敌人工智能的猛攻",
-          "url": "https://www.erdosproblems.com/forum/thread/blog:9",
-          "source": "www.erdosproblems.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-07T07:26:00.436000Z"
-        },
-        {
-          "id": "b4583ae5ea2f87b762ed259d4873e4e3faf186ed",
-          "title": "Erdosproblems.com 难敌人工智能的猛攻 / Erdosproblems.com Succumbs to the AI Onslaught",
-          "url": "https://www.erdosproblems.com/forum/thread/blog:9",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T12:53:58Z"
-        },
-        {
-          "id": "ebb58990df77031c3411dcf4cd4c7744e101ef3a",
-          "title": "Erdosproblems.com 屈服于人工智能的攻击 / Erdosproblems.com Succumbs to the AI Onslaught",
-          "url": "https://news.ycombinator.com/item?id=49977689",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T12:53:58Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5594,
-      "importance": 0.5594,
-      "importance_score": 0.5594,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9366,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-06T12:53:58Z",
-      "latest_at": "2026-10-07T07:26:00.436000Z",
-      "primary_item": {
-        "id": "2ab60b9f427bfd62f143facdbb386807c7c1fe57",
-        "title": "Erdosproblems.com 难敌人工智能的猛攻",
-        "url": "https://www.erdosproblems.com/forum/thread/blog:9",
-        "source": "www.erdosproblems.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_627d31f34b3a",
-      "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
-      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
-      "primary_url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
-      "source": "www.techspot.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1d2a7b0e3e2023eee125cf494cac68ad4947c114",
-          "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
-          "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
-          "source": "www.techspot.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-07T04:32:45.585000Z"
-        },
-        {
-          "id": "f5e61414f93e1de3c2ac654b9a30b9e298370985",
-          "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方 / Utah to let AI examine patients and prescribe medication without human oversight",
-          "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T17:01:52Z"
-        },
-        {
-          "id": "479ddf296f35835bfe75204a609e1fde35fbd22e",
-          "title": "犹他州将让人工智能在无人监督的情况下检查患者并开药 / Utah to let AI examine patients and prescribe medication without human oversight",
-          "url": "https://news.ycombinator.com/item?id=49981197",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T17:01:52Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.techspot.com"
-      ],
-      "items": [
-        {
-          "id": "1d2a7b0e3e2023eee125cf494cac68ad4947c114",
-          "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
-          "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
-          "source": "www.techspot.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-07T04:32:45.585000Z"
-        },
-        {
-          "id": "f5e61414f93e1de3c2ac654b9a30b9e298370985",
-          "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方 / Utah to let AI examine patients and prescribe medication without human oversight",
-          "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T17:01:52Z"
-        },
-        {
-          "id": "479ddf296f35835bfe75204a609e1fde35fbd22e",
-          "title": "犹他州将让人工智能在无人监督的情况下检查患者并开药 / Utah to let AI examine patients and prescribe medication without human oversight",
-          "url": "https://news.ycombinator.com/item?id=49981197",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T17:01:52Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5525,
-      "importance": 0.5525,
-      "importance_score": 0.5525,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8984,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-06T17:01:52Z",
-      "latest_at": "2026-10-07T04:32:45.585000Z",
-      "primary_item": {
-        "id": "1d2a7b0e3e2023eee125cf494cac68ad4947c114",
-        "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
-        "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
-        "source": "www.techspot.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a91d48e8a913",
-      "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
-      "url": "https://penguin-mail.com",
-      "primary_url": "https://penguin-mail.com",
-      "source": "penguin-mail.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "8ae6c107b4a091bb41a84ca2be3e2d0b27176237",
-          "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
-          "url": "https://penguin-mail.com",
-          "source": "penguin-mail.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-07T03:59:52.382000Z"
-        },
-        {
-          "id": "e615b542dbf4a64d5eea07dd0a05122819da4f7c",
-          "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能 / Penguin Mail – open-source Rust email client for Linux with AI",
-          "url": "https://penguin-mail.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-06T21:59:43Z"
-        },
-        {
-          "id": "d4ea091e5aff571c131f685fd6b011d10381eb70",
-          "title": "Penguin Mail – 适用于 Linux 且具有 AI 功能的开源 Rust 电子邮件客户端 / Penguin Mail – open-source Rust email client for Linux with AI",
-          "url": "https://news.ycombinator.com/item?id=49984716",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T21:59:43Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "penguin-mail.com"
-      ],
-      "items": [
-        {
-          "id": "8ae6c107b4a091bb41a84ca2be3e2d0b27176237",
-          "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
-          "url": "https://penguin-mail.com",
-          "source": "penguin-mail.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-07T03:59:52.382000Z"
-        },
-        {
-          "id": "e615b542dbf4a64d5eea07dd0a05122819da4f7c",
-          "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能 / Penguin Mail – open-source Rust email client for Linux with AI",
-          "url": "https://penguin-mail.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-06T21:59:43Z"
-        },
-        {
-          "id": "d4ea091e5aff571c131f685fd6b011d10381eb70",
-          "title": "Penguin Mail – 适用于 Linux 且具有 AI 功能的开源 Rust 电子邮件客户端 / Penguin Mail – open-source Rust email client for Linux with AI",
-          "url": "https://news.ycombinator.com/item?id=49984716",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T21:59:43Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5512,
-      "importance": 0.5512,
-      "importance_score": 0.5512,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8913,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-06T21:59:43Z",
-      "latest_at": "2026-10-07T03:59:52.382000Z",
-      "primary_item": {
-        "id": "8ae6c107b4a091bb41a84ca2be3e2d0b27176237",
-        "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
-        "url": "https://penguin-mail.com",
-        "source": "penguin-mail.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d91a0bf6136d",
-      "title": "manaflow-ai / cmux",
-      "url": "https://github.com/manaflow-ai/cmux",
-      "primary_url": "https://github.com/manaflow-ai/cmux",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "2336d2ed9ee9da0c0a6634166961e8e5d36db928",
-          "title": "manaflow-ai / cmux",
-          "url": "https://github.com/manaflow-ai/cmux",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0453e1bac732084ac0564f5b5737491407305604",
-          "title": "manaflow-ai /      cmux",
-          "url": "https://github.com/manaflow-ai/cmux",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-07T11:32:00.310000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "2336d2ed9ee9da0c0a6634166961e8e5d36db928",
-          "title": "manaflow-ai / cmux",
-          "url": "https://github.com/manaflow-ai/cmux",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0453e1bac732084ac0564f5b5737491407305604",
-          "title": "manaflow-ai /      cmux",
-          "url": "https://github.com/manaflow-ai/cmux",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-07T11:32:00.310000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-07T11:32:00.310000Z",
-      "latest_at": "2026-10-07T11:58:01.205116Z",
-      "primary_item": {
-        "id": "2336d2ed9ee9da0c0a6634166961e8e5d36db928",
-        "title": "manaflow-ai / cmux",
-        "url": "https://github.com/manaflow-ai/cmux",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
       }
     }
   ]
