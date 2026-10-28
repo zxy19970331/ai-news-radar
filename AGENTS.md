@@ -14,6 +14,7 @@ GitHub Actions refresh jobs, and GitHub Pages publishing.
 - Do not commit `feeds/follow.opml`; use `feeds/follow.example.opml` as the public template.
 - Prefer stable public RSS/Atom/OPML sources before adding custom scrapers.
 - Keep the reader-facing product simple: default to a curated AI-focused view, hide noisy or advanced source details behind existing filters/docs.
+- Avoid unnecessary secondary labels and descriptions. Let the layout do the explaining.
 
 ## Source Strategy
 
